@@ -28,6 +28,9 @@ Travail avec Pytest.
 
 Travail avec conllup.
 
+env_stage = pour coref (spaCy 3.1, + fixes avec requirement. Lancer avec vscode)
+base ou env_NER = pour NER spaCy (3.7 + NER)
+
 <br>
 
 ### LOGS :
@@ -98,4 +101,36 @@ _____________________________________________________________________________
 - Prendre en main la bibliothèque conllup
 
 - Prendre en main Pytest
+
+-------------------------------------------------------------------------------
+### 17 MAI :
+<u> FAIT </u>
+
+- check up avec Santiago
+
+- échange avec Loïc -> rencontre avec Santiago à venir
+
+- expérimentation avec conllup
+
+- installation de coreferee pour annoter les chaines de coréférence avec spacy.
+
+- Adaptation de l'environnement virtuel env_stage pour prendre en compte les requirements de spacy 3.1 et des modèles compatibles (le fichier requirements est sur le github) : vscode compatible
+
+- création d'un environnement virtuel séparé pour l'annotation automatique des entités nommées par spacy (3.7 et modèles compatibles. 3.1 est bien moins performant sur les entités nommées après de simples essais) : spyder compatible
+
+- essai réussi avec un premier script d'entrainement pour annoter des phrases test avec ses chaines de coréférences ou ses entités nommées
+
+<u> A FAIRE </u>
+
+- Pytest
+
+- faire les essais à partir d'un fichier conll
+
+- débrayage temporaire : Santiago en conférence
+
+- regarder la structuration données de wolf et eurowordnet
+
+-----------------------------------------------------------------------------
+
+
 
