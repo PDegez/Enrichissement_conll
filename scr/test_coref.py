@@ -10,9 +10,9 @@ import spacy
 nlp = spacy.load('fr_core_news_lg')
 nlp.add_pipe('coreferee')
 
-# doc = nlp("Même si elle était très occupée par son travail, Julie en avait marre. Alors, elle et son mari décidèrent qu'ils avaient besoin de vacances. Ils allèrent en Espagne car ils adoraient le pays")
+doc = nlp("Même si elle était très occupée par son travail, Julie en avait marre. Alors, elle et son mari décidèrent qu'ils avaient besoin de vacances. Ils allèrent en Espagne car ils adoraient le pays")
 
-doc = nlp("Ils ne citent pas son nom, parce que depuis les institutions on n'attaque pas un membre de la famille royale, mais c'est à lui qu'ils s'en prennent.")
+#doc = nlp("Ils ne citent pas son nom, parce que depuis les institutions on n'attaque pas un membre de la famille royale, mais c'est à lui qu'ils s'en prennent.")
 
 plop = doc._.coref_chains
 # for nb_chaine in range(len(plop)) :
@@ -26,7 +26,13 @@ plop = doc._.coref_chains
 #         for index in token :
 #             print(index)
 plop.print()
+#print(plop.__repr__())
 chaines = []
 for chaine in iter(plop):
-    essai = [index[0] if len(index) == 1 else index for index in iter(chaine)]
-    print(essai)
+    #print(chaine.pretty_representation)
+    indexes_coref= [index[0] 
+    if len(index) == 1 
+        else sous_index for index in chaine 
+        for sous_index in (
+        index if len(index) > 1 else [index])]
+    print(indexes_coref)
