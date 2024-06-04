@@ -132,5 +132,25 @@ _____________________________________________________________________________
 
 -----------------------------------------------------------------------------
 
+### 31 mai
 
+<u> FAIT </u>
+
+- master script + scripts secondaires (fonctions et datastructures)
+
+- annotation fonctionnelle pour entité nommées et coreference avec spacy sur un fichier conll de 1000 entrées
+
+- RDV avec Santiago et Sylvain :
+
+    - probleme dans les annotations (spacy = pas super)
+
+    - Annotation de GUM et Anchora encore un peu flou
+
+<u> A FAIRE </u>
+
+- changement potentiel d'objectif : annoter le caractère humain vs non humain des éléments nominaux avec deux méthodes (valence du verbe et embeddings ou coref ?)
+
+- essayer de comprendre de plus près l'annotation de coreference de GUM et ANCHORA
+
+- RDV avec Santiago mardi pour essayer de redéfinir une trajectoire
 
