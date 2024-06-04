@@ -1,1 +1,5 @@
 /__pycache__/
+/scr/__pycache__/
+/scr/meilleur.py
+/scr/path.py
+/scr/test_version_spacy.py
