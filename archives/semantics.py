@@ -43,33 +43,57 @@ def add_nents(nents:list, analysis_conll:dict, sentence_conll:list)->list:
                         start,
                         end_slice))
                 
-                def sentence_w_nents(nents_w_index:list, analysis_conll:dict)->list:
-                    """ inject the NER analysis from spaCy into the input conll file
+    # def sentence_w_nents(nents_w_index:list, analysis_conll:dict)->list:
+    #                 """ inject the NER analysis from spaCy into the input conll file
                     
-                    Parameters :
-                    ----------
-                    nents_w_index : list
-                        list of named entities and their indexes (object nent)
-                    analysis_conll : list
-                        list of token, extracted from the input conll file
+    #                 Parameters :
+    #                 ----------
+    #                 nents_w_index : list
+    #                     list of named entities and their indexes (object nent)
+    #                 analysis_conll : list
+    #                     list of token, extracted from the input conll file
                         
-                    Returns :
-                    ----------
-                    analysis_conll : list
-                        list of tokens with the nents labels added
-                    """
+    #                 Returns :
+    #                 ----------
+    #                 analysis_conll : list
+    #                     list of tokens with the nents labels added
+    #                 """
                     
-                    if nents_w_index:
-                        for entity in nents_w_index:
-                            for token_i in analysis_conll.keys():
-                                 if int(token_i) in range(entity.start+1, entity.end+1):
-                                     analysis_conll[token_i]["MISC"]["NENT"] = str(
-                                         entity.label)
+    #     if nents_w_index:
+    #         for entity in nents_w_index:
+    #             for token_i in analysis_conll.keys():
+    #                 if int(token_i) in range(entity.start+1, entity.end+1):
+    #                     analysis_conll[token_i]["MISC"]["NENT"] = str(
+    #                         entity.label)
                             
-                    return analysis_conll
+    # return analysis_conll
                     
     return sentence_w_nents(nents_w_index, sentence_conll)
 
+def sentence_w_nents(nents_w_index:list, analysis_conll:dict)->list:
+    """ inject the NER analysis from spaCy into the input conll file
+
+    Parameters :
+    ----------
+    nents_w_index : list
+    list of named entities and their indexes (object nent)
+    analysis_conll : list
+    list of token, extracted from the input conll file
+    
+    Returns :
+    ----------
+    analysis_conll : list
+    list of tokens with the nents labels added
+    """
+                    
+    if nents_w_index:
+        for entity in nents_w_index:
+            for token_i in analysis_conll.keys():
+                if int(token_i) in range(entity.start+1, entity.end+1):
+                    analysis_conll[token_i]["MISC"]["NENT"] = str(
+                        entity.label)
+                            
+    return analysis_conll
 
 # def add_coreferee(chains, analysis_conll, sentence_conll):
     

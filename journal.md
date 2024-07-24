@@ -154,3 +154,47 @@ _____________________________________________________________________________
 
 - RDV avec Santiago mardi pour essayer de redéfinir une trajectoire
 
+--------------------------------------------------------------------------------
+
+### 4 JUIN
+
+<u> FAIT </u>
+
+- relecture guide d'annotation de GUM et ANCORA pour la coreference.
+
+- RDV avec Santiago
+
+<u> A FAIRE <\u>
+
+Nouvelle feuille de route :
+- continuer sur la coréférence (essayer sur des textes, et Santiago contacte Loic à côté)
+- annoter les classes sémantiques (animés non animé) à partir de :
+    - la valence du verbe : voir dicovalence (voir mails)
+    - le lexique nominal : atilf (réseau lexical du fr. VOIR MAILS)
+- travail sur les embeddings
+
+--------------------------------------------------------------------------------
+
+### 11 JUIN
+
+semaine compliquée (post-op : grosse fatigue)
+
+<u> FAIT <\u>
+
+- test spaCy coreferee sur le corpus parisstories : résultats assez nazes
+
+- récupération de atlif
+    - CSV 01-lsnodes = csv des entités avec id unique (ls:fr:node:XXXXX) frère, grand-frère et petit-frère sont ramenés à une même entrée sémantique
+    - CSV 02-lsentries = csv des entrées sémantiques (unique)
+    - xml : 09-lssemlabel-model.xml = liste des classes sémantiques et de leurs sous-classes
+    - xml : 10-lssemlabel-rel.xml = liste des entrées et leurs catégories sémantiques
+
+<u> A FAIRE <\u>
+
+focus sur atlif spiderlex:
+
+- résupérer les numéros des sous-classes êtres animés par le fichier xml model (09)
+
+- à partir de ces codes, récupérer un lexique de nom animés
+
+- le comparer au lexique conll
