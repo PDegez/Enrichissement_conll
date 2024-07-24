@@ -28,14 +28,20 @@ def clean_up(sentence_nodes):
     for token in sentence_nodes:
         if str(sentence_nodes[token]["MISC"].get("HUM_SCORE")) == "0":
             del sentence_nodes[token]["MISC"]["HUM_SCORE"]
-        else:
-            sentence_nodes[token]["MISC"]["animacy"] = "hum"
-        if sentence_nodes[token]["MISC"].get("HUM_SCORE"):
+        if sentence_nodes[token]["MISC"].get("HUM_SCORE", 0):
             if str(sentence_nodes[token]["MISC"].get("NENT")) == "PER":
                 if sentence_nodes[token]["DEPREL"] == "flat@name":
                     del sentence_nodes[token]["MISC"]["HUM_SCORE"]
+        if sentence_nodes[token]["MISC"].get("HUM_SCORE", 0):
             if str(sentence_nodes[token]["FEATS"].get("PronType")) == "Rel":
                 del sentence_nodes[token]["MISC"]["HUM_SCORE"]
+        if sentence_nodes[token]["MISC"].get("HUM_SCORE", 0):
+            head = str(sentence_nodes[token]["HEAD"])
+            if head != "0":
+                if str(sentence_nodes[head]["LEMMA"]) == "monsieur":
+                    if sentence_nodes[head]["MISC"].get("HUM_SCORE"):
+                        del sentence_nodes[token]["MISC"]["HUM_SCORE"]
+                        
                     
     return sentence_nodes
 
