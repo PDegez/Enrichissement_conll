@@ -1,0 +1,372 @@
+id_sentence_conll,index_phrase,index_token,form,lemma,score,annotateur1,annotateur2,phrase
+emea-fr-dev_00005,4,8,public,public,1,y,y,Résumé EPAR à l'intention du public
+emea-fr-dev_00007,6,5,comité,comité,5,y,y,Il explique comment le comité des médicaments à usage humain (CHMP) a évalué les études réalisées afin d'aboutir à ses recommandations relatives aux conditions d'utilisation du médicament.
+emea-fr-dev_00008,7,26,médecin,médecin,5,y,y,"Pour plus d'informations sur votre condition ou votre traitement, veuillez consulter la notice (également comprise dans l'EPAR) ou contacter votre médecin ou votre pharmacien."
+emea-fr-dev_00008,7,29,pharmacien,pharmacien,11,y,y,"Pour plus d'informations sur votre condition ou votre traitement, veuillez consulter la notice (également comprise dans l'EPAR) ou contacter votre médecin ou votre pharmacien."
+emea-fr-dev_00009,8,2,vous,vous,5,y,y,"Si vous souhaitez davantage d'informations sur la base des recommandations du CHMP, veuillez lire la discussion scientifique (également comprise dans l'EPAR)."
+emea-fr-dev_00010,9,5,Angiox,Angiox,2,n,y,Qu'est-ce que Angiox ?
+emea-fr-dev_00011,10,1,Angiox,Angiox,2,n,y,Angiox est une poudre blanche à reconstituer en solution injectable ou pour perfusion (goutte à goutte dans une veine).
+emea-fr-dev_00013,12,4,Angiox,Angiox,2,n,y,Dans quel cas Angiox est-il utilisé ?
+emea-fr-dev_00014,13,1,Angiox,Angiox,2,n,y,"Angiox est utilisé pour traiter les patients adultes souffrant de ""syndrome coronaire aigu"" (SCA, réduction du flux sanguin vers le coeur), comme un angor instable (douleurs thoraciques de gravité variable) ou un infarctus du myocarde (crise cardiaque) sans ""sus-décalage du segment ST"" (relevé anormal à l'électrocardiogramme ou ECG)."
+emea-fr-dev_00014,13,7,patients,patient,1,y,y,"Angiox est utilisé pour traiter les patients adultes souffrant de ""syndrome coronaire aigu"" (SCA, réduction du flux sanguin vers le coeur), comme un angor instable (douleurs thoraciques de gravité variable) ou un infarctus du myocarde (crise cardiaque) sans ""sus-décalage du segment ST"" (relevé anormal à l'électrocardiogramme ou ECG)."
+emea-fr-dev_00015,14,24,patients,patient,1,y,y,"Il est utilisé en conjonction avec de l'aspirine et du clopidogel (médicaments contribuant à prévenir les caillots sanguins) chez les patients sur le point de subir un traitement pour leur SCA, comme un traitement médicamenteux, subissant une angioplastie ou un pontage coronarien."
+emea-fr-dev_00017,16,1,Angiox,Angiox,2,n,y,Angiox est aussi utilisé pour prévenir la formation de caillots sanguins chez les patients qui vont subir une ICP.
+emea-fr-dev_00017,16,14,patients,patient,1,y,y,Angiox est aussi utilisé pour prévenir la formation de caillots sanguins chez les patients qui vont subir une ICP.
+emea-fr-dev_00019,18,2,Angiox,Angiox,2,n,y,Comment Angiox est-il utilisé ?
+emea-fr-dev_00020,19,1,Angiox,Angiox,2,n,y,Angiox est prévu pour un usage par voie intraveineuse (dans une veine).
+emea-fr-dev_00021,20,7,médecin,médecin,1,y,y,Il doit être prescrit par un médecin ayant l'expérience des prises en charge urgentes de patients souffrant de problèmes cardiaques ou des interventions sur le coeur.
+emea-fr-dev_00021,20,18,patients,patient,1,y,y,Il doit être prescrit par un médecin ayant l'expérience des prises en charge urgentes de patients souffrant de problèmes cardiaques ou des interventions sur le coeur.
+emea-fr-dev_00022,21,4,Angiox,Angiox,2,n,y,La dose d'Angiox et la durée du traitement dépendent des motifs de son utilisation.
+emea-fr-dev_00024,23,21,elle,lui,4,n,y,"Pour les SCA, la durée de la perfusion dépend de la manière dont le SCA doit être traité : elle peut durer jusqu'à 72 heures au maximum chez les patients devant recevoir des médicaments."
+emea-fr-dev_00024,23,33,patients,patient,1,y,y,"Pour les SCA, la durée de la perfusion dépend de la manière dont le SCA doit être traité : elle peut durer jusqu'à 72 heures au maximum chez les patients devant recevoir des médicaments."
+emea-fr-dev_00025,24,14,patients,patient,1,y,y,"Lorsqu'il est utilisé pour prévenir la formation de caillots sanguins chez les patients subissant une ICP, une dose plus élevée d'Angiox est utilisée, et la perfusion peut être poursuivie jusqu'à quatre heures après la procédure."
+emea-fr-dev_00025,24,30,perfusion,perfusion,4,n,y,"Lorsqu'il est utilisé pour prévenir la formation de caillots sanguins chez les patients subissant une ICP, une dose plus élevée d'Angiox est utilisée, et la perfusion peut être poursuivie jusqu'à quatre heures après la procédure."
+emea-fr-dev_00026,25,10,patients,patient,1,y,y,Les doses de perfusion doivent être réduites chez les patients ayant des problèmes rénaux subissant une ICP.
+emea-fr-dev_00027,26,1,Angiox,Angiox,2,n,y,Angiox ne doit pas être utilisé chez les patients qui présentent des problèmes rénaux aigus.
+emea-fr-dev_00027,26,9,patients,patient,1,y,y,Angiox ne doit pas être utilisé chez les patients qui présentent des problèmes rénaux aigus.
+emea-fr-dev_00029,28,2,Angiox,Angiox,6,n,y,Comment Angiox agit-il ?
+emea-fr-dev_00030,29,2,coagulation,coagulation,4,n,y,La coagulation sanguine peut poser un problème en cas de perturbation du flux sanguin.
+emea-fr-dev_00031,30,1,Angiox,Angiox,2,n,y,Angiox est un anticoagulant ;
+emea-fr-dev_00032,31,4,sang,sang,4,n,y,il empêche le sang de coaguler (formation de caillots).
+emea-fr-dev_00033,32,7,Angiox,Angiox,2,n,y,"La bivalirudine, principe actif de Angiox, est une substance synthétique dérivée de l'hirudine, la substance anticoagulante produite par les sangsues."
+emea-fr-dev_00035,34,1,Celle-ci,celui-ci,4,n,y,Celle-ci se trouve au centre des processus complexes de la coagulation sanguine.
+emea-fr-dev_00036,35,3,Angiox,Angiox,2,n,y,"En utilisant Angiox durant le SCA ou l'ICP, le risque de formation de caillots sanguins est considérablement réduit."
+emea-fr-dev_00037,36,1,Ceci,ceci,4,n,y,Ceci peut contribuer à maintenir le flux sanguin vers le coeur chez les patients atteints d'angor ou d'une crise cardiaque et à améliorer l'efficacité de leur ICP.
+emea-fr-dev_00037,36,14,patients,patient,1,y,y,Ceci peut contribuer à maintenir le flux sanguin vers le coeur chez les patients atteints d'angor ou d'une crise cardiaque et à améliorer l'efficacité de leur ICP.
+emea-fr-dev_00038,37,7,Angiox,Angiox,2,n,y,Quelles études ont été menées avec Angiox ?
+emea-fr-dev_00039,38,1,Angiox,Angiox,2,n,y,Angiox a été étudié chez plus de 20 000 patients.
+emea-fr-dev_00039,38,9,patients,patient,1,y,y,Angiox a été étudié chez plus de 20 000 patients.
+emea-fr-dev_00040,39,9,étude,étude,4,n,y,"Pour le traitement des SCA, l'étude principale a porté sur près de 14 000 patients et a comparé l'efficacité de Angiox, pris seul ou avec un inhibiteur de la glycoprotéine IIb/IIIa (inhibiteur de GP, un autre type de médicament contribuant à prévenir la formation de caillots), avec le traitement standard en combinaison avec de l'héparine (un autre anticoagulant) et un inhibiteur de GP."
+emea-fr-dev_00040,39,17,patients,patient,1,y,y,"Pour le traitement des SCA, l'étude principale a porté sur près de 14 000 patients et a comparé l'efficacité de Angiox, pris seul ou avec un inhibiteur de la glycoprotéine IIb/IIIa (inhibiteur de GP, un autre type de médicament contribuant à prévenir la formation de caillots), avec le traitement standard en combinaison avec de l'héparine (un autre anticoagulant) et un inhibiteur de GP."
+emea-fr-dev_00040,39,24,Angiox,Angiox,2,n,y,"Pour le traitement des SCA, l'étude principale a porté sur près de 14 000 patients et a comparé l'efficacité de Angiox, pris seul ou avec un inhibiteur de la glycoprotéine IIb/IIIa (inhibiteur de GP, un autre type de médicament contribuant à prévenir la formation de caillots), avec le traitement standard en combinaison avec de l'héparine (un autre anticoagulant) et un inhibiteur de GP."
+emea-fr-dev_00041,40,3,patients,patient,1,y,y,"Tous les patients ont également reçu de l'aspirine, avec ou sans clopidogrel."
+emea-fr-dev_00042,41,4,Angiox,Angiox,2,n,y,L'efficacité d'Angiox en tant qu'anticoagulant utilisé dans l'ICP a été étudiée chez plus de 6 000 patients.
+emea-fr-dev_00042,41,20,patients,patient,1,y,y,L'efficacité d'Angiox en tant qu'anticoagulant utilisé dans l'ICP a été étudiée chez plus de 6 000 patients.
+emea-fr-dev_00043,42,1,Angiox,Angiox,2,n,y,Angiox a été comparé à l'héparine.
+emea-fr-dev_00044,43,27,patients,patient,1,y,y,"Durant l'ICP, un stent (petit tube qui reste dans l'artère afin d'en empêcher la fermeture) est souvent posé chez les patients et d'autres anticoagulants sont également administrés, comme l'abciximab, l'aspirine."
+emea-fr-dev_00046,45,7,Angiox,Angiox,2,n,y,Quel est le bénéfice démontré par Angiox au cours des études ?
+emea-fr-dev_00047,46,1,Angiox,Angiox,2,n,y,Angiox s'est avéré aussi efficace que les traitements auxquels il a été comparé.
+emea-fr-dev_00049,48,1,Angiox,Angiox,2,n,y,Angiox a été le plus efficace chez les patients ayant également reçu de l'aspirine et du clopidogrel.
+emea-fr-dev_00049,48,9,patients,patient,1,y,y,Angiox a été le plus efficace chez les patients ayant également reçu de l'aspirine et du clopidogrel.
+emea-fr-dev_00050,49,2,patients,patient,1,y,y,Les patients ayant reçu Angiox sans inhibiteur de GP ont également présenté un taux d'hémorragies inférieur après 30 jours et après un an.
+emea-fr-dev_00050,49,5,Angiox,Angiox,2,n,y,Les patients ayant reçu Angiox sans inhibiteur de GP ont également présenté un taux d'hémorragies inférieur après 30 jours et après un an.
+emea-fr-dev_00051,50,3,patients,patient,1,y,y,"Chez les patients subissant un ICP, Angiox s'est montré aussi efficace que l'héparine pour toutes les mesures, excepté en ce qui concerne le saignement majeur, pour lequel il s'est révélé nettement meilleur (niveau de saignement inférieur) que l'héparine."
+emea-fr-dev_00051,50,8,Angiox,Angiox,6,n,y,"Chez les patients subissant un ICP, Angiox s'est montré aussi efficace que l'héparine pour toutes les mesures, excepté en ce qui concerne le saignement majeur, pour lequel il s'est révélé nettement meilleur (niveau de saignement inférieur) que l'héparine."
+emea-fr-dev_00052,51,10,Angiox,Angiox,2,n,y,Quel est le risque associé à l'utilisation de Angiox ?
+emea-fr-dev_00053,52,8,Angiox,Angiox,2,n,y,L'effet indésirable le plus fréquent avec Angiox (observé chez plus d'un patient sur 10) est le saignement bénin.
+emea-fr-dev_00053,52,15,patient,patient,1,y,y,L'effet indésirable le plus fréquent avec Angiox (observé chez plus d'un patient sur 10) est le saignement bénin.
+emea-fr-dev_00054,53,16,Angiox,Angiox,2,n,y,"Pour avoir le détail de tous les effets indésirables observés lors de l'utilisation de Angiox, voir la notice."
+emea-fr-dev_00055,54,1,Angiox,Angiox,2,n,y,"Angiox ne doit pas être utilisé chez les personnes pouvant présenter une hypersensibilité (allergie) à la bivalirudine, aux autres hirudines, ou à l'un des autres composants constituant Angiox."
+emea-fr-dev_00055,54,9,personnes,personne,1,y,y,"Angiox ne doit pas être utilisé chez les personnes pouvant présenter une hypersensibilité (allergie) à la bivalirudine, aux autres hirudines, ou à l'un des autres composants constituant Angiox."
+emea-fr-dev_00055,54,35,Angiox,Angiox,2,n,y,"Angiox ne doit pas être utilisé chez les personnes pouvant présenter une hypersensibilité (allergie) à la bivalirudine, aux autres hirudines, ou à l'un des autres composants constituant Angiox."
+emea-fr-dev_00056,55,12,patients,patient,1,y,y,"Il convient en outre de ne pas l'utiliser chez les patients ayant eu une hémorragie récente, souffrant d'hypertension aiguë ou présentant des troubles graves des reins, ou encore chez les patients présentant une infection cardiaque."
+emea-fr-dev_00056,55,36,patients,patient,1,y,y,"Il convient en outre de ne pas l'utiliser chez les patients ayant eu une hémorragie récente, souffrant d'hypertension aiguë ou présentant des troubles graves des reins, ou encore chez les patients présentant une infection cardiaque."
+emea-fr-dev_00058,57,2,Angiox,Angiox,2,n,y,Pourquoi Angiox a-t-il été approuvé ?
+emea-fr-dev_00059,58,2,comité,comité,5,y,y,Le comité des médicaments à usage humain (CHMP) a estimé que Angiox constitue un substitut acceptable pour l'héparine dans le cadre du traitement du SCA et pendant l'ICP.
+emea-fr-dev_00059,58,15,Angiox,Angiox,2,n,y,Le comité des médicaments à usage humain (CHMP) a estimé que Angiox constitue un substitut acceptable pour l'héparine dans le cadre du traitement du SCA et pendant l'ICP.
+emea-fr-dev_00059,58,25,cadre,cadre,1,n,y,Le comité des médicaments à usage humain (CHMP) a estimé que Angiox constitue un substitut acceptable pour l'héparine dans le cadre du traitement du SCA et pendant l'ICP.
+emea-fr-dev_00060,59,2,comité,comité,5,y,y,"Le comité a conclu que les bénéfices de Angiox sont supérieurs aux risques qu'il comporte pour le traitement des patients adultes souffrant de SCA et devant subir une intervention urgente ou précoce, avec de l'aspirine et du clopidogrel, et comme anticoagulant chez les patients subissant une intervention coronaire percutanée (ICP)."
+emea-fr-dev_00060,59,9,Angiox,Angiox,2,n,y,"Le comité a conclu que les bénéfices de Angiox sont supérieurs aux risques qu'il comporte pour le traitement des patients adultes souffrant de SCA et devant subir une intervention urgente ou précoce, avec de l'aspirine et du clopidogrel, et comme anticoagulant chez les patients subissant une intervention coronaire percutanée (ICP)."
+emea-fr-dev_00060,59,23,patients,patient,1,y,y,"Le comité a conclu que les bénéfices de Angiox sont supérieurs aux risques qu'il comporte pour le traitement des patients adultes souffrant de SCA et devant subir une intervention urgente ou précoce, avec de l'aspirine et du clopidogrel, et comme anticoagulant chez les patients subissant une intervention coronaire percutanée (ICP)."
+emea-fr-dev_00060,59,50,patients,patient,1,y,y,"Le comité a conclu que les bénéfices de Angiox sont supérieurs aux risques qu'il comporte pour le traitement des patients adultes souffrant de SCA et devant subir une intervention urgente ou précoce, avec de l'aspirine et du clopidogrel, et comme anticoagulant chez les patients subissant une intervention coronaire percutanée (ICP)."
+emea-fr-dev_00061,60,2,comité,comité,5,y,y,Le comité a recommandé l'octroi d'une autorisation de mise sur le marché pour Angiox.
+emea-fr-dev_00062,61,8,Commission,commission,5,y,y,"Autres informations relatives à Angiox : La Commission européenne a délivré une autorisation de mise sur le marché valide dans toute l'Union européenne pour Angiox à The Medicines Company UK Ltd, le 20 septembre 2004"
+emea-fr-dev_00074,73,1,Angiox,Angiox,2,n,y,Angiox
+emea-fr-dev_00083,82,4,CARACTERISTIQUES,caractéristique,2,n,y,RESUME DES CARACTERISTIQUES DU PRODUIT
+emea-fr-dev_00096,95,4,patients,patient,1,y,y,Traitement des patients atteints d'un syndrome coronarien aigu (angor instable / infarctus du myocarde sans sus décalage du segment ST (AI / IDM ST-)) devant bénéficier d'une intervention urgente ou précoce.
+emea-fr-dev_00097,96,1,Angiox,Angiox,2,n,y,Angiox doit être administré avec de l'aspirine et du clopidogrel.
+emea-fr-dev_00098,97,4,patients,patient,1,y,y,Anticoagulant chez les patients subissant une intervention coronaire percutanée (ICP).
+emea-fr-dev_00100,99,1,Angiox,Angiox,2,n,y,Angiox est destiné à la voie intraveineuse (IV).
+emea-fr-dev_00101,100,1,Angiox,Angiox,2,n,y,"Angiox doit être administré par un médecin spécialisé soit dans le traitement du syndrome coronarien aigu, soit dans les procédures d'intervention coronaire."
+emea-fr-dev_00101,100,7,médecin,médecin,5,y,y,"Angiox doit être administré par un médecin spécialisé soit dans le traitement du syndrome coronarien aigu, soit dans les procédures d'intervention coronaire."
+emea-fr-dev_00102,101,1,Adultes,adulte,1,y,y,Adultes / Sujets âgés
+emea-fr-dev_00102,101,3,Sujets,sujet,10,y,y,Adultes / Sujets âgés
+emea-fr-dev_00104,103,3,patients,patient,1,y,y,"Pour les patients atteints d'un SCA, la dose initiale recommandée est un bolus intraveineux de 0,1 mg/kg suivi d'une perfusion de 0,25 mg/kg/h."
+emea-fr-dev_00105,104,2,patients,patient,5,y,y,"Les patients faisant l'objet d'un traitement conservateur médical peuvent continuer la perfusion de 0,25 mg/kg/h pendant 72 heures."
+emea-fr-dev_00106,105,3,patient,patient,1,y,y,"Si le patient doit bénéficier d'une ICP, un bolus additionnel de 0,5 mg/kg doit être administré et la perfusion augmentée à 1,75 mg/kg/h durant l'intervention."
+emea-fr-dev_00107,106,6,perfusion,perfusion,4,n,y,"Après l'ICP, la perfusion, ramenée à 0,25 mg/kg/h peut être maintenue pendant 4 à 12 heures si cela se justifie d'un point de vue clinique."
+emea-fr-dev_00108,107,3,patients,patient,1,y,y,"Pour les patients bénéficiant d'un pontage aorto-coronaire sans CEC, la perfusion de bivalirudine doit être maintenue jusqu'à l'intervention."
+emea-fr-dev_00108,107,15,bivalirudine,bivalirudine,2,n,y,"Pour les patients bénéficiant d'un pontage aorto-coronaire sans CEC, la perfusion de bivalirudine doit être maintenue jusqu'à l'intervention."
+emea-fr-dev_00110,109,3,patients,patient,1,y,y,"Pour les patients bénéficiant d'un pontage aorto-coronaire avec CEC, la perfusion de bivalirudine devra être maintenue jusqu'à 1 heure avant l'opération, après quoi la perfusion devra être arrêtée et le patient traité avec de l'héparine non fractionnée."
+emea-fr-dev_00110,109,36,patient,patient,1,y,y,"Pour les patients bénéficiant d'un pontage aorto-coronaire avec CEC, la perfusion de bivalirudine devra être maintenue jusqu'à 1 heure avant l'opération, après quoi la perfusion devra être arrêtée et le patient traité avec de l'héparine non fractionnée."
+emea-fr-dev_00112,111,5,Angiox,Angiox,2,n,y,"La dose recommandée d'Angiox, pour les patients bénéficiant d'une ICP, est un bolus intraveineux de 0,75 mg/kg de poids corporel immédiatement suivi d'une perfusion intraveineuse à raison de 1,75 mg/kg/heure pendant au moins la durée de l'intervention."
+emea-fr-dev_00112,111,9,patients,patient,1,y,y,"La dose recommandée d'Angiox, pour les patients bénéficiant d'une ICP, est un bolus intraveineux de 0,75 mg/kg de poids corporel immédiatement suivi d'une perfusion intraveineuse à raison de 1,75 mg/kg/heure pendant au moins la durée de l'intervention."
+emea-fr-dev_00113,112,2,perfusion,perfusion,4,n,y,La perfusion peut se poursuivre jusqu'à 4 heures après l'ICP si cela se justifie d'un point de vue clinique.
+emea-fr-dev_00114,113,11,Angiox,Angiox,2,n,y,La sécurité et l'efficacité d'un bolus unique d'Angiox n'ont pas été évaluées.
+emea-fr-dev_00115,114,15,Angiox,Angiox,2,n,y,"Par conséquent, il n'est pas recommandé d'administrer un bolus unique d'Angiox, même dans le cadre d'une ICP courte."
+emea-fr-dev_00115,114,20,cadre,cadre,1,n,y,"Par conséquent, il n'est pas recommandé d'administrer un bolus unique d'Angiox, même dans le cadre d'une ICP courte."
+emea-fr-dev_00119,118,2,temps,temps,4,n,y,Le temps de coagulation activée (ACT) peut être utilisé pour évaluer l'activité de la bivalirudine.
+emea-fr-dev_00122,121,5,risque,risque,4,n,y,"Afin de diminuer le risque de faibles valeurs d'ACT, le produit reconstitué et dilué doit être bien mélangé puis doit être administré en bolus par poussée intraveineuse rapide."
+emea-fr-dev_00124,123,2,introducteur,introducteur,4,n,y,L'introducteur artériel peut être retiré deux heures après l'arrêt de la perfusion de bivalirudine sans contrôle supplémentaire de l'ACT.
+emea-fr-dev_00124,123,16,bivalirudine,bivalirudine,2,n,y,L'introducteur artériel peut être retiré deux heures après l'arrêt de la perfusion de bivalirudine sans contrôle supplémentaire de l'ACT.
+emea-fr-dev_00126,125,3,patients,patient,1,y,y,"Chez les patients atteints d'insuffisance rénale, il n'est pas nécessaire d'adapter la dose SCA (bolus de 0.1 mg/kg ; perfusion de 0.25 mg/kg/h)."
+emea-fr-dev_00127,126,3,patients,patient,1,y,y,Chez les patients atteints d'insuffisance rénale modérée (TFG 30-59 ml/min) bénéficiant d'une ICP (qu'ils soient traités avec la bivalirudine pour SCA ou non) la vitesse de perfusion doit être abaissée à 1.4 mg/kg/h.
+emea-fr-dev_00129,128,15,patients,patient,1,y,y,Le contrôle du temps de coagulation est recommandé durant l'ICP chez les patients insuffisants rénaux.
+emea-fr-dev_00132,131,3,patients,patient,1,y,y,"Chez les patients atteints d'insuffisance rénale modérée inclus dans l'étude pivot de phase III sur l'angioplastie (REPLACE-2), les valeurs ACT mesurées 5 minutes après un bolus de bivalirudine étaient en moyenne de 366 +/- 89 secondes sans ajustement de dose."
+emea-fr-dev_00133,132,12,patients,patient,1,y,y,"à la fin de la procédure ICP, chez ces même patients, les valeurs ACT étaient en moyenne de 355 +/- 81 secondes."
+emea-fr-dev_00134,133,1,Angiox,Angiox,2,n,y,Angiox est contre-indiqué chez les patients atteints d'insuffisance rénale sévère (TFG < 30 ml/min) ainsi que chez les patients sous dialyse (voir rubrique 4.3).
+emea-fr-dev_00134,133,6,patients,patient,1,y,y,Angiox est contre-indiqué chez les patients atteints d'insuffisance rénale sévère (TFG < 30 ml/min) ainsi que chez les patients sous dialyse (voir rubrique 4.3).
+emea-fr-dev_00134,133,24,patients,patient,1,y,y,Angiox est contre-indiqué chez les patients atteints d'insuffisance rénale sévère (TFG < 30 ml/min) ainsi que chez les patients sous dialyse (voir rubrique 4.3).
+emea-fr-dev_00138,137,22,patients,patient,1,y,y,"dès lors, la sécurité et l'efficacité de la bivalirudine n'ont pas été étudiées de manière spécifique chez des patients atteints d'insuffisance hépatique."
+emea-fr-dev_00139,138,1,Enfants,enfant,1,y,y,Enfants et adolescents
+emea-fr-dev_00139,138,3,adolescents,adolescent,11,y,y,Enfants et adolescents
+emea-fr-dev_00140,139,10,utilisation,utilisation,4,n,y,Il n'existe pas de données pertinentes concernant l'utilisation d'Angiox chez l'enfant
+emea-fr-dev_00140,139,12,Angiox,Angiox,2,n,y,Il n'existe pas de données pertinentes concernant l'utilisation d'Angiox chez l'enfant
+emea-fr-dev_00140,139,15,enfant,enfant,1,y,y,Il n'existe pas de données pertinentes concernant l'utilisation d'Angiox chez l'enfant
+emea-fr-dev_00142,141,2,patients,patient,5,y,y,"Les patients peuvent être mis sous Angiox 30 minutes après l'arrêt de l'héparine non fractionnée, administrée par voie intraveineuse ou 8 heures après l'arrêt d'une héparine de bas poids moléculaire administrée par voie sous-cutanée."
+emea-fr-dev_00142,141,7,Angiox,Angiox,2,n,y,"Les patients peuvent être mis sous Angiox 30 minutes après l'arrêt de l'héparine non fractionnée, administrée par voie intraveineuse ou 8 heures après l'arrêt d'une héparine de bas poids moléculaire administrée par voie sous-cutanée."
+emea-fr-dev_00144,143,1,Angiox,Angiox,6,n,y,Angiox peut être utilisé en même temps qu'un inhibiteur de la GP IIb/IIIa.
+emea-fr-dev_00145,144,11,utilisation,utilisation,4,n,y,Voir la section 5.1 pour plus d'informations concernant l'utilisation de la bivalirudine avec ou sans inhibiteur de la GPIIb/IIIa.
+emea-fr-dev_00147,146,1,Angiox,Angiox,2,n,y,Angiox est contre-indiqué chez les patients :
+emea-fr-dev_00147,146,6,patients,patient,1,y,y,Angiox est contre-indiqué chez les patients :
+emea-fr-dev_00151,150,18,patients,patient,1,y,y,atteints d'insuffisance rénale sévère (TFG < 30 ml/min) ainsi que chez les patients sous dialyse.
+emea-fr-dev_00152,151,3,garde,garde,1,n,y,Mises en garde spéciales et précautions particulières d'emploi
+emea-fr-dev_00153,152,1,Angiox,Angiox,2,n,y,Angiox n'est pas destiné à l'utilisation intramusculaire.
+emea-fr-dev_00156,155,8,patients,patient,1,y,y,"Il convient de surveiller attentivement que les patients ne présentent pas de symptômes et de signes de saignement pendant le traitement, notamment si la bivalirudine est combinée à un autre anticoagulant (voir Section 4.5)."
+emea-fr-dev_00157,156,22,patients,patient,1,y,y,"Bien que la plupart des saignements associés à la bivalirudine se produisent au site d'accès artériel chez les patients qui subissent une ICP, une hémorragie peut se produire à n'importe quel endroit pendant le traitement."
+emea-fr-dev_00157,156,29,hémorragie,hémorragie,4,n,y,"Bien que la plupart des saignements associés à la bivalirudine se produisent au site d'accès artériel chez les patients qui subissent une ICP, une hémorragie peut se produire à n'importe quel endroit pendant le traitement."
+emea-fr-dev_00158,157,2,diminutions,diminution,4,n,y,"Des diminutions inexpliquées de l'hématocrite, de l'hémoglobine ou de la pression artérielle peuvent indiquer une hémorragie."
+emea-fr-dev_00159,158,7,on,on,1,y,y,Le traitement doit être arrêté si on observe ou si on soupçonne un saignement.
+emea-fr-dev_00159,158,11,on,on,5,y,y,Le traitement doit être arrêté si on observe ou si on soupçonne un saignement.
+emea-fr-dev_00160,159,18,T½,T½,2,n,y,"Il n'existe pas d'antidote connu pour la bivalirudine, mais son effet disparaît rapidement (T½ 35 à 40 minutes)."
+emea-fr-dev_00161,160,2,administration,administration,4,n,y,L'administration concomitante de bivalirudine avec les inhibiteurs plaquettaires ou les anticoagulants peut entrainer une augmentation du risque de saignement (voir Section 4.5).
+emea-fr-dev_00163,162,3,patients,patient,1,y,y,"Chez les patients sous warfarine traités par bivalirudine, un suivi de l'INR doit être effectué, après l'arrêt du traitement par bivalirudine, afin de s'assurer du retour de l'INR aux niveaux observés avant le traitement."
+emea-fr-dev_00163,162,8,bivalirudine,bivalirudine,2,n,y,"Chez les patients sous warfarine traités par bivalirudine, un suivi de l'INR doit être effectué, après l'arrêt du traitement par bivalirudine, afin de s'assurer du retour de l'INR aux niveaux observés avant le traitement."
+emea-fr-dev_00163,162,26,bivalirudine,bivalirudine,2,n,y,"Chez les patients sous warfarine traités par bivalirudine, un suivi de l'INR doit être effectué, après l'arrêt du traitement par bivalirudine, afin de s'assurer du retour de l'INR aux niveaux observés avant le traitement."
+emea-fr-dev_00167,166,2,patients,patient,1,y,y,"Les patients doivent être informés des signes précoces des réactions d'hypersensibilité qui comportent des réactions urticariennes, une urticaire généralisée, une sensation d'oppression dans la poitrine, une respiration sifflante, de l'hypotension et une anaphylaxie."
+emea-fr-dev_00171,170,8,patients,patient,75,y,y,La prudence est de rigueur chez les patients précédemment traités par lépirudine qui ont développé des anticorps anti-lépirudine.
+emea-fr-dev_00172,171,13,brachythérapie,brachythérapie,2,n,y,La formation intra-procédurale de thrombus a été observée pendant les procédures de brachythérapie gamma avec Angiox.
+emea-fr-dev_00172,171,16,Angiox,Angiox,2,n,y,La formation intra-procédurale de thrombus a été observée pendant les procédures de brachythérapie gamma avec Angiox.
+emea-fr-dev_00173,172,1,Angiox,Angiox,2,n,y,Angiox doit être utilisé avec prudence pendant les procédures de brachythérapie bêta.
+emea-fr-dev_00177,176,10,on,on,5,y,y,"Du fait de leur mécanisme d'action, on peut s'attendre à ce que l'utilisation combinée de médicaments anticoagulants (héparine, warfarine, antithrombotiques ou agents antiplaquettaires) augmente le risque de saignement."
+emea-fr-dev_00177,176,18,utilisation,utilisation,4,n,y,"Du fait de leur mécanisme d'action, on peut s'attendre à ce que l'utilisation combinée de médicaments anticoagulants (héparine, warfarine, antithrombotiques ou agents antiplaquettaires) augmente le risque de saignement."
+emea-fr-dev_00177,176,30,agents,agent,1,n,y,"Du fait de leur mécanisme d'action, on peut s'attendre à ce que l'utilisation combinée de médicaments anticoagulants (héparine, warfarine, antithrombotiques ou agents antiplaquettaires) augmente le risque de saignement."
+emea-fr-dev_00179,178,1,Grossesse,grossesse,2,n,y,Grossesse et allaitement
+emea-fr-dev_00179,178,3,allaitement,allaitement,10,n,y,Grossesse et allaitement
+emea-fr-dev_00180,179,11,utilisation,utilisation,4,n,y,Il n'existe pas de données suffisamment pertinentes concernant l'utilisation de la bivalirudine chez la femme enceinte.
+emea-fr-dev_00180,179,17,femme,femme,1,y,y,Il n'existe pas de données suffisamment pertinentes concernant l'utilisation de la bivalirudine chez la femme enceinte.
+emea-fr-dev_00183,182,1,ANGIOX,Angiox,2,n,y,ANGIOX ne doit pas être utilisé chez la femme enceinte à moins d'une nécessité absolue.
+emea-fr-dev_00183,182,9,femme,femme,1,y,y,ANGIOX ne doit pas être utilisé chez la femme enceinte à moins d'une nécessité absolue.
+emea-fr-dev_00184,183,10,passage,passage,4,n,y,Il n'existe pas de données concernant un éventuel passage de la bivalirudine dans le lait maternel.
+emea-fr-dev_00185,184,1,Angiox,Angiox,2,n,y,Angiox doit être administré avec prudence chez les mères qui allaitent.
+emea-fr-dev_00185,184,9,mères,mère,1,y,y,Angiox doit être administré avec prudence chez les mères qui allaitent.
+emea-fr-dev_00190,189,21,patients,patient,1,y,y,Les données suivantes relatives aux réactions indésirables sont basées sur une étude clinique menée avec la bivalirudine chez 13 819 patients atteints de SCA ;
+emea-fr-dev_00192,191,10,femmes,femme,1,y,y,Les effets indésirables ont été plus fréquents chez les femmes et chez les patients âgés de plus de 65 ans que chez les sujets de sexe masculin ou les patients plus jeunes dans les deux groupes bivalirudine et le groupe comparateur héparine.
+emea-fr-dev_00192,191,14,patients,patient,1,y,y,Les effets indésirables ont été plus fréquents chez les femmes et chez les patients âgés de plus de 65 ans que chez les sujets de sexe masculin ou les patients plus jeunes dans les deux groupes bivalirudine et le groupe comparateur héparine.
+emea-fr-dev_00192,191,30,patients,patient,1,y,y,Les effets indésirables ont été plus fréquents chez les femmes et chez les patients âgés de plus de 65 ans que chez les sujets de sexe masculin ou les patients plus jeunes dans les deux groupes bivalirudine et le groupe comparateur héparine.
+emea-fr-dev_00192,191,36,groupes,groupe,1,y,y,Les effets indésirables ont été plus fréquents chez les femmes et chez les patients âgés de plus de 65 ans que chez les sujets de sexe masculin ou les patients plus jeunes dans les deux groupes bivalirudine et le groupe comparateur héparine.
+emea-fr-dev_00192,191,40,groupe,groupe,11,y,y,Les effets indésirables ont été plus fréquents chez les femmes et chez les patients âgés de plus de 65 ans que chez les sujets de sexe masculin ou les patients plus jeunes dans les deux groupes bivalirudine et le groupe comparateur héparine.
+emea-fr-dev_00193,192,6,patients,patient,1,y,y,"Environ 23,3% des patients recevant de la bivalirudine ont présenté au moins un évènement indésirable et 2,1% ont présenté une réaction indésirable au médicament."
+emea-fr-dev_00196,195,18,événements,événement,4,n,y,"Dans ACUITY, les données relatives aux saignements ont été recueillies séparément de celles concernant les événements indésirables."
+emea-fr-dev_00198,197,10,événements,événement,74,n,y,Les saignements mineurs ont été définis comme étant tous événements hémorragiques observés qui ne répondaient pas aux critères des saignements majeurs.
+emea-fr-dev_00200,199,18,patients,patient,1,y,y,Des diminutions significatives de la fréquence des saignements majeurs et mineurs ont été constatées chez les patients du groupe Bivalidurine seule comparativement aux patients du groupe héparine plus inhibiteur de la GP IIb/IIIa et Bivalidurine plus inhibiteur de la GP IIb/IIIa (voir table 2).
+emea-fr-dev_00200,199,21,groupe,groupe,1,y,y,Des diminutions significatives de la fréquence des saignements majeurs et mineurs ont été constatées chez les patients du groupe Bivalidurine seule comparativement aux patients du groupe héparine plus inhibiteur de la GP IIb/IIIa et Bivalidurine plus inhibiteur de la GP IIb/IIIa (voir table 2).
+emea-fr-dev_00200,199,22,Bivalidurine,Bivalidurine,2,n,y,Des diminutions significatives de la fréquence des saignements majeurs et mineurs ont été constatées chez les patients du groupe Bivalidurine seule comparativement aux patients du groupe héparine plus inhibiteur de la GP IIb/IIIa et Bivalidurine plus inhibiteur de la GP IIb/IIIa (voir table 2).
+emea-fr-dev_00200,199,27,patients,patient,1,y,y,Des diminutions significatives de la fréquence des saignements majeurs et mineurs ont été constatées chez les patients du groupe Bivalidurine seule comparativement aux patients du groupe héparine plus inhibiteur de la GP IIb/IIIa et Bivalidurine plus inhibiteur de la GP IIb/IIIa (voir table 2).
+emea-fr-dev_00200,199,30,groupe,groupe,1,y,y,Des diminutions significatives de la fréquence des saignements majeurs et mineurs ont été constatées chez les patients du groupe Bivalidurine seule comparativement aux patients du groupe héparine plus inhibiteur de la GP IIb/IIIa et Bivalidurine plus inhibiteur de la GP IIb/IIIa (voir table 2).
+emea-fr-dev_00200,199,39,Bivalidurine,Bivalidurine,2,n,y,Des diminutions significatives de la fréquence des saignements majeurs et mineurs ont été constatées chez les patients du groupe Bivalidurine seule comparativement aux patients du groupe héparine plus inhibiteur de la GP IIb/IIIa et Bivalidurine plus inhibiteur de la GP IIb/IIIa (voir table 2).
+emea-fr-dev_00201,200,15,patients,patient,1,y,y,Des diminutions similaires ont été observées sur la fréquence des saignements chez les patients du groupe Bivalidurine seule ayant reçu de l'héparine avant la randomisation (n = 2078).
+emea-fr-dev_00201,200,18,groupe,groupe,1,y,y,Des diminutions similaires ont été observées sur la fréquence des saignements chez les patients du groupe Bivalidurine seule ayant reçu de l'héparine avant la randomisation (n = 2078).
+emea-fr-dev_00221,220,1,Rash,rash,2,n,y,"Rash, urticaire"
+emea-fr-dev_00230,229,15,patients,patient,1,y,y,"Dans l'étude ACUITY, des cas de thrombocytopénie ont été rapportés chez 10 patients traités à la bivalirudine (0,1%)."
+emea-fr-dev_00232,231,7,groupe,groupe,1,y,y,Le taux de mortalité dans ce groupe est nul.
+emea-fr-dev_00234,233,25,patients,patient,1,y,y,"Les données suivantes relatives aux réactions indésirables sont basées sur une étude clinique (REPLACE 2) menée avec la bivalirudine chez 6000 patients subissant une ICP, dont la moitié ont été traités par bivalirudine."
+emea-fr-dev_00235,234,10,femmes,femme,1,y,y,Les événements indésirables ont été plus fréquents chez les femmes et chez les patients âgés de plus de 65 ans que chez les sujets de sexe masculin ou les patients plus jeunes dans les deux groupes bivalirudine et héparine.
+emea-fr-dev_00235,234,14,patients,patient,1,y,y,Les événements indésirables ont été plus fréquents chez les femmes et chez les patients âgés de plus de 65 ans que chez les sujets de sexe masculin ou les patients plus jeunes dans les deux groupes bivalirudine et héparine.
+emea-fr-dev_00235,234,30,patients,patient,1,y,y,Les événements indésirables ont été plus fréquents chez les femmes et chez les patients âgés de plus de 65 ans que chez les sujets de sexe masculin ou les patients plus jeunes dans les deux groupes bivalirudine et héparine.
+emea-fr-dev_00235,234,36,groupes,groupe,1,y,y,Les événements indésirables ont été plus fréquents chez les femmes et chez les patients âgés de plus de 65 ans que chez les sujets de sexe masculin ou les patients plus jeunes dans les deux groupes bivalirudine et héparine.
+emea-fr-dev_00236,235,6,patients,patient,1,y,y,Environ 30% des patients recevant de la bivalirudine ont présenté au moins un événement indésirable et 3% ont présenté une réaction indésirable au médicament.
+emea-fr-dev_00249,248,1,Rash,rash,2,n,y,Rash
+emea-fr-dev_00253,252,19,événements,événement,4,n,y,"Dans REPLACE 2, les données relatives aux saignements ont été recueillies séparément de celles concernant les événements indésirables."
+emea-fr-dev_00255,254,10,événement,événement,74,n,y,Un saignement mineur a été défini comme étant tout événement hémorragique observé qui ne répondait pas aux critères de saignement majeur.
+emea-fr-dev_00257,256,19,groupe,groupe,1,y,y,Tant les saignements mineurs que majeurs ont été significativement moins fréquents avec la bivalirudine par rapport au groupe de comparaison héparine plus inhibiteur de la GP IIb/IIIa.
+emea-fr-dev_00286,285,17,patient,patient,1,y,y,"En cas de surdosage, le traitement par la bivalirudine doit être immédiatement arrêté et le patient doit être étroitement surveillé afin de détecter tout signe de saignement."
+emea-fr-dev_00287,286,10,bivalirudine,bivalirudine,2,n,y,"En cas de saignement majeur, le traitement par bivalirudine doit être arrêté immédiatement."
+emea-fr-dev_00292,291,13,B01AE06,B01AE06,2,n,y,"Classe pharmacothérapeutique : inhibiteur direct de la thrombine, code ATC : B01AE06."
+emea-fr-dev_00293,292,1,Angiox,Angiox,2,n,y,"Angiox contient de la bivalirudine, un inhibiteur direct et spécifique de la thrombine, qui se lie à la fois au site catalytique et à l'exosite de liaison des anions de la thrombine en phase liquide et liée aux caillots."
+emea-fr-dev_00294,293,22,Facteur,facteur,1,n,y,"La thrombine joue un rôle central dans le processus thrombotique, scindant le fibrinogène en monomères de fibrine et activant le Facteur XIII en Facteur XIIIa, ce qui permet à la fibrine de développer un réseau de liaisons croisées covalentes qui stabilise le thrombus."
+emea-fr-dev_00294,293,25,Facteur,facteur,1,n,y,"La thrombine joue un rôle central dans le processus thrombotique, scindant le fibrinogène en monomères de fibrine et activant le Facteur XIII en Facteur XIIIa, ce qui permet à la fibrine de développer un réseau de liaisons croisées covalentes qui stabilise le thrombus."
+emea-fr-dev_00294,293,28,ce,ce,74,n,y,"La thrombine joue un rôle central dans le processus thrombotique, scindant le fibrinogène en monomères de fibrine et activant le Facteur XIII en Facteur XIIIa, ce qui permet à la fibrine de développer un réseau de liaisons croisées covalentes qui stabilise le thrombus."
+emea-fr-dev_00294,293,33,fibrine,fibrine,4,n,y,"La thrombine joue un rôle central dans le processus thrombotique, scindant le fibrinogène en monomères de fibrine et activant le Facteur XIII en Facteur XIIIa, ce qui permet à la fibrine de développer un réseau de liaisons croisées covalentes qui stabilise le thrombus."
+emea-fr-dev_00295,294,2,thrombine,thrombine,4,n,y,"La thrombine active également les facteurs V et VIII, ce qui entraîne une plus grande production de thrombine et active les plaquettes, stimulant leur agrégation et la libération des granules."
+emea-fr-dev_00295,294,6,facteurs,facteur,1,n,y,"La thrombine active également les facteurs V et VIII, ce qui entraîne une plus grande production de thrombine et active les plaquettes, stimulant leur agrégation et la libération des granules."
+emea-fr-dev_00295,294,27,agrégation,agrégation,4,n,y,"La thrombine active également les facteurs V et VIII, ce qui entraîne une plus grande production de thrombine et active les plaquettes, stimulant leur agrégation et la libération des granules."
+emea-fr-dev_00295,294,30,libération,libération,10,n,y,"La thrombine active également les facteurs V et VIII, ce qui entraîne une plus grande production de thrombine et active les plaquettes, stimulant leur agrégation et la libération des granules."
+emea-fr-dev_00296,295,4,chacun,chacun,1,n,y,La bivalirudine inhibe chacun des effets de la thrombine.
+emea-fr-dev_00298,297,35,molécules,molécule,4,n,y,"Ainsi, la bivalirudine commence par agir à la manière d'un inhibiteur non compétitif complet de la thrombine, puis, évolue avec le temps pour devenir un inhibiteur compétitif permettant aux molécules de thrombine initialement inhibées d'interagir avec d'autres substrats de la coagulation et d'induire une coagulation si nécessaire."
+emea-fr-dev_00300,299,12,produits,produit,4,n,y,La bivalirudine reste active et n'est pas neutralisée par des produits dérivés de la réaction de libération plaquettaire.
+emea-fr-dev_00301,300,63,patients,patient,1,y,y,"Des études in vitro ont également montré que la bivalirudine allonge de manière concentration-dépendante le temps de thromboplastine partielle activée (aPTT), le temps de thrombine (TT) et le taux de prothrombine (TP) d'un plasma humain normal, et qu'elle n'induit pas d'agrégation plaquettaire en réponse à des sérums de patients avec antécédents de syndrome de thrombocytopénie induite par l'héparine avec thrombose (TIH/STIHT)."
+emea-fr-dev_00302,301,3,volontaires,volontaire,1,y,y,"Chez les volontaires sains et chez les patients, la bivalirudine présente une activité anticoagulante dépendante de la dose et de la concentration, comme le prouve l'allongement de l'ACT, de l'aPTT, du PT, de l'INR et du TT."
+emea-fr-dev_00302,301,8,patients,patient,1,y,y,"Chez les volontaires sains et chez les patients, la bivalirudine présente une activité anticoagulante dépendante de la dose et de la concentration, comme le prouve l'allongement de l'ACT, de l'aPTT, du PT, de l'INR et du TT."
+emea-fr-dev_00304,303,2,effets,effet,4,n,y,"Les effets pharmacodynamiques de la bivalirudine peuvent être évalués en utilisant des mesures de l'anticoagulation, notamment l'ACT."
+emea-fr-dev_00306,305,6,patients,patient,1,y,y,Des données relatives à 366 patients indiquent que l'ACT n'est pas influencé par un traitement concomitant par inhibiteur de la GP IIb/IIIa.
+emea-fr-dev_00306,305,17,traitement,traitement,4,n,y,Des données relatives à 366 patients indiquent que l'ACT n'est pas influencé par un traitement concomitant par inhibiteur de la GP IIb/IIIa.
+emea-fr-dev_00309,308,62,patients,patient,1,y,y,"ACUITY est une étude prospective, randomisée, en ouvert, destinée à comparer la bivalirudine associée ou non à un inhibiteur de la GP IIb/IIIa (respectivement bras B et C) et l'enoxaparine ou l'héparine non fractionnée (HNF) associée à un inhibiteur de la GP IIb/IIIa (bras A), chez plus de 13 819 patients atteints d'un syndrome coronarien aigu (SCA) et considérés à haut risque."
+emea-fr-dev_00311,310,3,patients,patient,1,y,y,"Pour les patients devant bénéficier d'une ICP, un bolus additionnel de 0,5 mg/kg est administré et la perfusion est augmentée à 1,75 mg/kg/h durant l'intervention."
+emea-fr-dev_00312,311,29,patients,patient,1,y,y,"Dans le bras A de l'étude ACUITY, l'HNF ou l'enoxaparine est administrée selon les recommandations applicables au traitement du SCA chez les patients avec angor instable ou IDM ST-."
+emea-fr-dev_00313,312,2,patients,patient,1,y,y,Les patients des bras A et B étaient aussi randomisés pour recevoir un inhibiteur de la GPIIb/IIIa soit avant l'angiographie soit durant l'angioplastie.
+emea-fr-dev_00314,313,9,patients,patient,1,y,y,"Au total 356 (7,7%) patients randomisés dans le bras C ont également reçu un inhibiteur de la GPIIb/IIIa."
+emea-fr-dev_00315,314,9,population,population,1,y,y,"En ce qui concerne les caractéristiques de la population d'ACUITY, à savoir des patients à haut risque nécessitant une angiographie dans les 72 h, la répartition est homogène dans les 3 bras de traitement."
+emea-fr-dev_00315,314,16,patients,patient,11,y,y,"En ce qui concerne les caractéristiques de la population d'ACUITY, à savoir des patients à haut risque nécessitant une angiographie dans les 72 h, la répartition est homogène dans les 3 bras de traitement."
+emea-fr-dev_00317,316,5,patients,patient,1,y,y,"Après angiographie, les patients sont soit pris en charge médicalement (33%) soit bénéficient d'une angioplastie (56%) ou d'un pontage aorto-coronaire (11%)."
+emea-fr-dev_00319,318,20,population,population,1,y,y,Les résultats principaux de l'étude ACUITY à 30 jours et à 1 an pour l'ensemble de la population 11 (ITT) et pour les patients ayant reçu de l'aspirine et du clopidogrel avant angiographie ou avant ICP (per protocole) sont présentés dans les tables 7 et 8.
+emea-fr-dev_00319,318,28,patients,patient,1,y,y,Les résultats principaux de l'étude ACUITY à 30 jours et à 1 an pour l'ensemble de la population 11 (ITT) et pour les patients ayant reçu de l'aspirine et du clopidogrel avant angiographie ou avant ICP (per protocole) sont présentés dans les tables 7 et 8.
+emea-fr-dev_00320,319,17,population,population,1,y,y,Les résultats sur les saignements à 30 jours selon les critères ACUITY et TIMI pour la population totale (ITT) et les patients ayant reçus de l'aspirine et du clopidogrel per protocol sont présentés dans la table 9.
+emea-fr-dev_00320,319,24,patients,patient,11,y,y,Les résultats sur les saignements à 30 jours selon les critères ACUITY et TIMI pour la population totale (ITT) et les patients ayant reçus de l'aspirine et du clopidogrel per protocol sont présentés dans la table 9.
+emea-fr-dev_00323,322,28,patients,patient,1,y,y,"Les résultats à 30 jours, basés sur les critères d'évaluation quadruple et triple d'une étude randomisée en double aveugle portant sur plus de 6 000 patients subissant une ICP (REPLACE-2), sont présentés dans le tableau 8."
+emea-fr-dev_00324,323,15,critères,critère,4,n,y,Le critère saignement majeur dans l'étude REPLACE-2 n'est pas défini par des critères TIMI
+emea-fr-dev_00326,325,18,patients,patient,1,y,y,Les propriétés pharmacocinétiques de la bivalirudine ont été évaluées et se sont avérées être linéaires chez les patients subissant une intervention coronaire percutanée et les patients présentant un SCA.
+emea-fr-dev_00326,325,26,patients,patient,11,y,y,Les propriétés pharmacocinétiques de la bivalirudine ont été évaluées et se sont avérées être linéaires chez les patients subissant une intervention coronaire percutanée et les patients présentant un SCA.
+emea-fr-dev_00341,340,20,patients,patient,1,y,y,L'élimination suit un processus de premier ordre avec une demi-vie terminale de 25 ± 12 minutes chez les patients à fonction rénale normale.
+emea-fr-dev_00344,343,13,patients,patient,1,y,y,"La pharmacocinétique de la bivalirudine n'a pas été étudiée chez les patients atteints d'insuffisance hépatique, mais on ne s'attend pas à ce qu'elle soit modifiée, car la bivalirudine n'est pas métabolisée par les enzymes hépatiques telles que les isoenzymes du cytochrome P-450."
+emea-fr-dev_00344,343,20,on,on,5,y,y,"La pharmacocinétique de la bivalirudine n'a pas été étudiée chez les patients atteints d'insuffisance hépatique, mais on ne s'attend pas à ce qu'elle soit modifiée, car la bivalirudine n'est pas métabolisée par les enzymes hépatiques telles que les isoenzymes du cytochrome P-450."
+emea-fr-dev_00347,346,10,patients,patient,1,y,y,La clairance de la bivalirudine est similaire chez les patients à fonction rénale normale et chez les patients présentant une légère insuffisance rénale.
+emea-fr-dev_00347,346,18,patients,patient,1,y,y,La clairance de la bivalirudine est similaire chez les patients à fonction rénale normale et chez les patients présentant une légère insuffisance rénale.
+emea-fr-dev_00348,347,10,patients,patient,1,y,y,Elle est réduite d'environ 20% chez les patients atteints d'insuffisance rénale modérée ou sévère et de 80% chez les patients dépendants de la dialyse (Tableau 11).
+emea-fr-dev_00348,347,24,patients,patient,1,y,y,Elle est réduite d'environ 20% chez les patients atteints d'insuffisance rénale modérée ou sévère et de 80% chez les patients dépendants de la dialyse (Tableau 11).
+emea-fr-dev_00349,348,3,patients,patient,1,y,y,"Chez les patients atteints d'insuffisance rénale, les paramètres de la coagulation tels que l'ACT peuvent être monitorés pendant un traitement par Angiox."
+emea-fr-dev_00349,348,10,paramètres,paramètre,4,n,y,"Chez les patients atteints d'insuffisance rénale, les paramètres de la coagulation tels que l'ACT peuvent être monitorés pendant un traitement par Angiox."
+emea-fr-dev_00349,348,25,Angiox,Angiox,2,n,y,"Chez les patients atteints d'insuffisance rénale, les paramètres de la coagulation tels que l'ACT peuvent être monitorés pendant un traitement par Angiox."
+emea-fr-dev_00351,350,8,patients,patient,1,y,y,La pharmacocinétique a été évaluée chez des patients âgés dans le cadre de l'étude de pharmacocinétique rénale.
+emea-fr-dev_00351,350,12,cadre,cadre,1,n,y,La pharmacocinétique a été évaluée chez des patients âgés dans le cadre de l'étude de pharmacocinétique rénale.
+emea-fr-dev_00352,351,8,catégorie,catégorie,1,n,y,"Les adaptations de la dose dans cette catégorie d'âge doivent être basées sur la fonction rénale, voir rubrique 4.2."
+emea-fr-dev_00362,361,12,on,on,5,y,y,"La bivalirudine étant destinée à une administration de courte durée, on ne dispose d'aucune donnée concernant son potentiel carcinogène à long terme."
+emea-fr-dev_00362,361,20,potentiel,potentiel,4,n,y,"La bivalirudine étant destinée à une administration de courte durée, on ne dispose d'aucune donnée concernant son potentiel carcinogène à long terme."
+emea-fr-dev_00366,365,1,Mannitol,mannitol,2,n,y,Mannitol
+emea-fr-dev_00369,368,20,cela,cela,4,n,y,"Les médicaments suivants ne doivent pas être administrés dans la même perfusion intraveineuse que la bivalirudine, parce que cela peut se traduire par la formation d'un trouble, la formation de microparticules ou une précipitation importante : altéplase, chlorhydrate d'amiodarone, amphotéricine B, chlorhydrate de chlorpromazine, diazépam, édisylate de prochlorpérazine, rétéplase, streptokinase et chlorhydrate de vancomycine."
+emea-fr-dev_00369,368,57,prochlorpérazine,prochlorpérazine,2,n,y,"Les médicaments suivants ne doivent pas être administrés dans la même perfusion intraveineuse que la bivalirudine, parce que cela peut se traduire par la formation d'un trouble, la formation de microparticules ou une précipitation importante : altéplase, chlorhydrate d'amiodarone, amphotéricine B, chlorhydrate de chlorpromazine, diazépam, édisylate de prochlorpérazine, rétéplase, streptokinase et chlorhydrate de vancomycine."
+emea-fr-dev_00369,368,59,rétéplase,rétéplase,2,n,y,"Les médicaments suivants ne doivent pas être administrés dans la même perfusion intraveineuse que la bivalirudine, parce que cela peut se traduire par la formation d'un trouble, la formation de microparticules ou une précipitation importante : altéplase, chlorhydrate d'amiodarone, amphotéricine B, chlorhydrate de chlorpromazine, diazépam, édisylate de prochlorpérazine, rétéplase, streptokinase et chlorhydrate de vancomycine."
+emea-fr-dev_00369,368,61,streptokinase,streptokinase,12,n,y,"Les médicaments suivants ne doivent pas être administrés dans la même perfusion intraveineuse que la bivalirudine, parce que cela peut se traduire par la formation d'un trouble, la formation de microparticules ou une précipitation importante : altéplase, chlorhydrate d'amiodarone, amphotéricine B, chlorhydrate de chlorpromazine, diazépam, édisylate de prochlorpérazine, rétéplase, streptokinase et chlorhydrate de vancomycine."
+emea-fr-dev_00369,368,63,chlorhydrate,chlorhydrate,10,n,y,"Les médicaments suivants ne doivent pas être administrés dans la même perfusion intraveineuse que la bivalirudine, parce que cela peut se traduire par la formation d'un trouble, la formation de microparticules ou une précipitation importante : altéplase, chlorhydrate d'amiodarone, amphotéricine B, chlorhydrate de chlorpromazine, diazépam, édisylate de prochlorpérazine, rétéplase, streptokinase et chlorhydrate de vancomycine."
+emea-fr-dev_00377,376,9,durées,durée,4,n,y,"En cas d'utilisation non immédiate, les durées et conditions de conservation après reconstitution et avant utilisation relèvent de la seule responsabilité de l'utilisateur et ne doivent pas dépasser 24 heures entre 2 °C- 8 °C, sauf en cas de reconstitution/dilution réalisée en conditions d'aseptie dûment contrôlées et validées."
+emea-fr-dev_00377,376,11,conditions,condition,10,n,y,"En cas d'utilisation non immédiate, les durées et conditions de conservation après reconstitution et avant utilisation relèvent de la seule responsabilité de l'utilisateur et ne doivent pas dépasser 24 heures entre 2 °C- 8 °C, sauf en cas de reconstitution/dilution réalisée en conditions d'aseptie dûment contrôlées et validées."
+emea-fr-dev_00377,376,26,utilisateur,utilisateur,1,y,y,"En cas d'utilisation non immédiate, les durées et conditions de conservation après reconstitution et avant utilisation relèvent de la seule responsabilité de l'utilisateur et ne doivent pas dépasser 24 heures entre 2 °C- 8 °C, sauf en cas de reconstitution/dilution réalisée en conditions d'aseptie dûment contrôlées et validées."
+emea-fr-dev_00384,383,1,Angiox,Angiox,2,n,y,Angiox est présenté sous forme de poudre lyophilisée en flacons en verre (Type 1) de 10 ml à usage unique fermés par un bouchon en caoutchouc butylique et scellés par un sceau d'aluminium gaufré.
+emea-fr-dev_00384,383,34,sceau,sceau,4,n,y,Angiox est présenté sous forme de poudre lyophilisée en flacons en verre (Type 1) de 10 ml à usage unique fermés par un bouchon en caoutchouc butylique et scellés par un sceau d'aluminium gaufré.
+emea-fr-dev_00385,384,1,Angiox,Angiox,2,n,y,Angiox est disponible en boîtes de 2 et 10 flacons.
+emea-fr-dev_00386,385,3,présentations,présentation,4,n,y,Toutes les présentations peuvent ne pas être commercialisées.
+emea-fr-dev_00389,388,7,Angiox,Angiox,2,n,y,La préparation et l'administration d'Angiox doivent suivre des procédures aseptiques.
+emea-fr-dev_00390,389,13,Angiox,Angiox,2,n,y,Ajouter 5 ml d'eau pour préparations injectables dans un flacon d'Angiox et mélanger doucement jusqu'à ce que la poudre soit complètement dissoute et que la solution soit claire.
+emea-fr-dev_00396,395,1,TITULAIRE,titulaire,3,y,y,TITULAIRE DE L'AUTORISATION DE MISE SUR LE MARCHE
+emea-fr-dev_00396,395,6,MISE,mise,2,n,y,TITULAIRE DE L'AUTORISATION DE MISE SUR LE MARCHE
+emea-fr-dev_00396,395,9,MARCHE,marché,2,n,y,TITULAIRE DE L'AUTORISATION DE MISE SUR LE MARCHE
+emea-fr-dev_00398,397,5,MISE,mise,2,n,y,NUMERO(S) D'AUTORISATION DE MISE SUR LE MARCHE
+emea-fr-dev_00398,397,8,MARCHE,marché,2,n,y,NUMERO(S) D'AUTORISATION DE MISE SUR LE MARCHE
+emea-fr-dev_00399,398,7,RENOUVELLEMENT,renouvellement,2,n,y,DATE DE PREMIERE AUTORISATION / DE RENOUVELLEMENT DE L'AUTORISATION
+emea-fr-dev_00402,401,1,TITULAIRE,titulaire,3,y,y,TITULAIRE DE L'AUTORISATION DE FABRICATION RESPONSABLE DE LA LIBERATION DES LOTS
+emea-fr-dev_00402,401,10,LIBERATION,libération,2,n,y,TITULAIRE DE L'AUTORISATION DE FABRICATION RESPONSABLE DE LA LIBERATION DES LOTS
+emea-fr-dev_00404,403,6,fabricant,fabricant,1,y,y,Nom et adresse du fabricant responsable de la libération des lots
+emea-fr-dev_00406,405,5,DELIVRANCE,délivrance,2,n,y,CONDITIONS OU RESTRICTIONS DE DELIVRANCE ET D'UTILISATION IMPOSÉES AU TITULAIRE DE L'AUTORISATION DE MISE SUR LE MARCHE
+emea-fr-dev_00406,405,12,TITULAIRE,titulaire,1,y,y,CONDITIONS OU RESTRICTIONS DE DELIVRANCE ET D'UTILISATION IMPOSÉES AU TITULAIRE DE L'AUTORISATION DE MISE SUR LE MARCHE
+emea-fr-dev_00410,409,2,titulaire,titulaire,5,y,y,"Le titulaire de l'AMM s'engage à fournir des études et des données de pharmacovigilance supplémentaires détaillées dans le Plan de Pharmacovigilance, comme convenu dans la version 4 du Plan de Gestion des risques (PGR) présenté dans le Module 1.8.2. de l'autorisation de mise sur le marché et toutes mises à jour du PGR autorisées par le CHMP."
+emea-fr-dev_00410,409,66,CHMP,CHMP,4,n,y,"Le titulaire de l'AMM s'engage à fournir des études et des données de pharmacovigilance supplémentaires détaillées dans le Plan de Pharmacovigilance, comme convenu dans la version 4 du Plan de Gestion des risques (PGR) présenté dans le Module 1.8.2. de l'autorisation de mise sur le marché et toutes mises à jour du PGR autorisées par le CHMP."
+emea-fr-dev_00413,412,4,informations,information,4,n,y,"Quand de nouvelles informations reçues peuvent avoir un impact sur le profil de sécurité, le plan de pharmacovigilance ou les activités de minimisation du risque."
+emea-fr-dev_00429,428,3,GARDE,garde,1,n,y,MISE EN GARDE SPECIALE INDIQUANT QUE LE MEDICAMENT DOIT ETRE CONSERVE HORS DE PORTEE ET DE VUE DES ENFANTS
+emea-fr-dev_00429,428,20,ENFANTS,enfant,1,y,y,MISE EN GARDE SPECIALE INDIQUANT QUE LE MEDICAMENT DOIT ETRE CONSERVE HORS DE PORTEE ET DE VUE DES ENFANTS
+emea-fr-dev_00430,429,12,enfants,enfant,1,y,y,Tenir hors de la portée et de la vue des enfants.
+emea-fr-dev_00431,430,4,GARDE,garde,1,n,y,"AUTRE(S) MISE(S) EN GARDE SPECIALE(S), SI NECESSAIRE"
+emea-fr-dev_00435,434,4,ELIMINATION,élimination,2,n,y,PRECAUTIONS PARTICULIERES D'ELIMINATION DES MEDICAMENTS NON UTILISES OU DES DECHETS PROVENANT DE CES MEDICAMENTS S'IL Y A LIEU
+emea-fr-dev_00437,436,6,TITULAIRE,titulaire,1,y,y,NOM ET ADRESSE DU TITULAIRE DE L'AUTORISATION DE MISE SUR LE MARCHE
+emea-fr-dev_00438,437,1,NUMERO,numéro,2,n,y,NUMERO DU LOT
+emea-fr-dev_00448,447,3,GARDE,garde,1,n,y,MISE EN GARDE SPECIALE INDIQUANT QUE LE MEDICAMENT DOIT ETRE CONSERVE HORS DE PORTEE ET DE VUE DES ENFANTS
+emea-fr-dev_00448,447,20,ENFANTS,enfant,1,y,y,MISE EN GARDE SPECIALE INDIQUANT QUE LE MEDICAMENT DOIT ETRE CONSERVE HORS DE PORTEE ET DE VUE DES ENFANTS
+emea-fr-dev_00449,448,4,GARDE,garde,1,y,y,"AUTRE(S) MISE(S) EN GARDE SPECIALE(S), SI NECESSAIRE"
+emea-fr-dev_00461,460,4,UTILISATEUR,utilisateur,1,y,y,INFORMATIONS DE L'UTILISATEUR Angiox 250 mg Poudre pour solution à diluer pour solution injectable ou pour perfusion (Bivalirudine)
+emea-fr-dev_00463,462,6,vous,vous,5,y,y,"- Gardez cette notice, vous pourriez avoir besoin de la relire."
+emea-fr-dev_00464,463,3,vous,vous,1,y,y,"- Si vous avez d'autres questions, si vous avez un doute, demandez plus d'informations à votre pharmacien"
+emea-fr-dev_00464,463,10,vous,vous,1,y,y,"- Si vous avez d'autres questions, si vous avez un doute, demandez plus d'informations à votre pharmacien"
+emea-fr-dev_00464,463,21,pharmacien,pharmacien,5,y,y,"- Si vous avez d'autres questions, si vous avez un doute, demandez plus d'informations à votre pharmacien"
+emea-fr-dev_00465,464,13,vous,vous,5,y,y,"- Si l'un des effets indésirables devient sérieux ou si vous remarquez des effets indésirables non mentionnés dans cette notice, veuillez en informer votre médecin."
+emea-fr-dev_00465,464,28,médecin,médecin,5,y,y,"- Si l'un des effets indésirables devient sérieux ou si vous remarquez des effets indésirables non mentionnés dans cette notice, veuillez en informer votre médecin."
+emea-fr-dev_00467,466,5,Angiox,Angiox,2,n,y,Qu'est-ce que Angiox et dans quel cas est-il utilisé 2.
+emea-fr-dev_00474,473,1,Angiox,Angiox,2,n,y,Angiox est un médicament antithrombotique.
+emea-fr-dev_00475,474,2,antithrombotiques,antithrombotique,40,n,y,Les antithrombotiques sont des médicaments qui empêchent la formation de caillots sanguins (thrombose).
+emea-fr-dev_00475,474,5,médicaments,médicament,74,n,y,Les antithrombotiques sont des médicaments qui empêchent la formation de caillots sanguins (thrombose).
+emea-fr-dev_00476,475,1,Angiox,Angiox,2,n,y,Angiox est utilisé- Chez les patients souffrant de douleurs thoraciques dues à une affection cardiaque (syndromes coronariens aigus SCA)
+emea-fr-dev_00476,475,7,patients,patient,1,y,y,Angiox est utilisé- Chez les patients souffrant de douleurs thoraciques dues à une affection cardiaque (syndromes coronariens aigus SCA)
+emea-fr-dev_00477,476,4,patients,patient,1,y,y,- Chez les patients qui bénéficient d'une intervention chirurgicale destinée à traiter des obstructions
+emea-fr-dev_00479,478,4,Angiox,Angiox,2,n,y,N'utilisez jamais Angiox :
+emea-fr-dev_00480,479,3,vous,vous,1,y,y,- si vous êtes hypersensible (allergique) à la bivalirudine ou à l'un des autres composants contenus dans Angiox (voir liste rubrique 6).
+emea-fr-dev_00480,479,22,Angiox,Angiox,2,n,y,- si vous êtes hypersensible (allergique) à la bivalirudine ou à l'un des autres composants contenus dans Angiox (voir liste rubrique 6).
+emea-fr-dev_00481,480,3,vous,vous,1,y,y,"- si vous présentez ou avez récemment présenté un saignement au niveau de l'estomac, des intestins, de la vessie ou d'autres organes, par exemple si vous avez du sang anormal dans vos selles ou vos urines (excepté un saignement menstruel)."
+emea-fr-dev_00481,480,33,vous,vous,1,y,y,"- si vous présentez ou avez récemment présenté un saignement au niveau de l'estomac, des intestins, de la vessie ou d'autres organes, par exemple si vous avez du sang anormal dans vos selles ou vos urines (excepté un saignement menstruel)."
+emea-fr-dev_00482,481,3,vous,vous,1,y,y,- si vous avez présenté des troubles de la coagulation sanguine ou un faible nombre de plaquettes
+emea-fr-dev_00483,482,3,vous,vous,1,y,y,- si vous avez ou avez eu une hypertension (tension artérielle élevée) sévère non contrôlée.
+emea-fr-dev_00484,483,3,vous,vous,1,y,y,- si vous avez ou avez eu une infection du tissu cardiaque.
+emea-fr-dev_00486,485,4,médecin,médecin,1,y,y,Veuillez informer votre médecin :
+emea-fr-dev_00487,486,3,vous,vous,1,y,y,"- si vous prenez ou avez pris récemment un autre médicament, même s'il s'agit d'un médicament obtenu sans ordonnance."
+emea-fr-dev_00488,487,3,vous,vous,1,y,y,- si vous avez été traité par des produits similaires à Angiox (par exemple lépirudine)
+emea-fr-dev_00489,488,5,médicaments,médicament,4,n,y,"En effet, ces médicaments peuvent augmenter le risque de saignement s'ils sont administrés en même temps qu'Angiox."
+emea-fr-dev_00489,488,20,Angiox,Angiox,2,n,y,"En effet, ces médicaments peuvent augmenter le risque de saignement s'ils sont administrés en même temps qu'Angiox."
+emea-fr-dev_00490,489,1,Grossesse,grossesse,2,n,y,Grossesse et allaitement
+emea-fr-dev_00490,489,3,allaitement,allaitement,10,n,y,Grossesse et allaitement
+emea-fr-dev_00491,490,1,Vous,vous,1,y,y,Vous devez prévenir votre médecin :
+emea-fr-dev_00491,490,5,médecin,médecin,1,y,y,Vous devez prévenir votre médecin :
+emea-fr-dev_00492,491,3,vous,vous,1,y,y,- Si vous êtes enceinte ou pensez l'être
+emea-fr-dev_00493,492,4,Angiox,Angiox,2,n,y,L'utilisation d'Angiox n'est recommandée en cas de grossesse qu'en cas de nécessité absolue.
+emea-fr-dev_00494,493,2,médecin,médecin,5,y,y,Votre médecin évaluera si ce traitement est ou non approprié pour vous.
+emea-fr-dev_00494,493,12,vous,vous,1,y,y,Votre médecin évaluera si ce traitement est ou non approprié pour vous.
+emea-fr-dev_00495,494,2,vous,vous,1,y,y,"Si vous allaitez, votre médecin déterminera si Angiox peut être utilisé."
+emea-fr-dev_00495,494,6,médecin,médecin,1,y,y,"Si vous allaitez, votre médecin déterminera si Angiox peut être utilisé."
+emea-fr-dev_00495,494,9,Angiox,Angiox,6,n,y,"Si vous allaitez, votre médecin déterminera si Angiox peut être utilisé."
+emea-fr-dev_00498,497,1,Angiox,Angiox,2,n,y,Angiox est uniquement administré à l'hôpital.
+emea-fr-dev_00501,500,7,médecin,médecin,5,y,y,Votre traitement sera surveillé par un médecin.
+emea-fr-dev_00502,501,2,médecin,médecin,1,y,y,Votre médecin déterminera quelle quantité d'Angiox vous sera administrée et la préparera.
+emea-fr-dev_00502,501,7,Angiox,Angiox,2,n,y,Votre médecin déterminera quelle quantité d'Angiox vous sera administrée et la préparera.
+emea-fr-dev_00502,501,8,vous,vous,1,y,y,Votre médecin déterminera quelle quantité d'Angiox vous sera administrée et la préparera.
+emea-fr-dev_00503,502,7,médecin,médecin,5,y,y,"- Pendant la procédure, votre médecin vous examinera pour contrôler tout signe de saignement."
+emea-fr-dev_00503,502,8,vous,vous,1,y,y,"- Pendant la procédure, votre médecin vous examinera pour contrôler tout signe de saignement."
+emea-fr-dev_00505,504,10,médecin,médecin,5,y,y,"- Avant le début de la procédure, votre médecin vous informera sur les signes de réaction allergique (hypersensibilité)."
+emea-fr-dev_00505,504,11,vous,vous,5,y,y,"- Avant le début de la procédure, votre médecin vous informera sur les signes de réaction allergique (hypersensibilité)."
+emea-fr-dev_00506,505,11,patients,patient,1,y,y,Ces réactions se produisent rarement (environ 1 pour 1000 patients traités).
+emea-fr-dev_00507,506,3,vous,vous,1,y,y,"- Si vous suivez une procédure de type brachythérapie bêta ou gamma, votre médecin vous contrôlera encore plus soigneusement."
+emea-fr-dev_00507,506,15,médecin,médecin,5,y,y,"- Si vous suivez une procédure de type brachythérapie bêta ou gamma, votre médecin vous contrôlera encore plus soigneusement."
+emea-fr-dev_00507,506,16,vous,vous,1,y,y,"- Si vous suivez une procédure de type brachythérapie bêta ou gamma, votre médecin vous contrôlera encore plus soigneusement."
+emea-fr-dev_00508,507,14,vous,vous,1,y,y,- La dose administrée dépend de votre poids et du traitement qui vous a été prescrit.
+emea-fr-dev_00510,509,3,patients,patient,1,y,y,"Pour les patients atteints d'un SCA, la dose initiale recommandée est :"
+emea-fr-dev_00514,513,6,vous,vous,1,y,y,"Si, après cela, vous devez bénéficier d'une intervention coronaire percutanée (ICP), il vous sera administré :"
+emea-fr-dev_00514,513,19,vous,vous,1,y,y,"Si, après cela, vous devez bénéficier d'une intervention coronaire percutanée (ICP), il vous sera administré :"
+emea-fr-dev_00517,516,3,patients,patient,1,y,y,"Pour les patients bénéficiant d'une intervention coronaire percutanée (ICP), la dose recommandée est :"
+emea-fr-dev_00518,517,31,perfusion,perfusion,4,n,y,"- Un bolus intraveineux de 0,75 mg/kg, suivi d'une perfusion (solution en goutte à goutte) de 1,75 mg/kg/heure (la perfusion peut être poursuivie pendant une période allant jusqu'à 4 heures)."
+emea-fr-dev_00519,518,4,Angiox,Angiox,2,n,y,La dose d'Angiox sera réduite si vous avez des problèmes rénaux modérés.
+emea-fr-dev_00519,518,8,vous,vous,1,y,y,La dose d'Angiox sera réduite si vous avez des problèmes rénaux modérés.
+emea-fr-dev_00520,519,2,médecin,médecin,1,y,y,Votre médecin déterminera la durée de votre traitement.
+emea-fr-dev_00522,521,8,médecin,médecin,1,y,y,"Les doses étant minutieusement vérifiées par le médecin, un surdosage est très peu probable."
+emea-fr-dev_00524,523,2,médecin,médecin,1,y,y,"Le médecin administrant et surveillant le traitement, une omission est très peu probable."
+emea-fr-dev_00525,524,15,médecin,médecin,5,y,y,"Pour toutes questions supplémentaires quant à l'utilisation de ce produit, contacter votre médecin."
+emea-fr-dev_00526,525,4,EFFETS,effet,2,n,y,QUELS SONT LES EFFETS INDESIRABLES EVENTUELS
+emea-fr-dev_00527,526,6,Angiox,Angiox,2,y,y,"Comme tous les médicaments, Angiox est susceptible d'avoir des effets indésirables."
+emea-fr-dev_00528,527,9,ceux-ci,celui-ci,4,n,y,"S'il se produit des effets indésirables, ceux-ci peuvent nécessiter des soins médicaux."
+emea-fr-dev_00529,528,12,Angiox,Angiox,2,n,y,L'effet indésirable le plus fréquemment observé avec un traitement par Angiox est un saignement.
+emea-fr-dev_00530,529,7,ils,eux,4,n,y,"Dans de très rares cas, ils peuvent entraîner la mort (moins de 1 patient sur 10 000)."
+emea-fr-dev_00530,529,16,patient,patient,1,y,y,"Dans de très rares cas, ils peuvent entraîner la mort (moins de 1 patient sur 10 000)."
+emea-fr-dev_00531,530,10,Angiox,Angiox,2,n,y,"Un saignement est plus susceptible d'avoir lieu lorsque Angiox est combiné à un autre anticoagulant ou antithrombotique (voir section 2 ""Prise d'autres médicaments"")."
+emea-fr-dev_00532,531,2,vous,vous,5,y,y,"Si vous remarquez un des effets indésirables, potentiellement sévères, suivants :"
+emea-fr-dev_00533,532,2,vous,vous,1,y,y,Lorsque vous êtes à l'hôpital : prévenez immédiatement votre médecin ou votre infirmière.
+emea-fr-dev_00533,532,11,médecin,médecin,1,y,y,Lorsque vous êtes à l'hôpital : prévenez immédiatement votre médecin ou votre infirmière.
+emea-fr-dev_00533,532,14,infirmière,infirmier,11,y,y,Lorsque vous êtes à l'hôpital : prévenez immédiatement votre médecin ou votre infirmière.
+emea-fr-dev_00534,533,9,vous,vous,1,y,y,Après votre sortie de l'hôpital : dirigez vous immédiatement au service des urgences de l'hôpital le plus proche
+emea-fr-dev_00535,534,14,patients,patient,1,y,y,"- Des saignements, effet indésirable fréquent (moins de 1 pour 10 patients traités)."
+emea-fr-dev_00537,536,9,Angiox,Angiox,2,n,y,"- Des réactions allergiques ou d'hypersensibilité à Angiox, telles que des réactions urticariennes,"
+emea-fr-dev_00539,538,12,patients,patient,1,y,y,Ces réactions sont peu fréquentes (moins de 1 pour 100 patients traités).
+emea-fr-dev_00540,539,3,thromboses,thrombose,74,n,y,- Des thromboses (caillots sanguins) qui peuvent entraîner des complications sévères comme une crise cardiaque.
+emea-fr-dev_00541,540,14,patients,patient,1,y,y,Ce sont des effets indésirables peu fréquents (moins de 1 pour 100 patients traités).
+emea-fr-dev_00542,541,24,patients,patient,1,y,y,"- Des douleurs, saignements et hémorragies au site de ponction sont des effets indésirables rares (moins de 1 pour 1000 patients traités)"
+emea-fr-dev_00543,542,2,vous,vous,5,y,y,"Si vous remarquez un des effets iindésirables, potentiellement moins sévères, suivants :"
+emea-fr-dev_00544,543,5,ce,ce,74,n,y,- Hémorragie grave (ce qui peut être due à une réduction de votre nombre de plaquettes et empêche la coagulation nécessaire de votre sang)
+emea-fr-dev_00553,552,13,patients,patient,1,y,y,Ces effets indésirables sont peu fréquents (moins de 1 pour 100 patients traités)
+emea-fr-dev_00554,553,2,vous,vous,5,y,y,"Si vous remarquez des effets indésirables non mentionnés dans cette notice, ou si certains effets indésirables deviennent graves, veuillez en informer votre médecin."
+emea-fr-dev_00554,553,25,médecin,médecin,5,y,y,"Si vous remarquez des effets indésirables non mentionnés dans cette notice, ou si certains effets indésirables deviennent graves, veuillez en informer votre médecin."
+emea-fr-dev_00555,554,3,ANGIOX,Angiox,2,n,y,COMMENT CONSERVER ANGIOX
+emea-fr-dev_00556,555,12,enfants,enfant,1,y,y,Conserver hors de la portée et de la vue des enfants.
+emea-fr-dev_00557,556,1,Angiox,Angiox,2,n,y,"Angiox ne doit pas être utilisé après la date d'expiration indiquée sur l'étiquette et le carton après le ""EXP""."
+emea-fr-dev_00562,561,1,INFORMATIONS,information,2,n,y,INFORMATIONS SUPPLEMENTAIRES
+emea-fr-dev_00563,562,4,Angiox,Angiox,2,n,y,Que contient l'Angiox
+emea-fr-dev_00567,566,1,Angiox,Angiox,2,n,y,Angiox est une poudre blanche à blanc cassé conservée dans un flacon en verre.
+emea-fr-dev_00568,567,1,Angiox,Angiox,2,y,y,Angiox est disponible en boîtes en carton de 2 et 10 flacons.
+emea-fr-dev_00569,568,3,présentations,présentation,4,n,y,Toutes les présentations peuvent ne pas être commercialisées.
+emea-fr-dev_00570,569,1,Titulaire,titulaire,1,y,y,Titulaire de l'Autorisation de mise sur le marché
+emea-fr-dev_00572,571,1,Fabricant,fabricant,1,y,y,Fabricant
+emea-fr-dev_00574,573,7,médicament,médicament,4,n,y,"Pour toute information complémentaire concernant ce médicament, veuillez prendre contact avec le représentant local du titulaire de l'autorisation de mise sur le marché."
+emea-fr-dev_00574,573,14,représentant,représentant,1,y,y,"Pour toute information complémentaire concernant ce médicament, veuillez prendre contact avec le représentant local du titulaire de l'autorisation de mise sur le marché."
+emea-fr-dev_00574,573,18,titulaire,titulaire,1,y,y,"Pour toute information complémentaire concernant ce médicament, veuillez prendre contact avec le représentant local du titulaire de l'autorisation de mise sur le marché."
