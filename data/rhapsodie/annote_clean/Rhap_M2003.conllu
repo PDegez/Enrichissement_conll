@@ -1,0 +1,998 @@
+# macrosyntax = c'est { la première journée de Jésus que nous venons d'entendre |} //+ {| la première journée où il manifeste { son autorité | ^et { la nouveauté | la bonne nouvelle | l'évangile } qui arrive avec lui } } //
+# sent_id = Rhap_M2003-1
+# text = c'est la première journée de Jésus que nous venons d'entendre, la première journée où il manifeste son autorité et la nouveauté, la bonne nouvelle, l'évangile qui arrive avec lui.
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	subj@expl	_	AlignBegin=0.24|AlignEnd=0.495|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=0.24|AlignEnd=0.495|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art|Shared=No	5	det	_	AlignBegin=0.495|AlignEnd=0.665|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	première	premier	ADJ	_	Gender=Fem|Number=Sing	5	mod	_	AlignBegin=0.665|AlignEnd=1.155|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+5	journée	journée	NOUN	_	Gender=Fem|Number=Sing	2	comp:pred	_	AlignBegin=1.155|AlignEnd=1.703999|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+6	de	de	ADP	_	_	5	udep	_	AlignBegin=1.703999|AlignEnd=1.867867|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	Jésus	Jésus	PROPN	_	_	6	comp:obj	_	AlignBegin=1.867867|AlignEnd=2.910621|ANIMACY=HUM|HUM_SCORE=2|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+8	que	que	SCONJ	_	_	2	comp:cleft	_	AlignBegin=2.910621|AlignEnd=2.985839|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+9	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	10	subj	_	AlignBegin=2.985839|AlignEnd=3.115199|ANIMACY=HUM|HUM_SCORE=1|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+10	venons	venir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	comp:obj	_	AlignBegin=3.115199|AlignEnd=3.395839|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+11	d'	de	ADP	_	_	10	comp:obl	_	AlignBegin=3.395839|AlignEnd=4.147004|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+12	entendre	entendre	VERB	_	VerbForm=Inf	11	comp:obj	_	AlignBegin=3.395839|AlignEnd=4.147004|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No|Subject=SubjRaising
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	AlignBegin=4.65|AlignEnd=4.855|Layer=Begin|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+15	première	premier	ADJ	_	Gender=Fem|Number=Sing	16	mod	_	AlignBegin=4.855|AlignEnd=5.282016|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+16	journée	journée	NOUN	_	Gender=Fem|Number=Sing	5	conj:appos	_	AlignBegin=5.282016|AlignEnd=5.925|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|TypeInherited=PredInherited|TypePara=ParaDform
+17	où	où	PRON	_	PronType=Rel	19	mod	_	AlignBegin=6.265|AlignEnd=6.382351|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+18	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	subj	_	AlignBegin=6.382351|AlignEnd=6.56|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+19	manifeste	manifester	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	mod@relcl	_	AlignBegin=6.56|AlignEnd=7.468558|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+20	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Shared=No	21	det	_	AlignBegin=7.468558|AlignEnd=7.740115|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+21	autorité	autorité	NOUN	_	Gender=Fem|Number=Sing	19	comp:obj	_	AlignBegin=7.740115|AlignEnd=8.6|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+22	et	et	CCONJ	_	_	24	cc	_	AlignBegin=9.038897|AlignEnd=9.163897|Layer=Begin|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+23	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	AlignBegin=9.163897|AlignEnd=9.313897|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+24	nouveauté	nouveauté	NOUN	_	Gender=Fem|Number=Sing	21	conj:coord	_	AlignBegin=9.313897|AlignEnd=10.065|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No|TypeInherited= ObjInherited|TypePara=ParaCoord
+25	,	,	PUNCT	_	_	28	punct	_	_
+26	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	AlignBegin=10.199979|AlignEnd=10.494979|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+27	bonne	bon	ADJ	_	Gender=Fem|Number=Sing	28	mod	_	AlignBegin=10.494979|AlignEnd=10.734979|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+28	nouvelle	nouvelle	NOUN	_	Gender=Fem|Number=Sing	24	conj:coord	_	AlignBegin=10.734979|AlignEnd=11.255527|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No|TypeInherited= ObjInherited|TypePara=ParaHyper
+29	,	,	PUNCT	_	_	31	punct	_	_
+30	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	31	det	_	AlignBegin=11.303706|AlignEnd=12.188706|Layer=Begin|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+31	évangile	évangile	NOUN	_	Gender=Masc|Number=Sing	28	conj:coord	_	AlignBegin=11.303706|AlignEnd=12.188706|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|TypeInherited= ObjInherited|TypePara=ParaHyper
+32	qui	qui	PRON	_	PronType=Rel	33	subj	_	AlignBegin=12.468541|AlignEnd=12.613541|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=tail
+33	arrive	arriver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	mod@relcl	_	AlignBegin=12.613541|AlignEnd=13.121141|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|TypeInherited=DepInherited
+34	avec	avec	ADP	_	_	33	mod	_	AlignBegin=13.335|AlignEnd=13.66|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+35	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	comp:obj	_	AlignBegin=13.66|AlignEnd=13.965|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+36	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = ^et vous l'avez remarqué en écoutant l'évangile //
+# sent_id = Rhap_M2003-2
+# text = et vous l'avez remarqué en écoutant l'évangile.
+1	et	et	CCONJ	_	_	4	cc	_	AlignBegin=15.267276|AlignEnd=15.332276|Intro_IU=U|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+2	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	4	subj	_	AlignBegin=15.332276|AlignEnd=15.442276|ANIMACY=HUM|HUM_SCORE=5|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+3	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	5	comp:obj	_	AlignBegin=15.442276|AlignEnd=15.662276|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+4	avez	avoir	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=15.442276|AlignEnd=15.662276|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+5	remarqué	remarquer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	comp:aux@tense	_	AlignBegin=15.662276|AlignEnd=16.132276|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+6	en	en	ADP	_	_	4	mod	_	AlignBegin=16.132276|AlignEnd=16.212276|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+7	écoutant	écouter	VERB	_	Tense=Pres|VerbForm=Part	6	comp:obj	_	AlignBegin=16.212276|AlignEnd=16.652276|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+8	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	AlignBegin=16.652276|AlignEnd=17.402276|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+9	évangile	évangile	NOUN	_	Gender=Masc|Number=Sing	7	comp:obj	_	AlignBegin=16.652276|AlignEnd=17.402276|Nucleus=Last|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+# macrosyntax = Jésus ne dit rien avant la fin de l'épisode //
+# sent_id = Rhap_M2003-3
+# text = Jésus ne dit rien avant la fin de l'épisode.
+1	Jésus	Jésus	PROPN	_	_	3	subj	_	AlignBegin=18.165|AlignEnd=18.68|ANIMACY=HUM|HUM_SCORE=2|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+2	ne	ne	ADV	_	Polarity=Neg	3	mod	_	AlignBegin=18.68|AlignEnd=18.85|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+3	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=18.85|AlignEnd=19.03|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	rien	rien	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	3	comp:obj	_	AlignBegin=19.03|AlignEnd=19.502189|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+5	avant	avant	ADP	_	_	3	mod	_	AlignBegin=20.24|AlignEnd=20.535|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	AlignBegin=20.535|AlignEnd=20.665|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	fin	fin	NOUN	_	Gender=Fem|Number=Sing	5	comp:obj	_	AlignBegin=20.665|AlignEnd=21.035|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+8	de	de	ADP	_	_	7	udep	_	AlignBegin=21.035|AlignEnd=21.135|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+9	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	AlignBegin=21.135|AlignEnd=21.898185|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+10	épisode	épisode	NOUN	_	Gender=Masc|Number=Sing	8	comp:obj	_	AlignBegin=21.135|AlignEnd=21.898185|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = il agit //
+# sent_id = Rhap_M2003-4
+# text = il agit.
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	subj@expl	_	AlignBegin=22.966663|AlignEnd=23.271663|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Strong
+2	agit	agir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=23.271663|AlignEnd=23.820737|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = il fait ( d'abord ) lever la belle-mère de Pierre //
+# sent_id = Rhap_M2003-5
+# text = il fait, d'abord, lever la belle-mère de Pierre.
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	subj@caus	_	AlignBegin=24.655|AlignEnd=24.852212|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	fait	faire	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=24.852212|AlignEnd=25.15|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	d'	de	ADP	_	_	7	mod	_	AlignBegin=25.15|AlignEnd=25.835267|Innucleus=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+5	abord	abord	NOUN	_	Gender=Masc|Number=Sing	4	comp:obj	_	AlignBegin=25.15|AlignEnd=25.835267|Innucleus=Last|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	lever	lever	VERB	_	VerbForm=Inf	2	comp:aux@caus	_	AlignBegin=25.95|AlignEnd=26.595|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|Subject=ObjRaising
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	AlignBegin=26.595|AlignEnd=26.722618|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+9	belle	belle	NOUN	_	Gender=Fem|Number=Sing	7	comp:obj	_	AlignBegin=26.722618|AlignEnd=26.955|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+10	mère	mère	NOUN	_	Gender=Fem|Number=Sing	9	flat@dev	_	AlignBegin=26.955|AlignEnd=27.215|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+11	de	de	ADP	_	_	9	udep	_	AlignBegin=27.215|AlignEnd=27.335|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+12	Pierre	Pierre	PROPN	_	_	10	comp:obj	_	AlignBegin=27.335|AlignEnd=27.950743|Nucleus=Last|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=tail|SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = ^et sa fièvre la quitte //
+# sent_id = Rhap_M2003-6
+# text = et sa fièvre la quitte.
+1	et	et	CCONJ	_	_	5	cc	_	AlignBegin=28.43|AlignEnd=28.525|Intro_IU=U|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	3	det	_	AlignBegin=28.525|AlignEnd=28.715|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+3	fièvre	fièvre	NOUN	_	Gender=Fem|Number=Sing	5	subj	_	AlignBegin=28.715|AlignEnd=29.335|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+4	la	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	comp:obj	_	AlignBegin=29.335|AlignEnd=29.581325|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	quitte	quitter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=29.581325|AlignEnd=30.05287|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# macrosyntax = il guérit ensuite toutes sortes de malades > comme [ plus tard <+ dans l'évangile <+ il acceptera { de se laisser toucher | ^ou de bénir en imposant les mains } ] //
+# sent_id = Rhap_M2003-7
+# text = il guérit ensuite toutes sortes de malades comme plus tard, dans l'évangile, il acceptera de se laisser toucher ou de bénir en imposant les mains.
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	subj	_	AlignBegin=31.02958|AlignEnd=31.19458|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	guérit	guérir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=31.19458|AlignEnd=31.74458|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+3	ensuite	ensuite	ADV	_	_	2	mod	_	AlignBegin=31.74458|AlignEnd=32.28458|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+4	toutes	tout	DET	_	Gender=Fem|Number=Plur|PronType=Ind	5	det	_	AlignBegin=32.28458|AlignEnd=32.50458|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+5	sortes	sorte	NOUN	_	Gender=Fem|Number=Plur	2	comp:obj	_	AlignBegin=32.50458|AlignEnd=33.149227|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=tail
+6	de	de	ADP	_	_	5	udep	_	AlignBegin=33.346321|AlignEnd=33.491321|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=tail
+7	malades	malade	NOUN	_	Gender=Masc|Number=Plur	6	comp:obj	_	AlignBegin=33.491321|AlignEnd=34.134697|Nucleus=Last|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+8	comme	comme	ADP	_	_	2	mod	_	AlignBegin=34.813367|AlignEnd=35.058367|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+9	plus	plus	ADV	_	_	10	mod	_	AlignBegin=35.058367|AlignEnd=35.268367|GovNucleus=Begin|IU_embedded=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+10	tard	tard	ADV	_	_	17	mod	_	AlignBegin=35.268367|AlignEnd=35.558367|GovNucleus=Last|IU_embedded=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	dans	dans	ADP	_	_	10	mod	_	AlignBegin=35.558367|AlignEnd=35.678367|GovNucleus=Begin|IU_embedded=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+13	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	14	det	_	AlignBegin=35.678367|AlignEnd=36.503996|GovNucleus=In|IU_embedded=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+14	évangile	évangile	NOUN	_	Gender=Masc|Number=Sing	12	comp:obj	_	AlignBegin=35.678367|AlignEnd=36.503996|GovNucleus=Last|IU_embedded=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+15	,	,	PUNCT	_	_	10	punct	_	_
+16	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	subj	_	AlignBegin=36.68357|AlignEnd=36.78857|IU_embedded=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+17	acceptera	accepter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	comp:obj	_	AlignBegin=36.78857|AlignEnd=37.53857|IU_embedded=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+18	de	de	ADP	_	_	17	comp:obl	_	AlignBegin=37.53857|AlignEnd=37.64857|IU_embedded=In|Layer=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+19	se	soi	PRON	_	Person=3|PronType=Prs	21	comp:obj	_	AlignBegin=37.64857|AlignEnd=37.84857|IU_embedded=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+20	laisser	laisser	VERB	_	VerbForm=Inf	18	comp:obj	_	AlignBegin=37.84857|AlignEnd=38.23342|IU_embedded=In|Layer=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|Subject=SubjRaising
+21	toucher	toucher	VERB	_	VerbForm=Inf	20	comp:obj	_	AlignBegin=38.23342|AlignEnd=38.921473|IU_embedded=In|Layer=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|Subject=SubjRaising
+22	ou	ou	CCONJ	_	_	23	cc	_	AlignBegin=39.455817|AlignEnd=39.560817|IU_embedded=In|Layer=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+23	de	de	ADP	_	_	18	conj:coord	_	AlignBegin=39.560817|AlignEnd=39.740817|IU_embedded=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|TypeInherited=OblInherited|TypePara=ParaCoord
+24	bénir	bénir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	23	comp:obj	_	AlignBegin=39.740817|AlignEnd=40.40932|IU_embedded=In|Layer=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+25	en	en	ADP	_	_	24	mod	_	AlignBegin=40.490817|AlignEnd=40.620817|IU_embedded=In|Layer=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+26	imposant	imposer	VERB	_	Tense=Pres|VerbForm=Part	25	comp:obj	_	AlignBegin=40.620817|AlignEnd=41.630817|IU_embedded=In|Layer=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+27	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	28	det	_	AlignBegin=41.630817|AlignEnd=41.810817|IU_embedded=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+28	mains	main	NOUN	_	Gender=Fem|Number=Plur	26	comp:obj	_	AlignBegin=41.810817|AlignEnd=42.136086|IU_embedded=Last|Layer=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+29	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = il chasse { beaucoup d'esprits | >+ ce qui fait du mal aux gens } //
+# sent_id = Rhap_M2003-8
+# text = il chasse beaucoup d'esprits, ce qui fait du mal aux gens.
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	subj	_	AlignBegin=43.287782|AlignEnd=43.422782|ANIMACY=HUM|HUM_SCORE=4|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	chasse	chasser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=43.422782|AlignEnd=43.812782|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+3	beaucoup	beaucoup	ADV	_	_	2	comp:obj	_	AlignBegin=43.812782|AlignEnd=44.202782|Layer=Begin|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+4	d'	de	ADP	_	_	3	comp:obl	_	AlignBegin=44.202782|AlignEnd=44.860154|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+5	esprits	esprit	NOUN	_	Gender=Masc|Number=Plur	4	comp:obj	_	AlignBegin=44.202782|AlignEnd=44.860154|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	dislocated	_	AlignBegin=45.398878|AlignEnd=45.493878|GovPostnucleus=Begin|Hesitation=Pause|Layer=Begin|ProminenceFinal=Pause|ProminenceInitial=Pause|RhythmGroup=Strong|TypeInherited= ObjInherited|TypePara=ParaDform
+8	qui	qui	PRON	_	PronType=Rel	9	subj	_	AlignBegin=45.493878|AlignEnd=45.653878|GovPostnucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+9	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	mod@relcl	_	AlignBegin=45.653878|AlignEnd=45.773878|GovPostnucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+10	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	AlignBegin=45.773878|AlignEnd=45.923878|GovPostnucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+11	mal	mal	NOUN	_	Gender=Masc|Number=Sing	9	comp:obj	_	AlignBegin=45.923878|AlignEnd=46.133878|GovPostnucleus=In|Layer=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+12	aux	au	ADP	_	_	9	comp:obl	_	AlignBegin=46.133878|AlignEnd=46.273878|GovPostnucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+13	gens	gens	NOUN	_	Gender=Masc|Number=Plur	12	comp:obj	_	AlignBegin=46.273878|AlignEnd=46.56|ANIMACY=HUM|GovPostnucleus=Last|HUM_SCORE=1|Layer=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = { avant de parler | avant toute parole } <+ la vie de Jésus { est une action //+ | est une action salutaire } //
+# sent_id = Rhap_M2003-9
+# text = avant de parler, avant toute parole, la vie de Jésus est une action, est une action salutaire.
+1	avant	avant	NOUN	_	Gender=Masc|Number=Sing	13	dislocated	_	AlignBegin=47.655|AlignEnd=48.11|GovNucleus=Begin|Layer=Begin|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|TypeInherited=AdInherited
+2	de	de	ADP	_	_	1	udep	_	AlignBegin=48.11|AlignEnd=48.14|GovNucleus=In|Layer=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+3	parler	parler	VERB	_	VerbForm=Inf	2	comp:obj	_	AlignBegin=48.14|AlignEnd=48.615|GovNucleus=In|Layer=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No|Subject=NoRaising
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	avant	avant	ADP	_	_	1	conj:dicto	_	AlignBegin=49.625|AlignEnd=49.91|GovNucleus=In|Layer=Begin|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak|TypeInherited=AdInherited|TypePara=ParaReform
+6	toute	tout	DET	_	Gender=Fem|Number=Sing|PronType=Ind	7	det	_	AlignBegin=49.91|AlignEnd=50.21|GovNucleus=In|Layer=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+7	parole	parole	NOUN	_	Gender=Fem|Number=Sing	5	comp:obj	_	AlignBegin=50.21|AlignEnd=50.688086|GovNucleus=Last|Layer=Last|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+8	,	,	PUNCT	_	_	1	punct	_	_
+9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	AlignBegin=50.83|AlignEnd=50.98|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+10	vie	vie	NOUN	_	Gender=Fem|Number=Sing|Shared=Yes	13	subj	_	AlignBegin=50.98|AlignEnd=51.2|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|TypeInherited=SubInherited
+11	de	de	ADP	_	_	10	udep	_	AlignBegin=51.2|AlignEnd=51.325353|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12	Jésus	Jésus	PROPN	_	_	11	comp:obj	_	AlignBegin=51.325353|AlignEnd=51.845624|ANIMACY=HUM|HUM_SCORE=2|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+13	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=52.19|AlignEnd=52.325|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+14	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	AlignBegin=52.325|AlignEnd=52.435|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+15	action	action	NOUN	_	Gender=Fem|Number=Sing	13	comp:pred	_	AlignBegin=52.435|AlignEnd=52.935|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	conj:dicto	_	AlignBegin=53.95|AlignEnd=54.055|Layer=Begin|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak|TypeInherited=RootInherited|TypePara=ParaDform
+18	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	AlignBegin=54.055|AlignEnd=54.185|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+19	action	action	NOUN	_	Gender=Fem|Number=Sing	17	comp:pred	_	AlignBegin=54.185|AlignEnd=54.637298|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+20	salutaire	salutaire	ADJ	_	Gender=Fem|Number=Sing	19	mod	_	AlignBegin=54.637298|AlignEnd=55.425|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+21	.	.	PUNCT	_	_	13	punct	_	_
+
+# macrosyntax = tout chez lui est fait { de compassion | ^et non { de violence | ^ou de châtiment } } //
+# sent_id = Rhap_M2003-10
+# text = tout chez lui est fait de compassion et non de violence ou de châtiment.
+1	tout	tout	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	subj@pass	_	AlignBegin=56.967148|AlignEnd=57.132148|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+2	chez	chez	ADP	_	_	4	mod	_	AlignBegin=57.132148|AlignEnd=57.412148|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=silent-pause
+3	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	comp:obj	_	AlignBegin=57.412148|AlignEnd=57.922148|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=silent-pause
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=57.922148|AlignEnd=58.072228|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	fait	faire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	comp:aux@pass	_	AlignBegin=58.072228|AlignEnd=58.292148|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+6	de	de	ADP	_	_	5	comp:obl	_	AlignBegin=58.292148|AlignEnd=58.472148|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	compassion	compassion	NOUN	_	Gender=Fem|Number=Sing	6	comp:obj	_	AlignBegin=58.472148|AlignEnd=59.17|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+8	et	et	CCONJ	_	_	10	cc	_	AlignBegin=60.082067|AlignEnd=60.157067|Layer=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+9	non	non	ADV	_	Polarity=Neg	11	discourse	_	AlignBegin=60.157067|AlignEnd=60.397067|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+10	de	de	ADP	_	_	6	conj:coord	_	AlignBegin=60.397067|AlignEnd=60.525833|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|TypeInherited=OblInherited|TypePara=ParaCoord
+11	violence	violence	NOUN	_	Gender=Fem|Number=Sing	10	comp:obj	_	AlignBegin=60.525833|AlignEnd=61.167067|Layer=Last|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12	ou	ou	CCONJ	_	_	13	cc	_	AlignBegin=61.167067|AlignEnd=61.217067|Layer=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+13	de	de	ADP	_	_	10	conj:coord	_	AlignBegin=61.217067|AlignEnd=61.327929|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|TypeInherited=OblInherited|TypePara=ParaCoord
+14	châtiment	châtiment	NOUN	_	Gender=Masc|Number=Sing	13	comp:obj	_	AlignBegin=61.327929|AlignEnd=61.875|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+# macrosyntax = en fait < tout l'évangile nous montre un Jésus qui remet l'humanité debout //
+# sent_id = Rhap_M2003-11
+# text = en fait, tout l'évangile nous montre un Jésus qui remet l'humanité debout.
+1	en	en	ADP	_	ExtPos=ADV	8	discourse	_	AlignBegin=63.38|AlignEnd=63.485|Idiom=Yes|Prenucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=tail
+2	fait	fait	NOUN	_	Gender=Masc|Number=Sing	1	comp:obj	_	AlignBegin=63.485|AlignEnd=63.975559|InIdiom=Yes|Prenucleus=Last|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=tail|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	tout	tout	ADJ	_	Gender=Masc|Number=Sing	6	mod	_	AlignBegin=64.62816|AlignEnd=64.76316|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+5	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	6	det	_	AlignBegin=64.76316|AlignEnd=65.532175|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+6	évangile	évangile	NOUN	_	Gender=Masc|Number=Sing	8	subj	_	AlignBegin=64.76316|AlignEnd=65.532175|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	8	comp:obl	_	AlignBegin=65.532175|AlignEnd=65.707789|ANIMACY=HUM|HUM_SCORE=5|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	montre	montrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=65.707789|AlignEnd=66.01316|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+9	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	AlignBegin=66.01316|AlignEnd=66.10316|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+10	Jésus	Jésus	PROPN	_	_	8	comp:obj	_	AlignBegin=66.10316|AlignEnd=66.721527|ANIMACY=HUM|HUM_SCORE=72|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+11	qui	qui	PRON	_	PronType=Rel	12	subj	_	AlignBegin=67.150754|AlignEnd=67.315754|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+12	remet	remettre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	mod@relcl	_	AlignBegin=67.315754|AlignEnd=67.665754|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+13	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	14	det	_	AlignBegin=67.665754|AlignEnd=68.390098|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+14	humanité	humanité	NOUN	_	Gender=Fem|Number=Sing	12	comp:obj	_	AlignBegin=67.665754|AlignEnd=68.390098|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+15	debout	debout	ADJ	_	_	12	comp:pred	_	AlignBegin=68.390098|AlignEnd=69.038685|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+16	.	.	PUNCT	_	_	8	punct	_	_
+
+# macrosyntax = ^et aujourd'hui <+ dans sa première journée <+ il fait de la belle-mère de Pierre une des toutes premières disciples //
+# sent_id = Rhap_M2003-12
+# text = et aujourd'hui, dans sa première journée, il fait de la belle-mère de Pierre une des toutes premières disciples.
+1	et	et	CCONJ	_	_	10	cc	_	AlignBegin=70.094024|AlignEnd=70.20764|Intro_IU=U|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	aujourd'hui	aujourd'hui	ADV	_	_	10	mod	_	AlignBegin=70.20764|AlignEnd=70.932911|GovNucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	dans	dans	ADP	_	_	10	mod	_	AlignBegin=70.932911|AlignEnd=71.079024|GovNucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	7	det	_	AlignBegin=71.079024|AlignEnd=71.249024|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+6	première	premier	ADJ	_	Gender=Fem|Number=Sing	7	mod	_	AlignBegin=71.249024|AlignEnd=71.719024|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+7	journée	journée	NOUN	_	Gender=Fem|Number=Sing	4	comp:obj	_	AlignBegin=71.719024|AlignEnd=72.262058|GovNucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+8	,	,	PUNCT	_	_	4	punct	_	_
+9	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	subj	_	AlignBegin=72.655|AlignEnd=72.840965|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+10	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=72.840965|AlignEnd=73.11|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+11	de	de	ADP	_	_	10	comp:obl	_	AlignBegin=73.11|AlignEnd=73.23|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+12	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	AlignBegin=73.23|AlignEnd=73.43|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+13	belle	belle	NOUN	_	Gender=Fem|Number=Sing	11	comp:obj	_	AlignBegin=73.43|AlignEnd=73.59|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+14	mère	mère	NOUN	_	Gender=Fem|Number=Sing	13	flat@dev	_	AlignBegin=73.59|AlignEnd=73.82|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+15	de	de	ADP	_	_	13	udep	_	AlignBegin=73.82|AlignEnd=73.95|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+16	Pierre	Pierre	PROPN	_	_	14	comp:obj	_	AlignBegin=73.95|AlignEnd=74.41|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+17	une	un	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Ind	10	comp:obj	_	AlignBegin=74.531663|AlignEnd=74.756663|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+18	des	de	ADP	_	_	16	comp:obl	_	AlignBegin=74.756663|AlignEnd=74.878204|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+19	toutes	tout	ADJ	_	Gender=Fem|Number=Plur	20	mod	_	AlignBegin=74.878204|AlignEnd=75.206663|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+20	premières	premier	ADJ	_	Gender=Fem|Number=Plur	20	mod	_	AlignBegin=75.266663|AlignEnd=75.676663|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=tail
+21	disciples	disciple	NOUN	_	Gender=Fem|Number=Plur	17	comp:obj	_	AlignBegin=75.676663|AlignEnd=76.335|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Last|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+22	.	.	PUNCT	_	_	10	punct	_	_
+
+# macrosyntax = { l'évangile | la bonne nouvelle ( comme le répète l'apôtre Paul // ) | la bonne nouvelle en la personne de Jésus } < c'est ( d'abord ) { une action //+ | une action pour restaurer la dignité de la personne humaine //+ | une action pour rétablir la personne en sa qualité de sujet de parole //+ | une action pour rétablir { les uns | ^et les autres } dans les relations { avec les uns | ^et avec les autres } } //
+# sent_id = Rhap_M2003-13
+# text = l'évangile, la bonne nouvelle, comme le répète l'apôtre Paul, la bonne nouvelle en la personne de Jésus, c'est, d'abord, une action, une action pour restaurer la dignité de la personne humaine, une action pour rétablir la personne en sa qualité de sujet de parole, une action pour rétablir les uns et les autres dans les relations avec les uns et avec les autres.
+1	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art|Shared=No	2	det	_	AlignBegin=78.208874|AlignEnd=78.933874|Layer=Begin|Prenucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak|SpaceAfter=No
+2	évangile	évangile	NOUN	_	Gender=Masc|Number=Sing	25	dislocated	_	AlignBegin=78.208874|AlignEnd=78.933874|Layer=Last|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	AlignBegin=78.933874|AlignEnd=79.151106|Layer=Begin|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+5	bonne	bon	ADJ	_	Gender=Fem|Number=Sing	6	mod	_	AlignBegin=79.151106|AlignEnd=79.387805|Layer=In|Prenucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+6	nouvelle	nouvelle	NOUN	_	Gender=Fem|Number=Sing	2	conj:appos	_	AlignBegin=79.387805|AlignEnd=79.993874|Layer=In|Prenucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No|TypeInherited=RootInherited|TypePara=ParaDform
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	comme	comme	SCONJ	_	_	25	mod	_	AlignBegin=79.993874|AlignEnd=80.163874|IU_parenthesis=Begin|Layer=In|Nucleus=Begin|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+9	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	comp:obj	_	AlignBegin=80.163874|AlignEnd=80.253874|IU_parenthesis=In|Layer=In|Nucleus=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+10	répète	répéter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	comp:obj	_	AlignBegin=80.253874|AlignEnd=80.743874|IU_parenthesis=In|Layer=In|Nucleus=In|Prenucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+11	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	AlignBegin=80.743874|AlignEnd=81.305784|IU_parenthesis=In|Layer=In|Nucleus=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+12	apôtre	apôtre	NOUN	_	Gender=Masc|Number=Sing	10	subj	_	AlignBegin=80.743874|AlignEnd=81.305784|ANIMACY=HUM|HUM_SCORE=5|IU_parenthesis=In|Layer=In|Nucleus=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+13	Paul	Paul	PROPN	_	_	12	mod@appos	_	AlignBegin=81.305784|AlignEnd=81.742175|ANIMACY=HUM|HUM_SCORE=2|IU_parenthesis=Last|Layer=Last|Nucleus=Last|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=tail|SpaceAfter=No
+14	,	,	PUNCT	_	_	8	punct	_	_
+15	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	AlignBegin=82.293829|AlignEnd=82.398829|Layer=Begin|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+16	bonne	bon	ADJ	_	Gender=Fem|Number=Sing	17	mod	_	AlignBegin=82.398829|AlignEnd=82.708829|Layer=In|Prenucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+17	nouvelle	nouvelle	NOUN	_	Gender=Fem|Number=Sing	6	conj:dicto	_	AlignBegin=82.708829|AlignEnd=83.068829|Layer=In|Prenucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|TypeInherited=RootInherited|TypePara=ParaReform
+18	en	en	ADP	_	_	17	udep	_	AlignBegin=83.068829|AlignEnd=83.158829|Layer=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+19	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	AlignBegin=83.158829|AlignEnd=83.318829|Layer=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+20	personne	personne	NOUN	_	Gender=Fem|Number=Sing	18	comp:obj	_	AlignBegin=83.318829|AlignEnd=83.708829|ANIMACY=HUM|HUM_SCORE=1|Layer=In|Prenucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+21	de	de	ADP	_	_	20	udep	_	AlignBegin=83.708829|AlignEnd=83.822617|Layer=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+22	Jésus	Jésus	PROPN	_	_	21	comp:obj	_	AlignBegin=83.822617|AlignEnd=84.33|ANIMACY=HUM|HUM_SCORE=2|Layer=Last|Prenucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+23	,	,	PUNCT	_	_	25	punct	_	_
+24	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	25	subj	_	AlignBegin=84.593259|AlignEnd=84.788259|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+25	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=84.593259|AlignEnd=84.788259|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	_
+27	d'	de	ADP	_	_	25	mod	_	AlignBegin=84.788259|AlignEnd=85.342007|Innucleus=Begin|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+28	abord	abord	NOUN	_	Gender=Masc|Number=Sing	27	comp:obj	_	AlignBegin=84.788259|AlignEnd=85.342007|Innucleus=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+29	,	,	PUNCT	_	_	31	punct	_	_
+30	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art|Shared=No	31	det	_	AlignBegin=85.477783|AlignEnd=85.612783|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+31	action	action	NOUN	_	Gender=Fem|Number=Sing	25	comp:pred	_	AlignBegin=85.612783|AlignEnd=86.125|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+32	,	,	PUNCT	_	_	34	punct	_	_
+33	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	34	det	_	AlignBegin=87.028256|AlignEnd=87.093256|Layer=Begin|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+34	action	action	NOUN	_	Gender=Fem|Number=Sing	31	conj:appos	_	AlignBegin=87.093256|AlignEnd=87.593256|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|TypeInherited=PredInherited|TypePara=ParaDform
+35	pour	pour	ADP	_	_	34	udep	_	AlignBegin=87.593256|AlignEnd=87.773256|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|TypeInherited=DepInherited
+36	restaurer	restaurer	VERB	_	VerbForm=Inf	35	comp:obj	_	AlignBegin=87.773256|AlignEnd=88.52|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|Subject=NoRaising
+37	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	38	det	_	AlignBegin=88.807108|AlignEnd=88.952108|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+38	dignité	dignité	NOUN	_	Gender=Fem|Number=Sing	36	comp:obj	_	AlignBegin=88.952108|AlignEnd=89.487689|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+39	de	de	ADP	_	_	38	udep	_	AlignBegin=89.487689|AlignEnd=89.529298|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+40	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	_	AlignBegin=89.529298|AlignEnd=89.654392|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+41	personne	personne	NOUN	_	Gender=Fem|Number=Sing	39	comp:obj	_	AlignBegin=89.654392|AlignEnd=90.042108|ANIMACY=HUM|HUM_SCORE=1|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+42	humaine	humain	ADJ	_	Gender=Fem|Number=Sing	41	mod	_	AlignBegin=90.042108|AlignEnd=90.594094|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+43	,	,	PUNCT	_	_	45	punct	_	_
+44	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	45	det	_	AlignBegin=91.312182|AlignEnd=91.387182|Layer=Begin|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+45	action	action	NOUN	_	Gender=Fem|Number=Sing	31	conj:appos	_	AlignBegin=91.387182|AlignEnd=92.13|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|TypeInherited=PredInherited|TypePara=ParaDform
+46	pour	pour	ADP	_	_	45	udep	_	AlignBegin=92.37211|AlignEnd=92.62711|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+47	rétablir	rétablir	VERB	_	VerbForm=Inf	46	comp:obj	_	AlignBegin=92.62711|AlignEnd=93.64711|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|Subject=NoRaising
+48	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	49	det	_	AlignBegin=93.64711|AlignEnd=93.84711|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+49	personne	personne	NOUN	_	Gender=Fem|Number=Sing	47	comp:obj	_	AlignBegin=93.84711|AlignEnd=94.22711|ANIMACY=HUM|HUM_SCORE=1|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+50	en	en	ADP	_	_	47	mod	_	AlignBegin=94.22711|AlignEnd=94.35711|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+51	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	52	det	_	AlignBegin=94.35711|AlignEnd=94.564656|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+52	qualité	qualité	NOUN	_	Gender=Fem|Number=Sing	50	comp:obj	_	AlignBegin=94.564656|AlignEnd=95.06711|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+53	de	de	ADP	_	_	52	udep	_	AlignBegin=95.06711|AlignEnd=95.17711|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+54	sujet	sujet	NOUN	_	Gender=Masc|Number=Sing	53	comp:obj	_	AlignBegin=95.17711|AlignEnd=95.73711|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=tail
+55	de	de	ADP	_	_	54	udep	_	AlignBegin=95.73711|AlignEnd=95.85711|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+56	parole	parole	NOUN	_	Gender=Fem|Number=Sing	55	comp:obj	_	AlignBegin=95.85711|AlignEnd=96.519635|Layer=Last|Nucleus=Last|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+57	,	,	PUNCT	_	_	59	punct	_	_
+58	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	59	det	_	AlignBegin=97.588114|AlignEnd=97.663114|Layer=Begin|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+59	action	action	NOUN	_	Gender=Fem|Number=Sing	31	conj:appos	_	AlignBegin=97.663114|AlignEnd=98.133114|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|TypeInherited=PredInherited|TypePara=ParaDform
+60	pour	pour	ADP	_	_	59	udep	_	AlignBegin=98.133114|AlignEnd=98.343114|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+61	rétablir	rétablir	VERB	_	VerbForm=Inf	60	comp:obj	_	AlignBegin=98.343114|AlignEnd=99.221804|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|Subject=NoRaising
+62	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art|Shared=No	63	det	_	AlignBegin=99.423069|AlignEnd=99.594857|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+63	uns	un	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Ind	61	comp:obj	_	AlignBegin=99.594857|AlignEnd=99.778069|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+64	et	et	CCONJ	_	_	66	cc	_	AlignBegin=99.778069|AlignEnd=99.858069|Layer=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+65	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	66	det	_	AlignBegin=99.858069|AlignEnd=99.978069|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+66	autres	autre	PRON	_	Number=Plur|Person=3|PronType=Ind	63	conj:coord	_	AlignBegin=99.978069|AlignEnd=100.278069|ANIMACY=HUM|HUM_SCORE=1|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|TypeInherited= ObjInherited|TypePara=ParaCoord
+67	dans	dans	ADP	_	_	61	mod	_	AlignBegin=100.278069|AlignEnd=100.468069|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+68	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	69	det	_	AlignBegin=100.468069|AlignEnd=100.608069|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+69	relations	relation	NOUN	_	Gender=Fem|Number=Plur	67	comp:obj	_	AlignBegin=100.608069|AlignEnd=101.36335|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+70	avec	avec	ADP	_	_	69	udep	_	AlignBegin=102.147346|AlignEnd=102.432346|Layer=Begin|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Strong
+71	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	72	det	_	AlignBegin=102.432346|AlignEnd=102.612346|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+72	uns	un	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Ind	70	comp:obj	_	AlignBegin=102.612346|AlignEnd=102.861055|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+73	et	et	CCONJ	_	_	74	cc	_	AlignBegin=102.979312|AlignEnd=103.064312|Layer=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+74	avec	avec	ADP	_	_	70	conj:coord	_	AlignBegin=103.064312|AlignEnd=103.294312|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|TypeInherited=DepInherited|TypePara=ParaCoord
+75	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	76	det	_	AlignBegin=103.294312|AlignEnd=103.454312|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+76	autres	autre	PRON	_	Number=Plur|Person=3|PronType=Ind	74	comp:obj	_	AlignBegin=103.454312|AlignEnd=103.863661|ANIMACY=HUM|HUM_SCORE=1|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+77	.	.	PUNCT	_	_	25	punct	_	_
+
+# macrosyntax = Jésus ne pose même pas ses gestes de bonté comme des appels à la foi //
+# sent_id = Rhap_M2003-14
+# text = Jésus ne pose même pas ses gestes de bonté comme des appels à la foi.
+1	Jésus	Jésus	PROPN	_	_	3	subj	_	AlignBegin=104.69184|AlignEnd=105.283122|ANIMACY=HUM|HUM_SCORE=2|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+2	ne	ne	ADV	_	Polarity=Neg	3	mod	_	AlignBegin=105.769078|AlignEnd=105.884078|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+3	pose	poser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=105.884078|AlignEnd=106.184078|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+4	même	même	ADV	_	_	3	mod	_	AlignBegin=106.184078|AlignEnd=106.439644|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Weak
+5	pas	pas	ADV	_	Polarity=Neg	3	mod	_	AlignBegin=106.439644|AlignEnd=106.584078|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+6	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	7	det	_	AlignBegin=106.584078|AlignEnd=106.794078|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	gestes	geste	NOUN	_	Gender=Masc|Number=Plur	3	comp:obj	_	AlignBegin=106.794078|AlignEnd=107.154078|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+8	de	de	ADP	_	_	7	udep	_	AlignBegin=107.154078|AlignEnd=107.294078|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+9	bonté	bonté	NOUN	_	Gender=Fem|Number=Sing	8	comp:obj	_	AlignBegin=107.294078|AlignEnd=107.694078|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+10	comme	comme	ADP	_	_	7	udep	_	AlignBegin=107.694078|AlignEnd=107.884078|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+11	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	12	det	_	AlignBegin=107.884078|AlignEnd=107.994078|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+12	appels	appel	NOUN	_	Gender=Masc|Number=Plur	10	comp:obj	_	AlignBegin=107.994078|AlignEnd=108.304078|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+13	à	à	ADP	_	_	12	udep	_	AlignBegin=108.304078|AlignEnd=108.414078|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+14	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	AlignBegin=108.414078|AlignEnd=108.524078|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+15	foi	foi	NOUN	_	Gender=Fem|Number=Sing	13	comp:obj	_	AlignBegin=108.524078|AlignEnd=108.903394|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = non //
+# sent_id = Rhap_M2003-14bis
+# text = non.
+1	non	non	ADV	_	Polarity=Neg	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# macrosyntax = en ses gestes <+ dans ce premier jour <+ il inaugure en sa personne { la venue de Dieu parmi les Hommes //+ | la venue définitive de Dieu pour rétablir l'humanité { dans sa vocation | ^et dans sa dignité } } //
+# sent_id = Rhap_M2003-15
+# text = en ses gestes, dans ce premier jour, il inaugure en sa personne la venue de Dieu parmi les Hommes, la venue définitive de Dieu pour rétablir l'humanité dans sa vocation et dans sa dignité.
+1	en	en	ADP	_	_	11	mod	_	AlignBegin=110.904784|AlignEnd=111.039784|GovNucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=tail
+2	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	3	det	_	AlignBegin=111.039784|AlignEnd=111.289784|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+3	gestes	geste	NOUN	_	Gender=Masc|Number=Plur	1	comp:obj	_	AlignBegin=111.289784|AlignEnd=112.004131|GovNucleus=Last|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=tail|SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	dans	dans	ADP	_	_	11	mod	_	AlignBegin=112.739739|AlignEnd=112.834739|GovNucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+6	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	AlignBegin=112.834739|AlignEnd=113.004739|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	premier	premier	ADJ	_	Gender=Masc|Number=Sing	8	mod	_	AlignBegin=113.004739|AlignEnd=113.474739|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+8	jour	jour	NOUN	_	Gender=Masc|Number=Sing	5	comp:obj	_	AlignBegin=113.474739|AlignEnd=114.062459|GovNucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+9	,	,	PUNCT	_	_	5	punct	_	_
+10	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	subj	_	AlignBegin=114.73|AlignEnd=114.924857|ANIMACY=HUM|HUM_SCORE=4|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+11	inaugure	inaugurer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=114.924857|AlignEnd=115.615|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=tail
+12	en	en	ADP	_	_	11	mod	_	AlignBegin=115.615|AlignEnd=115.715|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+13	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	14	det	_	AlignBegin=115.715|AlignEnd=115.911103|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+14	personne	personne	NOUN	_	Gender=Fem|Number=Sing	12	comp:obj	_	AlignBegin=115.911103|AlignEnd=116.633232|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+15	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art|Shared=No	16	det	_	AlignBegin=117.255173|AlignEnd=117.460173|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+16	venue	venue	NOUN	_	Gender=Fem|Number=Sing	11	comp:obj	_	AlignBegin=117.460173|AlignEnd=117.850173|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+17	de	de	ADP	_	_	16	udep	_	AlignBegin=117.850173|AlignEnd=118.010173|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+18	Dieu	Dieu	PROPN	_	_	17	comp:obj	_	AlignBegin=118.010173|AlignEnd=118.360173|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+19	parmi	parmi	ADP	_	_	18	mod	_	AlignBegin=118.360173|AlignEnd=118.670173|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+20	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	21	det	_	AlignBegin=118.670173|AlignEnd=118.780173|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+21	Hommes	Hommes	PROPN	_	Gender=Masc|Number=Plur	19	comp:obj	_	AlignBegin=118.780173|AlignEnd=119.217145|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	AlignBegin=119.567534|AlignEnd=119.732534|Layer=Begin|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+24	venue	venue	NOUN	_	Gender=Fem|Number=Sing	16	conj:appos	_	AlignBegin=119.732534|AlignEnd=120.250806|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|TypeInherited= ObjInherited|TypePara=ParaDform
+25	définitive	définitif	ADJ	_	Gender=Fem|Number=Sing	24	mod	_	AlignBegin=120.402534|AlignEnd=121.332534|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+26	de	de	ADP	_	_	24	udep	_	AlignBegin=121.332534|AlignEnd=121.472534|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+27	Dieu	Dieu	PROPN	_	_	26	comp:obj	_	AlignBegin=121.472534|AlignEnd=121.796261|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+28	pour	pour	ADP	_	_	24	udep	_	AlignBegin=122.238418|AlignEnd=122.435831|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+29	rétablir	rétablir	VERB	_	VerbForm=Inf	28	comp:obj	_	AlignBegin=122.435831|AlignEnd=123.173418|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak|Subject=NoRaising
+30	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	31	det	_	AlignBegin=123.173418|AlignEnd=123.898388|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+31	humanité	humanité	NOUN	_	Gender=Fem|Number=Sing	29	comp:obj	_	AlignBegin=123.173418|AlignEnd=123.898388|ANIMACY=HUM|HUM_SCORE=1|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+32	dans	dans	ADP	_	_	29	mod	_	AlignBegin=124.204978|AlignEnd=124.389978|Layer=Begin|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+33	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	34	det	_	AlignBegin=124.389978|AlignEnd=124.579978|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+34	vocation	vocation	NOUN	_	Gender=Fem|Number=Sing	32	comp:obj	_	AlignBegin=124.579978|AlignEnd=125.182346|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+35	et	et	CCONJ	_	_	36	cc	_	AlignBegin=125.182346|AlignEnd=125.259978|Layer=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+36	dans	dans	ADP	_	_	32	conj:coord	_	AlignBegin=125.259978|AlignEnd=125.439978|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|TypeInherited=AdInherited|TypePara=ParaHyper
+37	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	38	det	_	AlignBegin=125.439978|AlignEnd=125.609978|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+38	dignité	dignité	NOUN	_	Gender=Fem|Number=Sing	36	comp:obj	_	AlignBegin=125.609978|AlignEnd=126.17133|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+39	.	.	PUNCT	_	_	11	punct	_	_
+
+# macrosyntax = { son message initial au tout début de l'évangile [ convertissez-vous // le royaume de Dieu est proche de vous // ] | son message } s'inscrit aujourd'hui dans sa personne //
+# sent_id = Rhap_M2003-16
+# text = son message initial au tout début de l'évangile convertissez-vous, le royaume de Dieu est proche de vous, son message s'inscrit aujourd'hui dans sa personne.
+1	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Shared=No	2	det	_	AlignBegin=127.39|AlignEnd=127.595|Layer=Begin|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+2	message	message	NOUN	_	Gender=Masc|Number=Sing	25	subj	_	AlignBegin=127.595|AlignEnd=127.925|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|TypeInherited=SubInherited|TypePara=ParaReform
+3	initial	initial	ADJ	_	Gender=Masc|Number=Sing	2	mod	_	AlignBegin=127.925|AlignEnd=128.505388|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+4	au	au	ADP	_	_	2	udep	_	AlignBegin=128.505388|AlignEnd=128.596426|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	tout	tout	ADJ	_	Gender=Masc|Number=Sing	6	mod	_	AlignBegin=128.596426|AlignEnd=128.785|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+6	début	début	NOUN	_	Gender=Masc|Number=Sing	4	comp:obj	_	AlignBegin=128.785|AlignEnd=129.065|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+7	de	de	ADP	_	_	6	udep	_	AlignBegin=129.065|AlignEnd=129.095|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+8	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	AlignBegin=129.095|AlignEnd=129.631215|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+9	évangile	évangile	NOUN	_	Gender=Masc|Number=Sing	7	comp:obj	_	AlignBegin=129.095|AlignEnd=129.631215|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+10	convertissez	convertir	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	conj:appos	_	AlignBegin=129.843758|AlignEnd=130.539007|IU_graft=Begin|Layer=In|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Pause|Reported=Yes|RhythmGroup=Weak|SpaceAfter=No
+11	-vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	10	comp:obj	_	ANIMACY=HUM|HUM_SCORE=1|SpaceAfter=No
+12	,	,	PUNCT	_	_	17	punct	_	_
+13	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	AlignBegin=130.819007|AlignEnd=130.969007|IU_graft=In|Layer=In|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+14	royaume	royaume	NOUN	_	Gender=Masc|Number=Sing	17	subj	_	AlignBegin=130.969007|AlignEnd=131.359007|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+15	de	de	ADP	_	_	14	udep	_	AlignBegin=131.359007|AlignEnd=131.479007|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+16	Dieu	Dieu	PROPN	_	_	15	comp:obj	_	AlignBegin=131.479007|AlignEnd=131.709007|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+17	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj:coord	_	AlignBegin=131.709007|AlignEnd=131.829007|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+18	proche	proche	ADJ	_	Gender=Masc|Number=Sing	17	comp:pred	_	AlignBegin=131.829007|AlignEnd=132.069007|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+19	de	de	ADP	_	_	17	mod	_	AlignBegin=132.069007|AlignEnd=132.209007|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+20	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	19	comp:obj	_	AlignBegin=130.539007|AlignEnd=130.819007|ANIMACY=HUM|HUM_SCORE=1|IU_graft=In|Layer=In|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+21	,	,	PUNCT	_	_	23	punct	_	_
+22	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	23	det	_	AlignBegin=133.064822|AlignEnd=133.289822|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+23	message	message	NOUN	_	Gender=Masc|Number=Sing	2	conj:dicto	_	AlignBegin=133.289822|AlignEnd=133.869822|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+24	s'	soi	PRON	_	Person=3|PronType=Prs	25	comp@pass	_	AlignBegin=133.869822|AlignEnd=134.44441|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+25	inscrit	inscrire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=133.869822|AlignEnd=134.44441|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+26	aujourd'hui	aujourd'hui	ADV	_	_	25	mod	_	AlignBegin=134.44441|AlignEnd=134.957258|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+27	dans	dans	ADP	_	_	25	mod	_	AlignBegin=134.957258|AlignEnd=135.139822|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+28	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	29	det	_	AlignBegin=135.139822|AlignEnd=135.319822|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+29	personne	personne	NOUN	_	Gender=Fem|Number=Sing	27	comp:obj	_	AlignBegin=135.319822|AlignEnd=135.959705|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Last|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+30	.	.	PUNCT	_	_	25	punct	_	_
+
+# macrosyntax = il trouve sa traduction en action dans ses gestes de libération //
+# sent_id = Rhap_M2003-17
+# text = il trouve sa traduction en action dans ses gestes de libération.
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	subj	_	AlignBegin=136.494049|AlignEnd=136.696196|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=136.696196|AlignEnd=137.02918|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+3	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	4	det	_	AlignBegin=137.02918|AlignEnd=137.219049|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+4	traduction	traduction	NOUN	_	Gender=Fem|Number=Sing	2	comp:obj	_	AlignBegin=137.219049|AlignEnd=138.016323|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+5	en	en	ADP	_	_	4	udep	_	AlignBegin=138.016323|AlignEnd=138.249049|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+6	action	action	NOUN	_	Gender=Fem|Number=Sing	5	comp:obj	_	AlignBegin=138.249049|AlignEnd=138.876487|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+7	dans	dans	ADP	_	_	2	mod	_	AlignBegin=139.713042|AlignEnd=139.848042|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+8	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	9	det	_	AlignBegin=139.848042|AlignEnd=140.058042|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+9	gestes	geste	NOUN	_	Gender=Masc|Number=Plur	7	comp:obj	_	AlignBegin=140.058042|AlignEnd=140.538042|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+10	de	de	ADP	_	_	9	udep	_	AlignBegin=140.538042|AlignEnd=140.708042|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+11	libération	libération	NOUN	_	Gender=Fem|Number=Sing	10	comp:obj	_	AlignBegin=140.708042|AlignEnd=141.508042|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = plus encore < dans l'évangile d'aujourd'hui <+ Jésus s'accorde le pouvoir { de guérir | ^et de chasser les esprits mauvais } //
+# sent_id = Rhap_M2003-18
+# text = plus encore, dans l'évangile d'aujourd'hui, Jésus s'accorde le pouvoir de guérir et de chasser les esprits mauvais.
+1	plus	plus	ADV	_	_	2	mod	_	AlignBegin=142.879477|AlignEnd=143.034477|Prenucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+2	encore	encore	ADV	_	_	12	mod	_	AlignBegin=143.034477|AlignEnd=143.698303|Prenucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	dans	dans	ADP	_	_	12	mod	_	AlignBegin=144.320244|AlignEnd=144.465244|GovNucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+5	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	6	det	_	AlignBegin=144.465244|AlignEnd=144.895244|GovNucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|SpaceAfter=No
+6	évangile	évangile	NOUN	_	Gender=Masc|Number=Sing	4	comp:obj	_	AlignBegin=144.465244|AlignEnd=144.895244|GovNucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+7	d'	de	ADP	_	_	6	udep	_	AlignBegin=144.895244|AlignEnd=145.502808|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+8	aujourd'hui	aujourd'hui	ADV	_	_	7	comp:obj	_	AlignBegin=144.895244|AlignEnd=145.502808|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+9	,	,	PUNCT	_	_	4	punct	_	_
+10	Jésus	Jésus	PROPN	_	_	12	subj	_	AlignBegin=146.045912|AlignEnd=146.810912|ANIMACY=HUM|HUM_SCORE=6|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+11	s'	soi	PRON	_	Person=3|PronType=Prs	12	comp	_	AlignBegin=146.810912|AlignEnd=147.410912|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+12	accorde	accorder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=146.810912|AlignEnd=147.410912|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+13	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	AlignBegin=147.410912|AlignEnd=147.542419|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+14	pouvoir	pouvoir	NOUN	_	Gender=Masc|Number=Sing	12	comp:obj	_	AlignBegin=147.542419|AlignEnd=148.090912|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+15	de	de	ADP	_	_	14	udep	_	AlignBegin=148.090912|AlignEnd=148.220912|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+16	guérir	guérir	VERB	_	VerbForm=Inf	15	comp:obj	_	AlignBegin=148.220912|AlignEnd=148.910135|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|Subject=NoRaising
+17	et	et	CCONJ	_	_	18	cc	_	AlignBegin=149.159579|AlignEnd=149.264579|Layer=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+18	de	de	ADP	_	_	15	conj:coord	_	AlignBegin=149.264579|AlignEnd=149.344579|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|TypeInherited=DepInherited|TypePara=ParaCoord
+19	chasser	chasser	VERB	_	VerbForm=Inf	18	comp:obj	_	AlignBegin=149.344579|AlignEnd=149.794579|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|Subject=NoRaising
+20	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	21	det	_	AlignBegin=149.794579|AlignEnd=149.884579|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+21	esprits	esprit	NOUN	_	Gender=Masc|Number=Plur	19	comp:obj	_	AlignBegin=149.884579|AlignEnd=150.304579|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+22	mauvais	mauvais	ADJ	_	Gender=Masc|Number=Plur	21	mod	_	AlignBegin=150.304579|AlignEnd=150.701292|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+23	.	.	PUNCT	_	_	12	punct	_	_
+
+# macrosyntax = il n'en appelle plus { ( comme on le faisait en son temps ) |} à Salomon {| >+ comme le faisaient des guérisseurs de son temps } //
+# sent_id = Rhap_M2003-19
+# text = il n'en appelle plus, comme on le faisait en son temps, à Salomon, comme le faisaient des guérisseurs de son temps.
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	subj	_	AlignBegin=151.41959|AlignEnd=151.54459|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+2	n'	ne	ADV	_	Polarity=Neg	4	mod	_	SpaceAfter=No
+3	en	en	PRON	_	Person=3|PronType=Prs	4	comp:obj	_	AlignBegin=151.54459|AlignEnd=151.73459|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	appelle	appeler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=151.73459|AlignEnd=152.17459|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	plus	plus	ADV	_	Polarity=Neg	4	mod	_	AlignBegin=152.17459|AlignEnd=152.498242|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	comme	comme	SCONJ	_	_	4	mod	_	AlignBegin=152.498242|AlignEnd=152.65459|Innucleus=Begin|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+8	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind|Shared=No	10	subj	_	AlignBegin=152.65459|AlignEnd=152.78459|ANIMACY=HUM|HUM_SCORE=1|Innucleus=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+9	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	comp:obj	_	AlignBegin=152.78459|AlignEnd=152.88459|Innucleus=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+10	faisait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	comp:obj	_	AlignBegin=152.88459|AlignEnd=153.20459|Innucleus=In|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+11	en	en	ADP	_	_	10	mod	_	AlignBegin=153.20459|AlignEnd=153.32459|Innucleus=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	13	det	_	AlignBegin=153.32459|AlignEnd=153.60459|Innucleus=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+13	temps	temps	NOUN	_	Gender=Masc|Number=Sing	11	comp:obj	_	AlignBegin=153.60459|AlignEnd=153.902766|Innucleus=Last|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+14	,	,	PUNCT	_	_	11	punct	_	_
+15	à	à	ADP	_	_	4	comp:obl	_	AlignBegin=154.331993|AlignEnd=154.416993|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+16	Salomon	Salomon	PROPN	_	_	15	comp:obj	_	AlignBegin=154.416993|AlignEnd=155.229656|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	comme	comme	SCONJ	_	_	10	conj:dicto	_	AlignBegin=156.609314|AlignEnd=156.774314|GovPostnucleus=Begin|Layer=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak|TypeInherited=AdInherited|TypePara=ParaReform
+19	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	comp:obj	_	AlignBegin=156.774314|AlignEnd=156.844314|GovPostnucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+20	faisaient	faire	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	18	comp:obj	_	AlignBegin=156.844314|AlignEnd=157.184314|GovPostnucleus=In|Layer=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+21	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	22	det	_	AlignBegin=157.184314|AlignEnd=157.51|GovPostnucleus=In|Layer=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+22	guérisseurs	guérisseur	NOUN	_	Gender=Masc|Number=Plur	20	subj	_	AlignBegin=157.785|AlignEnd=158.43|ANIMACY=HUM|GovPostnucleus=In|HUM_SCORE=1|Layer=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+23	de	de	ADP	_	_	22	udep	_	AlignBegin=158.43|AlignEnd=158.53|GovPostnucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+24	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	25	det	_	AlignBegin=158.53|AlignEnd=158.84|GovPostnucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+25	temps	temps	NOUN	_	Gender=Masc|Number=Sing	23	comp:obj	_	AlignBegin=158.84|AlignEnd=159.08|GovPostnucleus=Last|Layer=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+26	.	.	PUNCT	_	_	4	punct	_	_
+
+# macrosyntax = il guérit de son propre chef les malades //
+# sent_id = Rhap_M2003-20
+# text = il guérit de son propre chef les malades.
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	subj	_	AlignBegin=159.929044|AlignEnd=160.09722|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	guérit	guérir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=160.09722|AlignEnd=160.534044|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+3	de	de	ADP	_	_	2	mod	_	AlignBegin=160.534044|AlignEnd=160.624044|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	6	det	_	AlignBegin=160.624044|AlignEnd=160.868009|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	propre	propre	ADJ	_	Gender=Masc|Number=Sing	6	mod	_	AlignBegin=160.868009|AlignEnd=161.294044|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+6	chef	chef	NOUN	_	Gender=Masc|Number=Sing	3	comp:obj	_	AlignBegin=161.294044|AlignEnd=161.687428|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	AlignBegin=161.687428|AlignEnd=161.824044|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+8	malades	malade	NOUN	_	Gender=Masc|Number=Plur	2	comp:obj	_	AlignBegin=161.824044|AlignEnd=162.364044|Nucleus=Last|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = c'est sa propre vie qu'il communique à ceux qu'il rencontre //=
+# sent_id = Rhap_M2003-21
+# text = c'est sa propre vie qu'il communique à ceux qu'il rencontre.
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	subj@expl	_	AlignBegin=162.828307|AlignEnd=162.977264|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=162.828307|AlignEnd=162.977264|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+3	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	5	det	_	AlignBegin=162.977264|AlignEnd=163.177548|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	propre	propre	ADJ	_	Number=Sing	5	mod	_	AlignBegin=163.177548|AlignEnd=163.703307|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+5	vie	vie	NOUN	_	Gender=Fem|Number=Sing	2	comp:pred	_	AlignBegin=163.703307|AlignEnd=163.936199|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+6	qu'	que	PRON	_	PronType=Rel	8	comp:obj	_	AlignBegin=163.936199|AlignEnd=164.206279|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+7	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	subj	_	AlignBegin=163.936199|AlignEnd=164.206279|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	communique	communiquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	comp:cleft	_	AlignBegin=164.206279|AlignEnd=164.85|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+9	à	à	ADP	_	_	8	comp:obl	_	AlignBegin=165.365|AlignEnd=165.44|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+10	ceux	celui	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Dem	9	comp:obj	_	AlignBegin=165.44|AlignEnd=165.63|ANIMACY=HUM|HUM_SCORE=70|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+11	qu'	que	PRON	_	PronType=Rel	13	comp:obj	_	AlignBegin=165.63|AlignEnd=165.81|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+12	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	subj	_	AlignBegin=165.63|AlignEnd=165.81|ANIMACY=HUM|HUM_SCORE=4|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+13	rencontre	rencontrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	mod@relcl	_	AlignBegin=165.81|AlignEnd=166.524706|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = c'est { sa propre autorité qu'il engage | l'autorité de sa vie } //+
+# sent_id = Rhap_M2003-22
+# text = c'est sa propre autorité qu'il engage, l'autorité de sa vie.
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	subj@expl	_	AlignBegin=167.028391|AlignEnd=167.193391|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=167.028391|AlignEnd=167.193391|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+3	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Shared=No	5	det	_	AlignBegin=167.193391|AlignEnd=167.373391|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	propre	propre	ADJ	_	Number=Sing	5	mod	_	AlignBegin=167.373391|AlignEnd=167.633391|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+5	autorité	autorité	NOUN	_	Gender=Fem|Number=Sing	2	comp:pred	_	AlignBegin=167.633391|AlignEnd=168.393391|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+6	qu'	que	PRON	_	PronType=Rel	8	comp:obj	_	AlignBegin=168.393391|AlignEnd=168.513391|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+7	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	subj	_	AlignBegin=168.393391|AlignEnd=168.513391|ANIMACY=HUM|HUM_SCORE=4|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+8	engage	engager	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	comp:cleft	_	AlignBegin=168.513391|AlignEnd=169.104238|Nucleus=Last|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	11	det	_	AlignBegin=169.454628|AlignEnd=170.019628|Layer=Begin|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak|SpaceAfter=No
+11	autorité	autorité	NOUN	_	Gender=Fem|Number=Sing	5	conj:appos	_	AlignBegin=169.454628|AlignEnd=170.019628|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak|TypeInherited=PredInherited|TypePara=ParaDform
+12	de	de	ADP	_	_	11	udep	_	AlignBegin=170.019628|AlignEnd=170.079628|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+13	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	14	det	_	AlignBegin=170.079628|AlignEnd=170.299628|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+14	vie	vie	NOUN	_	Gender=Fem|Number=Sing	12	comp:obj	_	AlignBegin=170.299628|AlignEnd=170.566905|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = [ je le veux //
+# sent_id = Rhap_M2003-23
+# text = je le veux.
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	subj	_	AlignBegin=170.956713|AlignEnd=171.198445|ANIMACY=HUM|HUM_SCORE=5|IU_graft=Begin|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+2	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=171.198445|AlignEnd=171.371713|IU_graft=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+3	veux	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=171.371713|AlignEnd=171.70129|IU_graft=In|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|Reported=Yes|RhythmGroup=Strong|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = sois purifié // ] entend-on dans l'évangile //
+# sent_id = Rhap_M2003-24
+# text = sois purifié, entend-on dans l'évangile.
+1	sois	être	AUX	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=172.082339|AlignEnd=172.357339|IU_graft=In|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|Reported=Yes|RhythmGroup=Strong
+2	purifié	purifier	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	comp:aux@pass	_	AlignBegin=172.357339|AlignEnd=173.135|IU_graft=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	entend	entendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis:insert	_	AlignBegin=173.604655|AlignEnd=173.999655|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+5	-on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	subj	_	ANIMACY=HUM|HUM_SCORE=1
+6	dans	dans	ADP	_	_	4	mod	_	AlignBegin=174.169655|AlignEnd=174.299655|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	AlignBegin=174.299655|AlignEnd=174.914235|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+8	évangile	évangile	NOUN	_	Gender=Masc|Number=Sing	6	comp:obj	_	AlignBegin=174.299655|AlignEnd=174.914235|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+# macrosyntax = ^ou ^encore [ fillette < je te le dis > [ lève-toi // ] // ]
+# sent_id = Rhap_M2003-25
+# text = ou encore fillette, je te le dis lève-toi.
+1	ou	ou	CCONJ	_	_	8	cc	_	AlignBegin=175.286524|AlignEnd=175.391524|Intro_IU=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+2	encore	encore	ADV	_	_	8	mod	_	AlignBegin=175.391524|AlignEnd=175.861524|Intro_IU=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+3	fillette	fillette	NOUN	_	Gender=Fem|Number=Sing	8	dislocated	_	AlignBegin=175.861524|AlignEnd=176.345353|IU_graft=Begin|Prenucleus=U|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	subj	_	AlignBegin=176.345353|AlignEnd=176.551524|ANIMACY=HUM|HUM_SCORE=1|IU_graft=In|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+6	te	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	8	comp:obl	_	AlignBegin=176.551524|AlignEnd=176.671524|ANIMACY=HUM|HUM_SCORE=1|IU_graft=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	comp:obj	_	AlignBegin=176.671524|AlignEnd=176.781524|IU_graft=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	dis	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=176.781524|AlignEnd=177.021994|IU_graft=In|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|Reported=Yes|RhythmGroup=Strong
+9	lève	lever	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	comp:obj	_	AlignBegin=177.354655|AlignEnd=177.629655|IU_graft=Begin|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Pause|Reported=Yes|RhythmGroup=Strong|SpaceAfter=No
+10	-toi	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	9	comp:obj	_	ANIMACY=HUM|HUM_SCORE=1|SpaceAfter=No
+11	.	.	PUNCT	_	_	8	punct	_	_
+
+# macrosyntax = ^ou ^encore [ { moi | moi } < je te l'ordonne // ] //
+# sent_id = Rhap_M2003-26
+# text = ou encore moi, moi, je te l'ordonne.
+1	ou	ou	CCONJ	_	_	10	cc	_	AlignBegin=178.953306|AlignEnd=179.068306|Intro_IU=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	encore	encore	ADV	_	_	10	mod	_	AlignBegin=179.068306|AlignEnd=179.558306|Intro_IU=Last|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+3	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	dislocated	_	AlignBegin=179.558306|AlignEnd=179.975692|ANIMACY=HUM|HUM_SCORE=1|IU_graft=Begin|Layer=U|Prenucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	conj:dicto	_	AlignBegin=180.181546|AlignEnd=180.516546|ANIMACY=HUM|HUM_SCORE=1|IU_graft=In|Layer=U|Prenucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No|TypeInherited=RootInherited|TypePara=ParaIntens
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	subj	_	AlignBegin=180.516546|AlignEnd=180.696546|ANIMACY=HUM|HUM_SCORE=5|IU_graft=In|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+8	te	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	10	comp:obl	_	AlignBegin=180.696546|AlignEnd=180.856546|ANIMACY=HUM|HUM_SCORE=5|IU_graft=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+9	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	10	comp:obj	_	AlignBegin=180.856546|AlignEnd=181.489666|IU_graft=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+10	ordonne	ordonner	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=180.856546|AlignEnd=181.489666|IU_graft=Last|Nucleus=Last|ProminenceFinal=0|ProminenceInitial=0|Reported=Yes|RhythmGroup=tail|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# macrosyntax = c'est désormais en son propre nom que Jésus chasse les démons //
+# sent_id = Rhap_M2003-27
+# text = c'est désormais en son propre nom que Jésus chasse les démons.
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	subj@expl	_	AlignBegin=182.352291|AlignEnd=182.557291|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=182.352291|AlignEnd=182.557291|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+3	désormais	désormais	ADV	_	_	4	mod	_	AlignBegin=182.557291|AlignEnd=183.250164|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+4	en	en	ADP	_	_	2	comp:pred	_	AlignBegin=183.613693|AlignEnd=183.708693|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+5	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	7	det	_	AlignBegin=183.708693|AlignEnd=183.968693|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+6	propre	propre	ADJ	_	Number=Sing	7	mod	_	AlignBegin=183.968693|AlignEnd=184.428693|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+7	nom	nom	NOUN	_	Gender=Masc|Number=Sing	4	comp:obj	_	AlignBegin=184.428693|AlignEnd=184.6999|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+8	que	que	SCONJ	_	_	2	comp:cleft	_	AlignBegin=185.961092|AlignEnd=186.086981|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+9	Jésus	Jésus	PROPN	_	_	10	subj	_	AlignBegin=186.086981|AlignEnd=186.636092|ANIMACY=HUM|HUM_SCORE=6|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+10	chasse	chasser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	comp:obj	_	AlignBegin=186.636092|AlignEnd=187.018604|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	AlignBegin=187.018604|AlignEnd=187.156092|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+12	démons	démon	NOUN	_	Gender=Masc|Number=Plur	10	comp:obj	_	AlignBegin=187.156092|AlignEnd=187.49|Nucleus=Last|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = il enseigne { avec autorité | pas comme { les pharisiens | ^et les scribes } } //
+# sent_id = Rhap_M2003-28
+# text = il enseigne avec autorité, pas comme les pharisiens et les scribes.
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	subj	_	AlignBegin=188.242794|AlignEnd=188.337794|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	enseigne	enseigner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=188.337794|AlignEnd=188.887794|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+3	avec	avec	ADP	_	_	2	mod	_	AlignBegin=188.887794|AlignEnd=189.082245|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	autorité	autorité	NOUN	_	Gender=Fem|Number=Sing	3	comp:obj	_	AlignBegin=189.082245|AlignEnd=189.854585|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	pas	pas	ADV	_	Polarity=Neg	2	mod	_	AlignBegin=190.327611|AlignEnd=190.482611|Layer=Begin|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+7	comme	comme	ADP	_	_	2	mod	_	AlignBegin=190.482611|AlignEnd=190.654279|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art|Shared=No	9	det	_	AlignBegin=190.654279|AlignEnd=190.822611|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+9	pharisiens	pharisien	NOUN	_	Gender=Masc|Number=Plur	7	comp:obj	_	AlignBegin=190.822611|AlignEnd=191.342611|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+10	et	et	CCONJ	_	_	12	cc	_	AlignBegin=191.342611|AlignEnd=191.392611|Layer=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	AlignBegin=191.392611|AlignEnd=191.492611|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+12	scribes	scribe	NOUN	_	Gender=Masc|Number=Plur	9	conj:coord	_	AlignBegin=191.492611|AlignEnd=192.086857|Layer=Last|Nucleus=Last|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No|TypeInherited=DepInherited|TypePara=ParaCoord
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = il guérit { en donnant la vie | en donnant sa propre vie } //
+# sent_id = Rhap_M2003-29
+# text = il guérit en donnant la vie, en donnant sa propre vie.
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	subj	_	AlignBegin=193.212274|AlignEnd=193.355186|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	guérit	guérir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=193.355186|AlignEnd=193.965611|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+3	en	en	ADP	_	_	2	mod	_	AlignBegin=194.377318|AlignEnd=194.572318|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+4	donnant	donner	VERB	_	Tense=Pres|VerbForm=Part	3	comp:obj	_	AlignBegin=194.572318|AlignEnd=194.932318|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	AlignBegin=194.932318|AlignEnd=195.092318|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+6	vie	vie	NOUN	_	Gender=Fem|Number=Sing	4	comp:obj	_	AlignBegin=195.092318|AlignEnd=195.462691|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	en	en	ADP	_	_	3	conj:coord	_	AlignBegin=195.887329|AlignEnd=196.052329|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak|TypeInherited=AdInherited|TypePara=ParaDform
+9	donnant	donner	VERB	_	Tense=Pres|VerbForm=Part	8	comp:obj	_	AlignBegin=196.052329|AlignEnd=196.422329|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+10	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	12	det	_	AlignBegin=196.422329|AlignEnd=196.622329|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+11	propre	propre	ADJ	_	Gender=Fem|Number=Sing	12	mod	_	AlignBegin=196.622329|AlignEnd=197.066638|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12	vie	vie	NOUN	_	Gender=Fem|Number=Sing	9	comp:obj	_	AlignBegin=197.066638|AlignEnd=197.192329|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = ^mais "voilà" le mal est toujours présent au milieu de nous //
+# sent_id = Rhap_M2003-30
+# text = mais, voilà, le mal est toujours présent au milieu de nous.
+1	mais	mais	CCONJ	_	_	7	cc	_	AlignBegin=198.340055|AlignEnd=198.495055|Intro_IU=U|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	voilà	voilà	VERB	_	_	7	discourse	_	AlignBegin=198.495055|AlignEnd=198.85667|AssociatedNucleus=U|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	AlignBegin=199.982296|AlignEnd=200.127296|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=tail
+6	mal	mal	NOUN	_	Gender=Masc|Number=Sing	7	subj	_	AlignBegin=200.127296|AlignEnd=200.611536|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=tail
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=200.690374|AlignEnd=200.785374|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+8	toujours	toujours	ADV	_	_	7	mod	_	AlignBegin=200.785374|AlignEnd=201.295374|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+9	présent	présent	ADJ	_	Gender=Masc|Number=Sing	7	comp:pred	_	AlignBegin=201.295374|AlignEnd=201.77|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+10	au	au	ADP	_	_	7	mod	_	AlignBegin=201.960536|AlignEnd=202.045536|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+11	milieu	milieu	NOUN	_	Gender=Masc|Number=Sing	10	comp:obj	_	AlignBegin=202.045536|AlignEnd=202.355536|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+12	de	de	ADP	_	_	11	udep	_	AlignBegin=202.355536|AlignEnd=202.485536|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+13	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	12	comp:obj	_	AlignBegin=202.485536|AlignEnd=202.665694|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+14	.	.	PUNCT	_	_	7	punct	_	_
+
+# macrosyntax = depuis le temps de Jésus <+ il y a { le mal |} dans l'humanité //+ {| le mal moral | celui que l'on fait en faisant du mal aux autres |} //+ {| le mal physique quand surviennent aussi des catastrophes naturelles } //
+# sent_id = Rhap_M2003-31
+# text = depuis le temps de Jésus, il y a le mal, dans l'humanité, le mal moral, celui que l'on fait en faisant du mal aux autres, le mal physique quand surviennent aussi des catastrophes naturelles.
+1	depuis	depuis	ADP	_	_	9	mod	_	AlignBegin=203.261147|AlignEnd=203.516147|GovNucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	AlignBegin=203.516147|AlignEnd=203.596147|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+3	temps	temps	NOUN	_	Gender=Masc|Number=Sing	1	comp:obj	_	AlignBegin=203.596147|AlignEnd=203.826147|GovNucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+4	de	de	ADP	_	_	3	udep	_	AlignBegin=203.826147|AlignEnd=203.919144|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	Jésus	Jésus	PROPN	_	_	4	comp:obj	_	AlignBegin=203.919144|AlignEnd=204.307935|ANIMACY=HUM|GovNucleus=Last|HUM_SCORE=2|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+6	,	,	PUNCT	_	_	1	punct	_	_
+7	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	subj@expl	_	AlignBegin=205.376623|AlignEnd=205.485109|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+8	y	y	PRON	_	Person=3|PronType=Prs	9	comp@expl	_	AlignBegin=205.485109|AlignEnd=205.601623|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+9	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=205.601623|AlignEnd=205.741623|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art|Shared=No	11	det	_	AlignBegin=205.741623|AlignEnd=205.851623|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+11	mal	mal	NOUN	_	Gender=Masc|Number=Sing	9	comp:obj@lvc	_	AlignBegin=205.851623|AlignEnd=206.351623|Layer=Last|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	dans	dans	ADP	_	_	9	mod	_	AlignBegin=206.351623|AlignEnd=206.501623|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+14	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	15	det	_	AlignBegin=206.501623|AlignEnd=207.125|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+15	humanité	humanité	NOUN	_	Gender=Fem|Number=Sing	13	comp:obj	_	AlignBegin=206.501623|AlignEnd=207.125|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	AlignBegin=207.79848|AlignEnd=207.90348|Layer=Begin|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+18	mal	mal	NOUN	_	Gender=Masc|Number=Sing	11	conj:appos	_	AlignBegin=207.90348|AlignEnd=208.16348|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|TypeInherited= ObjInherited|TypePara=ParaDform
+19	moral	moral	ADJ	_	Gender=Masc|Number=Sing	18	mod	_	AlignBegin=208.16348|AlignEnd=208.71348|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	celui	celui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	conj:appos	_	AlignBegin=208.71348|AlignEnd=209.100478|Layer=Begin|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|TypeInherited= ObjInherited|TypePara=ParaDform
+22	que	que	PRON	_	PronType=Rel	24	comp:obj	_	AlignBegin=209.100478|AlignEnd=209.24348|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+23	l'on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	24	subj	_	AlignBegin=209.24348|AlignEnd=209.40348|ANIMACY=HUM|HUM_SCORE=1|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+24	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	mod@relcl	_	AlignBegin=209.40348|AlignEnd=209.769211|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+25	en	en	ADP	_	_	24	mod	_	AlignBegin=210.014483|AlignEnd=210.099483|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+26	faisant	faire	VERB	_	Tense=Pres|VerbForm=Part	25	comp:obj	_	AlignBegin=210.099483|AlignEnd=210.489483|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+27	du	du	ADP	_	_	26	comp:obl	_	AlignBegin=210.489483|AlignEnd=210.609483|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=silent-pause
+28	mal	mal	NOUN	_	Gender=Masc|Number=Sing	27	comp:obj	_	AlignBegin=210.609483|AlignEnd=211.014334|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=silent-pause
+29	aux	au	ADP	_	_	26	comp:obj	_	AlignBegin=211.014334|AlignEnd=211.129483|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+30	autres	autre	PRON	_	Number=Plur|Person=3|PronType=Ind	29	comp:obj	_	AlignBegin=211.129483|AlignEnd=211.665693|ANIMACY=HUM|HUM_SCORE=1|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+31	,	,	PUNCT	_	_	33	punct	_	_
+32	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	AlignBegin=212.199828|AlignEnd=212.314828|Layer=Begin|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+33	mal	mal	NOUN	_	Gender=Masc|Number=Sing	21	conj:coord	_	AlignBegin=212.314828|AlignEnd=212.551716|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|TypeInherited= ObjInherited|TypePara=ParaCoord
+34	physique	physique	ADJ	_	Gender=Masc|Number=Sing	33	mod	_	AlignBegin=212.551716|AlignEnd=212.987041|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+35	quand	quand	SCONJ	_	_	9	mod	_	AlignBegin=212.987041|AlignEnd=213.154828|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+36	surviennent	survenir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	35	comp:obj	_	AlignBegin=213.154828|AlignEnd=213.564828|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+37	aussi	aussi	ADV	_	_	36	mod	_	AlignBegin=213.564828|AlignEnd=214.030613|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+38	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	39	det	_	AlignBegin=214.411661|AlignEnd=214.576661|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+39	catastrophes	catastrophe	NOUN	_	Gender=Fem|Number=Plur	36	subj	_	AlignBegin=214.576661|AlignEnd=215.246661|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+40	naturelles	naturel	ADJ	_	Gender=Fem|Number=Plur	39	mod	_	AlignBegin=215.246661|AlignEnd=215.913746|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+41	.	.	PUNCT	_	_	9	punct	_	_
+
+# macrosyntax = ^et le cri de Job (+ que nous avons entendu dans la première lecture ) retentit à nos oreilles //
+# sent_id = Rhap_M2003-32
+# text = et le cri de Job, que nous avons entendu dans la première lecture, retentit à nos oreilles.
+1	et	et	CCONJ	_	_	16	cc	_	AlignBegin=216.561967|AlignEnd=216.686967|Intro_IU=U|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	AlignBegin=216.686967|AlignEnd=216.796967|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+3	cri	cri	NOUN	_	Gender=Masc|Number=Sing	16	subj	_	AlignBegin=216.796967|AlignEnd=217.086967|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+4	de	de	ADP	_	_	3	udep	_	AlignBegin=217.086967|AlignEnd=217.206967|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+5	Job	Job	PROPN	_	_	4	comp:obj	_	AlignBegin=217.206967|AlignEnd=217.816902|ANIMACY=HUM|HUM_SCORE=2|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=tail|SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	que	que	PRON	_	PronType=Rel	10	comp:obj	_	AlignBegin=217.885132|AlignEnd=217.957963|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+8	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	9	subj	_	AlignBegin=217.957963|AlignEnd=218.062639|ANIMACY=HUM|HUM_SCORE=5|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+9	avons	avoir	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	mod@relcl	_	AlignBegin=218.062639|AlignEnd=218.3646|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+10	entendu	entendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	comp:aux@tense	_	AlignBegin=218.3646|AlignEnd=218.802639|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+11	dans	dans	ADP	_	_	9	mod	_	AlignBegin=218.802639|AlignEnd=218.942639|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+12	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	AlignBegin=218.942639|AlignEnd=219.042639|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+13	première	premier	ADJ	_	Gender=Fem|Number=Sing	14	mod	_	AlignBegin=219.042639|AlignEnd=219.412639|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+14	lecture	lecture	NOUN	_	Gender=Fem|Number=Sing	11	comp:obj	_	AlignBegin=219.412639|AlignEnd=219.869873|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+15	,	,	PUNCT	_	_	3	punct	_	_
+16	retentit	retentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=219.869873|AlignEnd=220.468599|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+17	à	à	ADP	_	_	16	mod	_	AlignBegin=220.865|AlignEnd=220.97|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+18	nos	son	DET	_	Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	19	det	_	AlignBegin=220.97|AlignEnd=221.12|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+19	oreilles	oreille	NOUN	_	Gender=Fem|Number=Plur	17	comp:obj	_	AlignBegin=221.12|AlignEnd=221.738551|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+20	.	.	PUNCT	_	_	16	punct	_	_
+
+# macrosyntax = vraiment ( dit Job ) < la vie de l'homme sur terre est une corvée //
+# sent_id = Rhap_M2003-33
+# text = vraiment, dit Job, la vie de l'homme sur terre est une corvée.
+1	vraiment	vraiment	ADV	_	_	13	mod	_	AlignBegin=222.566346|AlignEnd=223.111346|Prenucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=tail|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	parataxis:insert	_	AlignBegin=223.111346|AlignEnd=223.251346|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+4	Job	Job	PROPN	_	_	3	subj	_	AlignBegin=223.251346|AlignEnd=223.731346|ANIMACY=HUM|HUM_SCORE=2|Prenucleus=Last|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	AlignBegin=224.287425|AlignEnd=224.422425|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+7	vie	vie	NOUN	_	Gender=Fem|Number=Sing	13	subj	_	AlignBegin=224.422425|AlignEnd=224.612425|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+8	de	de	ADP	_	_	7	udep	_	AlignBegin=224.612425|AlignEnd=224.752425|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+9	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	AlignBegin=224.752425|AlignEnd=224.992425|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|SpaceAfter=No
+10	homme	homme	NOUN	_	Gender=Masc|Number=Sing	8	comp:obj	_	AlignBegin=224.752425|AlignEnd=224.992425|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+11	sur	sur	ADP	_	_	10	udep	_	AlignBegin=224.992425|AlignEnd=225.322425|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12	terre	terre	NOUN	_	Gender=Fem|Number=Sing	11	comp:obj	_	AlignBegin=225.322425|AlignEnd=225.632425|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+13	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=225.632425|AlignEnd=225.708739|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|Reported=Yes|RhythmGroup=Strong
+14	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	AlignBegin=225.708739|AlignEnd=225.960611|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+15	corvée	corvée	NOUN	_	Gender=Fem|Number=Sing	13	comp:pred	_	AlignBegin=225.960611|AlignEnd=226.534297|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+16	.	.	PUNCT	_	_	13	punct	_	_
+
+# macrosyntax = il fait des journées de manœuvre //
+# sent_id = Rhap_M2003-34
+# text = il fait des journées de manœuvre.
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	subj	_	AlignBegin=227.156029|AlignEnd=227.286843|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+2	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=227.286843|AlignEnd=227.481029|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|Reported=Yes|RhythmGroup=Weak
+3	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	4	det	_	AlignBegin=227.481029|AlignEnd=227.601029|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+4	journées	journée	NOUN	_	Gender=Fem|Number=Plur	2	comp:obj	_	AlignBegin=227.601029|AlignEnd=227.971029|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+5	de	de	ADP	_	_	4	udep	_	AlignBegin=227.971029|AlignEnd=228.091029|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+6	manœuvre	manœuvre	NOUN	_	Gender=Fem|Number=Sing	5	comp:obj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = { comme l'esclave qui désire un peu d'ombre | comme le manœuvre qui attend sa paye depuis des mois } (+ dit Job ) < je n'y ai { rien |} gagné {| ^ sinon ^ que du néant } //
+# sent_id = Rhap_M2003-35
+# text = comme l'esclave qui désire un peu d'ombre, comme le manœuvre qui attend sa paye depuis des mois, dit Job, je n'y ai rien gagné, sinon que du néant.
+1	comme	comme	ADP	_	_	30	mod	_	AlignBegin=229.201427|AlignEnd=229.383864|Layer=Begin|Prenucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	AlignBegin=229.383864|AlignEnd=230.176677|Layer=In|Prenucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+3	esclave	esclave	NOUN	_	Gender=Masc|Number=Sing	1	comp:obj	_	AlignBegin=229.383864|AlignEnd=230.176677|ANIMACY=HUM|HUM_SCORE=71|Layer=In|Prenucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+4	qui	qui	PRON	_	PronType=Rel	5	subj	_	AlignBegin=230.588384|AlignEnd=230.713123|Layer=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+5	désire	désirer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	mod@relcl	_	AlignBegin=230.713123|AlignEnd=231.083384|Layer=In|Prenucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	AlignBegin=231.083384|AlignEnd=231.186521|InIdiom=Yes|Layer=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	peu	peu	NOUN	_	ExtPos=ADV	5	comp:obj	_	AlignBegin=231.186521|AlignEnd=231.393384|Idiom=Yes|Layer=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	d'	de	ADP	_	_	7	comp:obl	_	AlignBegin=231.393384|AlignEnd=231.893584|Layer=In|Prenucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+9	ombre	ombre	NOUN	_	Gender=Fem|Number=Sing	8	comp:obj	_	AlignBegin=231.393384|AlignEnd=231.893584|Layer=Last|Prenucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	comme	comme	ADP	_	_	1	conj:coord	_	AlignBegin=231.893584|AlignEnd=232.093384|Layer=Begin|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|TypeInherited=RootInherited|TypePara=ParaCoord
+12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	AlignBegin=232.093384|AlignEnd=232.223384|Layer=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+13	manœuvre	manœuvre	NOUN	_	Gender=Fem|Number=Sing	11	comp:obj	_	_
+14	qui	qui	PRON	_	PronType=Rel	15	subj	_	AlignBegin=232.785758|AlignEnd=232.943384|Layer=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+15	attend	attendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	mod@relcl	_	AlignBegin=232.943384|AlignEnd=233.223384|Layer=In|Prenucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+16	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	17	det	_	AlignBegin=233.223384|AlignEnd=233.4079|Layer=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+17	paye	paye	NOUN	_	Gender=Fem|Number=Sing	15	comp:obj	_	AlignBegin=233.4079|AlignEnd=233.912494|Layer=In|Prenucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+18	depuis	depuis	ADP	_	_	15	mod	_	AlignBegin=234.35|AlignEnd=234.743235|Layer=In|Prenucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+19	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	20	det	_	AlignBegin=234.743235|AlignEnd=234.935|Layer=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+20	mois	mois	NOUN	_	Gender=Masc|Number=Plur	18	comp:obj	_	AlignBegin=234.935|AlignEnd=235.418959|Layer=Last|Prenucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	parataxis:insert	_	AlignBegin=235.572255|AlignEnd=235.702184|Innucleus=Begin|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=tail
+23	Job	Job	PROPN	_	_	22	subj	_	AlignBegin=235.702184|AlignEnd=236.216095|ANIMACY=HUM|HUM_SCORE=2|Innucleus=Last|Prenucleus=Last|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=tail|SpaceAfter=No
+24	,	,	PUNCT	_	_	22	punct	_	_
+25	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	28	subj	_	AlignBegin=236.570865|AlignEnd=236.695865|ANIMACY=HUM|HUM_SCORE=5|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+26	n'	ne	ADV	_	Polarity=Neg	28	mod	_	SpaceAfter=No
+27	y	y	PRON	_	Person=3|PronType=Prs	30	comp:obl	_	AlignBegin=236.695865|AlignEnd=236.812315|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+28	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=236.812315|AlignEnd=236.895865|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|Reported=Yes|RhythmGroup=Weak
+29	rien	rien	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	30	comp:obj	_	AlignBegin=236.895865|AlignEnd=237.145865|Layer=U|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+30	gagné	gagner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	28	comp:aux@tense	_	AlignBegin=237.145865|AlignEnd=237.585|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+31	,	,	PUNCT	_	_	35	punct	_	_
+32	sinon	sinon	CCONJ	_	_	35	cc	_	AlignBegin=237.995|AlignEnd=238.41|Layer=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=tail
+33	que	que	ADV	_	_	35	mod	_	AlignBegin=238.41|AlignEnd=238.53|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+34	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	35	det	_	AlignBegin=238.53|AlignEnd=238.67|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+35	néant	néant	NOUN	_	Gender=Masc|Number=Sing	29	conj:coord	_	AlignBegin=238.67|AlignEnd=239.05|Layer=Last|Nucleus=Last|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=tail|SpaceAfter=No|TypeInherited= ObjInherited|TypePara=ParaCoord
+36	.	.	PUNCT	_	_	28	punct	_	_
+
+# macrosyntax = je ne compte { que des nuits de souffrance //+ |
+# sent_id = Rhap_M2003-36
+# text = je ne compte que des nuits de souffrance…
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	subj	_	AlignBegin=239.72|AlignEnd=239.885|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=tail
+2	ne	ne	ADV	_	Polarity=Neg	3	mod	_	AlignBegin=239.885|AlignEnd=240.055|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+3	compte	compter	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=240.055|AlignEnd=240.605556|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|Reported=Yes|RhythmGroup=tail
+4	que	que	ADV	_	Polarity=Neg	6	mod	_	AlignBegin=241.095892|AlignEnd=241.250892|Layer=Begin|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+5	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	6	det	_	AlignBegin=241.250892|AlignEnd=241.390892|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+6	nuits	nuit	NOUN	_	Gender=Fem|Number=Plur	3	comp:obj	_	AlignBegin=241.390892|AlignEnd=241.680892|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+7	de	de	ADP	_	_	6	udep	_	AlignBegin=241.680892|AlignEnd=241.760892|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	souffrance	souffrance	NOUN	_	Gender=Fem|Number=Sing	7	comp:obj	_	AlignBegin=241.760892|AlignEnd=242.810892|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+9	…	…	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = que de nuits de souffrance } dans notre humanité //
+# sent_id = Rhap_M2003-37
+# text = que de nuits de souffrance dans notre humanité.
+1	que	que	ADV	_	_	0	root	_	AlignBegin=243.421601|AlignEnd=243.566601|Layer=Begin|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Pause|Reported=Yes|RhythmGroup=Strong
+2	de	de	ADP	_	_	1	comp:obl	_	AlignBegin=243.566601|AlignEnd=243.686601|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+3	nuits	nuit	NOUN	_	Gender=Fem|Number=Plur	2	comp:obj	_	AlignBegin=243.686601|AlignEnd=243.920378|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|TypeInherited= ObjInherited|TypePara=ParaReform
+4	de	de	ADP	_	_	3	udep	_	AlignBegin=243.920378|AlignEnd=244.046601|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	souffrance	souffrance	NOUN	_	Gender=Fem|Number=Sing	4	comp:obj	_	AlignBegin=244.046601|AlignEnd=244.8|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+6	dans	dans	ADP	_	_	3	udep	_	AlignBegin=245.2|AlignEnd=245.335|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+7	notre	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	8	det	_	AlignBegin=245.335|AlignEnd=245.455|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	humanité	humanité	NOUN	_	Gender=Fem|Number=Sing	6	comp:obj	_	AlignBegin=245.455|AlignEnd=246.105|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+# macrosyntax = ^et { beaucoup ( il faut l'avouer // ) | beaucoup } s'éloignent de la foi { à cause de ce mal | à cause de cette souffrance sans répit } //
+# sent_id = Rhap_M2003-38
+# text = et beaucoup, il faut l'avouer, beaucoup s'éloignent de la foi à cause de ce mal, à cause de cette souffrance sans répit.
+1	et	et	CCONJ	_	_	11	cc	_	AlignBegin=247.17|AlignEnd=247.270725|Intro_IU=U|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	beaucoup	beaucoup	ADV	_	ExtPos=PRON	11	subj	_	AlignBegin=247.270725|AlignEnd=247.759297|Layer=Begin|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No|TypeInherited=SubInherited|TypePara=ParaDisfl
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	subj@expl	_	AlignBegin=247.759297|AlignEnd=247.889692|IU_parenthesis=Begin|Layer=In|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis:parenth	_	AlignBegin=247.889692|AlignEnd=248.055|IU_parenthesis=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+6	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	7	comp:obj	_	AlignBegin=248.055|AlignEnd=248.501829|IU_parenthesis=In|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+7	avouer	avouer	VERB	_	VerbForm=Inf	5	comp:obj	_	AlignBegin=248.055|AlignEnd=248.501829|IU_parenthesis=Last|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No|Subject=NoRaising
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	beaucoup	beaucoup	ADV	_	ExtPos=PRON	2	conj:dicto	_	AlignBegin=248.909156|AlignEnd=249.274156|Layer=U|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+10	s'	soi	PRON	_	Person=3|PronType=Prs	11	comp:obj	_	AlignBegin=249.274156|AlignEnd=249.794156|ANIMACY=HUM|HUM_SCORE=4|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+11	éloignent	éloigner	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=249.274156|AlignEnd=249.794156|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+12	de	de	ADP	_	_	11	comp:obl	_	AlignBegin=249.794156|AlignEnd=249.904156|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+13	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	AlignBegin=249.904156|AlignEnd=250.014156|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+14	foi	foi	NOUN	_	Gender=Fem|Number=Sing	12	comp:obj	_	AlignBegin=250.014156|AlignEnd=250.402482|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+15	à	à	ADP	_	_	11	mod	_	AlignBegin=250.827329|AlignEnd=250.892329|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+16	cause	cause	NOUN	_	Gender=Fem|Number=Sing	15	comp:obj	_	AlignBegin=250.892329|AlignEnd=251.222329|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+17	de	de	ADP	_	_	16	udep	_	AlignBegin=251.222329|AlignEnd=251.312329|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+18	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	19	det	_	AlignBegin=251.312329|AlignEnd=251.502329|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+19	mal	mal	NOUN	_	Gender=Masc|Number=Sing	17	comp:obj	_	AlignBegin=251.502329|AlignEnd=251.913536|Layer=Last|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=tail|SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	à	à	ADP	_	_	15	conj:dicto	_	AlignBegin=252.282646|AlignEnd=252.377646|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong|TypeInherited=AdInherited|TypePara=ParaCoord
+22	cause	cause	NOUN	_	Gender=Fem|Number=Sing	21	comp:obj	_	AlignBegin=252.377646|AlignEnd=252.687646|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+23	de	de	ADP	_	_	22	udep	_	AlignBegin=252.687646|AlignEnd=252.757646|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+24	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	25	det	_	AlignBegin=252.757646|AlignEnd=252.997646|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+25	souffrance	souffrance	NOUN	_	Gender=Fem|Number=Sing	23	comp:obj	_	AlignBegin=252.997646|AlignEnd=253.637646|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+26	sans	sans	ADP	_	_	25	udep	_	AlignBegin=253.637646|AlignEnd=253.877646|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+27	répit	répit	NOUN	_	Gender=Masc|Number=Sing	26	comp:obj	_	AlignBegin=253.877646|AlignEnd=254.342646|Layer=Last|Nucleus=Last|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+28	.	.	PUNCT	_	_	11	punct	_	_
+
+# macrosyntax = ^aussi { à l'approche de la journée des malades voulue par Jean-Paul deux | le onze février | en la fête de Notre-Dame de Lourdes | en ce jour de la pastorale de la santé } <+ { la puissance de guérison de Jésus | le don de la vie qu'il communique } interroge { vraiment | vraiment } { la responsabilité de l'Église | ^c'^est-^à-^dire la responsabilité de chacun d'entre nous } //
+# sent_id = Rhap_M2003-39
+# text = aussi à l'approche de la journée des malades voulue par Jean-Paul deux, le onze février, en la fête de Notre-Dame de Lourdes, en ce jour de la pastorale de la santé, la puissance de guérison de Jésus, le don de la vie qu'il communique interroge vraiment, vraiment la responsabilité de l'Église, c'est-à-dire la responsabilité de chacun d'entre nous.
+1	aussi	aussi	ADV	_	_	52	mod	_	AlignBegin=255.618694|AlignEnd=255.963694|Intro_IU=Begin|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+2	à	à	ADP	_	_	52	mod	_	AlignBegin=255.963694|AlignEnd=256.023694|GovNucleus=Begin|Layer=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+3	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art|Shared=No	4	det	_	AlignBegin=256.023694|AlignEnd=256.704692|GovNucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+4	approche	approche	NOUN	_	Gender=Fem|Number=Sing	2	comp:obj	_	AlignBegin=256.023694|AlignEnd=256.704692|GovNucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+5	de	de	ADP	_	_	4	udep	_	AlignBegin=257.063841|AlignEnd=257.138841|GovNucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	AlignBegin=257.138841|AlignEnd=257.218841|GovNucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+7	journée	journée	NOUN	_	Gender=Fem|Number=Sing	5	comp:obj	_	AlignBegin=257.218841|AlignEnd=257.538841|GovNucleus=In|Layer=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+8	des	de	ADP	_	_	7	udep	_	AlignBegin=257.538841|AlignEnd=257.648841|GovNucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+9	malades	malade	NOUN	_	Gender=Masc|Number=Plur	8	comp:obj	_	AlignBegin=257.648841|AlignEnd=257.928841|GovNucleus=In|Layer=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+10	voulue	vouloir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	mod	_	AlignBegin=257.928841|AlignEnd=258.198841|GovNucleus=In|Layer=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+11	par	par	ADP	_	_	10	comp:obl	_	AlignBegin=258.198841|AlignEnd=258.338841|GovNucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12	Jean	Jean	PROPN	_	_	11	comp:obj	_	AlignBegin=258.338841|AlignEnd=258.558841|ANIMACY=HUM|GovNucleus=In|HUM_SCORE=2|Layer=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+13	Paul	Paul	PROPN	_	_	12	flat@dev	_	AlignBegin=258.558841|AlignEnd=258.768841|ANIMACY=HUM|GovNucleus=In|HUM_SCORE=2|Layer=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+14	deux	deux	NUM	_	Number=Plur	12	mod	_	AlignBegin=258.768841|AlignEnd=258.938841|GovNucleus=In|Layer=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	AlignBegin=258.938841|AlignEnd=259.038841|GovNucleus=In|Layer=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+17	onze	onze	NUM	_	Number=Plur	17	mod	_	AlignBegin=259.038841|AlignEnd=259.268841|GovNucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+18	février	février	NOUN	_	Gender=Masc|Number=Sing	4	conj:appos	_	AlignBegin=259.268841|AlignEnd=259.698841|GovNucleus=In|Layer=Last|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No|TypeInherited=AdInherited|TypePara=ParaDform
+19	,	,	PUNCT	_	_	19	punct	_	_
+20	en	en	ADP	_	_	17	conj:dicto	_	AlignBegin=259.698841|AlignEnd=259.778841|GovNucleus=In|Layer=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|TypeInherited=AdInherited|TypePara=ParaReform
+21	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	AlignBegin=259.778841|AlignEnd=259.878841|GovNucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+22	fête	fête	NOUN	_	Gender=Fem|Number=Sing	19	comp:obj	_	AlignBegin=259.878841|AlignEnd=260.108841|GovNucleus=In|Layer=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+23	de	de	ADP	_	_	21	udep	_	AlignBegin=260.108841|AlignEnd=260.188841|GovNucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+24	Notre	Notre	PROPN	_	_	22	comp:obj	_	AlignBegin=260.188841|AlignEnd=260.438841|GovNucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+25	Dame	Dame	PROPN	_	_	23	flat@dev	_	AlignBegin=260.438841|AlignEnd=260.618841|GovNucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+26	de	de	ADP	_	_	23	mod	_	AlignBegin=260.618841|AlignEnd=260.728841|GovNucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+27	Lourdes	Lourdes	PROPN	_	_	24	comp:obj	_	AlignBegin=260.728841|AlignEnd=261.088884|GovNucleus=In|Layer=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+28	,	,	PUNCT	_	_	27	punct	_	_
+29	en	en	ADP	_	_	19	conj:coord	_	AlignBegin=261.438702|AlignEnd=261.503702|GovNucleus=In|Layer=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak|TypeInherited=AdInherited|TypePara=ParaReform
+30	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	29	det	_	AlignBegin=261.503702|AlignEnd=261.715834|GovNucleus=In|Layer=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+31	jour	jour	NOUN	_	Gender=Masc|Number=Sing	27	comp:obj	_	AlignBegin=261.715834|AlignEnd=262.240218|GovNucleus=In|Layer=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+32	de	de	ADP	_	_	29	udep	_	AlignBegin=262.616886|AlignEnd=262.687374|GovNucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+33	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	AlignBegin=262.687374|AlignEnd=262.750846|GovNucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+34	pastorale	pastorale	NOUN	_	Gender=Fem|Number=Sing	30	comp:obj	_	AlignBegin=262.750846|AlignEnd=263.251886|GovNucleus=In|Layer=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+35	de	de	ADP	_	_	32	udep	_	AlignBegin=263.251886|AlignEnd=263.351886|GovNucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+36	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	35	det	_	AlignBegin=263.351886|AlignEnd=263.441886|GovNucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+37	santé	santé	NOUN	_	Gender=Fem|Number=Sing	33	comp:obj	_	AlignBegin=263.441886|AlignEnd=263.965886|GovNucleus=Last|Layer=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+38	,	,	PUNCT	_	_	2	punct	_	_
+39	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art|Shared=No	38	det	_	AlignBegin=264.49126|AlignEnd=264.65626|Layer=Begin|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+40	puissance	puissance	NOUN	_	Gender=Fem|Number=Sing	52	subj	_	AlignBegin=264.65626|AlignEnd=265.22626|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+41	de	de	ADP	_	_	38	udep	_	AlignBegin=265.22626|AlignEnd=265.34626|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+42	guérison	guérison	NOUN	_	Gender=Fem|Number=Sing	39	comp:obj	_	AlignBegin=265.34626|AlignEnd=265.86626|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+43	de	de	ADP	_	_	38	udep	_	AlignBegin=265.86626|AlignEnd=265.94626|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+44	Jésus	Jésus	PROPN	_	_	41	comp:obj	_	AlignBegin=265.94626|AlignEnd=266.427162|ANIMACY=HUM|HUM_SCORE=2|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+45	,	,	PUNCT	_	_	45	punct	_	_
+46	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	45	det	_	AlignBegin=266.528523|AlignEnd=266.703523|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+47	don	don	NOUN	_	Gender=Masc|Number=Sing	38	conj:appos	_	AlignBegin=266.703523|AlignEnd=266.993523|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|TypeInherited=SubInherited|TypePara=ParaDform
+48	de	de	ADP	_	_	45	udep	_	AlignBegin=266.993523|AlignEnd=267.023523|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+49	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	48	det	_	AlignBegin=267.023523|AlignEnd=267.203523|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+50	vie	vie	NOUN	_	Gender=Fem|Number=Sing	46	comp:obj	_	AlignBegin=267.203523|AlignEnd=267.451936|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+51	qu'	que	PRON	_	PronType=Rel	51	comp:obj	_	AlignBegin=267.451936|AlignEnd=267.733523|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+52	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	51	subj	_	AlignBegin=267.451936|AlignEnd=267.733523|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+53	communique	communiquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	45	mod@relcl	_	AlignBegin=267.733523|AlignEnd=268.311129|Layer=Last|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+54	interroge	interroger	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=268.61334|AlignEnd=269.23834|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+55	vraiment	vraiment	ADV	_	_	52	mod	_	AlignBegin=269.23834|AlignEnd=269.756486|Layer=U|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+56	,	,	PUNCT	_	_	55	punct	_	_
+57	vraiment	vraiment	ADV	_	_	53	conj:coord	_	AlignBegin=270.255581|AlignEnd=270.66|Layer=U|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|TypeInherited=AdInherited|TypePara=ParaIntens
+58	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art|Shared=No	57	det	_	AlignBegin=271.087756|AlignEnd=271.222756|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+59	responsabilité	responsabilité	NOUN	_	Gender=Fem|Number=Sing	52	comp:obj	_	AlignBegin=271.222756|AlignEnd=272.222756|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+60	de	de	ADP	_	_	57	udep	_	AlignBegin=272.222756|AlignEnd=272.262756|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+61	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	60	det	_	AlignBegin=272.262756|AlignEnd=272.858353|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+62	Église	Église	PROPN	_	Number=Sing	58	comp:obj	_	AlignBegin=272.262756|AlignEnd=272.858353|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+63	,	,	PUNCT	_	_	64	punct	_	_
+64	c'est-à-dire	c'est-à-dire	CCONJ	_	_	64	cc	_	AlignBegin=273.074756|AlignEnd=273.199756|Intro_IU=In|Layer=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+65	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	64	det	_	AlignBegin=273.92883|AlignEnd=274.07383|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+66	responsabilité	responsabilité	NOUN	_	Gender=Fem|Number=Sing	57	conj:appos	_	AlignBegin=274.07383|AlignEnd=275.08383|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|TypeInherited= ObjInherited|TypePara=ParaDform
+67	de	de	ADP	_	_	64	udep	_	AlignBegin=275.08383|AlignEnd=275.18383|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+68	chacun	chacun	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	65	comp:obj	_	AlignBegin=275.18383|AlignEnd=275.790064|ANIMACY=HUM|HUM_SCORE=1|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=tail
+69	d'	de	ADP	_	ExtPos=ADP	66	comp:obl	_	AlignBegin=276.235|AlignEnd=276.69|Idiom=Yes|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+70	entre	entre	ADP	_	_	67	unk	_	AlignBegin=276.235|AlignEnd=276.69|InIdiom=Yes|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+71	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	67	comp:obj	_	AlignBegin=276.69|AlignEnd=276.815|ANIMACY=HUM|HUM_SCORE=1|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+72	.	.	PUNCT	_	_	52	punct	_	_
+
+# macrosyntax = { pour que la parole des chrétiens soit entendue ( comme la parole du Christ qui donne la vie ) | pour que notre parole soit entendue | pour qu'elle soit comprise } < ne faut-il pas ( comme pour Jésus ) que ( d'abord ) nous agissions //
+# sent_id = Rhap_M2003-40
+# text = pour que la parole des chrétiens soit entendue, comme la parole du Christ qui donne la vie, pour que notre parole soit entendue, pour qu'elle soit comprise, ne faut-il pas, comme pour Jésus, que, d'abord, nous agissions ?
+1	pour	pour	ADP	_	_	34	mod	_	AlignBegin=278.518512|AlignEnd=278.713512|Layer=Begin|Prenucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+2	que	que	SCONJ	_	_	1	comp:obj	_	AlignBegin=278.713512|AlignEnd=278.823512|Layer=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	AlignBegin=278.823512|AlignEnd=278.980899|Layer=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+4	parole	parole	NOUN	_	Gender=Fem|Number=Sing	7	subj@pass	_	AlignBegin=278.980899|AlignEnd=279.786459|Layer=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak
+5	des	de	ADP	_	_	4	udep	_	AlignBegin=279.786459|AlignEnd=279.968359|Layer=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+6	chrétiens	chrétien	NOUN	_	Gender=Masc|Number=Plur	5	comp:obj	_	AlignBegin=279.968359|AlignEnd=280.493512|ANIMACY=HUM|HUM_SCORE=1|Layer=In|Prenucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+7	soit	être	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	comp:obj	_	AlignBegin=280.493512|AlignEnd=280.823512|Layer=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	entendue	entendre	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	comp:aux@pass	_	AlignBegin=280.823512|AlignEnd=281.389411|Layer=In|Prenucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	comme	comme	ADP	_	_	8	mod	_	AlignBegin=282.457889|AlignEnd=282.612889|Innucleus=Begin|Layer=In|Prenucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Strong
+11	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	AlignBegin=282.612889|AlignEnd=282.792889|Innucleus=In|Layer=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12	parole	parole	NOUN	_	Gender=Fem|Number=Sing	10	comp:obj	_	AlignBegin=282.792889|AlignEnd=283.132889|Innucleus=In|Layer=In|Prenucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+13	du	du	ADP	_	_	12	udep	_	AlignBegin=283.132889|AlignEnd=283.272889|Innucleus=In|Layer=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+14	Christ	Christ	PROPN	_	Gender=Masc|Number=Sing	13	comp:obj	_	AlignBegin=283.272889|AlignEnd=283.72|ANIMACY=HUM|HUM_SCORE=2|Innucleus=In|Layer=In|Prenucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+15	qui	qui	PRON	_	PronType=Rel	16	subj	_	AlignBegin=283.841927|AlignEnd=283.966927|Innucleus=In|Layer=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+16	donne	donner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	mod@relcl	_	AlignBegin=283.966927|AlignEnd=284.226927|Innucleus=In|Layer=In|Prenucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+17	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	AlignBegin=284.226927|AlignEnd=284.348599|Innucleus=In|Layer=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+18	vie	vie	NOUN	_	Gender=Fem|Number=Sing	16	comp:obj	_	AlignBegin=284.348599|AlignEnd=284.573365|Innucleus=Last|Layer=Last|Prenucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	pour	pour	ADP	_	_	1	conj:dicto	_	AlignBegin=285.059321|AlignEnd=285.194321|Layer=Begin|Prenucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|TypeInherited=AdInherited|TypePara=ParaReform
+21	que	que	SCONJ	_	_	20	comp:obj	_	AlignBegin=285.194321|AlignEnd=285.324321|Layer=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+22	notre	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	23	det	_	AlignBegin=285.324321|AlignEnd=285.674321|Layer=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+23	parole	parole	NOUN	_	Gender=Fem|Number=Sing	24	subj@pass	_	AlignBegin=285.674321|AlignEnd=286.004321|Layer=In|Prenucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+24	soit	être	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	comp:obj	_	AlignBegin=286.004321|AlignEnd=286.244321|Layer=In|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+25	entendue	entendre	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	24	comp:aux@pass	_	AlignBegin=286.244321|AlignEnd=286.75433|Layer=Last|Prenucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	_
+27	pour	pour	ADP	_	_	20	conj:dicto	_	AlignBegin=287.152898|AlignEnd=287.277898|Layer=Begin|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak|TypeInherited=AdInherited|TypePara=ParaReform
+28	qu'	que	SCONJ	_	_	27	comp:obj	_	AlignBegin=287.277898|AlignEnd=287.437898|Layer=In|Prenucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|SpaceAfter=No
+29	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	30	subj@pass	_	AlignBegin=287.277898|AlignEnd=287.437898|Layer=In|Prenucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+30	soit	être	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	comp:obj	_	AlignBegin=287.437898|AlignEnd=287.767898|Layer=In|Prenucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+31	comprise	comprendre	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	30	comp:aux@pass	_	AlignBegin=287.767898|AlignEnd=288.563005|Layer=Last|Prenucleus=Last|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+32	,	,	PUNCT	_	_	1	punct	_	_
+33	ne	ne	ADV	_	Polarity=Neg	34	mod	_	AlignBegin=289.119249|AlignEnd=289.224249|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+34	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=289.224249|AlignEnd=289.434249|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+35	-il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	subj@expl	_	_
+36	pas	pas	ADV	_	Polarity=Neg	34	mod	_	AlignBegin=289.685886|AlignEnd=290.008362|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+37	,	,	PUNCT	_	_	38	punct	_	_
+38	comme	comme	ADP	_	_	34	mod	_	AlignBegin=290.525186|AlignEnd=290.777824|Innucleus=Begin|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+39	pour	pour	ADP	_	_	38	comp:obj	_	AlignBegin=290.777824|AlignEnd=290.997334|Innucleus=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+40	Jésus	Jésus	PROPN	_	_	39	comp:obj	_	AlignBegin=290.997334|AlignEnd=291.489174|ANIMACY=HUM|HUM_SCORE=2|Innucleus=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+41	,	,	PUNCT	_	_	42	punct	_	_
+42	que	que	SCONJ	_	_	34	comp:obj	_	AlignBegin=292.189953|AlignEnd=292.322027|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+43	,	,	PUNCT	_	_	48	punct	_	_
+44	d'	de	ADP	_	_	48	mod	_	AlignBegin=292.322027|AlignEnd=292.955|Innucleus=Begin|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+45	abord	abord	NOUN	_	Gender=Masc|Number=Sing	44	comp:obj	_	AlignBegin=292.322027|AlignEnd=292.955|Innucleus=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+46	,	,	PUNCT	_	_	44	punct	_	_
+47	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	48	subj	_	AlignBegin=293.22|AlignEnd=293.395|ANIMACY=HUM|HUM_SCORE=5|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+48	agissions	agir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	42	comp:obj	_	AlignBegin=293.395|AlignEnd=294.035|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+49	?	?	PUNCT	_	_	34	punct	_	_
+

@@ -1,0 +1,25 @@
+id_sentence_conll,index_phrase,index_token,form,lemma,score,annotation,phrase
+Rhap_M0019-1,0,3,on,on,1,y,"ensuite, on change de séquence."
+Rhap_M0019-2,1,2,on,on,1,y,"et on se retrouve dans la rue avec une jeune fille, euh, qui, visiblement, regarde des vitrines, euh, avec des chaussures."
+Rhap_M0019-2,1,11,fille,fille,1,y,"et on se retrouve dans la rue avec une jeune fille, euh, qui, visiblement, regarde des vitrines, euh, avec des chaussures."
+Rhap_M0019-3,2,2,train,train,1,n,"en train de, euh, euh, enfin…"
+Rhap_M0019-5,4,22,monsieur,monsieur,1,y,"euh à côté d'elle, il y a une voiture avec une camionnette en, avec, euh, un monsieur en train de, de décharger, euh, de, ça a l'air d'être un traiteur en train de décharger des aliments."
+Rhap_M0019-5,4,24,train,train,1,n,"euh à côté d'elle, il y a une voiture avec une camionnette en, avec, euh, un monsieur en train de, de décharger, euh, de, ça a l'air d'être un traiteur en train de décharger des aliments."
+Rhap_M0019-5,4,43,train,train,1,n,"euh à côté d'elle, il y a une voiture avec une camionnette en, avec, euh, un monsieur en train de, de décharger, euh, de, ça a l'air d'être un traiteur en train de décharger des aliments."
+Rhap_M0019-7,5,6,elle,lui,4,y,"mh, euh, et elle vole une baguette de pain."
+Rhap_M0019-7,5,9,baguette,baguette,4,n,"mh, euh, et elle vole une baguette de pain."
+Rhap_M0019-8,6,17,dame,dame,1,y,"elle est, euh, prise en flagrant délit par une, euh, une autre dame, euh, qui est à côté."
+Rhap_M0019-9,7,2,elle,lui,4,y,et elle s'apprête à courir avec sa baguette.
+Rhap_M0019-10,8,5,Charlie,Charlie,2,y,et elle rentre dans Charlie Chaplin.
+Rhap_M0019-13,11,1,on,on,5,y,"on voit expliquer, euh…"
+Rhap_M0019-14,12,5,moi,moi,1,y,"bon, après, moi, je, j'ai pas compris XXX ce qui était écrit."
+Rhap_M0019-14,12,7,je,moi,1,y,"bon, après, moi, je, j'ai pas compris XXX ce qui était écrit."
+Rhap_M0019-14,12,9,j',moi,1,y,"bon, après, moi, je, j'ai pas compris XXX ce qui était écrit."
+Rhap_M0019-15,13,3,je,moi,1,y,"euh, je lisais pas, euh."
+Rhap_M0019-16,14,2,on,on,1,y,"et on le, le v~…"
+Rhap_M0019-17,15,1,on,on,5,y,on voit la dame expliquer qu'elle a volé la baguette de pain.
+Rhap_M0019-17,15,4,dame,dame,1,y,on voit la dame expliquer qu'elle a volé la baguette de pain.
+Rhap_M0019-17,15,7,elle,lui,4,y,on voit la dame expliquer qu'elle a volé la baguette de pain.
+Rhap_M0019-17,15,11,baguette,baguette,4,n,on voit la dame expliquer qu'elle a volé la baguette de pain.
+Rhap_M0019-18,16,13,foule,foule,1,y,"il y a une explication qui commence avec, euh, la foule qui s'attroupe et, euh, et le policier."
+Rhap_M0019-18,16,23,policier,policier,11,y,"il y a une explication qui commence avec, euh, la foule qui s'attroupe et, euh, et le policier."

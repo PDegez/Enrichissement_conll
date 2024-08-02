@@ -1,0 +1,252 @@
+# macrosyntax = ^alors donc < pour aller de la place Notre-Dame à La Nef Chavant <+ je prolonge la place Notre-Dame par la place Sainte-Claire //
+# sent_id = Rhap_M0011-1
+# text = alors donc, pour aller de la place Notre-Dame à La Nef Chavant, je prolonge la place Notre-Dame par la place Sainte-Claire.
+1	alors	alors	ADV	_	_	16	discourse	_	AlignBegin=0.054663|AlignEnd=0.33583|Intro_IU=U|Prenucleus=U|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+2	donc	donc	ADV	_	_	16	discourse	_	AlignBegin=0.491871|AlignEnd=0.661871|Prenucleus=U|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	pour	pour	ADP	_	_	16	mod	_	AlignBegin=0.661871|AlignEnd=0.849739|GovNucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	aller	aller	VERB	_	VerbForm=Inf	4	comp:obj	_	AlignBegin=0.849739|AlignEnd=1.059739|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|Subject=NoRaising
+6	de	de	ADP	_	_	5	comp:obl	_	AlignBegin=1.181973|AlignEnd=1.481973|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	AlignBegin=1.641973|AlignEnd=1.801973|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+8	place	place	NOUN	_	Gender=Fem|Number=Sing	6	comp:obj	_	AlignBegin=1.801973|AlignEnd=2.051973|GovNucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+9	Notre	Notre	PROPN	_	_	8	mod@appos	_	AlignBegin=2.051973|AlignEnd=2.298358|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+10	Dame	Dame	PROPN	_	_	9	flat@dev	_	AlignBegin=2.298358|AlignEnd=2.611973|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+11	à	à	ADP	_	_	6	conj:coord	_	AlignBegin=2.892169|AlignEnd=3.142169|GovNucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+12	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	AlignBegin=3.182169|AlignEnd=3.39023|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+13	Nef	Nef	PROPN	_	Gender=Fem|Number=Sing	10	comp:obj	_	AlignBegin=3.39023|AlignEnd=3.602169|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+14	Chavant	Chavant	PROPN	_	_	12	flat@name	_	AlignBegin=3.602169|AlignEnd=4.042169|GovNucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+15	,	,	PUNCT	_	_	4	punct	_	_
+16	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	16	subj	_	AlignBegin=4.914309|AlignEnd=5.234309|ANIMACY=HUM|Hesitation=Yes|HUM_SCORE=1|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=dis-weak
+17	prolonge	prolonger	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=5.354309|AlignEnd=5.774309|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+18	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	AlignBegin=5.774309|AlignEnd=5.854309|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+19	place	place	NOUN	_	Gender=Fem|Number=Sing	16	comp:obj	_	AlignBegin=5.854309|AlignEnd=6.104309|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+20	Notre	Notre	PROPN	_	_	18	mod@appos	_	AlignBegin=6.104309|AlignEnd=6.364309|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+21	Dame	Dame	PROPN	_	_	19	flat@dev	_	AlignBegin=6.364309|AlignEnd=6.614309|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+22	par	par	ADP	_	_	16	comp:obl	_	AlignBegin=6.723453|AlignEnd=6.863453|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+23	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	AlignBegin=6.863453|AlignEnd=6.978405|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=dis-weak
+24	place	place	NOUN	_	Gender=Fem|Number=Sing	20	comp:obj	_	AlignBegin=6.978405|AlignEnd=7.743453|Hesitation=Yes|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=dis-weak
+25	Sainte	Sainte	PROPN	_	_	22	mod@appos	_	AlignBegin=7.743453|AlignEnd=8.003453|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+26	Claire	Claire	PROPN	_	_	23	flat@dev	_	AlignBegin=8.003453|AlignEnd=8.596825|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+27	.	.	PUNCT	_	_	16	punct	_	_
+
+# macrosyntax = je continue tout droit //
+# sent_id = Rhap_M0011-2
+# text = je continue tout droit.
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	subj	_	AlignBegin=8.596825|AlignEnd=8.728057|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+2	continue	continuer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=8.728057|AlignEnd=9.156825|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+3	tout	tout	ADV	_	_	4	mod	_	AlignBegin=9.156825|AlignEnd=9.296825|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	droit	droit	ADJ	_	Gender=Masc|Number=Sing	2	mod	_	AlignBegin=9.296825|AlignEnd=9.616866|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = j'arrive au lycée Stendhal //
+# sent_id = Rhap_M0011-3
+# text = j'arrive au lycée Stendhal.
+1	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	subj	_	AlignBegin=9.616866|AlignEnd=9.726866|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+2	arrive	arriver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=9.726866|AlignEnd=9.946866|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+3	au	au	ADP	_	_	2	comp:obl	_	AlignBegin=9.946866|AlignEnd=9.976866|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+4	lycée	lycée	NOUN	_	Gender=Masc|Number=Sing	3	comp:obj	_	AlignBegin=9.976866|AlignEnd=10.276866|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+5	Stendhal	Stendhal	PROPN	_	_	4	mod@appos	_	AlignBegin=10.276866|AlignEnd=10.726866|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = là <+ je tourne dans la rue du nom d'un géographe [ je me souviens plus lequel // ] //
+# sent_id = Rhap_M0011-4
+# text = là, je tourne dans la rue du nom d'un géographe je me souviens plus lequel.
+1	là	là	ADV	_	_	4	mod	_	AlignBegin=11.165031|AlignEnd=11.2717|GovNucleus=U|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	subj	_	AlignBegin=11.2717|AlignEnd=11.345031|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+4	tourne	tourner	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=11.345031|AlignEnd=11.615031|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+5	dans	dans	ADP	_	_	4	comp:obl	_	AlignBegin=11.615031|AlignEnd=11.735031|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	AlignBegin=11.735031|AlignEnd=11.855031|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	rue	rue	NOUN	_	Gender=Fem|Number=Sing	5	comp:obj	_	AlignBegin=11.855031|AlignEnd=12.135031|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+8	du	du	ADP	_	_	7	udep	_	AlignBegin=12.454098|AlignEnd=12.554098|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+9	nom	nom	NOUN	_	Gender=Masc|Number=Sing	8	comp:obj	_	AlignBegin=12.554098|AlignEnd=12.714098|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+10	d'	de	ADP	_	_	9	udep	_	AlignBegin=12.714098|AlignEnd=12.774098|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+11	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art|Shared=No	12	det	_	AlignBegin=12.774098|AlignEnd=12.845914|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12	géographe	géographe	NOUN	_	Gender=Masc|Number=Sing	10	comp:obj	_	AlignBegin=12.845914|AlignEnd=13.243067|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+13	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	15	subj	_	AlignBegin=13.243067|AlignEnd=13.362738|ANIMACY=HUM|HUM_SCORE=1|IU_graft=Begin|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+14	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	15	comp@expl	_	AlignBegin=13.362738|AlignEnd=13.47114|ANIMACY=HUM|HUM_SCORE=1|IU_graft=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+15	souviens	souvenir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	conj:dicto	_	AlignBegin=13.47114|AlignEnd=13.703067|IU_graft=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+16	plus	plus	ADV	_	_	15	mod	_	AlignBegin=13.703067|AlignEnd=13.983067|IU_graft=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+17	lequel	lequel	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	15	comp:obj	_	AlignBegin=14.073067|AlignEnd=14.503067|IU_graft=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+18	.	.	PUNCT	_	_	4	punct	_	_
+
+# macrosyntax = ^et je passe sous le lycée Stendhal >
+# sent_id = Rhap_M0011-5
+# text = et je passe sous le lycée Stendhal.
+1	et	et	CCONJ	_	_	3	cc	_	AlignBegin=15.23036|AlignEnd=15.309052|Intro_IU=U|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	subj	_	AlignBegin=15.309052|AlignEnd=15.408033|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+3	passe	passer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=15.408033|AlignEnd=15.869052|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+4	sous	sous	ADP	_	_	3	comp:obl	_	AlignBegin=15.95544|AlignEnd=16.23544|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	AlignBegin=16.23544|AlignEnd=16.30544|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+6	lycée	lycée	NOUN	_	Gender=Masc|Number=Sing	4	comp:obj	_	AlignBegin=16.30544|AlignEnd=16.61544|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+7	Stendhal	Stendhal	PROPN	_	_	6	mod@appos	_	AlignBegin=16.61544|AlignEnd=17.26478|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = un petit passage qui m'amène vers le square des postes //
+# sent_id = Rhap_M0011-6
+# text = un petit passage qui m'amène vers le square des postes.
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	petit	petit	ADJ	_	Gender=Masc|Number=Sing	3	mod	_	_
+3	passage	passage	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	qui	qui	PRON	_	PronType=Rel	6	subj	_	_
+5	m'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	comp:obl	_	ANIMACY=HUM|HUM_SCORE=1|SpaceAfter=No
+6	amène	amener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	mod@relcl	_	_
+7	vers	vers	ADP	_	_	6	comp:obl	_	_
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	square	square	NOUN	_	Gender=Masc|Number=Sing	7	comp:obj	_	_
+10	des	de	ADP	_	_	9	udep	_	_
+11	postes	poste	NOUN	_	Gender=Masc|Number=Plur	10	comp:obj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = du square des postes <+ je peux rejoindre la place de l'Étoile //
+# sent_id = Rhap_M0011-7
+# text = du square des postes, je peux rejoindre la place de l'Étoile.
+1	du	du	ADP	_	_	7	mod	_	AlignBegin=21.063417|AlignEnd=21.143417|GovNucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+2	square	square	NOUN	_	Gender=Masc|Number=Sing	1	comp:obj	_	AlignBegin=21.143417|AlignEnd=21.363417|GovNucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+3	des	de	ADP	_	_	2	udep	_	AlignBegin=21.363417|AlignEnd=21.483417|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+4	postes	poste	NOUN	_	Gender=Masc|Number=Plur	3	comp:obj	_	AlignBegin=21.483417|AlignEnd=21.875875|GovNucleus=Last|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak|SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	subj	_	AlignBegin=21.875875|AlignEnd=22.050298|ANIMACY=HUM|HUM_SCORE=5|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+7	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=22.050298|AlignEnd=22.250797|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+8	rejoindre	rejoindre	VERB	_	VerbForm=Inf	7	comp:obj	_	AlignBegin=22.250797|AlignEnd=22.700797|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|Subject=SubjRaising
+9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	AlignBegin=22.700797|AlignEnd=22.790797|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+10	place	place	NOUN	_	Gender=Fem|Number=Sing	8	comp:obj	_	AlignBegin=22.790797|AlignEnd=23.090797|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+11	de	de	ADP	_	_	10	udep	_	AlignBegin=23.090797|AlignEnd=23.160797|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	13	det	_	AlignBegin=23.160797|AlignEnd=23.200797|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+13	Étoile	Étoile	PROPN	_	Gender=Fem|Number=Sing	11	comp:obj	_	AlignBegin=23.200797|AlignEnd=23.780797|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+14	.	.	PUNCT	_	_	7	punct	_	_
+
+# macrosyntax = ^et là <+ j'ai deux itinéraires
+# sent_id = Rhap_M0011-8
+# text = et là, j'ai deux itinéraires.
+1	et	et	CCONJ	_	_	5	cc	_	AlignBegin=24.472519|AlignEnd=24.582519|Intro_IU=U|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	là	là	ADV	_	_	5	mod	_	AlignBegin=24.582519|AlignEnd=24.815099|GovNucleus=U|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	subj	_	AlignBegin=24.815099|AlignEnd=24.935099|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+5	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=24.935099|AlignEnd=25.005099|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+6	deux	deux	NUM	_	Number=Plur	7	det	_	AlignBegin=25.005099|AlignEnd=25.237795|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+7	itinéraires	itinéraire	NOUN	_	Gender=Masc|Number=Plur	5	comp:obj	_	AlignBegin=25.237795|AlignEnd=25.948065|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+# macrosyntax = "je crois" //
+# sent_id = Rhap_M0011-9
+# text = je crois.
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	subj	_	AlignBegin=25.948065|AlignEnd=26.054598|ANIMACY=HUM|AssociatedNucleus=Begin|HUM_SCORE=5|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+2	crois	croire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=26.054598|AlignEnd=26.256525|AssociatedNucleus=Last|Nucleus=Last|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = ^ou bien je prends { la rue Lesdiguières | ^et le boulevard Edouard Rey } //
+# sent_id = Rhap_M0011-10
+# text = ou bien je prends la rue Lesdiguières et le boulevard Edouard Rey.
+1	ou	ou	CCONJ	_	ExtPos=CCONJ	4	cc	_	AlignBegin=26.396841|AlignEnd=26.459317|Idiom=Yes|Intro_IU=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	bien	bien	ADV	_	_	1	unk	_	AlignBegin=26.459317|AlignEnd=26.862738|InIdiom=Yes|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+3	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	subj	_	AlignBegin=26.862738|AlignEnd=27.278915|ANIMACY=HUM|Hesitation=Yes|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=dis-weak
+4	prends	prendre	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=27.717525|AlignEnd=27.977525|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art|Shared=No	6	det	_	AlignBegin=27.977525|AlignEnd=28.097525|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+6	rue	rue	NOUN	_	Gender=Fem|Number=Sing	4	comp:obj	_	AlignBegin=28.097525|AlignEnd=28.277525|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	Lesdiguières	Lesdiguières	PROPN	_	_	6	mod@appos	_	AlignBegin=28.277525|AlignEnd=29.020233|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+8	et	et	CCONJ	_	_	10	cc	_	AlignBegin=29.289028|AlignEnd=29.843656|Hesitation=Yes|Intro_IU=Last|Layer=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	AlignBegin=29.843656|AlignEnd=29.958727|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+10	boulevard	boulevard	NOUN	_	Gender=Masc|Number=Sing	6	conj:coord	_	AlignBegin=29.958727|AlignEnd=30.450512|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|TypeInherited=DepInherited|TypePara=ParaCoord
+11	Edouard	Edouard	PROPN	_	_	10	mod@appos	_	AlignBegin=30.573656|AlignEnd=30.893656|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+12	Rey	Rey	PROPN	_	_	11	flat@name	_	AlignBegin=30.893656|AlignEnd=31.212809|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+# macrosyntax = ^et "non" c'est plus Edouard Rey //=
+# sent_id = Rhap_M0011-11
+# text = et, non, c'est plus Edouard Rey.
+1	et	et	CCONJ	_	_	6	cc	_	AlignBegin=32.945877|AlignEnd=33.148304|Intro_IU=U|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	non	non	ADV	_	Polarity=Neg	6	discourse	_	AlignBegin=33.697177|AlignEnd=33.88759|AssociatedNucleus=U|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	subj	_	AlignBegin=33.88759|AlignEnd=34.02759|ANIMACY=HUM|HUM_SCORE=40|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=34.02759|AlignEnd=34.07759|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+7	plus	plus	ADV	_	_	6	mod	_	AlignBegin=34.07759|AlignEnd=34.311274|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+8	Edouard	Edouard	PROPN	_	_	6	comp:pred	_	AlignBegin=34.311274|AlignEnd=34.73759|ANIMACY=HUM|HUM_SCORE=2|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+9	Rey	Rey	PROPN	_	_	8	flat@name	_	AlignBegin=34.73759|AlignEnd=34.87748|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+# macrosyntax = { c'est Emmanu~ | c'est fils de la Sarce "je crois" } //=
+# sent_id = Rhap_M0011-12
+# text = c'est Emmanu~, c'est fils de la Sarce, je crois.
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	subj	_	AlignBegin=34.87748|AlignEnd=35.00748|Layer=Begin|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=35.00748|AlignEnd=35.27748|AttachTo=6@Rhap_M0011-11|Hesitation=Yes|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|Rel=parataxis:conj|RhythmGroup=tail
+3	Emmanu~	Emmanu~	X	_	ExtPos=PROPN	2	comp:pred	_	AlignBegin=35.36748|AlignEnd=35.68748|Hesitation=Yes|Layer=Last|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=tail|SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	subj	_	AlignBegin=35.74894|AlignEnd=35.90894|ANIMACY=HUM|Hesitation=Pause|HUM_SCORE=40|Layer=Begin|Nucleus=In|ProminenceFinal=Pause|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj:dicto	_	AlignBegin=35.90894|AlignEnd=36.35894|Hesitation=Yes|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|TypeInherited=RootInherited|TypePara=ParaReform
+7	fils	fils	NOUN	_	Gender=Masc	6	comp:pred	_	AlignBegin=36.35894|AlignEnd=36.64894|ANIMACY=HUM|HUM_SCORE=1|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+8	de	de	ADP	_	_	7	udep	_	AlignBegin=36.64894|AlignEnd=36.70894|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	AlignBegin=36.70894|AlignEnd=36.828394|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+10	Sarce	Sarce	PROPN	_	_	8	comp:obj	_	AlignBegin=36.828394|AlignEnd=37.30894|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	13	subj	_	AlignBegin=37.30894|AlignEnd=37.439304|ANIMACY=HUM|AssociatedNucleus=Begin|HUM_SCORE=5|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+13	crois	croire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	discourse	_	AlignBegin=37.439304|AlignEnd=37.785213|AssociatedNucleus=Last|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = "non" c'est même pas ça //
+# sent_id = Rhap_M0011-13
+# text = non, c'est même pas ça.
+1	non	non	ADV	_	Polarity=Neg	4	discourse	_	AlignBegin=38.687465|AlignEnd=38.875033|AssociatedNucleus=U|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	subj	_	AlignBegin=38.875033|AlignEnd=39.000525|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=39.000525|AlignEnd=39.030525|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+5	même	même	ADV	_	_	4	mod	_	AlignBegin=39.030525|AlignEnd=39.150525|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+6	pas	pas	ADV	_	Polarity=Neg	4	mod	_	AlignBegin=39.150525|AlignEnd=39.250525|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+7	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	comp:pred	_	AlignBegin=39.250525|AlignEnd=39.440525|Nucleus=Last|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+# macrosyntax = je m'embrouille //
+# sent_id = Rhap_M0011-14
+# text = je m'embrouille.
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	subj	_	AlignBegin=39.913783|AlignEnd=40.100551|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+2	m'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	comp:obj	_	AlignBegin=40.100551|AlignEnd=40.160551|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+3	embrouille	embrouille	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=40.160551|AlignEnd=40.500551|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+
+# macrosyntax = ou alors il y a une petite rue mais dont je ne sais pas le nom, une petite rue en, qui tourne un peu.
+# sent_id = Rhap_M0011-15
+# text = ou alors il y a une petite rue mais dont je ne sais pas le nom, une petite rue en, qui tourne un peu.
+1	ou	ou	CCONJ	_	ExtPos=CCONJ	5	cc	_	AlignBegin=41.174389|AlignEnd=41.214389|Idiom=Yes|Intro_IU=Begin|Prenucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+2	alors	alors	ADV	_	_	1	unk	_	AlignBegin=41.214389|AlignEnd=41.374389|InIdiom=Yes|Intro_IU=Last|Prenucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+3	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	subj@expl	_	AlignBegin=41.374389|AlignEnd=41.424389|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	y	y	PRON	_	Person=3|PronType=Prs	5	comp@expl	_	AlignBegin=41.424389|AlignEnd=41.484389|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=41.484389|AlignEnd=41.514389|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+6	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art|Shared=No	8	det	_	AlignBegin=41.514389|AlignEnd=41.594389|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	petite	petit	ADJ	_	Gender=Fem|Number=Sing	8	mod	_	AlignBegin=41.594389|AlignEnd=41.944389|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+8	rue	rue	NOUN	_	Gender=Fem|Number=Sing	5	comp:obj	_	AlignBegin=41.944389|AlignEnd=42.135886|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+9	mais	mais	CCONJ	_	_	13	cc	_	AlignBegin=42.135886|AlignEnd=42.245886|Innucleus=Begin|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+10	dont	dont	PRON	_	PronType=Rel	13	comp:obl	_	AlignBegin=42.245886|AlignEnd=42.375886|Innucleus=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+11	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	13	subj	_	AlignBegin=42.375886|AlignEnd=42.505886|ANIMACY=HUM|HUM_SCORE=1|Innucleus=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+12	ne	ne	ADV	_	Polarity=Neg	13	mod	_	AlignBegin=42.505886|AlignEnd=42.545886|Innucleus=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+13	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	mod@relcl	_	AlignBegin=42.545886|AlignEnd=42.705886|Innucleus=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+14	pas	pas	ADV	_	Polarity=Neg	13	mod	_	AlignBegin=42.705886|AlignEnd=42.861788|Innucleus=In|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	AlignBegin=42.861788|AlignEnd=42.915886|Innucleus=In|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+16	nom	nom	NOUN	_	Gender=Masc|Number=Sing	13	comp:obj	_	AlignBegin=42.915886|AlignEnd=43.192378|Innucleus=Last|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	AlignBegin=43.192378|AlignEnd=43.270934|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+19	petite	petit	ADJ	_	Gender=Fem|Number=Sing	20	mod	_	AlignBegin=43.270934|AlignEnd=43.595913|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+20	rue	rue	NOUN	_	Gender=Fem|Number=Sing	8	conj:dicto	_	AlignBegin=43.595913|AlignEnd=43.937035|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|TypeInherited=PredInherited|TypePara=ParaReform
+21	en	en	ADP	_	_	20	udep@scrap	_	AlignBegin=43.937035|AlignEnd=45.258715|Hesitation=Yes|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No|TypeInherited=DepInherited
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	qui	qui	PRON	_	PronType=Rel	24	subj	_	AlignBegin=45.258715|AlignEnd=45.408715|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+24	tourne	tourner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	mod@relcl	_	AlignBegin=45.408715|AlignEnd=45.728715|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|TypeInherited=DepInherited|TypePara=ParaDisfl
+25	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	AlignBegin=45.728715|AlignEnd=45.808715|InIdiom=Yes|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+26	peu	peu	NOUN	_	ExtPos=ADV	24	mod	_	AlignBegin=45.808715|AlignEnd=46.104933|Idiom=Yes|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+27	.	.	PUNCT	_	_	5	punct	_	_
+
+# macrosyntax = { { je | j' } arrive | je tombe } sur La Nef Chavant //
+# sent_id = Rhap_M0011-16
+# text = je, j'arrive, je tombe sur La Nef Chavant.
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	subj	_	AlignBegin=46.634872|AlignEnd=47.124872|ANIMACY=HUM|Hesitation=Yes|HUM_SCORE=1|Layer=U|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak|SpaceAfter=No|TypeInherited=SubInherited|TypePara=ParaDisfl
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	1	conj:dicto	_	AlignBegin=47.124872|AlignEnd=47.254872|ANIMACY=HUM|HUM_SCORE=1|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+4	arrive	arriver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=47.254872|AlignEnd=47.536503|Layer=Last|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	subj	_	AlignBegin=47.536503|AlignEnd=47.666503|ANIMACY=HUM|HUM_SCORE=1|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+7	tombe	tomber	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj:dicto	_	AlignBegin=47.666503|AlignEnd=47.946503|Layer=Last|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|TypeInherited=RootInherited|TypePara=ParaReform
+8	sur	sur	ADP	_	_	7	comp:obl	_	AlignBegin=47.946503|AlignEnd=48.046503|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|TypeInherited=OblInherited
+9	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	AlignBegin=48.046503|AlignEnd=48.365888|Hesitation=Yes|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+10	Nef	Nef	PROPN	_	Gender=Fem|Number=Sing	8	comp:obj	_	AlignBegin=48.365888|AlignEnd=48.556503|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+11	Chavant	Chavant	PROPN	_	_	10	flat@name	_	AlignBegin=48.556503|AlignEnd=48.920756|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+12	.	.	PUNCT	_	_	4	punct	_	_
+

@@ -1,0 +1,386 @@
+  10 
+   2 (P2) | AdjunctVerb
+   1 (P2) | Copula
+   1 (PL) | AdjunctVerb
+   1 (PQ)
+1273 P0
+ 539 P0 (P1)
+  50 P0 (P1) (P2)
+  11 P0 (P1) (P3)
+   1 P0 (P1) (P3) (PQ)
+   1 P0 (P1) (PDL)
+  23 P0 (P1) (PL)
+   4 P0 (P1) (PM)
+   1 P0 (P1) (PP<auprès de>)
+   2 P0 (P1) (PP<avec>)
+   5 P0 (P1) (PP<contre>)
+   3 P0 (P1) (PP<dans>)
+   1 P0 (P1) (PP<de>)
+   1 P0 (P1) (PP<par, avec>)
+   4 P0 (P1) (PP<par>)
+  11 P0 (P1) (PP<sur>)
+   6 P0 (P1) (PQ)
+   1 P0 (P1) (PT)
+   1 P0 (P1) (PX<dans>)
+   2 P0 (P1) AE
+  12 P0 (P1) P2
+   8 P0 (P1) P3
+   3 P0 (P1) PL
+   2 P0 (P1) PMi
+   2 P0 (P1) PP<avec>
+   1 P0 (P1) PP<contre>
+   1 P0 (P1) PP<dans>
+   1 P0 (P1) PP<de>
+   1 P0 (P1) PP<pour>
+   3 P0 (P1) PP<sur>
+   2 P0 (P1) PQ
+   1 P0 (P1) | AdjunctVerb
+   1 P0 (P1) | NonAssert
+ 116 P0 (P2)
+   1 P0 (P2) (AE)
+   4 P0 (P2) (P3)
+   1 P0 (P2) (PP<dans>)
+   2 P0 (P2) (PP<par>)
+   1 P0 (P2) (PP<pour>)
+   1 P0 (P2) PDL
+   2 P0 (P2) PP<de>
+   2 P0 (P2) | AdjunctVerb
+   5 P0 (P2) | Resultative
+ 124 P0 (P3)
+   1 P0 (P3) (PL)
+   1 P0 (P3) (PP<au dépens de>)
+   3 P0 (P3) (PP<auprès de>)
+   2 P0 (P3) (PP<avec>)
+   1 P0 (P3) (PP<en faveur de>)
+   1 P0 (P3) (PP<par>)
+   2 P0 (P3) PP<avec>
+   1 P0 (P3) | NonAssert
+  46 P0 (P3) | Resultative
+  31 P0 (PDL)
+  13 P0 (PDL) (PL)
+   1 P0 (PDL) (PL) (PM)
+   1 P0 (PDL) (PP<dans>)
+   1 P0 (PDL) (PP<vers>)
+   2 P0 (PDL) PL
+   1 P0 (PDL) | NonAssert
+   1 P0 (PDL) | Resultative
+ 177 P0 (PL)
+   1 P0 (PL) (PDL)
+   2 P0 (PL) (PL)
+   2 P0 (PL) (PM)
+   1 P0 (PL) (PQ)
+   7 P0 (PL) (PT)
+   2 P0 (PL) | AdjunctVerb
+   1 P0 (PL) | NonAssert
+   5 P0 (PL) | Resultative
+  10 P0 (PM)
+   1 P0 (PM) (PDL) | Resultative
+   1 P0 (PM) (PT)
+   7 P0 (PMi)
+   1 P0 (PMi) (PDL)
+   2 P0 (PMi) (PL)
+   2 P0 (PP<après>)
+   1 P0 (PP<au travers de, à travers>)
+   2 P0 (PP<au-dessus de>)
+   2 P0 (PP<auprès de>)
+   1 P0 (PP<auprès de>) (P3)
+   1 P0 (PP<auprès de>) (PP<en faveur de>)
+   1 P0 (PP<auprès de>) (PP<pour>)
+   1 P0 (PP<auprès de>) | Resultative
+   1 P0 (PP<avec, d'avec>)
+  29 P0 (PP<avec>)
+   1 P0 (PP<avec>) (P3)
+   1 P0 (PP<avec>) (PP<dans>)
+   1 P0 (PP<avec>) | Resultative
+   2 P0 (PP<contre, après>)
+   1 P0 (PP<contre, face à>)
+   2 P0 (PP<contre, pour>)
+  54 P0 (PP<contre>)
+   1 P0 (PP<contre>) (P3)
+   1 P0 (PP<contre>) (PP<en faveur de>)
+   1 P0 (PP<contre>) (PP<pour>)
+   1 P0 (PP<contre>) | NonAssert
+   1 P0 (PP<contre>) | Resultative
+  32 P0 (PP<dans>)
+   1 P0 (PP<dans>) | Resultative
+   1 P0 (PP<de, avec>)
+  18 P0 (PP<de>)
+   1 P0 (PP<de>) PL
+   1 P0 (PP<de>) PP<à>
+   3 P0 (PP<derrière>)
+  16 P0 (PP<devant>)
+   1 P0 (PP<devant>) PX<de>
+   2 P0 (PP<devant>) | Resultative
+   1 P0 (PP<en faveur de, pour, contre>)
+   1 P0 (PP<en faveur de>)
+   1 P0 (PP<en faveur de>) (PP<auprès de>)
+   1 P0 (PP<en, dans>)
+   1 P0 (PP<en, par>)
+  17 P0 (PP<en>)
+   1 P0 (PP<en>) (PM)
+   1 P0 (PP<en>) (PP<auprès de>)
+   3 P0 (PP<entre>)
+   2 P0 (PP<entre>) | Resultative
+   1 P0 (PP<jusqu'à>)
+   8 P0 (PP<par>)
+   1 P0 (PP<pour, contre, en faveur de>)
+   1 P0 (PP<pour, contre, sur>)
+  24 P0 (PP<pour>)
+   1 P0 (PP<pour>) (PP<auprès de>)
+   1 P0 (PP<pour>) (PP<contre>)
+   1 P0 (PP<pour>) | Resultative
+   1 P0 (PP<selon>)
+   5 P0 (PP<sous>)
+  84 P0 (PP<sur>)
+   2 P0 (PP<sur>) (PP<auprès de>)
+   1 P0 (PP<sur>) (PP<avec>)
+   1 P0 (PP<sur>) (PP<en>)
+   1 P0 (PP<sur>) (PT)
+   1 P0 (PP<sur>) PQ
+   3 P0 (PP<sur>) | Resultative
+   4 P0 (PP<vers>)
+   1 P0 (PP<vers>) (PQ)
+   1 P0 (PP<à travers>)
+   4 P0 (PP<à>)
+  22 P0 (PQ)
+   1 P0 (PQ) (P2)
+   1 P0 (PQ) (PP<pour>)
+   4 P0 (PQ) (PP<sur>)
+   1 P0 (PQ) P1 (PP<avec, contre>)
+  11 P0 (PT)
+   1 P0 (PX)
+   2 P0 (PX<de>)
+   1 P0 (PX<de>) PP<contre>
+  13 P0 AE
+   2 P0 AE | Resultative
+2656 P0 P1
+ 190 P0 P1 (P2)
+   2 P0 P1 (P2) (PDL)
+   1 P0 P1 (P2) (PP<pour>)
+   4 P0 P1 (P2) (PQ)
+   1 P0 P1 (P2) | AdjunctVerb
+   3 P0 P1 (P2) | NonAssert
+ 214 P0 P1 (P3)
+   1 P0 P1 (P3) (PP<auprès de>)
+   1 P0 P1 (P3) (PP<contre>)
+   1 P0 P1 (P3) (PP<pour>)
+  39 P0 P1 (PDL)
+   5 P0 P1 (PDL) (PL)
+   1 P0 P1 (PDL) (PP<dans>)
+ 203 P0 P1 (PL)
+   1 P0 P1 (PL) (PM)
+  16 P0 P1 (PM)
+   1 P0 P1 (PM) (PL)
+   8 P0 P1 (PMi)
+   2 P0 P1 (PMi) (PP<pour>)
+   1 P0 P1 (PP<au sujet de>)
+   1 P0 P1 (PP<auprès de, envers>)
+   5 P0 P1 (PP<auprès de>)
+  13 P0 P1 (PP<avec>)
+   1 P0 P1 (PP<chez, en>)
+   1 P0 P1 (PP<chez>)
+   1 P0 P1 (PP<contre, sur>)
+  24 P0 P1 (PP<contre>)
+  27 P0 P1 (PP<dans>)
+   1 P0 P1 (PP<dans>) (PMi)
+   1 P0 P1 (PP<de, avec>)
+   1 P0 P1 (PP<de, dans>)
+  19 P0 P1 (PP<de>)
+   1 P0 P1 (PP<devant>)
+  32 P0 P1 (PP<en>)
+   1 P0 P1 (PP<entre, parmi>)
+   3 P0 P1 (PP<entre>)
+   1 P0 P1 (PP<envers>)
+   7 P0 P1 (PP<par>)
+  19 P0 P1 (PP<pour>)
+   1 P0 P1 (PP<pour>) (PP<contre>)
+   1 P0 P1 (PP<sur, contre, après>)
+   1 P0 P1 (PP<sur, pour>)
+  44 P0 P1 (PP<sur>)
+   2 P0 P1 (PP<vers>)
+   1 P0 P1 (PP<à, avec>)
+   2 P0 P1 (PP<à>)
+  34 P0 P1 (PQ)
+   4 P0 P1 (PT)
+   2 P0 P1 (PX<dans>)
+   1 P0 P1 (PX<de>)
+   1 P0 P1 AE
+ 179 P0 P1 P2
+   1 P0 P1 P2 (P3)
+   1 P0 P1 P2 (PP<sur>)
+   3 P0 P1 P2 | NonAssert
+  69 P0 P1 P3
+   4 P0 P1 PDL
+   1 P0 P1 PDL PL
+  52 P0 P1 PL
+  12 P0 P1 PM
+  24 P0 P1 PMi
+   1 P0 P1 PP<au-dessus de>
+   1 P0 P1 PP<auprès de>
+  37 P0 P1 PP<avec>
+   1 P0 P1 PP<avec> (PP<contre>)
+   1 P0 P1 PP<avec> (PP<pour>) (PP<contre>)
+   1 P0 P1 PP<chez>
+  10 P0 P1 PP<contre>
+   1 P0 P1 PP<dans/en>
+  14 P0 P1 PP<dans>
+   5 P0 P1 PP<de>
+   5 P0 P1 PP<en>
+   1 P0 P1 PP<en> (PP<de>)
+   2 P0 P1 PP<par>
+   2 P0 P1 PP<parmi>
+   1 P0 P1 PP<pour, contre>
+  12 P0 P1 PP<pour>
+   1 P0 P1 PP<sous>
+   1 P0 P1 PP<sur, contre>
+   1 P0 P1 PP<sur, dans>
+   1 P0 P1 PP<sur, à>
+  29 P0 P1 PP<sur>
+   2 P0 P1 PP<vers>
+   2 P0 P1 PP<à, avec>
+   5 P0 P1 PP<à>
+   2 P0 P1 PQ
+   4 P0 P1 PT
+  15 P0 P1 PX
+   1 P0 P1 PX (PP<pour>)
+   2 P0 P1 PX<dans>
+   5 P0 P1 PX<de>
+   6 P0 P1 | AdjunctVerb
+   4 P0 P1 | NonAssert
+ 191 P0 P2
+   1 P0 P2 (P3)
+   1 P0 P2 (PMi)
+   2 P0 P2 (PP<de>)
+   1 P0 P2 (PP<pour>)
+   1 P0 P2 P1
+   1 P0 P2 P1 PMi
+   1 P0 P2 P2
+   1 P0 P2 P3
+   1 P0 P2 PDL
+   1 P0 P2 PL
+   1 P0 P2 PM
+   1 P0 P2 PMi
+   1 P0 P2 PQ
+   1 P0 P2 PX
+  10 P0 P2 | Resultative
+ 118 P0 P3
+   1 P0 P3 (PMi)
+   1 P0 P3 (PP<en, par>)
+   1 P0 P3 (PP<sur>)
+   1 P0 P3 P1
+   1 P0 P3 PMi
+   1 P0 P3 PP<avec>
+   1 P0 P3 PP<pour>
+   1 P0 P3 PP<sur> | NonAssert
+   4 P0 P3 | NonAssert
+  33 P0 P3 | Resultative
+   9 P0 PDL
+ 138 P0 PL
+   1 P0 PL (PL)
+   1 P0 PL (PP<dans>)
+   5 P0 PL | Resultative
+  19 P0 PM
+  16 P0 PMi
+   5 P0 PP<après>
+   1 P0 PP<au-devant de>
+   1 P0 PP<auprès de, autour de>
+   1 P0 PP<autour de>
+   1 P0 PP<avec, contre>
+   1 P0 PP<avec, sans>
+   1 P0 PP<avec, à>
+  64 P0 PP<avec>
+   2 P0 PP<avec> (P3)
+   1 P0 PP<avec> (PL)
+   4 P0 PP<avec> (PP<contre>)
+   1 P0 PP<avec> (PP<en>)
+   3 P0 PP<avec> (PP<pour>)
+   4 P0 PP<avec> (PP<sur>)
+   1 P0 PP<avec> (PP<à>)
+   1 P0 PP<avec> P1
+   1 P0 PP<avec> | Resultative
+   1 P0 PP<chez>
+   1 P0 PP<contre, après>
+   1 P0 PP<contre, en faveur de>
+   1 P0 PP<contre, pour, en faveur de>
+  34 P0 PP<contre>
+   1 P0 PP<dans, en>
+  45 P0 PP<dans>
+   2 P0 PP<dans> | Resultative
+  14 P0 PP<de>
+   1 P0 PP<de> (PP<en, par>)
+   1 P0 PP<de> (PP<pour>)
+   1 P0 PP<de> PP<à>
+   5 P0 PP<devant>
+   1 P0 PP<en faveur de>
+   1 P0 PP<en faveur de> (PP<auprès de>)
+   1 P0 PP<en faveur de> PP<auprès de>
+   1 P0 PP<en, par>
+  18 P0 PP<en>
+   1 P0 PP<en> P1
+   1 P0 PP<en> | Resultative
+   4 P0 PP<entre>
+   2 P0 PP<entre> | Resultative
+   1 P0 PP<envers> PM
+   1 P0 PP<face à>
+   1 P0 PP<le long de, à travers>
+   3 P0 PP<par>
+   1 P0 PP<par> P1
+   1 P0 PP<parmi>
+   1 P0 PP<pour, contre, en faveur de>
+   1 P0 PP<pour, contre>
+  10 P0 PP<pour>
+   1 P0 PP<pour> PL
+   1 P0 PP<pour> | Resultative
+   1 P0 PP<sous> | Resultative
+   1 P0 PP<suivant>
+   1 P0 PP<sur, à>
+  93 P0 PP<sur>
+   1 P0 PP<sur> (PQ)
+   1 P0 PP<sur> PQ
+   4 P0 PP<sur> | Resultative
+   1 P0 PP<vers>
+   1 P0 PP<à l'avis de, du côté de>
+   3 P0 PP<à, avec>
+   1 P0 PP<à, avec> (PP<contre>)
+   1 P0 PP<à, contre, après>
+   1 P0 PP<à, pour>
+  17 P0 PP<à>
+   1 P0 PP<à> PP<pour>
+   1 P0 PP<à> | Resultative
+  22 P0 PQ
+   2 P0 PQ (P2)
+   1 P0 PQ P1
+   1 P0 PQ PL
+   1 P0 PQ PP<sur>
+   9 P0 PT
+  10 P0 PX
+  26 P0 PX<de>
+   1 P0 PX<de> (PP<avec>)
+   1 P0 PX<de> PP<contre>
+   1 P0 PX<de> | Resultative
+   7 P0 | AdjunctVerb
+   5 P0 | Copula
+  14 P0 | NonAssert
+  41 P0 | Resultative
+   5 P1
+   2 P1 (P2)
+   1 P1 (P3)
+   1 P1 (PP<de>) | NonAssert
+   2 P1 P2
+   1 P1 P2 PP<pour>
+   2 P1 | Intro
+   1 P2
+   2 P3
+   1 P3 (PP<dans>)
+   1 P3 (PP<pour>)
+   1 P3 PM
+   1 P3 PM PP<pour/de>
+   1 P3 PP<comme de>
+   1 PP<entre>
+  66 | AdjunctVerb
+   4 | AdjunctVerb NonAssert
+   3 | AdjunctVerb Resultative
+   2 | Auxiliary
+  11 | Copula
+   5 | Dispositive
+   2 | Resultative

@@ -1,0 +1,18 @@
+id_sentence_conll,index_phrase,index_token,form,lemma,score,annotation,phrase
+Rhap_M0001-1,0,6,tu,toi,1,y,"eh ben, euh, tu prends le boulevard, euh, là qui part de Nef Chavant, là le boulevard qui passe à côté d'Habitat."
+Rhap_M0001-1,0,17,Nef,Nef,2,n,"eh ben, euh, tu prends le boulevard, euh, là qui part de Nef Chavant, là le boulevard qui passe à côté d'Habitat."
+Rhap_M0001-2,1,1,tu,toi,1,y,tu continues.
+Rhap_M0001-3,2,1,tu,toi,1,y,"tu vas arriver sur la place, euh, Victor Hugo."
+Rhap_M0001-3,2,10,Victor,Victor,2,y,"tu vas arriver sur la place, euh, Victor Hugo."
+Rhap_M0001-4,3,5,Victor,Victor,2,y,"euh, la place Victor Hugo, à la banque, euh, qui fait l'angle, tu prends à droite."
+Rhap_M0001-4,3,19,tu,toi,5,y,"euh, la place Victor Hugo, à la banque, euh, qui fait l'angle, tu prends à droite."
+Rhap_M0001-5,4,1,tu,toi,1,y,"tu longes les, les rails du tram jusqu'à la place Grenette."
+Rhap_M0001-6,5,1,tu,toi,1,y,tu continues dans la vieille ville.
+Rhap_M0001-7,6,1,tu,toi,1,y,tu prends la grande rue.
+Rhap_M0001-8,7,7,tu,toi,1,y,"et, euh, après, tu bifurques."
+Rhap_M0001-10,9,1,tu,toi,1,y,tu passes à côté d'une petite fontaine.
+Rhap_M0001-11,10,1,tu,toi,1,y,"tu arrives place aux Herbes avec une, une sorte de halle, quoi, de, de, de structure métallique."
+Rhap_M0001-12,11,1,tu,toi,1,y,"tu continues la rue, la petite rue."
+Rhap_M0001-13,12,2,tu,toi,1,y,"et tu arrives à la fontaine, euh, place Notre-Dame."
+Rhap_M0001-13,12,11,Notre,Notre,2,n,"et tu arrives à la fontaine, euh, place Notre-Dame."
+Rhap_M0001-13,12,12,Dame,Dame,2,n,"et tu arrives à la fontaine, euh, place Notre-Dame."

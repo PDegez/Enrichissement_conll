@@ -1,0 +1,23 @@
+id_sentence_conll,index_phrase,index_token,form,lemma,score,annotation,phrase
+Rhap_M0007-1,0,3,vous,vous,1,y,"bon, vous prenez la route là."
+Rhap_M0007-2,1,1,vous,vous,1,y,"vous sortez, euh, de la, euh, commune de Pontamafrey."
+Rhap_M0007-3,2,1,vous,vous,1,y,vous allez arriver.
+Rhap_M0007-5,4,1,vous,vous,1,y,vous continuez.
+Rhap_M0007-6,5,1,vous,vous,1,y,vous prenez le rond-point tout droit.
+Rhap_M0007-7,6,1,vous,vous,1,y,"vous passez le pont, euh, au-dessus de la voie ferrée."
+Rhap_M0007-8,7,3,vous,vous,1,y,"après, vous continuez direction Saint-Jean."
+Rhap_M0007-8,7,6,Saint,Saint,2,y,"après, vous continuez direction Saint-Jean."
+Rhap_M0007-8,7,7,Jean,Jean,2,y,"après, vous continuez direction Saint-Jean."
+Rhap_M0007-10,9,3,vous,vous,1,y,"après, vous continuez."
+Rhap_M0007-11,10,1,vous,vous,1,y,vous suivez la route.
+Rhap_M0007-13,12,1,vous,vous,1,y,"vous arrivez à l'entrée de Saint-Jean-de-Maurienne, euh, où se situe un garage Fiat."
+Rhap_M0007-14,13,1,vous,vous,1,y,vous prenez ce rond-point à gauche.
+Rhap_M0007-16,15,3,vous,vous,1,y,"après, vous continuez."
+Rhap_M0007-17,16,6,vous,vous,1,y,"au prochain rond-point, vous prenez à gauche."
+Rhap_M0007-18,17,1,vous,vous,5,y,"vous descendez la route, euh, vers les sapeurs pompiers, euh, en bas de la route."
+Rhap_M0007-18,17,10,sapeurs,sapeur,1,y,"vous descendez la route, euh, vers les sapeurs pompiers, euh, en bas de la route."
+Rhap_M0007-18,17,11,pompiers,pompier,1,y,"vous descendez la route, euh, vers les sapeurs pompiers, euh, en bas de la route."
+Rhap_M0007-19,18,1,vous,vous,1,y,vous arrivez après au fond de la route.
+Rhap_M0007-20,19,1,vous,vous,5,y,"vous prenez à gauche devant, euh, Dorhôtel."
+Rhap_M0007-21,20,1,vous,vous,1,y,vous continuez tout droit.
+Rhap_M0007-22,21,1,vous,vous,1,y,"vous arrivez, euh, en face de la gare au bout de la ligne droite."

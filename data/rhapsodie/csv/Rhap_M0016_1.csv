@@ -1,0 +1,31 @@
+id_sentence_conll,index_phrase,index_token,form,lemma,score,annotation,phrase
+Rhap_M0016-1,0,18,je,moi,1,y,"euh, bon, pour aller du CRDT à la gare, euh, de Grenoble, je, euh, ben, je sors déjà du CRDT."
+Rhap_M0016-1,0,24,je,moi,1,y,"euh, bon, pour aller du CRDT à la gare, euh, de Grenoble, je, euh, ben, je sors déjà du CRDT."
+Rhap_M0016-2,1,1,je,moi,1,y,"je remonte, euh, l'avenue Général Champon."
+Rhap_M0016-3,2,1,je,moi,1,y,"je traverse, euh, face à la, euh, MDE."
+Rhap_M0016-4,3,2,je,moi,1,y,"et je, euh, je continue, je continue jusqu'à une place qui est face à la grande poste où il y a la, euh, Chambre de Commerce et d'Industrie."
+Rhap_M0016-4,3,6,je,moi,1,y,"et je, euh, je continue, je continue jusqu'à une place qui est face à la grande poste où il y a la, euh, Chambre de Commerce et d'Industrie."
+Rhap_M0016-4,3,9,je,moi,1,y,"et je, euh, je continue, je continue jusqu'à une place qui est face à la grande poste où il y a la, euh, Chambre de Commerce et d'Industrie."
+Rhap_M0016-5,4,5,je,moi,1,y,"et, euh, je reprends, je crois, le, non."
+Rhap_M0016-5,4,8,je,moi,5,y,"et, euh, je reprends, je crois, le, non."
+Rhap_M0016-7,6,1,je,moi,5,y,"je ne sais pas lequel c'est, euh."
+Rhap_M0016-8,7,1,c',ce,40,n,c'est l'autre.
+Rhap_M0016-8,7,4,autre,autre,1,n,c'est l'autre.
+Rhap_M0016-9,8,7,je,moi,1,y,"et, euh, donc, je vais jusqu'au, jusqu'à la place Victor Hugo."
+Rhap_M0016-9,8,16,Victor,Victor,2,y,"et, euh, donc, je vais jusqu'au, jusqu'à la place Victor Hugo."
+Rhap_M0016-10,9,4,je,moi,1,y,"et là, je me retrouve, euh, en effet, euh, s~, près des rails du tram."
+Rhap_M0016-10,9,5,me,moi,1,y,"et là, je me retrouve, euh, en effet, euh, s~, près des rails du tram."
+Rhap_M0016-11,10,14,je,moi,1,y,"et, euh, et ces rails du tram, eh ben, je vais, je vais les longer."
+Rhap_M0016-11,10,17,je,moi,1,y,"et, euh, et ces rails du tram, eh ben, je vais, je vais les longer."
+Rhap_M0016-12,11,1,je,moi,1,y,"je vais traverser, euh, le boulevard Gambetta."
+Rhap_M0016-14,13,5,je,moi,1,y,"ensuite, euh, je vais, euh, prendre je crois que c'est l'avenue Alsace-Lorraine, que je vais remonter, remonter."
+Rhap_M0016-14,13,11,je,moi,5,y,"ensuite, euh, je vais, euh, prendre je crois que c'est l'avenue Alsace-Lorraine, que je vais remonter, remonter."
+Rhap_M0016-14,13,22,je,moi,1,y,"ensuite, euh, je vais, euh, prendre je crois que c'est l'avenue Alsace-Lorraine, que je vais remonter, remonter."
+Rhap_M0016-15,14,1,je,moi,1,y,"je vais traverser le cours Jean Jaurès, si je me souviens bien."
+Rhap_M0016-15,14,6,Jean,Jean,2,y,"je vais traverser le cours Jean Jaurès, si je me souviens bien."
+Rhap_M0016-15,14,10,je,moi,1,y,"je vais traverser le cours Jean Jaurès, si je me souviens bien."
+Rhap_M0016-15,14,11,me,moi,1,y,"je vais traverser le cours Jean Jaurès, si je me souviens bien."
+Rhap_M0016-16,15,2,je,moi,1,y,"et je vais, euh,"
+Rhap_M0016-17,16,1,je,moi,1,y,je vais toujours continuer cette avenue Alsace-Lorraine.
+Rhap_M0016-18,17,11,j',moi,1,y,"et, euh, et, ben, voilà, j'arrive au niveau de la grande place de la gare où il y a tous les trams, tous les bus, non, pas tous les bus."
+Rhap_M0016-21,20,2,je,moi,1,y,et je suis arrivée sur la gare.

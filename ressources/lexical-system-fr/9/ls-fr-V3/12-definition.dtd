@@ -1,0 +1,118 @@
+<!-- GLOSSARY
+definiens ....
+...
+...
+-->
+
+<!ELEMENT definiens (df-semanteme | df-grammeme | df-derivateme | df-empty_unit) >
+
+<!ELEMENT df-semanteme (actantpos?, presup?, assert) >
+
+<!ELEMENT actantpos (tc*) >
+
+<!ELEMENT presup (pc*) >
+
+<!-- Peripheral component (pc): anchored to the central component or to another
+peripheral component; semantic role relative to the anchor is required -->
+<!ELEMENT pc (#PCDATA | st | setst | ac | ap | aap | co | wc)* >
+<!ATTLIST pc id ID #IMPLIED>
+<!ATTLIST pc anchor IDREF #REQUIRED>
+<!ATTLIST pc role CDATA #REQUIRED>
+<!ATTLIST pc dom IDREF #IMPLIED>
+
+<!ELEMENT assert (pc*, cc, pc*) >
+
+<!-- oooooo STRUCTURING OF THE CENTRAL COMPONENT oooooooo -->
+
+<!-- Central component is either simple or complex --> 
+<!ELEMENT cc (scc | ccc) >
+<!ATTLIST cc id ID #IMPLIED>
+
+<!-- Simple central component (scc) - the default -->
+<!ELEMENT scc (#PCDATA | st | setst | ac | ap | aap | co | wc | pc)* >
+<!ATTLIST scc id ID #IMPLIED>
+<!ATTLIST scc dom IDREF #IMPLIED>
+
+<!-- Complex central component (ccc) - for semantically ambivalent senses.
+Made up of one main central component and one or more adjoined cc -->
+<!ELEMENT ccc (mcc, acc*) >
+<!ATTLIST ccc id ID #IMPLIED>
+
+<!-- Main central component (mcc) - same as cc except that ID is required -->
+<!ELEMENT mcc (#PCDATA | st | setst | ac | ap | aap | co | wc | pc)* >
+<!ATTLIST mcc id ID #REQUIRED>
+<!ATTLIST mcc dom IDREF #REQUIRED>
+
+<!-- Adjoined central component (acc) - same as mcc except that has a required anchor -->
+<!ELEMENT acc (#PCDATA | st | setst | ac | ap | aap | co | wc | pc)* >
+<!ATTLIST acc id ID #REQUIRED>
+<!ATTLIST acc anchor IDREFS #REQUIRED>
+<!ATTLIST acc dom IDREF #REQUIRED>
+
+<!-- oooooooooooooooooooooooooooooooooooooo -->
+
+
+<!-- Semanteme (st) or set semanteme (setst) targets a given sense in the database; for now the target is not required, until we implement strong vs. weak semanteme inclusion -->
+<!ELEMENT st (#PCDATA) >
+<!ATTLIST st id ID #IMPLIED>
+<!ATTLIST st sense CDATA #IMPLIED>
+<!ATTLIST st sem (0|1|2) "0">
+<!ATTLIST st coref IDREFS #IMPLIED>
+<!ATTLIST st actants IDREFS #IMPLIED>
+
+<!ELEMENT setst (#PCDATA) >
+<!ATTLIST setst id ID #IMPLIED>
+<!ATTLIST setst sense CDATA #IMPLIED>
+<!ATTLIST setst sem (0|1|2) "0">
+<!ATTLIST setst coref IDREFS #IMPLIED>
+<!ATTLIST setst actants IDREFS #IMPLIED>
+
+<!-- oooooo SPECIFICATION OF ACTANT POSITIONS oooooooo -->
+
+<!-- ap (actant position) must have an ID; can itself have actants -->
+<!ELEMENT ap (#PCDATA) >
+<!ATTLIST ap id ID #IMPLIED>
+<!ATTLIST ap coref IDREF #IMPLIED>
+<!ATTLIST ap actants IDREFS #IMPLIED>
+
+<!-- aap (additional actant position -> not in the propositional form) must have an ID; can itself have actants -->
+<!ELEMENT aap (#PCDATA) >
+<!ATTLIST aap id ID #IMPLIED>
+<!ATTLIST aap coref IDREF #IMPLIED>
+<!ATTLIST aap actants IDREFS #IMPLIED>
+
+<!-- Type component (tc): gives the semantic type of a given actant position -->
+<!ELEMENT tc (#PCDATA | st | setst | at | ac | ap | aap | co | wc)* >
+<!ATTLIST tc id ID #IMPLIED>
+<!ATTLIST tc anchor IDREF #IMPLIED>
+<!ATTLIST tc role CDATA #REQUIRED>
+
+<!-- Actant type (at) must be linked to a semantic label.
+Must target at least one ID with IDREF as anchor. -->
+<!ELEMENT at (#PCDATA) >
+<!ATTLIST at label CDATA #REQUIRED>
+<!ATTLIST at anchor IDREFS #REQUIRED>
+
+<!-- Actant characterization (ac) must be linked to a sense.
+It can be in the presup, as an alternative for an at,
+or in the  assert, cf. 'dog' in the definition of BARK.
+Must target at least one ID with IDREF as anchor. -->
+<!ELEMENT ac (#PCDATA) >
+<!ATTLIST ac sense CDATA #REQUIRED>
+<!ATTLIST ac anchor IDREFS #REQUIRED>
+
+<!-- oooooooooooooooooooooooooooooooooooooo -->
+
+<!-- Context (co): addition to the genus in a central component. E.g.
+'X, wife of Y' : [cc X, woman [genus] married to Y [context]]'.
+The term "context" is not suitable and will have to be changed. -->
+<!ELEMENT co (#PCDATA | st | setst | at | ac | ap | aap)* >
+
+<!-- Weak component (wc) -->
+<!ELEMENT wc (#PCDATA | st | setst | at | ac | ap | aap)* >
+
+<!ELEMENT df-grammeme (#PCDATA) >
+
+<!ELEMENT df-derivateme (#PCDATA) >
+
+<!ELEMENT df-empty_unit (#PCDATA) >

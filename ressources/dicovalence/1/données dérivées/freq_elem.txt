@@ -1,0 +1,289 @@
+AE-0                      1
+AE-comment               19
+P0-(ceci)                28
+P0-(celui-ci)             3
+P0-(elle)                 3
+P0-(il)                   4
+P0-(il_en_Q)              2
+P0-(ils)                  1
+P0-(je)                 114
+P0-(nous)               115
+P0-(on)                 117
+P0-(que)                247
+P0-(qui)                117
+P0-(ça(de_inf))          2
+P0-(ça(inf))             2
+P0-(ça(qpsubj))          6
+P0-(ça)                252
+P0-?ceci                  5
+P0-?celui-ci              1
+P0-?il_en_Q              20
+P0-?il_qpind              1
+P0-?je                    1
+P0-?nous                  2
+P0-?on                    1
+P0-?que                   1
+P0-?qui                   2
+P0-?ça                   3
+P0-?ça(de_inf)           2
+P0-ce                     3
+P0-ce(de_inf)             1
+P0-ceci                1463
+P0-celui-ci            7899
+P0-ceux-ci             8111
+P0-elle                7939
+P0-il                  7939
+P0-il_de_inf             24
+P0-il_en_Q              301
+P0-il_qpind              15
+P0-il_qpsubj             15
+P0-il_que                13
+P0-ils                 8150
+P0-je                  6251
+P0-nous                6411
+P0-on                  6390
+P0-que                 3006
+P0-qui                 6417
+P0-ça                 2807
+P0-ça(de_inf)          132
+P0-ça(inf)              54
+P0-ça(qpind)             5
+P0-ça(qpsubj)          185
+P0-ça(sipind)            2
+P1-(0)                    2
+P1-(ceci)                22
+P1-(celui-ci)             8
+P1-(ceux-ci)              2
+P1-(en Q)                 1
+P1-(l'un l'autre)       141
+P1-(la)                  10
+P1-(le(qpsubj))           1
+P1-(le)                   8
+P1-(les)                  1
+P1-(que)                 96
+P1-(qui)                229
+P1-(se réc.)           155
+P1-(se réfl.)           81
+P1-(te)                 216
+P1-(vous)               218
+P1-(ça(inf))             1
+P1-(ça(qpsubj))          1
+P1-(ça(à_inf))          1
+P1-(ça)                 97
+P1-0                    705
+P1-?ceci                  6
+P1-?celui-ci             11
+P1-?ceux-ci              10
+P1-?en Q                  2
+P1-?le(de_inf)            2
+P1-?le(inf)               1
+P1-?le(qpind)             2
+P1-?les                   1
+P1-?que                   2
+P1-?se réc.              3
+P1-?se réfl.            41
+P1-?ça                  12
+P1-?ça(inf)              3
+P1-?ça(qpind)            3
+P1-autant                71
+P1-ceci                2340
+P1-celui-ci            4481
+P1-ceux-ci             4633
+P1-combien               79
+P1-en Q                4473
+P1-l'un l'autre        1365
+P1-la                  4551
+P1-le                  4561
+P1-le(de_inf)            98
+P1-le(indirq)            66
+P1-le(inf)               65
+P1-le(qpind)            189
+P1-le(qpsubj)            64
+P1-le(sipind)            20
+P1-le(à_inf)             8
+P1-les                 4698
+P1-les uns les autres      1
+P1-que                 3765
+P1-qui                 1871
+P1-rien                   7
+P1-se réc.            1364
+P1-se réfl.            674
+P1-te                  1803
+P1-vous                1871
+P1-ça                 3576
+P1-ça(de_inf)          117
+P1-ça(indirq)           55
+P1-ça(inf)              69
+P1-ça(qpind)           226
+P1-ça(qpsubj)           86
+P1-ça(sipind)           25
+P1-ça(à_inf)           10
+P2-(ceci)                 1
+P2-(celui-ci)             2
+P2-(ceux-ci)              2
+P2-(qui)                  1
+P2-(quoi)                 5
+P2-(y(à_inf))            1
+P2-(y)                   13
+P2-(ça(à_inf))          1
+P2-(ça)                 20
+P2-0                    394
+P2-?0                     1
+P2-ceci                 128
+P2-cela                   1
+P2-celui-ci             654
+P2-ceux-ci              655
+P2-eux                   84
+P2-l'un l'autre         296
+P2-leur                 374
+P2-lui                  372
+P2-lui_ton               83
+P2-me                    47
+P2-qui                  423
+P2-quoi                 458
+P2-se réc.             264
+P2-se réfl.            104
+P2-soi-même              1
+P2-y                    432
+P2-y(indirq)              1
+P2-y(qpind)               2
+P2-y(qpsubj)              5
+P2-y(à_ce_qpind)         1
+P2-y(à_ce_qpsubj)       31
+P2-y(à_inf)            162
+P2-ça                  421
+P2-ça(indirq)            1
+P2-ça(qpind)             2
+P2-ça(qpsubj)            5
+P2-ça(à_ce_qpind)       1
+P2-ça(à_ce_qpsubj)     24
+P2-ça(à_inf)          168
+P3-(celui-ci)             2
+P3-(ceux-ci)              1
+P3-(en(de_inf))           1
+P3-(en(sipind))           1
+P3-(en)                   2
+P3-(eux)                  8
+P3-(lui_ton)              6
+P3-(qui)                  7
+P3-(quoi)                 3
+P3-(ça)                  5
+P3-0                    423
+P3-?en                    1
+P3-autant                 9
+P3-ceci                 235
+P3-celui-ci             524
+P3-ceux-ci              552
+P3-combien                9
+P3-en                   645
+P3-en(de_ce_qpind)       22
+P3-en(de_ce_qpsubj)      32
+P3-en(de_inf)           148
+P3-en(indirq)             3
+P3-en(qpind)             23
+P3-en(qpsubj)            26
+P3-en(sipind)             3
+P3-eux                  106
+P3-l'un l'autre          30
+P3-leur                   8
+P3-lui                    8
+P3-lui_ton              106
+P3-qui                  109
+P3-quoi                 625
+P3-se réc.               6
+P3-se réfl.              9
+P3-ça                  606
+P3-ça(de_ce_qpind)      31
+P3-ça(de_ce_qpsubj)     45
+P3-ça(de_inf)          157
+P3-ça(indirq)            2
+P3-ça(qpind)            26
+P3-ça(qpsubj)           27
+P3-ça(sipind)            2
+PDL-0                   102
+PDL-en                  101
+PDL-prep ici            115
+PDL-prep là            118
+PDL-prep là-bas        113
+PDL-prep où            115
+PL-0                    453
+PL-ici                  481
+PL-là                  603
+PL-là-bas              469
+PL-où                  603
+PL-prep ici              56
+PL-prep là              60
+PL-prep là-bas          57
+PL-prep où              59
+PL-y                    569
+PM-0                     38
+PM-ainsi                 72
+PM-comme ça             72
+PM-comment               73
+PM-de quelle façon      65
+PM-de telle façon       65
+PMi-0                    23
+PMi-ainsi                66
+PMi-comme quoi           18
+PMi-comme tel            41
+PMi-comme ça             8
+PMi-comment              66
+PMi-tel                  21
+PP-(ceci)                 2
+PP-(celui-ci)             1
+PP-(ceux-ci)              1
+PP-(eux)                  9
+PP-(l'un l'autre)         3
+PP-(lui_ton)              9
+PP-(qui)                  9
+PP-(quoi)                 8
+PP-(soi-même)            2
+PP-(ça)                  9
+PP-0                    674
+PP-?prep []               2
+PP-?soi                   1
+PP-autant                 7
+PP-ceci                 339
+PP-cela                  39
+PP-celui-ci            1010
+PP-ceux-ci             1034
+PP-combien                9
+PP-dedans                86
+PP-dessous                3
+PP-dessus               217
+PP-elle-même            32
+PP-eux                  488
+PP-eux-mêmes             2
+PP-l'un l'autre         423
+PP-les uns les autres      1
+PP-lesquels               5
+PP-lui...dessus          21
+PP-lui_ton              470
+PP-là                    1
+PP-là-contre            36
+PP-là-dedans           137
+PP-là-dessous            5
+PP-là-dessus           285
+PP-prep []                5
+PP-qui                  475
+PP-quoi                 941
+PP-soi                    8
+PP-soi-même             70
+PP-y                      2
+PP-y(qpind)               1
+PP-ça                  464
+PP-ça(inf)              53
+PP-ça(p_ce_qpind)        2
+PP-ça(p_ce_qpsubj)       3
+PP-ça(p_ce_qpubj)        1
+PP-ça(qpind)             1
+PP-ça(qpsubj)           11
+PQ-0                     78
+PQ-autant               108
+PQ-combien              112
+PQ-que                    3
+PT-0                     25
+PT-prep c m-l.           36
+PT-prep mainten.          2
+PT-prep quand            13
+PT-quand                 25

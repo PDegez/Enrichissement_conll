@@ -1,0 +1,30 @@
+id_sentence_conll,index_phrase,index_token,form,lemma,score,annotation,phrase
+Rhap_M0009-1,0,5,tu,toi,1,y,"alors, là, tu vois, donc."
+Rhap_M0009-2,1,1,tu,toi,1,y,"tu continues tout droit, tout droit."
+Rhap_M0009-3,2,1,tu,toi,1,y,tu traverses tout.
+Rhap_M0009-4,3,1,tu,toi,1,y,tu arrives à un rond-point.
+Rhap_M0009-5,4,11,Saint,Saint,2,y,"au rond-point, c'est tout droit, direction Saint-Jean-de-Maurienne."
+Rhap_M0009-5,4,12,Jean,Jean,2,n,"au rond-point, c'est tout droit, direction Saint-Jean-de-Maurienne."
+Rhap_M0009-5,4,13,de,de,2,n,"au rond-point, c'est tout droit, direction Saint-Jean-de-Maurienne."
+Rhap_M0009-5,4,14,Maurienne,Maurienne,2,n,"au rond-point, c'est tout droit, direction Saint-Jean-de-Maurienne."
+Rhap_M0009-6,5,10,Saint,Saint,2,y,"euh, donc, tou~, tou~, toujours Saint-Jean-de-Maurienne."
+Rhap_M0009-6,5,11,Jean,Jean,2,n,"euh, donc, tou~, tou~, toujours Saint-Jean-de-Maurienne."
+Rhap_M0009-6,5,12,de,de,2,n,"euh, donc, tou~, tou~, toujours Saint-Jean-de-Maurienne."
+Rhap_M0009-6,5,13,Maurienne,Maurienne,2,n,"euh, donc, tou~, tou~, toujours Saint-Jean-de-Maurienne."
+Rhap_M0009-7,6,1,tu,toi,1,y,tu passes un autre rond-point.
+Rhap_M0009-9,8,3,tu,toi,5,y,"après, tu montes une grande, grande ligne droite."
+Rhap_M0009-10,9,1,tu,toi,1,y,tu passes devant la piscine.
+Rhap_M0009-12,11,2,tu,toi,1,y,et tu arrives à un rond-point.
+Rhap_M0009-13,12,4,tu,toi,1,y,"donc là, tu rentres dans le centre-ville."
+Rhap_M0009-14,13,1,tu,toi,1,y,tu arrives à un rond-point.
+Rhap_M0009-16,15,3,je,moi,5,y,"là, je crois que ça sera indiqué déjà gare."
+Rhap_M0009-17,16,7,tu,toi,1,y,"euh, mais, bon, tu, tu traverses le champ de foire."
+Rhap_M0009-17,16,9,tu,toi,1,y,"euh, mais, bon, tu, tu traverses le champ de foire."
+Rhap_M0009-18,17,1,tu,toi,1,y,tu arrives à un autre rond-point.
+Rhap_M0009-20,19,4,tu,toi,1,y,"euh, et tu descends."
+Rhap_M0009-22,21,1,tu,toi,1,y,tu passes devant les pompiers.
+Rhap_M0009-22,21,5,pompiers,pompier,1,y,tu passes devant les pompiers.
+Rhap_M0009-24,23,1,tu,toi,1,y,tu passes devant la Bastille aussi.
+Rhap_M0009-25,24,23,me,moi,1,y,"et ensuite, c'est la première ou, enfin, non, euh, deuxième ou troisième, troisième, il me semble, à droite."
+Rhap_M0009-26,25,2,tu,toi,1,y,et tu montes.
+Rhap_M0009-27,26,5,tu,toi,1,y,"et, voilà, tu arrives, euh, devant la gare."

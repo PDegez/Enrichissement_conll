@@ -1,0 +1,14 @@
+id_sentence_conll,index_phrase,index_token,form,lemma,score,annotation,phrase
+Rhap_M0006-2,1,1,tu,toi,1,y,"tu prends tout droit là, tu vois."
+Rhap_M0006-2,1,7,tu,toi,1,y,"tu prends tout droit là, tu vois."
+Rhap_M0006-3,2,6,tu,toi,1,y,"et, euh, quand tu arrives au bout de la, la ligne droite, euh, à l'intersection, au carrefour, tu tournes à droite."
+Rhap_M0006-3,2,26,tu,toi,1,y,"et, euh, quand tu arrives au bout de la, la ligne droite, euh, à l'intersection, au carrefour, tu tournes à droite."
+Rhap_M0006-4,3,3,tu,toi,1,y,"ensuite, tu continues tout droit jusqu'à Albert Premier de Belgique."
+Rhap_M0006-4,3,9,Albert,Albert,2,y,"ensuite, tu continues tout droit jusqu'à Albert Premier de Belgique."
+Rhap_M0006-4,3,12,Belgique,Belgique,2,y,"ensuite, tu continues tout droit jusqu'à Albert Premier de Belgique."
+Rhap_M0006-6,5,1,tu,toi,1,y,"tu verras, il y a un arrêt de tram."
+Rhap_M0006-7,6,2,tu,toi,1,y,"quand tu arrives à l'arrêt de tram, là, tu tournes à gauche."
+Rhap_M0006-7,6,12,tu,toi,1,y,"quand tu arrives à l'arrêt de tram, là, tu tournes à gauche."
+Rhap_M0006-8,7,1,tu,toi,1,y,"tu suis la ligne du tram jusqu'à, jusqu'à, ben, jusqu'à La Nef Chavant."
+Rhap_M0006-9,8,3,tu,toi,1,y,"et, tu verras, c'est un arrêt de tram aussi."
+Rhap_M0006-11,10,1,tu,toi,1,y,tu y seras.

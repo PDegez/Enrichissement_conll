@@ -1,0 +1,10 @@
+id_sentence_conll,index_phrase,index_token,form,lemma,score,annotation,phrase
+Rhap_M0010-1,0,3,tu,toi,1,y,"alors, tu vas sur le forum, là."
+Rhap_M0010-3,2,1,tu,toi,5,y,tu descends les escaliers.
+Rhap_M0010-4,3,1,tu,toi,1,y,tu vas tout droit.
+Rhap_M0010-5,4,1,tu,toi,1,y,tu vas passer devant un magasin de pantalons.
+Rhap_M0010-6,5,3,tu,toi,1,y,"ensuite, tu vas te retrouver vers le cinéma Star."
+Rhap_M0010-6,5,5,te,toi,1,y,"ensuite, tu vas te retrouver vers le cinéma Star."
+Rhap_M0010-7,6,1,tu,toi,5,y,tu descends toute la pente.
+Rhap_M0010-8,7,3,tu,toi,5,y,"ensuite, tu verras un rond-point."
+Rhap_M0010-9,8,1,tu,toi,1,y,tu tournes à gauche.

@@ -34,7 +34,7 @@ class FileLoader:
 
 
 def find_element_with_name(root, name_value):
-    """trouver la balise "ETRE_ANIME"""
+    """trouver la balise "ETRE_HUMAIN"""
     
     for element in root.iter():
         if element.get('name') == name_value:
@@ -102,7 +102,7 @@ def get_lemmas(df, nodes):
 
 def main(): 
     # création de l'arbre, récupération de la racine    
-    file_path = '../../ressources/lexical-system-fr/9/ls-fr-V3/09-lssemlabel-model.xml'
+    file_path = '../ressources/lexical-system-fr/9/ls-fr-V3/09-lssemlabel-model.xml'
     tree = etree.parse(file_path)
     root = tree.getroot()
     
@@ -118,28 +118,22 @@ def main():
     # récupération des nodes dont les labels sémantiques sont humains
     loader = FileLoader()
     file = loader.load(
-        "../../ressources/lexical-system-fr/9/ls-fr-V3/10-lssemlabel-rel.csv"
+        "../ressources/lexical-system-fr/9/ls-fr-V3/10-lssemlabel-rel.csv"
         )
     nodes = get_nodes(file, classes)
         
     # récupération des lemmes dont les nodes ont des labels sémantiques humains
     file = loader.load(
-        "../../ressources/lexical-system-fr/9/ls-fr-V3/01-lsnodes.csv")
+        "../ressources/lexical-system-fr/9/ls-fr-V3/01-lsnodes.csv")
     lemmas = get_lemmas(file, nodes)
     pron_disc = ["je", "tu", "nous", "vous", "moi", "toi", "on"]
     lex_add = ["maman", "papa", "concitoyen", "personnage", "caporal", "colonel"]
     lemmas = lemmas+pron_disc+lex_add
     lemmas.remove("aide")
-    print(lemmas)
-    # print(len(lemmas))
-        
-    # with open(
-    # "../../ressources/liste_lex_v2_explo.txt", "w", encoding="utf-8"
-    # ) as plop:
-    #     plop.writelines(lemmas)
+
     
     # enregistrement de la liste des lemmes animés au format pickle
-    with open("../../ressources/liste_lex_hum.pickle", 'wb') as file:
+    with open("../ressources/liste_lex_hum.pickle", 'wb') as file:
         pickle.dump(lemmas, file)
         
 

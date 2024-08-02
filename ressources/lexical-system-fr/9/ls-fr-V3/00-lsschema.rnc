@@ -1,0 +1,83 @@
+# name = 00-lsschema.rnc
+# version distribution = V2.0
+# date = 2018-03-30
+# author = Sandrine Ollinger
+
+default namespace = ""
+
+start =
+  element model {
+    class
+    | element type {
+        attribute id { xsd:token },
+        attribute name { xsd:string },
+        attribute order { xsd:integer },
+        attribute semantics { xsd:integer },
+        attribute derivation { xsd:boolean },
+        element subtype {
+          attribute id { xsd:token },
+          attribute name { xsd:string }
+        }*
+      }+
+    | element section {
+        attribute id { xsd:token },
+        attribute name { xsd:string },
+        element source {
+          attribute id { xsd:token },
+          attribute name { xsd:string }
+        }*
+      }+
+    | element group {
+        element family {
+          attribute id { xsd:token },
+          attribute name { xsd:string },
+          element lexicalfunction {
+            attribute id { xsd:token },
+            attribute name { xsd:string },
+            attribute status { xsd:integer },
+            attribute linktype { xsd:token },
+            attribute standardness { xsd:string },
+            attribute semantics { xsd:integer },
+            xsd:string
+          }+
+        }*
+      }+
+    | characteristic+
+    | element category {
+        attribute id { xsd:token },
+        attribute name { xsd:string },
+        attribute pivot-name { xsd:string },
+        element feature {
+          attribute id { xsd:token },
+          attribute name { xsd:string },
+          attribute pivot-name { xsd:string },
+          attribute position { xsd:integer }
+        }+
+      }+
+  }
+characteristic =
+  element characteristic {
+    attribute id { xsd:token },
+    attribute name { xsd:string },
+    attribute type { xsd:integer },
+    attribute status { xsd:integer },
+    characteristic*
+  }
+class =
+  element class {
+    attribute id { xsd:token },
+    attribute name { xsd:string },
+    attribute status { xsd:integer },
+    attribute semfield { xsd:boolean },
+    attribute inheritancetype { xsd:integer },
+    attribute comment { xsd:string },
+    class*,
+    element instance {
+      attribute id { xsd:token },
+      attribute name { xsd:string },
+      attribute status { xsd:integer },
+      attribute derivation { xsd:string },
+      attribute acttype { xsd:boolean },
+      attribute comment { xsd:string }  
+    }+
+  }

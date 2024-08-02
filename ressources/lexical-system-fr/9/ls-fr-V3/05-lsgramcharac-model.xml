@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="00-lsschema.rnc" type="application/relax-ng-compact-syntax"?>
+<model>
+<characteristic id="ls:fr:gc:2" name="MARQUES D’USAGE" type="0" status="0">
+<characteristic id="ls:fr:gc:3" name="Marques d’usage langagier" type="0" status="0">
+<characteristic id="ls:fr:gc:6" name="spéc" type="1" status="0"/>
+<characteristic id="ls:fr:gc:272" name="(spéc)" type="1" status="0">
+<![CDATA[<html><body><p>Terme dont l’usage est devenu courant dans les textes relevant de la langue générale, mais qui reste un terme et n’est pas, notamment, un <b>quasi-spéc</b>.</p></body></html>]]>
+</characteristic>
+<characteristic id="ls:fr:gc:285" name="quasi-spéc" type="1" status="0">
+<![CDATA[<html><body><p>Lexie de langue générale prototypiquement issue de la « distortion » sémantique d’un terme. Sa couleur terminologique est perçue par les locuteurs.</p></body></html>]]>
+</characteristic>
+<characteristic id="ls:fr:gc:5" name="angl" type="1" status="0"/>
+<characteristic id="ls:fr:gc:183" name="Québ." type="1" status="0"/>
+<characteristic id="ls:fr:gc:61" name="rare" type="1" status="0"/>
+<characteristic id="ls:fr:gc:159" name="emploi peut être critiqué" type="1" status="0"/>
+<characteristic id="ls:fr:gc:283" name="peut être considéré comme une impropriété" type="1" status="0"/>
+<characteristic id="ls:fr:gc:126" name="néol" type="1" status="0"/>
+<characteristic id="ls:fr:gc:8" name="vieillissant" type="1" status="0"/>
+<characteristic id="ls:fr:gc:7" name="vieilli" type="1" status="0"/>
+<characteristic id="ls:fr:gc:266" name="vieilli (ou iron)" type="1" status="0"/>
+<characteristic id="ls:fr:gc:158" name="vieilli (ou péjor)" type="1" status="0"/>
+<characteristic id="ls:fr:gc:178" name="obsol" type="1" status="0">
+<![CDATA[<html><body><p>Pour les lexies obsolètes, dont on a besoin notamment afin de rendre compte de la structure de certaines locutions. À contraster avec la marque d’usage <b>fict</b>.</p></body></html>]]>
+</characteristic>
+<characteristic id="ls:fr:gc:226" name="fict" type="1" status="0">
+<![CDATA[<html><body><p>Lexie « artificielle » inactive en synchronie qui ne s’emploie qu’au sein d’une (ou plusieurs) locution et qui n’est pas une lexie obsolète (<b>obsol</b>).</p></body></html>]]>
+</characteristic>
+<characteristic id="ls:fr:gc:105" name="argot" type="1" status="0"/>
+<characteristic id="ls:fr:gc:127" name="rég" type="1" status="0"/>
+<characteristic id="ls:fr:gc:211" name="citation" type="1" status="0"/>
+<characteristic id="ls:fr:gc:212" name="fourchelangue" type="1" status="0">
+<![CDATA[<html><body><p>Équivalent français de angl. <i>tongue-twister</i>. Alternative : <i>virelangue</i>.</p></body></html>]]>
+</characteristic>
+<characteristic id="ls:fr:gc:187" name="abrév" type="1" status="0">
+<![CDATA[<html><body><p>Les abréviations appartiennent souvent au langage familier (<i>appart</i>, <i>ordi</i>...), mais pas nécessairement (<i>rhino</i>...). Il faut donc une marque d’usage spécifique, à introduire systématiquement pour toutes les abréviations, et à compléter éventuellement par <b>fam</b> – APol, 12xii15.</p></body></html>]]>
+</characteristic>
+</characteristic>
+<characteristic id="ls:fr:gc:9" name="Marques d’usage stylistique" type="0" status="0">
+<characteristic id="ls:fr:gc:103" name="enfantin" type="1" status="0"/>
+<characteristic id="ls:fr:gc:10" name="fam" type="1" status="0"/>
+<characteristic id="ls:fr:gc:289" name="(fam)" type="1" status="0"/>
+<characteristic id="ls:fr:gc:11" name="formel" type="1" status="0"/>
+<characteristic id="ls:fr:gc:12" name="litt" type="1" status="0"/>
+<characteristic id="ls:fr:gc:104" name="milit" type="1" status="0"/>
+<characteristic id="ls:fr:gc:160" name="soutenu" type="1" status="0"/>
+<characteristic id="ls:fr:gc:13" name="vulg" type="1" status="0"/>
+</characteristic>
+<characteristic id="ls:fr:gc:14" name="Marques d’usage rhétorique" type="0" status="0">
+<characteristic id="ls:fr:gc:15" name="affectueux" type="1" status="0"/>
+<characteristic id="ls:fr:gc:106" name="iron" type="1" status="0"/>
+<characteristic id="ls:fr:gc:280" name="(iron)" type="1" status="0"/>
+<characteristic id="ls:fr:gc:16" name="péjor" type="1" status="0"/>
+<characteristic id="ls:fr:gc:279" name="(péjor)" type="1" status="0"/>
+<characteristic id="ls:fr:gc:185" name="peut être offensant" type="1" status="0"/>
+<characteristic id="ls:fr:gc:270" name="sexuel" type="1" status="0"/>
+</characteristic>
+</characteristic>
+<characteristic id="ls:fr:gc:17" name="CARACTÉRISTIQUES GRAMMATICALES FONDAMENTALES" type="0" status="0">
+<characteristic id="ls:fr:gc:18" name="Partie du discours" type="0" status="0">
+<characteristic id="ls:fr:gc:109" name="V" type="0" status="0">
+<characteristic id="ls:fr:gc:23" name="verbe" type="2" status="0"/>
+<characteristic id="ls:fr:gc:24" name="verbe pronominal" type="2" status="0"/>
+<characteristic id="ls:fr:gc:78" name="locution verbale" type="2" status="0"/>
+<characteristic id="ls:fr:gc:195" name="syntagme verbal" type="2" status="0"/>
+<characteristic id="ls:fr:gc:304" name="auxiliaire" type="2" status="0"/>
+</characteristic>
+<characteristic id="ls:fr:gc:111" name="N" type="0" status="0">
+<characteristic id="ls:fr:gc:20" name="nom" type="2" status="0">
+<![CDATA[<html><body><p>On ne fait pas de distinction « nom commun » ~ « nom propre », avec une unique PdD « nom ». L’indication de la nature de nom propre relève du « Statut sémantique », sous « Statut lexical », avec différentes classes de noms propres, en fonction de la dénotation de ceux-ci.</p></body></html>]]>
+</characteristic>
+<characteristic id="ls:fr:gc:21" name="locution nominale" type="2" status="0"/>
+<characteristic id="ls:fr:gc:80" name="numéral" type="2" status="0"/>
+<characteristic id="ls:fr:gc:197" name="locution numérale" type="2" status="0"/>
+<characteristic id="ls:fr:gc:241" name="syntagme numéral" type="2" status="0"/>
+<characteristic id="ls:fr:gc:81" name="pronom" type="2" status="0"/>
+<characteristic id="ls:fr:gc:86" name="pronom clitique" type="2" status="0"/>
+<characteristic id="ls:fr:gc:217" name="pronom interrogatif" type="2" status="0"/>
+<characteristic id="ls:fr:gc:95" name="pronom personnel" type="2" status="0"/>
+<characteristic id="ls:fr:gc:85" name="pronom relatif" type="2" status="0"/>
+<characteristic id="ls:fr:gc:97" name="locution pronominale" type="2" status="0"/>
+<characteristic id="ls:fr:gc:240" name="radical nominal" type="2" status="0"/>
+<characteristic id="ls:fr:gc:192" name="syntagme nominal" type="2" status="0"/>
+<characteristic id="ls:fr:gc:246" name="syntagme pronominal" type="2" status="0"/>
+</characteristic>
+<characteristic id="ls:fr:gc:113" name="Adj" type="0" status="0">
+<characteristic id="ls:fr:gc:19" name="adjectif" type="2" status="0"/>
+<characteristic id="ls:fr:gc:154" name="locution adjectivale" type="2" status="0"/>
+<characteristic id="ls:fr:gc:253" name="radical adjectival" type="2" status="0"/>
+<characteristic id="ls:fr:gc:193" name="syntagme adjectival" type="2" status="0"/>
+</characteristic>
+<characteristic id="ls:fr:gc:115" name="Adv" type="0" status="0">
+<characteristic id="ls:fr:gc:63" name="adverbe" type="2" status="0"/>
+<characteristic id="ls:fr:gc:89" name="locution adverbiale" type="2" status="0"/>
+<characteristic id="ls:fr:gc:223" name="particule adverbiale" type="2" status="0"/>
+<characteristic id="ls:fr:gc:200" name="syntagme adverbial" type="2" status="0"/>
+</characteristic>
+<characteristic id="ls:fr:gc:117" name="Claus" type="0" status="0">
+<characteristic id="ls:fr:gc:82" name="interjection" type="2" status="0"/>
+<characteristic id="ls:fr:gc:202" name="locution interjective" type="2" status="0"/>
+<characteristic id="ls:fr:gc:204" name="syntagme interjectif" type="2" status="0"/>
+<characteristic id="ls:fr:gc:181" name="onomatopée" type="2" status="0"/>
+<characteristic id="ls:fr:gc:235" name="clausatif adverbial" type="2" status="0"/>
+<characteristic id="ls:fr:gc:94" name="clausatif coordinatif" type="2" status="0">
+<![CDATA[<html><body><p>Par exemple, ETC. et ET AINSI DE SUITE.</p></body></html>]]>
+</characteristic>
+<characteristic id="ls:fr:gc:209" name="clausatif nominal" type="2" status="0"/>
+<characteristic id="ls:fr:gc:210" name="clausatif prépositionnel" type="2" status="0"/>
+<characteristic id="ls:fr:gc:203" name="locution propositionnelle" type="2" status="0"/>
+<characteristic id="ls:fr:gc:164" name="locution phrastique" type="2" status="0"/>
+<characteristic id="ls:fr:gc:205" name="phrase" type="2" status="0"/>
+</characteristic>
+<characteristic id="ls:fr:gc:119" name="Dét" type="0" status="0">
+<characteristic id="ls:fr:gc:79" name="article" type="2" status="0"/>
+<characteristic id="ls:fr:gc:230" name="adjectif déterminatif" type="2" status="0"/>
+<characteristic id="ls:fr:gc:77" name="pronom déterminatif" type="2" status="0"/>
+</characteristic>
+<characteristic id="ls:fr:gc:121" name="Prép" type="0" status="0">
+<characteristic id="ls:fr:gc:64" name="préposition" type="2" status="0"/>
+<characteristic id="ls:fr:gc:214" name="préposition partitive" type="2" status="0"/>
+<characteristic id="ls:fr:gc:22" name="locution prépositionnelle" type="2" status="0"/>
+<characteristic id="ls:fr:gc:194" name="syntagme prépositionnel" type="2" status="0"/>
+</characteristic>
+<characteristic id="ls:fr:gc:123" name="Conj" type="0" status="0">
+<characteristic id="ls:fr:gc:83" name="conjonction" type="2" status="0"/>
+<characteristic id="ls:fr:gc:155" name="locution conjonctive" type="2" status="0"/>
+<characteristic id="ls:fr:gc:225" name="syntagme conjonctif" type="2" status="0"/>
+</characteristic>
+<characteristic id="ls:fr:gc:218" name="Affixe" type="0" status="0">
+<characteristic id="ls:fr:gc:219" name="préfixe" type="2" status="0"/>
+<characteristic id="ls:fr:gc:220" name="suffixe" type="2" status="0"/>
+</characteristic>
+<characteristic id="ls:fr:gc:228" name="Construction" type="0" status="0">
+<characteristic id="ls:fr:gc:227" name="construction lexicalisée" type="2" status="0">
+<![CDATA[<html><body><p>Construction comportant un nombre significatif de nœuds de la structure syntaxique qui sont occupés par des lexies (sémantèmes lexicalisés).</p></body></html>]]>
+</characteristic>
+<characteristic id="ls:fr:gc:229" name="construction syntaxique" type="2" status="0">
+<![CDATA[<html><body><p>Construction qui est avant tout une configuration syntaxique non (ou très peu) lexicalisée.</p></body></html>]]>
+</characteristic>
+</characteristic>
+<![CDATA[<html><body><p>Touts lexicaux qui ne sont pas des syntagmes dont les nœuds sont entièrement lexicalisés.</p><p>Leurs CG doivent absolument comporter une partie du discours profonde.</p></body></html>]]>
+</characteristic>
+<characteristic id="ls:fr:gc:25" name="Genre" type="0" status="0">
+<characteristic id="ls:fr:gc:26" name="fém" type="0" status="0"/>
+<characteristic id="ls:fr:gc:27" name="fém, s’emploie aussi au masc" type="0" status="0"/>
+<characteristic id="ls:fr:gc:28" name="masc" type="0" status="0"/>
+<characteristic id="ls:fr:gc:29" name="masc, s’emploie aussi au fém" type="0" status="0"/>
+<characteristic id="ls:fr:gc:297" name="masc ou fém" type="0" status="0"/>
+<characteristic id="ls:fr:gc:224" name="masc ou fém, en fonction du complément" type="0" status="0">
+<![CDATA[<html><body><p>S’utilise pour des noms dérivés comme <i>un <b>drôle</b> de type</i> ~ <i>une <b>drôle</b> de fille</i>.</p></body></html>]]>
+</characteristic>
+</characteristic>
+<characteristic id="ls:fr:gc:30" name="Partie du discours profonde" type="0" status="0">
+<characteristic id="ls:fr:gc:31" name="emploi adjectival" type="0" status="0"/>
+<characteristic id="ls:fr:gc:32" name="emploi adverbial" type="0" status="0"/>
+<characteristic id="ls:fr:gc:93" name="emploi adjectival et adverbial" type="0" status="0"/>
+<characteristic id="ls:fr:gc:162" name="emploi adverbial et adjectival" type="0" status="0"/>
+<characteristic id="ls:fr:gc:99" name="emploi appositif" type="0" status="0"/>
+<characteristic id="ls:fr:gc:150" name="emploi attributif" type="0" status="0">
+<![CDATA[<html><body><p>Pour les noms ; par ex. <i>se retrouver <b>mère</b></i>.</p></body></html>]]>
+</characteristic>
+<characteristic id="ls:fr:gc:90" name="emploi clausatif" type="0" status="0"/>
+<characteristic id="ls:fr:gc:310" name="emploi déterminatif" type="0" status="0"/>
+<characteristic id="ls:fr:gc:34" name="emploi interjectif" type="0" status="0"/>
+<characteristic id="ls:fr:gc:153" name="emploi quantitatif" type="0" status="0"/>
+<characteristic id="ls:fr:gc:309" name="emploi verbal" type="0" status="0"/>
+</characteristic>
+<characteristic id="ls:fr:gc:165" name="Statut lexical" type="0" status="0">
+<characteristic id="ls:fr:gc:273" name="Statut phraséologique" type="0" status="0">
+<characteristic id="ls:fr:gc:306" name="Classe phraséologique" type="0" status="0">
+<characteristic id="ls:fr:gc:166" name="locution forte" type="0" status="0"/>
+<characteristic id="ls:fr:gc:167" name="semi-locution" type="0" status="0"/>
+<characteristic id="ls:fr:gc:168" name="locution faible" type="0" status="0"/>
+<characteristic id="ls:fr:gc:171" name="collocation" type="0" status="0"/>
+<characteristic id="ls:fr:gc:170" name="cliché linguistique" type="0" status="0"/>
+<characteristic id="ls:fr:gc:281" name="construction" type="0" status="0">
+<![CDATA[<html><body><p>Structure syntaxique phraséologique « à trou(s) » dont le gouverneur syntaxique est une variable, et non une lexie – APol, 4v20.</p></body></html>]]>
+</characteristic>
+<characteristic id="ls:fr:gc:172" name="syntagme libre" type="0" status="0"/>
+<characteristic id="ls:fr:gc:276" name="! %1" type="0" status="0"/>
+</characteristic>
+<characteristic id="ls:fr:gc:307" name="Autonomie phraséologique" type="0" status="0">
+<characteristic id="ls:fr:gc:76" name="collocatif de son gouverneur syntaxique" type="0" status="0"/>
+<characteristic id="ls:fr:gc:199" name="collocatif de son sujet" type="0" status="0"/>
+<characteristic id="ls:fr:gc:125" name="collocatif de son COD" type="0" status="0"/>
+<characteristic id="ls:fr:gc:302" name="collocatif de son CObl" type="0" status="0"/>
+<characteristic id="ls:fr:gc:232" name="collocatif de son complément" type="0" status="0"/>
+<characteristic id="ls:fr:gc:308" name="! %1" type="0" status="0"/>
+</characteristic>
+</characteristic>
+<characteristic id="ls:fr:gc:292" name="Statut sémantique" type="0" status="0">
+<characteristic id="ls:fr:gc:295" name="anthroponyme" type="0" status="0">
+<![CDATA[<html><body><p>Nom propre de personne (nom de famille, prénom, surnom, nom de personnage/déité...).</p></body></html>]]>
+</characteristic>
+<characteristic id="ls:fr:gc:294" name="toponyme" type="0" status="0">
+<![CDATA[<html><body><p>Nom propre de lieu (pays, ville, élément du relief...).</p></body></html>]]>
+</characteristic>
+<characteristic id="ls:fr:gc:298" name="ergonyme" type="0" status="0">
+<![CDATA[<html><body><p>Nom propre de création humaine (institution, société, momument, œuvre...).</p></body></html>]]>
+</characteristic>
+<characteristic id="ls:fr:gc:305" name="ergonyme ou pragmonyme (emploi marginal)" type="0" status="0"/>
+<characteristic id="ls:fr:gc:301" name="chrononyme" type="0" status="0">
+<![CDATA[<html><body><p>Nom propre de moment.</p></body></html>]]>
+</characteristic>
+<characteristic id="ls:fr:gc:293" name="pragmonyme" type="0" status="0">
+<![CDATA[<html><body><p>Nom propre d’un événement, un fait naturel ou non, etc. – en tant que tel ou métonymiquement, par sa localisation temporelle (chrononyme), géographique (toponyme), ...</p></body></html>]]>
+</characteristic>
+<characteristic id="ls:fr:gc:303" name="prosopopéonyme" type="0" status="0">
+<![CDATA[<html><body><p>Nom propre de personnification (d’une chose physique, d’un fait naturel ou non, etc.).</p></body></html>]]>
+</characteristic>
+<characteristic id="ls:fr:gc:169" name="proverbe" type="0" status="0">
+<![CDATA[<html><body><p>Pour l’instant, on ne distingue pas proverbes, dictons, etc.</p></body></html>]]>
+</characteristic>
+</characteristic>
+<characteristic id="ls:fr:gc:274" name="Statut pragmatique" type="0" status="0">
+<characteristic id="ls:fr:gc:173" name="pragmatème" type="0" status="0"/>
+</characteristic>
+<characteristic id="ls:fr:gc:275" name="Statut langagier" type="0" status="0">
+<characteristic id="ls:fr:gc:161" name="lexie inactive" type="0" status="0">
+<![CDATA[<html><body><p>Lexie qui n’existe pas de façon autonome en synchronie. Il s’agit typiquement soit d’une lexie obsolète (<b>obsol</b>), soit d’une lexie fictive (<b>fict</b>).</p></body></html>]]>
+</characteristic>
+<characteristic id="ls:fr:gc:180" name="lexie régulière" type="0" status="0">
+<![CDATA[<html><body><p>Lexie régulièrement construite à partir de règles grammaticales et qui n’a pas à figurer dans la nomenclature d’un modèle du lexique. Exemple : <i>1 500</i> pour la description de la structure de [<i>courir un</i>] <i>1500 mètres</i>.</p></body></html>]]>
+</characteristic>
+</characteristic>
+<![CDATA[<html><body><p>À mettre en rapport avec les marques d’usage langagier – cette caractéristique concerne les constituants lexicaux de locutions qui ne sont pas de véritables sens lexicalisés dans la langue (contemporaine).</p></body></html>]]>
+</characteristic>
+</characteristic>
+<characteristic id="ls:fr:gc:35" name="FLEXION ET AUTRES CARACTÉRISTIQUES FORMELLES" type="0" status="0">
+<characteristic id="ls:fr:gc:59" name="Détermination et nombre" type="0" status="0">
+<characteristic id="ls:fr:gc:38" name="déf" type="0" status="0"/>
+<characteristic id="ls:fr:gc:49" name="seulement avec l’art déf" type="0" status="0"/>
+<characteristic id="ls:fr:gc:129" name="déf sg" type="0" status="0"/>
+<characteristic id="ls:fr:gc:40" name="déf pl" type="0" status="0"/>
+<characteristic id="ls:fr:gc:182" name="surtout déf" type="0" status="0"/>
+<characteristic id="ls:fr:gc:43" name="indéf" type="0" status="0"/>
+<characteristic id="ls:fr:gc:163" name="indéf sg" type="0" status="0"/>
+<characteristic id="ls:fr:gc:54" name="surtout indéf" type="0" status="0"/>
+<characteristic id="ls:fr:gc:50" name="sg" type="0" status="0"/>
+<characteristic id="ls:fr:gc:56" name="surtout sg" type="0" status="0"/>
+<characteristic id="ls:fr:gc:100" name="surtout déf sg" type="0" status="0"/>
+<characteristic id="ls:fr:gc:47" name="pl" type="0" status="0"/>
+<characteristic id="ls:fr:gc:55" name="surtout pl" type="0" status="0"/>
+<characteristic id="ls:fr:gc:244" name="surtout déf pl" type="0" status="0"/>
+<characteristic id="ls:fr:gc:248" name="généralement sans déterminant" type="0" status="0"/>
+<characteristic id="ls:fr:gc:247" name="peut s’employer sans déterminant au déf" type="0" status="0"/>
+</characteristic>
+<characteristic id="ls:fr:gc:60" name="Temps, mode, voix et autres" type="0" status="0">
+<characteristic id="ls:fr:gc:257" name="par/de-pass" type="0" status="0"/>
+<characteristic id="ls:fr:gc:37" name="de-pass" type="0" status="0">
+<![CDATA[<html><body><p>À n’utiliser que pour les verbes qui admettent <b>uniquement</b> le passif en <i>de</i>. Pas sûr qu’il en existe – APol, 19x17.</p></body></html>]]>
+</characteristic>
+<characteristic id="ls:fr:gc:45" name="pas de passif" type="0" status="0"/>
+<characteristic id="ls:fr:gc:48" name="pronominal %1" type="0" status="0"/>
+<characteristic id="ls:fr:gc:51" name="surtout au passif" type="0" status="0"/>
+<characteristic id="ls:fr:gc:215" name="performatif" type="0" status="0"/>
+</characteristic>
+<characteristic id="ls:fr:gc:57" name="Signifiants" type="0" status="0">
+<characteristic id="ls:fr:gc:36" name="au pl : « %1 »" type="0" status="0"/>
+<characteristic id="ls:fr:gc:44" name="invar" type="0" status="0"/>
+<characteristic id="ls:fr:gc:284" name="(invar)" type="0" status="0"/>
+<characteristic id="ls:fr:gc:259" name="invar (recommandé)" type="0" status="0">
+<![CDATA[<html><body><p>Utilisé notamment pour les noms propres : <i>les France</i>, mais <i>les Frances</i> est aussi assez commun.</p></body></html>]]>
+</characteristic>
+<characteristic id="ls:fr:gc:42" name="fém « %1 »" type="0" status="0"/>
+<characteristic id="ls:fr:gc:189" name="sigle (prononciation par syllabe)" type="0" status="0"/>
+<characteristic id="ls:fr:gc:188" name="sigle (prononciation lettre par lettre)" type="0" status="0">
+<![CDATA[<html><body><p>C’est-à-dire, acronyme.</p></body></html>]]>
+</characteristic>
+<characteristic id="ls:fr:gc:190" name="sigle (prononciation par syllabe ou lettre par lettre)" type="0" status="0"/>
+<characteristic id="ls:fr:gc:107" name="graphie rectifiée : « %1 »" type="0" status="0"/>
+<characteristic id="ls:fr:gc:233" name="s’écrit aussi avec une majuscule initiale" type="0" status="0"/>
+<characteristic id="ls:fr:gc:108" name="s’écrit aussi sans majuscule initiale" type="0" status="0"/>
+<characteristic id="ls:fr:gc:290" name="s’écrit aussi sans majuscules initiales" type="0" status="0"/>
+<characteristic id="ls:fr:gc:249" name="s’écrit aussi sans majuscule sur « %1 »" type="0" status="0"/>
+<characteristic id="ls:fr:gc:130" name="s’écrit fréquemment avec une majuscule initiale" type="0" status="0"/>
+<characteristic id="ls:fr:gc:157" name="s’écrit fréquemment avec des majuscules initiales" type="0" status="0"/>
+<characteristic id="ls:fr:gc:131" name="s’écrit aussi « %1 »" type="0" status="0"/>
+<characteristic id="ls:fr:gc:291" name="s’écrit aussi « %1 » (graphie déconseillée)" type="0" status="0"/>
+<characteristic id="ls:fr:gc:262" name="s’écrit aussi « %1 » ou « %2 »" type="0" status="0"/>
+<characteristic id="ls:fr:gc:260" name="s’écrit aussi de façon fautive « %1 »" type="0" status="0"/>
+<characteristic id="ls:fr:gc:300" name="s’écrit aussi avec un trait d’union" type="0" status="0"/>
+<characteristic id="ls:fr:gc:208" name="s’écrit aussi avec un trait d’union (graphie déconseillée)" type="0" status="0"/>
+<characteristic id="ls:fr:gc:264" name="s’écrit aussi avec des traits d’union" type="0" status="0"/>
+<characteristic id="ls:fr:gc:265" name="s’écrit aussi sans trait d’union" type="0" status="0"/>
+<characteristic id="ls:fr:gc:256" name="s’écrit aussi sans trait d’union (graphie déconseillée)" type="0" status="0"/>
+<characteristic id="ls:fr:gc:286" name="s’écrit aussi sans traits d’union (graphie déconseillée)" type="0" status="0"/>
+<characteristic id="ls:fr:gc:287" name="se prononce « %1 »" type="0" status="0"/>
+<characteristic id="ls:fr:gc:98" name="« %1 » peut être omis" type="0" status="0"/>
+</characteristic>
+<characteristic id="ls:fr:gc:282" name="réduplication" type="0" status="0"/>
+</characteristic>
+<characteristic id="ls:fr:gc:132" name="POSITION SYNTAXIQUE" type="0" status="0">
+<characteristic id="ls:fr:gc:138" name="Gouverneurs syntaxiques" type="0" status="0">
+<characteristic id="ls:fr:gc:139" name="épithète" type="0" status="0"/>
+<characteristic id="ls:fr:gc:242" name="surtout épithète" type="0" status="0"/>
+<characteristic id="ls:fr:gc:140" name="attribut" type="0" status="0"/>
+<characteristic id="ls:fr:gc:231" name="surtout attribut" type="0" status="0"/>
+<characteristic id="ls:fr:gc:222" name="peut s’employer en apposition" type="0" status="0"/>
+<characteristic id="ls:fr:gc:237" name="modificateur de verbe" type="0" status="0"/>
+<characteristic id="ls:fr:gc:239" name="modificateur de verbe et d’adjectif" type="0" status="0"/>
+<characteristic id="ls:fr:gc:251" name="surtout complément de « %1 »" type="0" status="0"/>
+</characteristic>
+<characteristic id="ls:fr:gc:142" name="Dépendants syntaxiques" type="0" status="0">
+<characteristic id="ls:fr:gc:156" name="impersonnel" type="0" status="0"/>
+<characteristic id="ls:fr:gc:269" name="impersonnel en « ça » possible" type="0" status="0"/>
+<characteristic id="ls:fr:gc:288" name="impersonnel en « ça » ou « il » possible" type="0" status="0"/>
+<characteristic id="ls:fr:gc:87" name="emploi surtout intransitif" type="0" status="0"/>
+<characteristic id="ls:fr:gc:258" name="sans complément" type="0" status="0">
+<![CDATA[<html><body><p>Par ex. : la préposition (quasi-adverbe) dans <i>Je vais faire <b>sans</b></i> – APol, 27xi17.</p></body></html>]]>
+</characteristic>
+<characteristic id="ls:fr:gc:198" name="surtout avec une négation" type="0" status="0"/>
+<characteristic id="ls:fr:gc:143" name="actants %1 et %2 peuvent être coordonnés" type="0" status="0"/>
+</characteristic>
+<characteristic id="ls:fr:gc:145" name="Autonomie syntaxique" type="0" status="0">
+<characteristic id="ls:fr:gc:250" name="s’emploie surtout avec un verbe support" type="0" status="0"/>
+<characteristic id="ls:fr:gc:184" name="ne s’emploie que dans la locution « %1 »" type="0" status="0"/>
+<characteristic id="ls:fr:gc:201" name="parenthétique" type="0" status="0"/>
+<characteristic id="ls:fr:gc:207" name="peut s’employer de façon parenthétique" type="0" status="0"/>
+<characteristic id="ls:fr:gc:243" name="s’emploie comme adresse (avec ou sans déterminant possessif)" type="0" status="0"/>
+<characteristic id="ls:fr:gc:137" name="s’emploie comme adresse (déterminant obligatoire)" type="0" status="0"/>
+<characteristic id="ls:fr:gc:134" name="s’emploie comme adresse (sans déterminant)" type="0" status="0"/>
+<characteristic id="ls:fr:gc:135" name="s’emploie comme titre d’adresse (sans déterminant)" type="0" status="0"/>
+<characteristic id="ls:fr:gc:136" name="s’emploie comme titre d’adresse (dét. poss. optionnel)" type="0" status="0"/>
+<characteristic id="ls:fr:gc:234" name="s’emploie dans des noms de sociétés" type="0" status="0"/>
+</characteristic>
+</characteristic>
+<characteristic id="ls:fr:gc:146" name="LINÉARISATION" type="0" status="0">
+<characteristic id="ls:fr:gc:147" name="antéposé" type="0" status="0"/>
+<characteristic id="ls:fr:gc:148" name="postposé" type="0" status="0"/>
+</characteristic>
+</model>

@@ -1,0 +1,17 @@
+id_sentence_conll,index_phrase,index_token,form,lemma,score,annotation,phrase
+Rhap_M0005-2,1,6,vous,vous,1,y,"ensuite, aux feux, vous tournez à droite."
+Rhap_M0005-3,2,3,me,moi,1,y,"et il me semble que vous continuez à longer, euh, l'avenue jusqu'à l'arrêt, euh, Albert Premier de Belgique, voilà, donc, l'arrêt de tram Albert Premier de Bel~, Albert Premier de Belgique."
+Rhap_M0005-3,2,6,vous,vous,1,y,"et il me semble que vous continuez à longer, euh, l'avenue jusqu'à l'arrêt, euh, Albert Premier de Belgique, voilà, donc, l'arrêt de tram Albert Premier de Bel~, Albert Premier de Belgique."
+Rhap_M0005-3,2,22,Albert,Albert,2,y,"et il me semble que vous continuez à longer, euh, l'avenue jusqu'à l'arrêt, euh, Albert Premier de Belgique, voilà, donc, l'arrêt de tram Albert Premier de Bel~, Albert Premier de Belgique."
+Rhap_M0005-3,2,25,Belgique,Belgique,2,n,"et il me semble que vous continuez à longer, euh, l'avenue jusqu'à l'arrêt, euh, Albert Premier de Belgique, voilà, donc, l'arrêt de tram Albert Premier de Bel~, Albert Premier de Belgique."
+Rhap_M0005-3,2,35,Albert,Albert,2,y,"et il me semble que vous continuez à longer, euh, l'avenue jusqu'à l'arrêt, euh, Albert Premier de Belgique, voilà, donc, l'arrêt de tram Albert Premier de Bel~, Albert Premier de Belgique."
+Rhap_M0005-3,2,40,Albert,Albert,2,y,"et il me semble que vous continuez à longer, euh, l'avenue jusqu'à l'arrêt, euh, Albert Premier de Belgique, voilà, donc, l'arrêt de tram Albert Premier de Bel~, Albert Premier de Belgique."
+Rhap_M0005-3,2,43,Belgique,Belgique,2,n,"et il me semble que vous continuez à longer, euh, l'avenue jusqu'à l'arrêt, euh, Albert Premier de Belgique, voilà, donc, l'arrêt de tram Albert Premier de Bel~, Albert Premier de Belgique."
+Rhap_M0005-4,3,5,vous,vous,1,y,"et une fois que vous êtes arrivé à l'arrêt, vous allez sur votre gauche, donc face à l'arrêt."
+Rhap_M0005-4,3,12,vous,vous,1,y,"et une fois que vous êtes arrivé à l'arrêt, vous allez sur votre gauche, donc face à l'arrêt."
+Rhap_M0005-5,4,2,vous,vous,1,y,et vous allez toujours tout droit.
+Rhap_M0005-6,5,4,vous,vous,1,y,"et normalement, vous continuez toujours, toujours tout droit."
+Rhap_M0005-7,6,2,vous,vous,1,y,et vous allez tomber sur La Nef Chavant.
+Rhap_M0005-9,8,1,vous,vous,5,y,vous pouvez pas le louper.
+Rhap_M0005-12,11,4,vous,vous,5,y,"comme ça, vous pouvez pas vous perdre."
+Rhap_M0005-12,11,7,vous,vous,1,y,"comme ça, vous pouvez pas vous perdre."

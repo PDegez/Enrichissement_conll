@@ -1,0 +1,119 @@
+# macrosyntax = alors < tu vas { sur le forum | là } //
+# sent_id = Rhap_M0010-1
+# text = alors, tu vas sur le forum, là.
+1	alors	alors	ADV	_	_	4	mod	_	AlignBegin=0|AlignEnd=0.566318|Prenucleus=U|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	4	subj	_	AlignBegin=0.566318|AlignEnd=0.676032|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+4	vas	aller	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=0.676032|AlignEnd=0.820854|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+5	sur	sur	ADP	_	_	4	comp:obl	_	AlignBegin=0.820854|AlignEnd=0.986157|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art|Shared=No	7	det	_	AlignBegin=0.986157|AlignEnd=1.037356|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	forum	forum	NOUN	_	Gender=Masc|Number=Sing	5	comp:obj	_	AlignBegin=1.037356|AlignEnd=1.407747|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	là	là	ADV	_	_	7	conj:appos	_	AlignBegin=1.407747|AlignEnd=1.632737|Layer=U|Nucleus=Last|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|SpaceAfter=No|TypeInherited=OblInherited|TypePara=ParaDform
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+# macrosyntax = ensuite <+ c'est des escaliers //
+# sent_id = Rhap_M0010-2
+# text = ensuite, c'est des escaliers.
+1	ensuite	ensuite	ADV	_	_	4	mod	_	AlignBegin=2.114071|AlignEnd=2.401304|GovNucleus=U|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	subj	_	AlignBegin=2.401304|AlignEnd=2.507455|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=2.507455|AlignEnd=2.622973|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	6	det	_	AlignBegin=2.622973|AlignEnd=2.748096|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+6	escaliers	escalier	NOUN	_	Gender=Masc|Number=Plur	4	comp:pred	_	AlignBegin=2.748096|AlignEnd=3.309167|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# macrosyntax = tu descends les escaliers //
+# sent_id = Rhap_M0010-3
+# text = tu descends les escaliers.
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	subj	_	AlignBegin=3.569255|AlignEnd=3.638797|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+2	descends	descendre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=3.638797|AlignEnd=3.907808|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	AlignBegin=3.907808|AlignEnd=4.001748|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	escaliers	escalier	NOUN	_	Gender=Masc|Number=Plur	2	comp:obj	_	AlignBegin=4.001748|AlignEnd=4.616864|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = tu vas tout droit //
+# sent_id = Rhap_M0010-4
+# text = tu vas tout droit.
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	subj	_	AlignBegin=4.987271|AlignEnd=5.06166|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	vas	aller	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=5.06166|AlignEnd=5.148201|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+3	tout	tout	ADV	_	_	4	mod	_	AlignBegin=5.148201|AlignEnd=5.27002|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	droit	droit	ADJ	_	Gender=Masc|Number=Sing	2	comp:obj	_	AlignBegin=5.27002|AlignEnd=5.43884|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = tu vas passer devant un magasin de pantalons //
+# sent_id = Rhap_M0010-5
+# text = tu vas passer devant un magasin de pantalons.
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	subj	_	AlignBegin=5.43884|AlignEnd=5.499091|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+2	vas	aller	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=5.499091|AlignEnd=5.618113|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+3	passer	passer	VERB	_	VerbForm=Inf	2	comp:obj	_	AlignBegin=5.618113|AlignEnd=5.857143|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|Subject=SubjRaising
+4	devant	devant	ADP	_	_	3	comp:obl	_	AlignBegin=5.857143|AlignEnd=5.969745|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	AlignBegin=5.969745|AlignEnd=6.032959|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+6	magasin	magasin	NOUN	_	Gender=Masc|Number=Sing	4	comp:obj	_	AlignBegin=6.032959|AlignEnd=6.438765|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+7	de	de	ADP	_	_	6	udep	_	AlignBegin=6.438765|AlignEnd=6.478796|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+8	pantalons	pantalon	NOUN	_	Gender=Masc|Number=Plur	7	comp:obj	_	AlignBegin=6.478796|AlignEnd=6.925177|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = ensuite <+ tu vas te retrouver vers le cinéma Star //
+# sent_id = Rhap_M0010-6
+# text = ensuite, tu vas te retrouver vers le cinéma Star.
+1	ensuite	ensuite	ADV	_	_	4	mod	_	AlignBegin=8.035962|AlignEnd=8.449702|GovNucleus=U|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	4	subj	_	AlignBegin=8.449702|AlignEnd=8.538734|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+4	vas	aller	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=8.538734|AlignEnd=8.77179|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+5	te	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	4	comp@expl	_	AlignBegin=8.77179|AlignEnd=8.873916|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+6	retrouver	retrouver	VERB	_	VerbForm=Inf	4	comp:obj	_	AlignBegin=8.873916|AlignEnd=9.255177|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|Subject=SubjRaising
+7	vers	vers	ADP	_	_	6	comp:obl	_	AlignBegin=9.255177|AlignEnd=9.405177|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	AlignBegin=9.405177|AlignEnd=9.465177|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+9	cinéma	cinéma	NOUN	_	Gender=Masc|Number=Sing	7	comp:obj	_	AlignBegin=9.465177|AlignEnd=9.863748|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+10	Star	Star	PROPN	_	_	9	mod@appos	_	AlignBegin=9.863748|AlignEnd=10.271329|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+# macrosyntax = tu descends toute la pente //
+# sent_id = Rhap_M0010-7
+# text = tu descends toute la pente.
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	subj	_	AlignBegin=10.597508|AlignEnd=10.725107|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+2	descends	descendre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=10.725107|AlignEnd=11.02|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+3	toute	tout	ADJ	_	Gender=Fem|Number=Sing	5	mod	_	AlignBegin=11.02|AlignEnd=11.11|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	AlignBegin=11.11|AlignEnd=11.3|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	pente	pente	NOUN	_	Gender=Fem|Number=Sing	2	comp:obj	_	AlignBegin=11.3|AlignEnd=11.69|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = ensuite <+ tu verras un rond-point //
+# sent_id = Rhap_M0010-8
+# text = ensuite, tu verras un rond-point.
+1	ensuite	ensuite	ADV	_	_	4	mod	_	AlignBegin=12.128079|AlignEnd=12.538079|GovNucleus=U|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	4	subj	_	AlignBegin=12.538079|AlignEnd=12.608079|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	verras	voir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	AlignBegin=12.608079|AlignEnd=12.758079|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	AlignBegin=12.758079|AlignEnd=12.831892|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+6	rond	rond	NOUN	_	Gender=Masc|Number=Sing	4	comp:obj	_	AlignBegin=12.831892|AlignEnd=12.998079|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+7	point	point	NOUN	_	Gender=Masc|Number=Sing	6	flat@dev	_	AlignBegin=12.998079|AlignEnd=13.383736|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+# macrosyntax = tu tournes à gauche //
+# sent_id = Rhap_M0010-9
+# text = tu tournes à gauche.
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	subj	_	AlignBegin=13.793293|AlignEnd=13.872058|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	tournes	tourner	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=13.872058|AlignEnd=14.083736|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+3	à	à	ADP	_	_	2	mod	_	AlignBegin=14.083736|AlignEnd=14.173736|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	gauche	gauche	NOUN	_	Gender=Fem|Number=Sing	3	comp:obj	_	AlignBegin=14.173736|AlignEnd=14.701229|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = ^et en face <+ normalement < il devrait y avoir la gare //
+# sent_id = Rhap_M0010-10
+# text = et en face, normalement, il devrait y avoir la gare.
+1	et	et	CCONJ	_	_	8	cc	_	AlignBegin=15.408218|AlignEnd=15.490503|Intro_IU=U|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+2	en	en	ADP	_	_	10	mod	_	AlignBegin=15.490503|AlignEnd=15.615577|GovNucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+3	face	face	NOUN	_	Gender=Fem|Number=Sing	2	comp:obj	_	AlignBegin=15.615577|AlignEnd=15.898639|GovNucleus=Last|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	normalement	normalement	ADV	_	_	8	mod	_	AlignBegin=15.898639|AlignEnd=16.194168|Prenucleus=U|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	subj@expl	_	AlignBegin=16.194168|AlignEnd=16.22179|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+8	devrait	devoir	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=16.22179|AlignEnd=16.365098|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+9	y	y	PRON	_	Person=3|PronType=Prs	10	comp:obl	_	AlignBegin=16.365098|AlignEnd=16.382602|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+10	avoir	avoir	VERB	_	VerbForm=Inf	8	comp:obj	_	AlignBegin=16.382602|AlignEnd=16.563104|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|Subject=NoRaising
+11	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	AlignBegin=16.563104|AlignEnd=16.681798|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12	gare	gare	NOUN	_	Gender=Fem|Number=Sing	10	comp:obj	_	AlignBegin=16.681798|AlignEnd=16.875314|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+13	.	.	PUNCT	_	_	8	punct	_	_
+

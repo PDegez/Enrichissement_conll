@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="00-lsschema.rnc" type="application/relax-ng-compact-syntax"?>
+<model>
+<section id="ls:fr:exsect:1" name="Citations de corpus type Frantext">
+<source id="ls:fr:exsrc:1" name="Frantext"/>
+</section>
+<section id="ls:fr:exsect:2" name="Citations de corpus type FrWac">
+<source id="ls:fr:exsrc:2" name="FrWac"/>
+<source id="ls:fr:exsrc:14" name="Orthocorpus"/>
+</section>
+<section id="ls:fr:exsect:3" name="Citations de corpus journalistiques hors Frantext">
+<source id="ls:fr:exsrc:3" name="L’Est Républicain"/>
+<source id="ls:fr:exsrc:4" name="Chambers-Rostand"/>
+</section>
+<section id="ls:fr:exsect:4" name="Citations de corpus oraux type TCOF">
+</section>
+<section id="ls:fr:exsect:5" name="Exemples hors bases">
+<source id="ls:fr:exsrc:6" name="Hors bases : publication"/>
+<source id="ls:fr:exsrc:13" name="Hors bases : chanson"/>
+<source id="ls:fr:exsrc:7" name="Hors bases : audiovisuel"/>
+<source id="ls:fr:exsrc:8" name="Hors bases : conversation"/>
+<source id="ls:fr:exsrc:5" name="Hors bases : Web"/>
+<source id="ls:fr:exsrc:9" name="Hors bases : courrier"/>
+<source id="ls:fr:exsrc:10" name="Hors bases : fabrication"/>
+<source id="ls:fr:exsrc:11" name="Hors bases : temporaire"/>
+<source id="ls:fr:exsrc:12" name="Illustration du sens"/>
+</section>
+</model>

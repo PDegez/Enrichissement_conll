@@ -1,0 +1,8 @@
+score,vrai_positif,faux_positif,precision
+lexique,2010,161,"0,925840626439429"
+nent,830,95,"0,897297297297297"
+valence,852,199,"0,810656517602284"
+coor_nom,179,19,"0,904040404040404"
+comp_pred,35,5,"0,875"
+antecedent,42,33,"0,56"
+total,3948,512,"0,885201793721973"

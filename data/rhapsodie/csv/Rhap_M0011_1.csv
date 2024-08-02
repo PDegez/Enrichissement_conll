@@ -1,0 +1,28 @@
+id_sentence_conll,index_phrase,index_token,form,lemma,score,annotation,phrase
+Rhap_M0011-1,0,9,Notre,Notre,2,n,"alors donc, pour aller de la place Notre-Dame à La Nef Chavant, je prolonge la place Notre-Dame par la place Sainte-Claire."
+Rhap_M0011-1,0,10,Dame,Dame,2,n,"alors donc, pour aller de la place Notre-Dame à La Nef Chavant, je prolonge la place Notre-Dame par la place Sainte-Claire."
+Rhap_M0011-1,0,16,je,moi,1,y,"alors donc, pour aller de la place Notre-Dame à La Nef Chavant, je prolonge la place Notre-Dame par la place Sainte-Claire."
+Rhap_M0011-1,0,20,Notre,Notre,2,n,"alors donc, pour aller de la place Notre-Dame à La Nef Chavant, je prolonge la place Notre-Dame par la place Sainte-Claire."
+Rhap_M0011-1,0,21,Dame,Dame,2,n,"alors donc, pour aller de la place Notre-Dame à La Nef Chavant, je prolonge la place Notre-Dame par la place Sainte-Claire."
+Rhap_M0011-2,1,1,je,moi,1,y,je continue tout droit.
+Rhap_M0011-3,2,1,j',moi,1,y,j'arrive au lycée Stendhal.
+Rhap_M0011-4,3,3,je,moi,1,y,"là, je tourne dans la rue du nom d'un géographe je me souviens plus lequel."
+Rhap_M0011-4,3,13,je,moi,1,y,"là, je tourne dans la rue du nom d'un géographe je me souviens plus lequel."
+Rhap_M0011-4,3,14,me,moi,1,y,"là, je tourne dans la rue du nom d'un géographe je me souviens plus lequel."
+Rhap_M0011-5,4,2,je,moi,1,y,et je passe sous le lycée Stendhal.
+Rhap_M0011-6,5,5,m',moi,1,y,un petit passage qui m'amène vers le square des postes.
+Rhap_M0011-7,6,6,je,moi,5,y,"du square des postes, je peux rejoindre la place de l'Étoile."
+Rhap_M0011-8,7,4,j',moi,1,y,"et là, j'ai deux itinéraires."
+Rhap_M0011-9,8,1,je,moi,5,y,je crois.
+Rhap_M0011-10,9,3,je,moi,1,y,ou bien je prends la rue Lesdiguières et le boulevard Edouard Rey.
+Rhap_M0011-11,10,5,c',ce,40,y,"et, non, c'est plus Edouard Rey."
+Rhap_M0011-11,10,8,Edouard,Edouard,2,y,"et, non, c'est plus Edouard Rey."
+Rhap_M0011-12,11,5,c',ce,40,y,"c'est Emmanu~, c'est fils de la Sarce, je crois."
+Rhap_M0011-12,11,7,fils,fils,1,y,"c'est Emmanu~, c'est fils de la Sarce, je crois."
+Rhap_M0011-12,11,12,je,moi,5,y,"c'est Emmanu~, c'est fils de la Sarce, je crois."
+Rhap_M0011-14,13,1,je,moi,1,y,je m'embrouille.
+Rhap_M0011-14,13,2,m',moi,1,y,je m'embrouille.
+Rhap_M0011-15,14,11,je,moi,1,y,"ou alors il y a une petite rue mais dont je ne sais pas le nom, une petite rue en, qui tourne un peu."
+Rhap_M0011-16,15,1,je,moi,1,y,"je, j'arrive, je tombe sur La Nef Chavant."
+Rhap_M0011-16,15,3,j',moi,1,y,"je, j'arrive, je tombe sur La Nef Chavant."
+Rhap_M0011-16,15,6,je,moi,1,y,"je, j'arrive, je tombe sur La Nef Chavant."

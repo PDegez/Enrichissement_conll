@@ -1,0 +1,227 @@
+# macrosyntax = "eh ben" "euh" tu prends { le boulevard "euh" là qui part de Nef Chavant | là le boulevard qui passe à côté d'Habitat } //
+# sent_id = Rhap_M0001-1
+# text = eh ben, euh, tu prends le boulevard, euh, là qui part de Nef Chavant, là le boulevard qui passe à côté d'Habitat.
+1	eh	eh	INTJ	_	_	7	discourse	_	AlignBegin=0|AlignEnd=0.448717|AssociatedNucleus=Begin|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=filled-dis
+2	ben	ben	INTJ	_	_	7	discourse	_	AlignBegin=0.448717|AlignEnd=0.76778|AssociatedNucleus=Last|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=filled-dis|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	euh	euh	INTJ	_	_	7	discourse	_	AlignBegin=0.76778|AlignEnd=1.562325|AssociatedNucleus=U|Hesitation=Yes|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=filled-pause|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	7	subj	_	AlignBegin=1.760019|AlignEnd=1.890019|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+7	prends	prendre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=1.890019|AlignEnd=2.230019|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art|Shared=No	9	det	_	AlignBegin=2.230019|AlignEnd=2.290019|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=filled-dis
+9	boulevard	boulevard	NOUN	_	Gender=Masc|Number=Sing	7	comp:obj	_	AlignBegin=2.290019|AlignEnd=2.996759|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=filled-dis|SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	euh	euh	INTJ	_	_	9	discourse	_	AlignBegin=2.996759|AlignEnd=3.436725|AssociatedNucleus=U|Hesitation=Yes|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=filled-pause|SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	là	là	INTJ	_	_	9	discourse	_	AlignBegin=4.481163|AlignEnd=4.691828|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+14	qui	qui	PRON	_	PronType=Rel	15	subj	_	AlignBegin=4.691828|AlignEnd=4.861163|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+15	part	partir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	mod@relcl	_	AlignBegin=4.861163|AlignEnd=5.461163|Hesitation=Yes|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+16	de	de	ADP	_	_	15	comp:obl	_	AlignBegin=5.461163|AlignEnd=5.601163|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+17	Nef	Nef	PROPN	_	Gender=Fem|Number=Sing	16	comp:obj	_	AlignBegin=5.601163|AlignEnd=5.771163|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+18	Chavant	Chavant	PROPN	_	_	17	flat@name	_	AlignBegin=5.771163|AlignEnd=6.272632|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	là	là	INTJ	_	_	18	discourse	_	AlignBegin=6.272632|AlignEnd=6.352632|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+21	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	AlignBegin=6.352632|AlignEnd=6.432632|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+22	boulevard	boulevard	NOUN	_	Gender=Masc|Number=Sing	9	conj:appos	_	AlignBegin=6.432632|AlignEnd=6.772632|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|TypeInherited= ObjInherited|TypePara=ParaDform
+23	qui	qui	PRON	_	PronType=Rel	24	subj	_	AlignBegin=6.772632|AlignEnd=6.862632|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+24	passe	passer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	mod@relcl	_	AlignBegin=6.862632|AlignEnd=7.122632|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+25	à	à	ADP	_	_	24	comp:obl	_	AlignBegin=7.122632|AlignEnd=7.172632|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+26	côté	côté	NOUN	_	Gender=Masc|Number=Sing	25	comp:obj	_	AlignBegin=7.172632|AlignEnd=7.432632|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+27	d'	de	ADP	_	_	26	udep	_	AlignBegin=7.432632|AlignEnd=7.492632|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+28	Habitat	Habitat	PROPN	_	_	27	comp:obj	_	AlignBegin=7.492632|AlignEnd=8.08537|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+29	.	.	PUNCT	_	_	7	punct	_	_
+
+# macrosyntax = tu continues //
+# sent_id = Rhap_M0001-2
+# text = tu continues.
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	subj	_	AlignBegin=8.721458|AlignEnd=8.831458|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	continues	continuer	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=8.831458|AlignEnd=9.432494|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = tu vas arriver sur la place "euh" Victor Hugo //
+# sent_id = Rhap_M0001-3
+# text = tu vas arriver sur la place, euh, Victor Hugo.
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	subj	_	AlignBegin=9.432494|AlignEnd=9.582494|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+2	vas	aller	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=9.582494|AlignEnd=9.722494|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+3	arriver	arriver	VERB	_	VerbForm=Inf	2	comp:obj	_	AlignBegin=9.722494|AlignEnd=9.970975|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|Subject=SubjRaising
+4	sur	sur	ADP	_	_	3	comp:obl	_	AlignBegin=9.970975|AlignEnd=10.182494|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	AlignBegin=10.182494|AlignEnd=10.302494|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+6	place	place	NOUN	_	Gender=Fem|Number=Sing	4	comp:obj	_	AlignBegin=10.302494|AlignEnd=10.772577|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	euh	euh	INTJ	_	_	6	discourse	_	AlignBegin=10.772577|AlignEnd=11.232355|AssociatedNucleus=U|Hesitation=Yes|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=dis-weak|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	Victor	Victor	PROPN	_	_	6	mod@appos	_	AlignBegin=11.232355|AlignEnd=11.662355|ANIMACY=HUM|HUM_SCORE=2|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=filled-dis
+11	Hugo	Hugo	PROPN	_	_	10	flat@name	_	AlignBegin=11.662355|AlignEnd=12.04959|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=filled-dis|SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = "euh" la place Victor Hugo < à la banque "euh" qui fait l'angle <+ tu prends à droite //
+# sent_id = Rhap_M0001-4
+# text = euh, la place Victor Hugo, à la banque, euh, qui fait l'angle, tu prends à droite.
+1	euh	euh	INTJ	_	_	20	discourse	_	AlignBegin=13.590021|AlignEnd=13.740505|AssociatedNucleus=U|Hesitation=Yes|Prenucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=filled-pause|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	AlignBegin=13.740505|AlignEnd=13.800505|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	place	place	NOUN	_	Gender=Fem|Number=Sing	20	dislocated	_	AlignBegin=13.800505|AlignEnd=14.030505|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	Victor	Victor	PROPN	_	_	4	mod@appos	_	AlignBegin=14.030505|AlignEnd=14.420505|ANIMACY=HUM|HUM_SCORE=2|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+6	Hugo	Hugo	PROPN	_	_	5	flat@name	_	AlignBegin=14.420505|AlignEnd=14.66481|Prenucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+7	,	,	PUNCT	_	_	4	punct	_	_
+8	à	à	ADP	_	_	20	mod	_	AlignBegin=14.66481|AlignEnd=14.70481|GovNucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=filled-dis
+9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	AlignBegin=14.70481|AlignEnd=14.85481|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=filled-dis
+10	banque	banque	NOUN	_	Gender=Fem|Number=Sing	8	comp:obj	_	AlignBegin=14.85481|AlignEnd=15.32481|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=filled-dis|SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	euh	euh	INTJ	_	_	10	discourse	_	AlignBegin=15.32481|AlignEnd=15.91481|AssociatedNucleus=U|GovNucleus=In|Hesitation=Yes|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=filled-pause|SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	qui	qui	PRON	_	PronType=Rel	15	subj	_	AlignBegin=16.419741|AlignEnd=16.559741|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+15	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	mod@relcl	_	AlignBegin=16.639741|AlignEnd=16.769741|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+16	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	17	det	_	AlignBegin=16.769741|AlignEnd=16.849741|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak|SpaceAfter=No
+17	angle	angle	NOUN	_	Gender=Masc|Number=Sing	15	comp:obj	_	AlignBegin=16.849741|AlignEnd=17.272145|GovNucleus=Last|Hesitation=Yes|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak|SpaceAfter=No
+18	,	,	PUNCT	_	_	8	punct	_	_
+19	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	20	subj	_	AlignBegin=17.272145|AlignEnd=17.362145|ANIMACY=HUM|HUM_SCORE=5|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+20	prends	prendre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=17.362145|AlignEnd=17.532145|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+21	à	à	ADP	_	_	20	comp:obl	_	AlignBegin=17.532145|AlignEnd=17.602145|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+22	droite	droite	NOUN	_	Gender=Fem|Number=Sing	21	comp:obj	_	AlignBegin=17.602145|AlignEnd=18.10239|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+23	.	.	PUNCT	_	_	20	punct	_	_
+
+# macrosyntax = tu longes { les | les } rails du tram jusqu'à la place Grenette //
+# sent_id = Rhap_M0001-5
+# text = tu longes les, les rails du tram jusqu'à la place Grenette.
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	subj	_	AlignBegin=19.333359|AlignEnd=19.433359|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+2	longes	longer	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=19.433359|AlignEnd=19.703359|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	AlignBegin=19.703359|AlignEnd=20.043359|Hesitation=Yes|Layer=U|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=dis-strong|SpaceAfter=No|TypeInherited=DepInherited|TypePara=ParaDisfl
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	3	conj:dicto	_	AlignBegin=20.043359|AlignEnd=20.133359|Layer=U|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+6	rails	rail	NOUN	_	Gender=Masc|Number=Plur	2	comp:obj	_	AlignBegin=20.133359|AlignEnd=20.343359|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+7	du	du	ADP	_	_	6	udep	_	AlignBegin=20.343359|AlignEnd=20.413359|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	tram	tram	NOUN	_	Gender=Masc|Number=Sing	7	comp:obj	_	AlignBegin=20.413359|AlignEnd=20.963359|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+9	jusqu'	jusque	ADP	_	_	2	mod	_	AlignBegin=21.132423|AlignEnd=21.472423|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak|SpaceAfter=No
+10	à	à	ADP	_	_	9	comp:obj	_	AlignBegin=21.472423|AlignEnd=21.512423|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+11	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	AlignBegin=21.512423|AlignEnd=21.632423|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+12	place	place	NOUN	_	Gender=Fem|Number=Sing	10	comp:obj	_	AlignBegin=21.632423|AlignEnd=21.812423|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+13	Grenette	Grenette	PROPN	_	_	12	mod@appos	_	AlignBegin=21.812423|AlignEnd=22.220833|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = tu continues dans la vieille ville //
+# sent_id = Rhap_M0001-6
+# text = tu continues dans la vieille ville.
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	subj	_	AlignBegin=23.306739|AlignEnd=23.396739|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+2	continues	continuer	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=23.396739|AlignEnd=23.786739|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+3	dans	dans	ADP	_	_	2	mod	_	AlignBegin=23.786739|AlignEnd=23.916739|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	AlignBegin=23.916739|AlignEnd=23.996739|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+5	vieille	vieux	ADJ	_	Gender=Fem|Number=Sing	6	mod	_	AlignBegin=23.996739|AlignEnd=24.249724|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+6	ville	ville	NOUN	_	Gender=Fem|Number=Sing	3	comp:obj	_	AlignBegin=24.249724|AlignEnd=24.522047|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = tu prends la grande rue //
+# sent_id = Rhap_M0001-7
+# text = tu prends la grande rue.
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	subj	_	AlignBegin=24.522047|AlignEnd=24.622047|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+2	prends	prendre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=24.622047|AlignEnd=24.822047|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	AlignBegin=24.822047|AlignEnd=24.912047|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+4	grande	grand	ADJ	_	Gender=Fem|Number=Sing	5	mod	_	AlignBegin=24.912047|AlignEnd=25.140069|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+5	rue	rue	NOUN	_	Gender=Fem|Number=Sing	2	comp:obj	_	AlignBegin=25.140069|AlignEnd=25.523907|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = ^et "euh" après <+ tu bifurques //
+# sent_id = Rhap_M0001-8
+# text = et, euh, après, tu bifurques.
+1	et	et	CCONJ	_	_	8	cc	_	AlignBegin=26.456606|AlignEnd=26.647813|Intro_IU=U|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=tail|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	euh	euh	INTJ	_	_	8	discourse	_	AlignBegin=26.647813|AlignEnd=27.111495|AssociatedNucleus=U|GovNucleus=Begin|Hesitation=Yes|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=filled-pause|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	après	après	ADP	_	_	8	mod	_	AlignBegin=27.503103|AlignEnd=27.763103|GovNucleus=Last|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	8	subj	_	AlignBegin=27.763103|AlignEnd=27.973103|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=filled-dis
+8	bifurques	bifurquer	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=27.973103|AlignEnd=28.733103|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=filled-dis|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# macrosyntax = "euh" il y a une petite bifurcation "euh" juste avant la place du Tribunal //
+# sent_id = Rhap_M0001-9
+# text = euh, il y a une petite bifurcation, euh, juste avant la place du Tribunal.
+1	euh	euh	INTJ	_	_	5	discourse	_	AlignBegin=28.733103|AlignEnd=29.19568|AssociatedNucleus=U|Hesitation=Yes|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=filled-pause|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	subj@expl	_	AlignBegin=30.889769|AlignEnd=30.927583|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+4	y	y	PRON	_	Person=3|PronType=Prs	5	comp@expl	_	AlignBegin=30.927583|AlignEnd=30.957583|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=30.957583|AlignEnd=30.987583|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+6	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	AlignBegin=30.987583|AlignEnd=31.117583|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	petite	petit	ADJ	_	Gender=Fem|Number=Sing	8	mod	_	AlignBegin=31.117583|AlignEnd=31.277583|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	bifurcation	bifurcation	NOUN	_	Gender=Fem|Number=Sing	5	comp:obj	_	AlignBegin=31.277583|AlignEnd=32.027437|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	euh	euh	INTJ	_	_	8	discourse	_	AlignBegin=32.027437|AlignEnd=32.165836|AssociatedNucleus=U|Hesitation=Yes|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	juste	juste	ADJ	_	Number=Sing	15	mod	_	AlignBegin=32.165836|AlignEnd=32.427596|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+13	avant	avant	ADP	_	_	5	mod	_	AlignBegin=32.427596|AlignEnd=32.665836|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+14	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	AlignBegin=32.665836|AlignEnd=32.805836|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+15	place	place	NOUN	_	Gender=Fem|Number=Sing	13	comp:obj	_	AlignBegin=32.805836|AlignEnd=32.995836|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+16	du	du	ADP	_	_	15	udep	_	AlignBegin=32.995836|AlignEnd=33.125836|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+17	Tribunal	Tribunal	PROPN	_	Gender=Masc|Number=Sing	16	comp:obj	_	AlignBegin=33.125836|AlignEnd=33.697225|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+18	.	.	PUNCT	_	_	5	punct	_	_
+
+# macrosyntax = tu passes à côté d'une petite fontaine //
+# sent_id = Rhap_M0001-10
+# text = tu passes à côté d'une petite fontaine.
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	subj	_	AlignBegin=34.389874|AlignEnd=34.459874|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+2	passes	passer	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=34.459874|AlignEnd=34.698116|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+3	à	à	ADP	_	_	2	comp:obl	_	AlignBegin=34.698116|AlignEnd=34.744942|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+4	côté	côté	NOUN	_	Gender=Masc|Number=Sing	3	comp:obj	_	AlignBegin=34.744942|AlignEnd=35.038559|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+5	d'	de	ADP	_	_	4	udep	_	AlignBegin=35.038559|AlignEnd=35.08443|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+6	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	AlignBegin=35.08443|AlignEnd=35.269874|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	petite	petit	ADJ	_	Gender=Fem|Number=Sing	8	mod	_	AlignBegin=35.269874|AlignEnd=35.559874|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+8	fontaine	fontaine	NOUN	_	Gender=Fem|Number=Sing	5	comp:obj	_	AlignBegin=35.609874|AlignEnd=36.256635|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = tu arrives place aux Herbes avec { une | une } sorte { de halle "quoi" | { de | de | de } structure métallique } //
+# sent_id = Rhap_M0001-11
+# text = tu arrives place aux Herbes avec une, une sorte de halle, quoi, de, de, de structure métallique.
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	subj	_	AlignBegin=36.693203|AlignEnd=36.731129|ANIMACY=HUM|Hesitation=Pause|HUM_SCORE=1|Nucleus=Begin|ProminenceFinal=Pause|ProminenceInitial=Pause|RhythmGroup=Weak
+2	arrives	arriver	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=36.731129|AlignEnd=37.231129|Hesitation=Yes|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+3	place	place	NOUN	_	Gender=Fem|Number=Sing	2	comp:obj	_	AlignBegin=37.231129|AlignEnd=37.59323|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+4	aux	au	ADP	_	_	3	udep	_	AlignBegin=37.59323|AlignEnd=37.770105|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+5	Herbes	Herbes	PROPN	_	_	4	comp:obj	_	AlignBegin=37.770105|AlignEnd=38.021129|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+6	avec	avec	ADP	_	_	3	udep	_	AlignBegin=38.021129|AlignEnd=38.331129|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+7	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	AlignBegin=38.331129|AlignEnd=38.535631|Hesitation=Yes|Layer=U|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No|TypeInherited=DepInherited|TypePara=ParaDisfl
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	conj:dicto	_	AlignBegin=38.639431|AlignEnd=38.799431|Layer=U|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+10	sorte	sorte	NOUN	_	Gender=Fem|Number=Sing	6	comp:obj	_	AlignBegin=38.799431|AlignEnd=38.979431|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+11	de	de	ADP	_	_	10	udep	_	AlignBegin=38.979431|AlignEnd=39.189431|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12	halle	halle	NOUN	_	Gender=Fem|Number=Sing	11	comp:obj	_	AlignBegin=39.189431|AlignEnd=39.490499|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	quoi	quoi	INTJ	_	_	12	discourse	_	AlignBegin=40.038216|AlignEnd=40.148216|AssociatedNucleus=U|Layer=Last|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=tail|SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	de	de	ADP	_	_	11	conj:dicto	_	AlignBegin=40.148216|AlignEnd=40.341725|Hesitation=Yes|Layer=U|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No|TypeInherited=DepInherited|TypePara=ParaDform
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	de	de	ADP	_	_	16	conj:dicto	_	AlignBegin=41.218216|AlignEnd=41.558216|Hesitation=Yes|Layer=U|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=tail|SpaceAfter=No|TypeInherited=DepInherited|TypePara=ParaDisfl
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	de	de	ADP	_	_	18	conj:dicto	_	AlignBegin=41.678216|AlignEnd=41.758216|Layer=U|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak|TypeInherited=DepInherited|TypePara=ParaDisfl
+21	structure	structure	NOUN	_	Gender=Fem|Number=Sing	20	comp:obj	_	AlignBegin=41.758216|AlignEnd=42.168216|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|TypeInherited=DepInherited
+22	métallique	métallique	ADJ	_	Gender=Fem|Number=Sing	21	mod	_	AlignBegin=42.168216|AlignEnd=42.786613|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = tu continues { la rue | la petite rue } //
+# sent_id = Rhap_M0001-12
+# text = tu continues la rue, la petite rue.
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	subj	_	AlignBegin=43.299557|AlignEnd=43.389557|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+2	continues	continuer	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=43.389557|AlignEnd=43.809557|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art|Shared=No	4	det	_	AlignBegin=43.809557|AlignEnd=44.059557|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	rue	rue	NOUN	_	Gender=Fem|Number=Sing	2	comp:obj	_	AlignBegin=44.059557|AlignEnd=44.326749|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	AlignBegin=45.518379|AlignEnd=45.608379|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+7	petite	petit	ADJ	_	Gender=Fem|Number=Sing	8	mod	_	AlignBegin=45.608379|AlignEnd=45.878379|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+8	rue	rue	NOUN	_	Gender=Fem|Number=Sing	4	conj:dicto	_	AlignBegin=45.878379|AlignEnd=46.183999|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No|TypeInherited= ObjInherited|TypePara=ParaNegot
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = ^et tu arrives à la fontaine "euh" place Notre-Dame //
+# sent_id = Rhap_M0001-13
+# text = et tu arrives à la fontaine, euh, place Notre-Dame.
+1	et	et	CCONJ	_	_	3	cc	_	AlignBegin=46.183999|AlignEnd=46.327655|Intro_IU=U|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+2	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	3	subj	_	AlignBegin=46.327655|AlignEnd=46.397655|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+3	arrives	arriver	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=46.397655|AlignEnd=46.627655|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+4	à	à	ADP	_	_	3	comp:obl	_	AlignBegin=46.627655|AlignEnd=46.677655|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	AlignBegin=46.677655|AlignEnd=46.797469|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+6	fontaine	fontaine	NOUN	_	Gender=Fem|Number=Sing	4	comp:obj	_	AlignBegin=46.797469|AlignEnd=47.258291|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	euh	euh	INTJ	_	_	6	discourse	_	AlignBegin=47.258291|AlignEnd=47.687655|AssociatedNucleus=U|Hesitation=Yes|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	place	place	NOUN	_	Gender=Fem|Number=Sing	4	conj:coord	_	AlignBegin=47.687655|AlignEnd=47.927655|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+11	Notre	Notre	PROPN	_	_	10	mod@appos	_	AlignBegin=47.997655|AlignEnd=48.247655|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+12	Dame	Dame	PROPN	_	_	11	flat@dev	_	AlignBegin=48.247655|AlignEnd=48.482103|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	_
+

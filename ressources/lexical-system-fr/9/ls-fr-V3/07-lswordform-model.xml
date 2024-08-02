@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="00-lsschema.rnc" type="application/relax-ng-compact-syntax"?>
+<model>
+<category id="ls:fr:flexc:1" name="Mode" pivot-name="mood">
+<feature id="ls:fr:flexf:1" name="Indicatif" pivot-name="indicative" position="1"/>
+<feature id="ls:fr:flexf:2" name="Conditionnel" pivot-name="conditional" position="2"/>
+<feature id="ls:fr:flexf:3" name="Subjonctif" pivot-name="subjunctive" position="3"/>
+<feature id="ls:fr:flexf:4" name="Impératif" pivot-name="imperative" position="4"/>
+<feature id="ls:fr:flexf:5" name="Infinitif" pivot-name="infinitive" position="5"/>
+<feature id="ls:fr:flexf:6" name="Participe" pivot-name="participle" position="6"/>
+</category>
+<category id="ls:fr:flexc:2" name="Temps" pivot-name="tense">
+<feature id="ls:fr:flexf:7" name="Présent" pivot-name="present" position="0"/>
+<feature id="ls:fr:flexf:8" name="Imparfait" pivot-name="imperfect" position="0"/>
+<feature id="ls:fr:flexf:9" name="Futur" pivot-name="future" position="0"/>
+<feature id="ls:fr:flexf:10" name="Passé simple" pivot-name="simple past" position="0"/>
+<feature id="ls:fr:flexf:25" name="Passé" pivot-name="past" position="0"/>
+</category>
+<category id="ls:fr:flexc:3" name="Genre" pivot-name="gender">
+<feature id="ls:fr:flexf:11" name="Masculin" pivot-name="M" position="1"/>
+<feature id="ls:fr:flexf:12" name="Féminin" pivot-name="F" position="2"/>
+</category>
+<category id="ls:fr:flexc:4" name="Personne" pivot-name="person">
+<feature id="ls:fr:flexf:13" name="Première personne" pivot-name="1" position="1"/>
+<feature id="ls:fr:flexf:14" name="Deuxième personne" pivot-name="2" position="2"/>
+<feature id="ls:fr:flexf:15" name="Troisième personne" pivot-name="3" position="3"/>
+</category>
+<category id="ls:fr:flexc:5" name="Nombre" pivot-name="number">
+<feature id="ls:fr:flexf:16" name="Singulier" pivot-name="S" position="1"/>
+<feature id="ls:fr:flexf:17" name="Pluriel" pivot-name="P" position="2"/>
+</category>
+<category id="ls:fr:flexc:6" name="Auxiliaire(s)" pivot-name="auxiliary">
+<feature id="ls:fr:flexf:18" name="être" pivot-name="" position="1"/>
+<feature id="ls:fr:flexf:19" name="avoir" pivot-name="" position="2"/>
+</category>
+<category id="ls:fr:flexc:11" name="Variation(s)" pivot-name="variation">
+<feature id="ls:fr:flexf:67" name="eupho_quest" pivot-name="eupho_quest" position="0"/>
+<feature id="ls:fr:flexf:68" name="variation" pivot-name="" position="0"/>
+<feature id="ls:fr:flexf:69" name="arch" pivot-name="" position="0"/>
+<feature id="ls:fr:flexf:70" name="possible" pivot-name="" position="0"/>
+<feature id="ls:fr:flexf:143" name="graphie rectifiée" pivot-name="" position="0"/>
+<feature id="ls:fr:flexf:199" name="défectif" pivot-name="" position="0"/>
+<feature id="ls:fr:flexf:200" name="eupho_impératif" pivot-name="" position="0"/>
+<feature id="ls:fr:flexf:1539" name="graphie erronée" pivot-name="" position="0"/>
+<feature id="ls:fr:flexf:1540" name="liaison" pivot-name="" position="0"/>
+<feature id="ls:fr:flexf:11038" name="forme élidée" pivot-name="elision" position="0"/>
+</category>
+<category id="ls:fr:flexc:12" name="Pronominal" pivot-name="pronominal">
+<feature id="ls:fr:flexf:246" name="s’" pivot-name="" position="1"/>
+<feature id="ls:fr:flexf:247" name="se" pivot-name="" position="2"/>
+</category>
+<category id="ls:fr:flexc:13" name="Impersonnel" pivot-name="impersonal">
+<feature id="ls:fr:flexf:7528" name="il" pivot-name="" position="0"/>
+<feature id="ls:fr:flexf:7529" name="on" pivot-name="" position="0"/>
+<feature id="ls:fr:flexf:7530" name="ça" pivot-name="" position="0"/>
+</category>
+</model>

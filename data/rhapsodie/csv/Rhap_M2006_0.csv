@@ -1,0 +1,98 @@
+id_sentence_conll,index_phrase,index_token,form,lemma,score,annotation,phrase
+Rhap_M2006-1,0,1,bonjour,bonjour,2,y,bonjour Eric.
+Rhap_M2006-1,0,2,Eric,Eric,2,y,bonjour Eric.
+Rhap_M2006-4,3,2,policiers,policier,1,y,trois policiers blessés.
+Rhap_M2006-5,4,2,LKP,LKP,4,y,"le LKP lance un appel au calme et le maire de Pointe-à-Pitre, Jacques Bangou, un cri d'alarme."
+Rhap_M2006-5,4,10,maire,maire,1,y,"le LKP lance un appel au calme et le maire de Pointe-à-Pitre, Jacques Bangou, un cri d'alarme."
+Rhap_M2006-5,4,16,Jacques,Jacques,2,y,"le LKP lance un appel au calme et le maire de Pointe-à-Pitre, Jacques Bangou, un cri d'alarme."
+Rhap_M2006-7,5,1,nous,nous,1,y,"nous ferons le point sur les violences en direct avec notre envoyé spécial, Sébastien Paour, dans quelques instants."
+Rhap_M2006-7,5,15,Sébastien,Sébastien,2,y,"nous ferons le point sur les violences en direct avec notre envoyé spécial, Sébastien Paour, dans quelques instants."
+Rhap_M2006-9,7,8,Nicolas,Nicolas,2,y,"un face à face très attendu entre Nicolas Sarkozy, les syndicats et le patronat."
+Rhap_M2006-9,7,12,syndicats,syndicat,10,y,"un face à face très attendu entre Nicolas Sarkozy, les syndicats et le patronat."
+Rhap_M2006-9,7,15,patronat,patronat,11,y,"un face à face très attendu entre Nicolas Sarkozy, les syndicats et le patronat."
+Rhap_M2006-10,8,2,Bernard,Bernard,2,y,"pour Bernard Van Craeynest de la CFE CGC, la priorité, c'est bien de sauver les emplois."
+Rhap_M2006-11,9,19,chef,chef,1,y,"et dans la foulée de ce sommet social, à vingt heures ce soir, une intervention du chef de l'État à la télévision."
+Rhap_M2006-12,10,6,étudiants,étudiant,1,y,"pendant ce temps, les étudiants et les enseignants-chercheurs ne désarment pas."
+Rhap_M2006-12,10,9,enseignants,enseignants,10,y,"pendant ce temps, les étudiants et les enseignants-chercheurs ne désarment pas."
+Rhap_M2006-14,12,7,Colonna,Colonna,2,y,la foire d'empoigne au procès Colonna.
+Rhap_M2006-15,13,2,avocats,avocat,1,y,les avocats du berger corse ont quitté le procès hier soir.
+Rhap_M2006-15,13,4,berger,berger,1,y,les avocats du berger corse ont quitté le procès hier soir.
+Rhap_M2006-18,16,5,Hélène,Hélène,2,y,réponse à suivre avec Hélène Chevalier au congrès de Barcelone.
+Rhap_M2006-19,17,12,chef,chef,5,y,c'est dans un contexte pour le moins tendu que le chef de l'État réunit syndicats et patronat.
+Rhap_M2006-19,17,19,patronat,patronat,1,y,c'est dans un contexte pour le moins tendu que le chef de l'État réunit syndicats et patronat.
+Rhap_M2006-20,18,3,vous,vous,1,y,"un rendez-vous fixé, vous l'avez dit, après la forte mobilisation du vingt-neuf janvier dernier."
+Rhap_M2006-20,18,6,vous,vous,1,y,"un rendez-vous fixé, vous l'avez dit, après la forte mobilisation du vingt-neuf janvier dernier."
+Rhap_M2006-22,20,6,ce,ce,74,y,"alors, avant d'aborder ce qui peut en sortir, je vous propose de voir où, quand et comment cela va se passer avec vous, Jean-François Achilli."
+Rhap_M2006-22,20,12,je,moi,1,y,"alors, avant d'aborder ce qui peut en sortir, je vous propose de voir où, quand et comment cela va se passer avec vous, Jean-François Achilli."
+Rhap_M2006-22,20,13,vous,vous,1,y,"alors, avant d'aborder ce qui peut en sortir, je vous propose de voir où, quand et comment cela va se passer avec vous, Jean-François Achilli."
+Rhap_M2006-22,20,27,vous,vous,1,y,"alors, avant d'aborder ce qui peut en sortir, je vous propose de voir où, quand et comment cela va se passer avec vous, Jean-François Achilli."
+Rhap_M2006-22,20,29,Jean,Jean,2,y,"alors, avant d'aborder ce qui peut en sortir, je vous propose de voir où, quand et comment cela va se passer avec vous, Jean-François Achilli."
+Rhap_M2006-22,20,30,François,François,2,y,"alors, avant d'aborder ce qui peut en sortir, je vous propose de voir où, quand et comment cela va se passer avec vous, Jean-François Achilli."
+Rhap_M2006-23,21,17,patronat,patronat,1,y,"alors, passons maintenant au détail des mesures discutées et aux attentes des syndicats et du patronat."
+Rhap_M2006-24,22,2,chef,chef,1,y,"le chef de l'État annonce des mesures de justice, je cite, pour les salariés touchés par la crise économique."
+Rhap_M2006-24,22,8,mesures,mesure,4,y,"le chef de l'État annonce des mesures de justice, je cite, pour les salariés touchés par la crise économique."
+Rhap_M2006-24,22,12,je,moi,1,y,"le chef de l'État annonce des mesures de justice, je cite, pour les salariés touchés par la crise économique."
+Rhap_M2006-24,22,17,salariés,salarié,1,y,"le chef de l'État annonce des mesures de justice, je cite, pour les salariés touchés par la crise économique."
+Rhap_M2006-25,23,2,Sara,Sara,2,y,"mais Sara Ghibaudo, il ne pourra pas contenter tout le monde."
+Rhap_M2006-25,23,5,il,lui,4,y,"mais Sara Ghibaudo, il ne pourra pas contenter tout le monde."
+Rhap_M2006-25,23,12,monde,monde,4,y,"mais Sara Ghibaudo, il ne pourra pas contenter tout le monde."
+Rhap_M2006-26,24,9,vous,vous,1,y,"et dans un sondage réalisé avant le rendez-vous d'aujourd'hui, les Français se montrent très sévères à l'égard de la politique économique du gouvernement qu'ils jugent mauvaise à soixante pour cent."
+Rhap_M2006-26,24,24,politique,politique,1,y,"et dans un sondage réalisé avant le rendez-vous d'aujourd'hui, les Français se montrent très sévères à l'égard de la politique économique du gouvernement qu'ils jugent mauvaise à soixante pour cent."
+Rhap_M2006-26,24,27,gouvernement,gouvernement,1,y,"et dans un sondage réalisé avant le rendez-vous d'aujourd'hui, les Français se montrent très sévères à l'égard de la politique économique du gouvernement qu'ils jugent mauvaise à soixante pour cent."
+Rhap_M2006-27,25,19,patrons,patron,1,y,"la mesure qu'ils attendent le plus, c'est la répartition des bénéfices dans les entreprises entre patrons, actionnaires et salariés."
+Rhap_M2006-27,25,21,actionnaires,actionnaire,11,y,"la mesure qu'ils attendent le plus, c'est la répartition des bénéfices dans les entreprises entre patrons, actionnaires et salariés."
+Rhap_M2006-27,25,23,salariés,salarié,11,y,"la mesure qu'ils attendent le plus, c'est la répartition des bénéfices dans les entreprises entre patrons, actionnaires et salariés."
+Rhap_M2006-29,27,4,blessés,blessé,1,y,au moins six blessés légers des policiers.
+Rhap_M2006-29,27,7,policiers,policier,1,y,au moins six blessés légers des policiers.
+Rhap_M2006-30,28,2,jeunes,jeune,5,y,"des jeunes cagoulés et armés ont pillé des magasins, brûlé des pneus et des voitures."
+Rhap_M2006-31,29,2,Sébastien,Sébastien,2,y,bonjour Sébastien Paour.
+Rhap_M2006-32,30,1,vous,vous,1,y,vous vous trouvez au Gosier.
+Rhap_M2006-32,30,2,vous,vous,1,y,vous vous trouvez au Gosier.
+Rhap_M2006-34,32,2,Sébastien,Sébastien,2,y,merci Sébastien Paour.
+Rhap_M2006-35,33,1,on,on,5,y,on vous retrouve pour un nouveau point dans le journal de huit heures.
+Rhap_M2006-35,33,2,vous,vous,1,y,on vous retrouve pour un nouveau point dans le journal de huit heures.
+Rhap_M2006-36,34,1,vous,vous,5,y,vous le savez.
+Rhap_M2006-37,35,1,vous,vous,1,y,vous y étiez il y a pas longtemps.
+Rhap_M2006-38,36,13,ce,ce,70,y,"tout le monde est maintenant, en tout cas, suspendu à ce que Nicolas Sarkozy annoncera demain lors de sa rencontre à l'Élysée avec les élus d'outre-mer."
+Rhap_M2006-38,36,15,Nicolas,Nicolas,2,y,"tout le monde est maintenant, en tout cas, suspendu à ce que Nicolas Sarkozy annoncera demain lors de sa rencontre à l'Élysée avec les élus d'outre-mer."
+Rhap_M2006-41,39,4,personnes,personne,1,y,un millier de personnes était dans les rues à Poitiers.
+Rhap_M2006-45,43,2,président,président,1,y,"le président de l'Unef, Jean-Baptiste Prévot, au micro de Sonia Bourane."
+Rhap_M2006-45,43,7,Jean,Jean,2,y,"le président de l'Unef, Jean-Baptiste Prévot, au micro de Sonia Bourane."
+Rhap_M2006-45,43,8,Baptiste,Baptiste,2,y,"le président de l'Unef, Jean-Baptiste Prévot, au micro de Sonia Bourane."
+Rhap_M2006-45,43,14,Sonia,Sonia,2,y,"le président de l'Unef, Jean-Baptiste Prévot, au micro de Sonia Bourane."
+Rhap_M2006-46,44,4,Barack,Barack,6,y,"aux États-Unis, Barack Obama a promulgué son plan de relance adopté ce week-end par le congrès."
+Rhap_M2006-48,46,22,président,président,1,y,"un autre plan, destiné, celui-là, à ralentir les saisies immobilières, devrait être annoncé aujourd'hui par le président américain."
+Rhap_M2006-49,47,4,millions,million,4,y,cela concerne plusieurs millions d'américains à la rue faute de pouvoir payer leur crédit.
+Rhap_M2006-49,47,6,américains,américain,1,y,cela concerne plusieurs millions d'américains à la rue faute de pouvoir payer leur crédit.
+Rhap_M2006-51,49,1,General,General,4,y,General Motors et Chrysler ont présenté hier leur plan de restructuration à l'administration Obama.
+Rhap_M2006-51,49,4,Chrysler,Chrysler,10,y,General Motors et Chrysler ont présenté hier leur plan de restructuration à l'administration Obama.
+Rhap_M2006-51,49,14,administration,administration,4,y,General Motors et Chrysler ont présenté hier leur plan de restructuration à l'administration Obama.
+Rhap_M2006-53,51,5,vous,vous,5,y,"tout est bon, vous le verrez, avec Bertrand Vanier."
+Rhap_M2006-53,51,10,Bertrand,Bertrand,2,y,"tout est bon, vous le verrez, avec Bertrand Vanier."
+Rhap_M2006-54,52,4,évadés,évadé,1,y,"l'affaire des évadés de la prison de Moulins arrêtés hier matin, vous le savez, après trente-six heures de cavale."
+Rhap_M2006-54,52,14,vous,vous,5,y,"l'affaire des évadés de la prison de Moulins arrêtés hier matin, vous le savez, après trente-six heures de cavale."
+Rhap_M2006-55,53,11,garde,garde,1,y,la compagne de l'un des détenus est toujours en garde à vue.
+Rhap_M2006-56,54,2,enquêteurs,enquêteur,1,y,les enquêteurs cherchent maintenant à savoir si elle a été complice dans cette évasion.
+Rhap_M2006-57,55,1,elle,lui,4,y,elle se trouvait dans le parloir de la prison au moment où les deux détenus se sont fait la belle.
+Rhap_M2006-58,56,4,Yvan,Yvan,2,y,le procès d'Yvan Colonna tourne à la foire d'empoigne.
+Rhap_M2006-60,58,2,avocats,avocat,1,y,les avocats du berger corse ont quitté le procès en attendant que la cour d'assise se prononce sur leur demande de supplément d'information.
+Rhap_M2006-60,58,4,berger,berger,1,y,les avocats du berger corse ont quitté le procès en attendant que la cour d'assise se prononce sur leur demande de supplément d'information.
+Rhap_M2006-61,59,4,président,président,1,y,"lundi, le président avait annoncé qu'il rendrait sa décision dans un délai raisonnable, après avoir entendu notamment l'ancien préfet Bonnet."
+Rhap_M2006-61,59,7,qu',que,4,y,"lundi, le président avait annoncé qu'il rendrait sa décision dans un délai raisonnable, après avoir entendu notamment l'ancien préfet Bonnet."
+Rhap_M2006-61,59,23,préfet,préfet,1,y,"lundi, le président avait annoncé qu'il rendrait sa décision dans un délai raisonnable, après avoir entendu notamment l'ancien préfet Bonnet."
+Rhap_M2006-61,59,24,Bonnet,Bonnet,2,y,"lundi, le président avait annoncé qu'il rendrait sa décision dans un délai raisonnable, après avoir entendu notamment l'ancien préfet Bonnet."
+Rhap_M2006-63,61,1,on,on,5,y,"on écoute maître Sollacaro , il est l'avocat, l'un des avocats d'Yvan Colonna, au micro de Christian Binner."
+Rhap_M2006-63,61,4,Sollacaro,Sollacaro,2,y,"on écoute maître Sollacaro , il est l'avocat, l'un des avocats d'Yvan Colonna, au micro de Christian Binner."
+Rhap_M2006-63,61,6,il,lui,40,y,"on écoute maître Sollacaro , il est l'avocat, l'un des avocats d'Yvan Colonna, au micro de Christian Binner."
+Rhap_M2006-63,61,9,avocat,avocat,1,y,"on écoute maître Sollacaro , il est l'avocat, l'un des avocats d'Yvan Colonna, au micro de Christian Binner."
+Rhap_M2006-63,61,13,avocats,avocat,1,y,"on écoute maître Sollacaro , il est l'avocat, l'un des avocats d'Yvan Colonna, au micro de Christian Binner."
+Rhap_M2006-63,61,15,Yvan,Yvan,2,y,"on écoute maître Sollacaro , il est l'avocat, l'un des avocats d'Yvan Colonna, au micro de Christian Binner."
+Rhap_M2006-63,61,21,Christian,Christian,2,y,"on écoute maître Sollacaro , il est l'avocat, l'un des avocats d'Yvan Colonna, au micro de Christian Binner."
+Rhap_M2006-64,62,2,Philippe,Philippe,2,y,"pour Philippe Lemaire, l'avocat des parties civiles, c'est d~, ce sont des procédés terroristes."
+Rhap_M2006-64,62,6,avocat,avocat,1,y,"pour Philippe Lemaire, l'avocat des parties civiles, c'est d~, ce sont des procédés terroristes."
+Rhap_M2006-65,63,5,Laurent,Laurent,2,y,il le dit à Laurent Doulsant.
+Rhap_M2006-68,66,9,constructeurs,constructeur,1,y,"et derrière un sourire de façade, les constructeurs ne réagissent pas tous de la même façon, Hélène Chevalier."
+Rhap_M2006-68,66,19,Hélène,Hélène,2,y,"et derrière un sourire de façade, les constructeurs ne réagissent pas tous de la même façon, Hélène Chevalier."
+Rhap_M2006-70,68,1,on,on,5,y,on jouait trois matchs en retard dans la vingtième journée de ligue un hier.
+Rhap_M2006-73,71,1,Nice,Nice,4,y,Nice s'impose à Nancy deux à un.
+Rhap_M2006-73,71,5,Nancy,Nancy,4,y,Nice s'impose à Nancy deux à un.

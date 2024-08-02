@@ -1,0 +1,1384 @@
+# macrosyntax = bonjour > Eric //=
+# sent_id = Rhap_M2006-1
+# text = bonjour Eric.
+1	bonjour	bonjour	NOUN	_	ExtPos=INTJ	0	root	_	AlignBegin=14.525|AlignEnd=14.869212|ANIMACY=HUM|HUM_SCORE=2|Nucleus=U|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+2	Eric	Eric	PROPN	_	_	1	vocative	_	AlignBegin=14.869212|AlignEnd=15.213032|ANIMACY=HUM|HUM_SCORE=2|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# macrosyntax = bonjour à tous //
+# sent_id = Rhap_M2006-2
+# text = bonjour à tous.
+1	bonjour	bonjour	NOUN	_	Gender=Masc|Number=Sing	0	root	_	AlignBegin=15.213032|AlignEnd=15.484583|AttachTo=1@Rhap_M2006-1|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Weak|Rel=parataxis:conj|RhythmGroup=Strong
+2	à	à	ADP	_	_	1	udep	_	AlignBegin=15.484583|AlignEnd=15.565611|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+3	tous	tout	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Ind	2	comp:obj	_	AlignBegin=15.565611|AlignEnd=15.9|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# macrosyntax = nouvelle nuit { de pillage | ^et d'affrontement } en Guadeloupe //
+# sent_id = Rhap_M2006-3
+# text = nouvelle nuit de pillage et d'affrontement en Guadeloupe.
+1	nouvelle	nouveau	ADJ	_	Gender=Fem|Number=Sing	2	mod	_	AlignBegin=16.315|AlignEnd=16.69124|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+2	nuit	nuit	NOUN	_	Gender=Fem|Number=Sing	0	root	_	AlignBegin=16.69124|AlignEnd=16.859651|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+3	de	de	ADP	_	_	2	udep	_	AlignBegin=16.859651|AlignEnd=17.01|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	pillage	pillage	NOUN	_	Gender=Masc|Number=Sing	3	comp:obj	_	AlignBegin=17.01|AlignEnd=17.436178|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+5	et	et	CCONJ	_	_	6	cc	_	AlignBegin=17.551178|AlignEnd=17.646178|Layer=Begin|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+6	d'	de	ADP	_	_	3	conj:coord	_	AlignBegin=17.646178|AlignEnd=18.210581|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No|TypeInherited=DepInherited|TypePara=ParaCoord
+7	affrontement	affrontement	NOUN	_	Gender=Masc|Number=Sing	6	comp:obj	_	AlignBegin=17.646178|AlignEnd=18.210581|Layer=Last|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+8	en	en	ADP	_	_	2	udep	_	AlignBegin=18.210581|AlignEnd=18.294166|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+9	Guadeloupe	Guadeloupe	PROPN	_	_	8	comp:obj	_	AlignBegin=18.294166|AlignEnd=18.727406|Nucleus=Last|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = trois policiers blessés //
+# sent_id = Rhap_M2006-4
+# text = trois policiers blessés.
+1	trois	trois	NUM	_	Number=Plur	2	det	_	AlignBegin=18.727406|AlignEnd=19.111223|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+2	policiers	policier	NOUN	_	Gender=Masc|Number=Plur	0	root	_	AlignBegin=19.111223|AlignEnd=19.661151|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+3	blessés	blesser	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	mod	_	AlignBegin=19.661151|AlignEnd=20.296962|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = { le LKP lance un appel au calme | ^et { le maire de Pointe-à-Pitre | Jacques Bangou } un cri d'alarme } //
+# sent_id = Rhap_M2006-5
+# text = le LKP lance un appel au calme et le maire de Pointe-à-Pitre, Jacques Bangou, un cri d'alarme.
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	AlignBegin=20.296962|AlignEnd=20.507249|Layer=Begin|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+2	LKP	LKP	PROPN	_	Shared=No	3	subj	_	AlignBegin=20.507249|AlignEnd=20.953995|ANIMACY=HUM|HUM_SCORE=4|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+3	lance	lancer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=20.953995|AlignEnd=21.266428|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Weak
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	AlignBegin=21.266428|AlignEnd=21.400014|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+5	appel	appel	NOUN	_	Gender=Masc|Number=Sing	3	comp:obj	_	AlignBegin=21.400014|AlignEnd=21.734392|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+6	au	au	ADP	_	_	5	udep	_	AlignBegin=21.734392|AlignEnd=21.80885|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	calme	calme	NOUN	_	Gender=Masc|Number=Sing	6	comp:obj	_	AlignBegin=21.80885|AlignEnd=22.283751|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+8	et	et	CCONJ	_	_	10	cc	_	AlignBegin=22.36|AlignEnd=22.473967|Layer=Begin|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	AlignBegin=22.473967|AlignEnd=22.565944|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+10	maire	maire	NOUN	_	Gender=Masc|Number=Sing	3	conj:coord	_	AlignBegin=22.565944|AlignEnd=22.765228|ANIMACY=HUM|HUM_SCORE=1|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+11	de	de	ADP	_	_	10	udep	_	AlignBegin=22.765228|AlignEnd=22.964512|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12	Pointe	Pointe	PROPN	_	_	11	comp:obj	_	AlignBegin=22.964512|AlignEnd=23.772287|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+13	à	à	PROPN	_	_	12	flat@dev	_	AlignBegin=22.964512|AlignEnd=23.772287|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+14	Pitre	Pitre	PROPN	_	_	12	flat@dev	_	AlignBegin=22.964512|AlignEnd=23.772287|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	Jacques	Jacques	PROPN	_	_	10	conj:appos	_	AlignBegin=23.772287|AlignEnd=24.164285|ANIMACY=HUM|HUM_SCORE=2|Layer=Begin|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|TypeInherited=SubInherited|TypePara=ParaDform
+17	Bangou	Bangou	PROPN	_	_	14	flat@name	_	AlignBegin=24.164285|AlignEnd=24.654512|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+18	,	,	PUNCT	_	_	18	punct	_	_
+19	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	AlignBegin=24.73|AlignEnd=24.856199|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+20	cri	cri	NOUN	_	Gender=Masc|Number=Sing	10	orphan	_	AlignBegin=24.856199|AlignEnd=25.046723|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+21	d'	de	ADP	_	_	18	udep	_	AlignBegin=25.046723|AlignEnd=25.511713|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+22	alarme	alarme	NOUN	_	Gender=Fem|Number=Sing	19	comp:obj	_	AlignBegin=25.046723|AlignEnd=25.511713|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+23	.	.	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = nous ferons le point sur les violences en direct avec { notre envoyé spécial | Sébastien Paour } dans quelques instants //
+# sent_id = Rhap_M2006-7
+# text = nous ferons le point sur les violences en direct avec notre envoyé spécial, Sébastien Paour, dans quelques instants.
+1	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	2	subj	_	AlignBegin=36.230601|AlignEnd=36.461027|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	ferons	faire	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	AlignBegin=36.461027|AlignEnd=36.712869|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	AlignBegin=36.712869|AlignEnd=36.804846|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+4	point	point	NOUN	_	Gender=Masc|Number=Sing	2	comp:obj	_	AlignBegin=36.804846|AlignEnd=36.920951|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+5	sur	sur	ADP	_	_	4	udep	_	AlignBegin=36.920951|AlignEnd=37.065951|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	AlignBegin=37.065951|AlignEnd=37.175951|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	violences	violence	NOUN	_	Gender=Fem|Number=Plur	5	comp:obj	_	AlignBegin=37.175951|AlignEnd=37.525951|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+8	en	en	ADP	_	_	2	mod	_	AlignBegin=37.525951|AlignEnd=37.644749|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+9	direct	direct	NOUN	_	Gender=Masc|Number=Sing	8	comp:obj	_	AlignBegin=37.644749|AlignEnd=37.996184|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+10	avec	avec	ADP	_	_	2	mod	_	AlignBegin=37.996184|AlignEnd=38.202037|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+11	notre	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	12	det	_	AlignBegin=38.202037|AlignEnd=38.431981|Layer=Begin|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+12	envoyé	envoyé	NOUN	_	Gender=Masc|Number=Sing	10	comp:obj	_	AlignBegin=38.431981|AlignEnd=38.725457|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+13	spécial	spécial	ADJ	_	Gender=Masc|Number=Sing	12	mod	_	AlignBegin=38.725457|AlignEnd=39.17|Layer=Last|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	Sébastien	Sébastien	PROPN	_	_	12	conj:appos	_	AlignBegin=39.17|AlignEnd=39.729864|ANIMACY=HUM|HUM_SCORE=2|Layer=Begin|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak|TypeInherited=DepInherited|TypePara=ParaDform
+16	Paour	Paour	PROPN	_	_	15	flat@name	_	AlignBegin=39.729864|AlignEnd=40.033997|Layer=Last|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	dans	dans	ADP	_	_	2	mod	_	AlignBegin=40.033997|AlignEnd=40.268997|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+19	quelques	quelque	DET	_	Number=Plur|PronType=Ind	20	det	_	AlignBegin=40.268997|AlignEnd=40.628997|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+20	instants	instant	NOUN	_	Gender=Masc|Number=Plur	18	comp:obj	_	AlignBegin=40.628997|AlignEnd=41.055|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+21	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = de la crise aux Antilles < il ne devrait pas en être question au sommet social de l'Élysée cet après-midi //
+# sent_id = Rhap_M2006-8
+# text = de la crise aux Antilles, il ne devrait pas en être question au sommet social de l'Élysée cet après-midi.
+1	de	de	ADP	_	_	13	udep	_	AlignBegin=41.495928|AlignEnd=41.59266|Prenucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	AlignBegin=41.59266|AlignEnd=41.708726|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+3	crise	crise	NOUN	_	Gender=Fem|Number=Sing	1	comp:obj	_	AlignBegin=41.708726|AlignEnd=42.025442|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+4	aux	au	ADP	_	_	3	udep	_	AlignBegin=42.025442|AlignEnd=42.134939|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	Antilles	Antilles	PROPN	_	Number=Plur	4	comp:obj	_	AlignBegin=42.134939|AlignEnd=42.542267|Prenucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+6	,	,	PUNCT	_	_	1	punct	_	_
+7	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	subj	_	AlignBegin=42.542267|AlignEnd=42.594825|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	ne	ne	ADV	_	Polarity=Neg	9	mod	_	AlignBegin=42.594825|AlignEnd=42.745928|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+9	devrait	devoir	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=42.745928|AlignEnd=43.017282|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+10	pas	pas	ADV	_	Polarity=Neg	9	mod	_	AlignBegin=43.017282|AlignEnd=43.229706|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+11	en	en	PRON	_	Person=3|PronType=Prs	13	mod	_	AlignBegin=43.229706|AlignEnd=43.284454|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+12	être	être	AUX	_	VerbForm=Inf	9	comp:obj	_	AlignBegin=43.284454|AlignEnd=43.560386|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong|Subject=SubjRaising
+13	question	question	NOUN	_	Gender=Fem|Number=Sing	12	comp:pred	_	AlignBegin=43.560386|AlignEnd=44.153858|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+14	au	au	ADP	_	_	9	mod	_	AlignBegin=44.153858|AlignEnd=44.272114|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+15	sommet	sommet	NOUN	_	Gender=Masc|Number=Sing	14	comp:obj	_	AlignBegin=44.272114|AlignEnd=44.548087|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+16	social	social	ADJ	_	Gender=Masc|Number=Sing	15	mod	_	AlignBegin=44.548087|AlignEnd=44.977314|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+17	de	de	ADP	_	_	15	udep	_	AlignBegin=44.977314|AlignEnd=45.130609|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+18	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	19	det	_	AlignBegin=45.130609|AlignEnd=45.520417|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+19	Élysée	Élysée	PROPN	_	_	17	comp:obj	_	AlignBegin=45.130609|AlignEnd=45.520417|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+20	cet	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	21	det	_	AlignBegin=45.520417|AlignEnd=45.694019|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+21	après	après	NOUN	_	Gender=Masc|Number=Sing	9	mod	_	AlignBegin=45.694019|AlignEnd=46.442885|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+22	midi	midi	NOUN	_	Gender=Masc|Number=Sing	21	flat@dev	_	AlignBegin=45.694019|AlignEnd=46.442885|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+23	.	.	PUNCT	_	_	9	punct	_	_
+
+# macrosyntax = un face à face très attendu entre { Nicolas Sarkozy | les syndicats | ^et le patronat } //
+# sent_id = Rhap_M2006-9
+# text = un face à face très attendu entre Nicolas Sarkozy, les syndicats et le patronat.
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	AlignBegin=46.532985|AlignEnd=46.649727|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+2	face	face	NOUN	_	ExtPos=NOUN|Gender=Fem|Number=Sing	0	root	_	AlignBegin=46.649727|AlignEnd=46.914709|ExtGender=Masc|Idiom=Yes|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+3	à	à	ADP	_	_	2	udep	_	AlignBegin=46.914709|AlignEnd=46.993547|InIdiom=Yes|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+4	face	face	NOUN	_	Gender=Fem|Number=Sing	3	comp:obj	_	AlignBegin=46.993547|AlignEnd=47.36078|InIdiom=Yes|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+5	très	très	ADV	_	_	6	mod	_	AlignBegin=47.491967|AlignEnd=47.823913|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+6	attendu	attendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	mod	_	AlignBegin=47.823913|AlignEnd=48.318323|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+7	entre	entre	ADP	_	_	2	udep	_	AlignBegin=48.318323|AlignEnd=48.515417|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	Nicolas	Nicolas	PROPN	_	_	7	comp:obj	_	AlignBegin=48.515417|AlignEnd=48.901434|ANIMACY=HUM|HUM_SCORE=2|Layer=Begin|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Strong
+9	Sarkozy	Sarkozy	PROPN	_	_	8	flat@name	_	AlignBegin=48.901434|AlignEnd=49.519035|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	AlignBegin=49.519035|AlignEnd=49.824064|Layer=Begin|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+12	syndicats	syndicat	NOUN	_	Gender=Masc|Number=Plur	8	conj:coord	_	AlignBegin=49.824064|AlignEnd=50.515|ANIMACY=HUM|HUM_SCORE=10|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|TypeInherited=DepInherited|TypePara=ParaCoord
+13	et	et	CCONJ	_	_	15	cc	_	AlignBegin=50.585821|AlignEnd=50.630821|Hesitation=Pause|Layer=Begin|ProminenceFinal=Pause|ProminenceInitial=Pause|RhythmGroup=Strong
+14	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	AlignBegin=50.630821|AlignEnd=50.720821|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+15	patronat	patronat	NOUN	_	Gender=Masc|Number=Sing	12	conj:coord	_	AlignBegin=50.720821|AlignEnd=51.27784|ANIMACY=HUM|HUM_SCORE=11|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No|TypeInherited=DepInherited|TypePara=ParaCoord
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = pour Bernard Van Craeynest de la CFE CGC <+ la priorité < c'est bien de sauver les emplois //
+# sent_id = Rhap_M2006-10
+# text = pour Bernard Van Craeynest de la CFE CGC, la priorité, c'est bien de sauver les emplois.
+1	pour	pour	ADP	_	_	14	mod	_	AlignBegin=51.724586|AlignEnd=51.871114|GovNucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	Bernard	Bernard	PROPN	_	_	1	comp:obj	_	AlignBegin=51.871114|AlignEnd=52.282821|ANIMACY=HUM|GovNucleus=In|HUM_SCORE=2|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Strong
+3	Van	Van	PROPN	_	_	2	flat@name	_	AlignBegin=52.282821|AlignEnd=52.547803|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+4	Craeynest	Craeynest	PROPN	_	_	3	flat@name	_	AlignBegin=52.547803|AlignEnd=53.205828|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+5	de	de	ADP	_	_	2	mod	_	AlignBegin=53.205828|AlignEnd=53.367883|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	AlignBegin=53.367883|AlignEnd=53.527748|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	CFE	CFE	PROPN	_	_	5	comp:obj	_	AlignBegin=53.527748|AlignEnd=53.99087|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+8	CGC	CGC	PROPN	_	Gender=Fem|Number=Sing	7	flat@name	_	AlignBegin=53.99087|AlignEnd=54.76359|GovNucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+9	,	,	PUNCT	_	_	1	punct	_	_
+10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	AlignBegin=54.833667|AlignEnd=55.054227|Prenucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+11	priorité	priorité	NOUN	_	Gender=Fem|Number=Sing	14	dislocated	_	AlignBegin=55.054227|AlignEnd=55.768357|Prenucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	subj	_	AlignBegin=55.768357|AlignEnd=56.094657|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+14	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=55.768357|AlignEnd=56.094657|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+15	bien	bien	ADV	_	_	14	mod	_	AlignBegin=56.094657|AlignEnd=56.296131|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+16	de	de	ADP	_	_	14	comp:pred	_	AlignBegin=56.296131|AlignEnd=56.429717|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+17	sauver	sauver	VERB	_	VerbForm=Inf	16	comp:obj	_	AlignBegin=56.429717|AlignEnd=56.819525|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|Subject=NoRaising
+18	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	19	det	_	AlignBegin=56.819525|AlignEnd=56.99691|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+19	emplois	emploi	NOUN	_	Gender=Masc|Number=Plur	17	comp:obj	_	AlignBegin=56.99691|AlignEnd=57.465759|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+20	.	.	PUNCT	_	_	14	punct	_	_
+
+# macrosyntax = ^et dans la foulée de ce sommet social <+ à vingt heures ce soir <+ une intervention du chef de l'État à la télévision //
+# sent_id = Rhap_M2006-11
+# text = et dans la foulée de ce sommet social, à vingt heures ce soir, une intervention du chef de l'État à la télévision.
+1	et	et	CCONJ	_	_	17	cc	_	AlignBegin=67.919665|AlignEnd=68.057179|Intro_IU=U|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+2	dans	dans	ADP	_	_	17	udep	_	AlignBegin=68.057179|AlignEnd=68.188575|GovNucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	AlignBegin=68.188575|AlignEnd=68.280552|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	foulée	foulée	NOUN	_	Gender=Fem|Number=Sing	2	comp:obj	_	AlignBegin=68.280552|AlignEnd=68.626561|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+5	de	de	ADP	_	_	4	udep	_	AlignBegin=68.626561|AlignEnd=68.749198|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+6	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	AlignBegin=68.749198|AlignEnd=68.924392|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	sommet	sommet	NOUN	_	Gender=Masc|Number=Sing	5	comp:obj	_	AlignBegin=68.924392|AlignEnd=69.187184|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	social	social	ADJ	_	Gender=Masc|Number=Sing	7	mod	_	AlignBegin=69.187184|AlignEnd=69.774087|GovNucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+9	,	,	PUNCT	_	_	2	punct	_	_
+10	à	à	ADP	_	_	17	udep	_	AlignBegin=69.774087|AlignEnd=69.931762|GovNucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+11	vingt	vingt	NUM	_	Number=Plur	12	det	_	AlignBegin=69.931762|AlignEnd=70.092268|GovNucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Strong
+12	heures	heure	NOUN	_	Gender=Fem|Number=Plur	10	comp:obj	_	AlignBegin=70.092268|AlignEnd=70.225854|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+13	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	14	det	_	AlignBegin=70.225854|AlignEnd=70.396669|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+14	soir	soir	NOUN	_	Gender=Masc|Number=Sing	10	mod@appos	_	AlignBegin=70.396669|AlignEnd=70.887756|GovNucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+15	,	,	PUNCT	_	_	10	punct	_	_
+16	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	AlignBegin=70.979733|AlignEnd=71.139733|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Weak
+17	intervention	intervention	NOUN	_	Gender=Fem|Number=Sing	0	root	_	AlignBegin=71.139733|AlignEnd=71.715863|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+18	du	du	ADP	_	_	17	udep	_	AlignBegin=71.715863|AlignEnd=71.830587|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+19	chef	chef	NOUN	_	Gender=Masc|Number=Sing	18	comp:obj	_	AlignBegin=71.830587|AlignEnd=72.007972|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+20	de	de	ADP	_	_	19	udep	_	AlignBegin=72.007972|AlignEnd=72.145938|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+21	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	22	det	_	AlignBegin=72.145938|AlignEnd=72.445|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+22	État	État	PROPN	_	_	20	comp:obj	_	AlignBegin=72.145938|AlignEnd=72.445|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+23	à	à	ADP	_	_	17	udep	_	AlignBegin=72.529997|AlignEnd=72.65387|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+24	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	AlignBegin=72.65387|AlignEnd=72.741467|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+25	télévision	télévision	NOUN	_	Gender=Fem|Number=Sing	23	comp:obj	_	AlignBegin=72.741467|AlignEnd=73.315|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+26	.	.	PUNCT	_	_	17	punct	_	_
+
+# macrosyntax = pendant ce temps <+ { les étudiants | ^et les enseignants-chercheurs } ne désarment pas //
+# sent_id = Rhap_M2006-12
+# text = pendant ce temps, les étudiants et les enseignants-chercheurs ne désarment pas.
+1	pendant	pendant	ADP	_	_	11	mod	_	AlignBegin=73.787019|AlignEnd=74.045466|GovNucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=74.045466|AlignEnd=74.159343|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+3	temps	temps	NOUN	_	Gender=Masc|Number=Sing	1	comp:obj	_	AlignBegin=74.159343|AlignEnd=74.341107|GovNucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art|Shared=No	6	det	_	AlignBegin=74.341107|AlignEnd=74.522872|Layer=Begin|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+6	étudiants	étudiant	NOUN	_	Gender=Masc|Number=Plur	11	subj	_	AlignBegin=74.522872|AlignEnd=75.125104|ANIMACY=HUM|HUM_SCORE=1|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+7	et	et	CCONJ	_	_	9	cc	_	AlignBegin=75.125104|AlignEnd=75.23679|Layer=Begin|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+8	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	AlignBegin=75.23679|AlignEnd=75.414242|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+9	enseignants	enseignants	NOUN	_	Gender=Masc|Number=Plur	6	conj:coord	_	AlignBegin=75.414242|AlignEnd=75.846685|ANIMACY=HUM|HUM_SCORE=10|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|TypeInherited=SubInherited|TypePara=ParaCoord
+10	chercheurs	chercheurs	NOUN	_	Gender=Masc|Number=Plur	9	flat@dev	_	AlignBegin=75.846685|AlignEnd=76.305426|Layer=Last|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+11	ne	ne	ADV	_	Polarity=Neg	11	mod	_	AlignBegin=76.305426|AlignEnd=76.526609|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+12	désarment	désarmer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=76.526609|AlignEnd=77.108404|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+13	pas	pas	ADV	_	Polarity=Neg	11	mod	_	AlignBegin=77.108404|AlignEnd=77.515|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+14	.	.	PUNCT	_	_	11	punct	_	_
+
+# macrosyntax = nouvelle journée d'action >+ hier >+ en attendant celle de demain //
+# sent_id = Rhap_M2006-13
+# text = nouvelle journée d'action hier en attendant celle de demain.
+1	nouvelle	nouveau	ADJ	_	Gender=Fem|Number=Sing	2	mod	_	AlignBegin=77.515|AlignEnd=78.204979|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+2	journée	journée	NOUN	_	Gender=Fem|Number=Sing	0	root	_	AlignBegin=78.204979|AlignEnd=78.561938|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+3	d'	de	ADP	_	_	2	udep	_	AlignBegin=78.561938|AlignEnd=79.067813|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+4	action	action	NOUN	_	Gender=Fem|Number=Sing	3	comp:obj	_	AlignBegin=78.561938|AlignEnd=79.067813|Nucleus=Last|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	hier	hier	ADV	_	_	2	mod	_	AlignBegin=79.067813|AlignEnd=79.402978|GovPostnucleus=U|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+6	en	en	ADP	_	_	2	udep	_	AlignBegin=79.402978|AlignEnd=79.556274|GovPostnucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+7	attendant	attendre	VERB	_	Tense=Pres|VerbForm=Part	6	comp:obj	_	AlignBegin=79.556274|AlignEnd=80.126285|GovPostnucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+8	celle	celui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Dem	7	comp:obj	_	AlignBegin=80.126285|AlignEnd=80.46|GovPostnucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+9	de	de	ADP	_	_	8	mod	_	AlignBegin=80.46|AlignEnd=80.544562|GovPostnucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+10	demain	demain	ADV	_	_	9	comp:obj	_	AlignBegin=80.544562|AlignEnd=80.976674|GovPostnucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = la foire d'empoigne au procès Colonna //
+# sent_id = Rhap_M2006-14
+# text = la foire d'empoigne au procès Colonna.
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	AlignBegin=81.375033|AlignEnd=81.510033|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+2	foire	foire	NOUN	_	Gender=Fem|Number=Sing	0	root	_	AlignBegin=81.510033|AlignEnd=81.732822|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+3	d'	de	ADP	_	_	2	udep	_	AlignBegin=81.732822|AlignEnd=82.392265|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+4	empoigne	empoigne	NOUN	_	Gender=Fem|Number=Sing	3	comp:obj	_	AlignBegin=81.732822|AlignEnd=82.392265|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	au	au	ADP	_	_	2	udep	_	AlignBegin=82.392265|AlignEnd=82.567439|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+6	procès	procès	NOUN	_	Gender=Masc|Number=Sing	5	comp:obj	_	AlignBegin=82.567439|AlignEnd=82.970387|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+7	Colonna	Colonna	PROPN	_	_	6	mod@appos	_	AlignBegin=82.970387|AlignEnd=83.41|ANIMACY=HUM|HUM_SCORE=2|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = les avocats du berger corse ont quitté le procès hier soir //
+# sent_id = Rhap_M2006-15
+# text = les avocats du berger corse ont quitté le procès hier soir.
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	AlignBegin=83.41|AlignEnd=83.590033|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+2	avocats	avocat	NOUN	_	Gender=Masc|Number=Plur	6	subj	_	AlignBegin=83.590033|AlignEnd=84.003931|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+3	du	du	ADP	_	_	2	udep	_	AlignBegin=84.003931|AlignEnd=84.144087|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+4	berger	berger	NOUN	_	Gender=Masc|Number=Sing	3	comp:obj	_	AlignBegin=84.144087|AlignEnd=84.422208|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	corse	corse	ADJ	_	Gender=Masc|Number=Sing	4	mod	_	AlignBegin=84.422208|AlignEnd=84.715659|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+6	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=84.715659|AlignEnd=84.848786|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+7	quitté	quitter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	comp:aux@tense	_	AlignBegin=84.848786|AlignEnd=85.214278|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	AlignBegin=85.214278|AlignEnd=85.46393|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+9	procès	procès	NOUN	_	Gender=Masc|Number=Sing	7	comp:obj	_	AlignBegin=85.46393|AlignEnd=85.79023|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+10	hier	hier	ADV	_	_	6	mod	_	AlignBegin=85.79023|AlignEnd=85.943526|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+11	soir	soir	NOUN	_	Gender=Masc|Number=Sing	10	mod	_	AlignBegin=85.943526|AlignEnd=86.42502|Nucleus=Last|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|SpaceAfter=No
+12	.	.	PUNCT	_	_	6	punct	_	_
+
+# macrosyntax = les parties civiles dénoncent des pratiques terroristes //
+# sent_id = Rhap_M2006-16
+# text = les parties civiles dénoncent des pratiques terroristes.
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	AlignBegin=86.481959|AlignEnd=86.674416|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+2	parties	partie	NOUN	_	Gender=Fem|Number=Plur	4	subj	_	AlignBegin=86.674416|AlignEnd=86.998527|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+3	civiles	civil	ADJ	_	Gender=Fem|Number=Plur	2	mod	_	AlignBegin=86.998527|AlignEnd=87.502211|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+4	dénoncent	dénoncer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=87.502211|AlignEnd=88.037329|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+5	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	6	det	_	AlignBegin=88.037329|AlignEnd=88.217056|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+6	pratiques	pratique	NOUN	_	Gender=Fem|Number=Plur	4	comp:obj	_	AlignBegin=88.217056|AlignEnd=88.525837|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+7	terroristes	terroriste	ADJ	_	Number=Plur	6	mod	_	AlignBegin=88.525837|AlignEnd=89.276105|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+# macrosyntax = quel avenir pour le téléphone mobile à l'heure { de l'iPhone | ^et des baladeurs } //
+# sent_id = Rhap_M2006-17
+# text = quel avenir pour le téléphone mobile à l'heure de l'iPhone et des baladeurs ?
+1	quel	quel	DET	_	Gender=Masc|Number=Sing|PronType=Int	2	det	_	AlignBegin=89.858627|AlignEnd=89.989449|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+2	avenir	avenir	NOUN	_	Gender=Masc|Number=Sing	0	root	_	AlignBegin=89.989449|AlignEnd=90.430353|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+3	pour	pour	ADP	_	_	2	udep	_	AlignBegin=90.430353|AlignEnd=90.642777|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	AlignBegin=90.642777|AlignEnd=90.749356|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+5	téléphone	téléphone	NOUN	_	Gender=Masc|Number=Sing	3	comp:obj	_	AlignBegin=90.749356|AlignEnd=91.150113|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+6	mobile	mobile	ADJ	_	Number=Sing	5	mod	_	AlignBegin=91.150113|AlignEnd=91.518022|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+7	à	à	ADP	_	_	2	udep	_	AlignBegin=91.518022|AlignEnd=91.662041|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	AlignBegin=91.662041|AlignEnd=91.878844|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+9	heure	heure	NOUN	_	Gender=Fem|Number=Sing	7	comp:obj	_	AlignBegin=91.662041|AlignEnd=91.878844|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+10	de	de	ADP	_	_	9	udep	_	AlignBegin=91.878844|AlignEnd=92.03214|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+11	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	AlignBegin=92.03214|AlignEnd=92.533634|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak|SpaceAfter=No
+12	iPhone	iPhone	NOUN	_	Gender=Masc|Number=Sing	10	comp:obj	_	AlignBegin=92.03214|AlignEnd=92.533634|Layer=Last|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak
+13	et	et	CCONJ	_	_	14	cc	_	AlignBegin=92.533634|AlignEnd=92.619042|Layer=Begin|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+14	des	de	ADP	_	_	10	conj:coord	_	AlignBegin=92.619042|AlignEnd=92.739488|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|TypeInherited=DepInherited|TypePara=ParaCoord
+15	baladeurs	baladeur	NOUN	_	Gender=Masc|Number=Plur	14	comp:obj	_	AlignBegin=92.739488|AlignEnd=93.449699|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+16	?	?	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = réponse à suivre avec Hélène Chevalier au congrès de Barcelone //
+# sent_id = Rhap_M2006-18
+# text = réponse à suivre avec Hélène Chevalier au congrès de Barcelone.
+1	réponse	réponse	NOUN	_	Gender=Fem|Number=Sing	0	root	_	AlignBegin=93.449699|AlignEnd=94.023342|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+2	à	à	ADP	_	_	1	udep	_	AlignBegin=94.023342|AlignEnd=94.124079|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+3	suivre	suivre	VERB	_	VerbForm=Inf	2	comp:obj	_	AlignBegin=94.124079|AlignEnd=94.478479|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|Subject=NoRaising
+4	avec	avec	ADP	_	_	3	mod	_	AlignBegin=94.478479|AlignEnd=94.795178|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+5	Hélène	Hélène	PROPN	_	_	4	comp:obj	_	AlignBegin=94.795178|AlignEnd=95.036912|ANIMACY=HUM|HUM_SCORE=2|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+6	Chevalier	Chevalier	PROPN	_	_	5	flat@name	_	AlignBegin=95.036912|AlignEnd=95.615591|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+7	au	au	ADP	_	_	3	mod	_	AlignBegin=95.615591|AlignEnd=95.720708|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+8	congrès	congrès	NOUN	_	Gender=Masc|Number=Sing	7	comp:obj	_	AlignBegin=95.720708|AlignEnd=96.044699|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+9	de	de	ADP	_	_	8	udep	_	AlignBegin=96.044699|AlignEnd=96.088306|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+10	Barcelone	Barcelone	PROPN	_	_	9	comp:obj	_	AlignBegin=96.088306|AlignEnd=96.699561|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# macrosyntax = c'est dans un contexte pour le moins tendu que le chef de l'État réunit { syndicats | ^et patronat } //
+# sent_id = Rhap_M2006-19
+# text = c'est dans un contexte pour le moins tendu que le chef de l'État réunit syndicats et patronat.
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	subj@expl	_	AlignBegin=105.053634|AlignEnd=105.207664|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=105.053634|AlignEnd=105.207664|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+3	dans	dans	ADP	_	_	2	comp:pred	_	AlignBegin=105.207664|AlignEnd=105.398634|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	AlignBegin=105.398634|AlignEnd=105.458634|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+5	contexte	contexte	NOUN	_	Gender=Masc|Number=Sing	3	comp:obj	_	AlignBegin=105.458634|AlignEnd=106.021891|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+6	pour	pour	ADP	_	_	9	mod	_	AlignBegin=106.021891|AlignEnd=106.126891|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	AlignBegin=106.126891|AlignEnd=106.186891|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+8	moins	moins	ADV	_	_	6	comp:obj	_	AlignBegin=106.186891|AlignEnd=106.370197|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+9	tendu	tendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	mod	_	AlignBegin=106.370197|AlignEnd=106.87399|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+10	que	que	SCONJ	_	_	2	comp:cleft	_	AlignBegin=106.87399|AlignEnd=106.96899|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	AlignBegin=106.96899|AlignEnd=107.129851|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+12	chef	chef	NOUN	_	Gender=Masc|Number=Sing	16	subj	_	AlignBegin=107.129851|AlignEnd=107.43613|ANIMACY=HUM|HUM_SCORE=5|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+13	de	de	ADP	_	_	12	udep	_	AlignBegin=107.43613|AlignEnd=107.525917|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+14	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	15	det	_	AlignBegin=107.525917|AlignEnd=107.808524|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+15	État	État	PROPN	_	_	13	comp:obj	_	AlignBegin=107.525917|AlignEnd=107.808524|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+16	réunit	réunir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	comp:obj	_	AlignBegin=107.808524|AlignEnd=108.294795|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+17	syndicats	syndicat	NOUN	_	Gender=Masc|Number=Plur	16	comp:obj	_	AlignBegin=108.294795|AlignEnd=108.912985|Layer=U|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+18	et	et	CCONJ	_	_	19	cc	_	AlignBegin=108.912985|AlignEnd=108.991822|Layer=Begin|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+19	patronat	patronat	NOUN	_	Gender=Masc|Number=Sing	17	conj:coord	_	AlignBegin=108.991822|AlignEnd=109.752816|ANIMACY=HUM|HUM_SCORE=1|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No|TypeInherited= ObjInherited|TypePara=ParaCoord
+20	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = un rendez-vous fixé "vous l'avez dit" après la forte mobilisation du vingt-neuf janvier dernier //
+# sent_id = Rhap_M2006-20
+# text = un rendez-vous fixé, vous l'avez dit, après la forte mobilisation du vingt-neuf janvier dernier.
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	AlignBegin=109.752816|AlignEnd=109.923085|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+2	rendez	rendez	NOUN	_	Gender=Masc|Number=Sing	0	root	_	AlignBegin=109.923085|AlignEnd=110.333542|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+3	vous	vous	NOUN	_	Gender=Masc|Number=Sing	2	flat@dev	_	AlignBegin=109.923085|AlignEnd=110.333542|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+4	fixé	fixer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	mod	_	AlignBegin=110.333542|AlignEnd=110.748484|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	7	subj	_	AlignBegin=110.748484|AlignEnd=110.855791|ANIMACY=HUM|AssociatedNucleus=Begin|HUM_SCORE=1|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+7	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	8	comp:obj	_	AlignBegin=110.855791|AlignEnd=111.178856|AssociatedNucleus=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+8	avez	avoir	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	parataxis:parenth	_	AlignBegin=110.855791|AlignEnd=111.178856|AssociatedNucleus=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+9	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	comp:aux@tense	_	AlignBegin=111.178856|AlignEnd=111.475542|AssociatedNucleus=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+10	,	,	PUNCT	_	_	10	punct	_	_
+11	après	après	ADP	_	_	3	mod	_	AlignBegin=111.475542|AlignEnd=111.779632|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+12	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	AlignBegin=111.779632|AlignEnd=111.884749|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+13	forte	fort	ADJ	_	Gender=Fem|Number=Sing	13	mod	_	AlignBegin=111.884749|AlignEnd=112.157657|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+14	mobilisation	mobilisation	NOUN	_	Gender=Fem|Number=Sing	10	comp:obj	_	AlignBegin=112.157657|AlignEnd=112.84|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+15	du	du	ADP	_	_	13	udep	_	AlignBegin=112.84|AlignEnd=112.970639|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+16	vingt	vingt	NUM	_	Number=Plur	16	det	_	AlignBegin=112.970639|AlignEnd=113.165|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+17	neuf	neuf	NUM	_	Number=Plur	15	flat@dev	_	AlignBegin=113.165|AlignEnd=113.452424|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+18	janvier	janvier	NOUN	_	Gender=Masc|Number=Sing	14	comp:obj	_	AlignBegin=113.452424|AlignEnd=113.88353|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+19	dernier	dernier	ADJ	_	Gender=Masc|Number=Sing	16	mod	_	AlignBegin=113.88353|AlignEnd=114.351258|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+20	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = la réunion est savamment minutée //
+# sent_id = Rhap_M2006-21
+# text = la réunion est savamment minutée.
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	AlignBegin=114.815524|AlignEnd=114.947945|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+2	réunion	réunion	NOUN	_	Gender=Fem|Number=Sing	3	subj@pass	_	AlignBegin=114.947945|AlignEnd=115.459365|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=115.533822|AlignEnd=115.659674|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+4	savamment	savamment	ADV	_	_	3	mod	_	AlignBegin=115.659674|AlignEnd=116.243664|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+5	minutée	minuter	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	comp:aux@pass	_	AlignBegin=116.243664|AlignEnd=117.021197|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = alors < avant d'aborder ce qui peut en sortir <+ je vous propose de voir { où | quand | ^et comment } cela va se passer avec { vous | Jean-François Achilli } //
+# sent_id = Rhap_M2006-22
+# text = alors, avant d'aborder ce qui peut en sortir, je vous propose de voir où, quand et comment cela va se passer avec vous, Jean-François Achilli.
+1	alors	alors	ADV	_	_	14	mod	_	AlignBegin=117.021197|AlignEnd=117.26575|Prenucleus=U|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	avant	avant	NOUN	_	Gender=Masc|Number=Sing	14	dislocated	_	AlignBegin=117.26575|AlignEnd=117.449704|GovNucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+4	d'	de	ADP	_	_	3	udep	_	AlignBegin=117.449704|AlignEnd=117.850462|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+5	aborder	aborder	VERB	_	VerbForm=Inf	4	comp:obj	_	AlignBegin=117.449704|AlignEnd=117.850462|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|Subject=NoRaising
+6	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	comp:obj	_	AlignBegin=117.850462|AlignEnd=117.988428|ANIMACY=HUM|GovNucleus=In|HUM_SCORE=74|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+7	qui	qui	PRON	_	PronType=Rel	8	subj	_	AlignBegin=117.988428|AlignEnd=118.097925|GovNucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+8	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	mod@relcl	_	AlignBegin=118.097925|AlignEnd=118.440274|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+9	en	en	PRON	_	Person=3|PronType=Prs	10	comp:obj	_	AlignBegin=118.440274|AlignEnd=118.561533|GovNucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Strong
+10	sortir	sortir	VERB	_	VerbForm=Inf	8	comp:obj	_	AlignBegin=118.561533|AlignEnd=119.26526|GovNucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No|Subject=SubjRaising
+11	,	,	PUNCT	_	_	3	punct	_	_
+12	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	subj	_	AlignBegin=119.321989|AlignEnd=119.578498|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+13	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	14	comp:obl	_	AlignBegin=119.578498|AlignEnd=119.812821|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+14	propose	proposer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=119.812821|AlignEnd=120.466989|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+15	de	de	ADP	_	_	14	comp:obl	_	AlignBegin=120.466989|AlignEnd=120.566158|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+16	voir	voir	VERB	_	VerbForm=Inf	15	comp:obj	_	AlignBegin=120.566158|AlignEnd=120.876842|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|Subject=ObjRaising
+17	où	où	ADV	_	PronType=Int	23	mod	_	AlignBegin=120.990718|AlignEnd=121.284169|Layer=U|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	quand	quand	ADV	_	PronType=Int	17	conj:coord	_	AlignBegin=121.511922|AlignEnd=121.765955|Layer=U|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|TypeInherited=AdInherited|TypePara=ParaCoord
+20	et	et	CCONJ	_	_	21	cc	_	AlignBegin=121.853552|AlignEnd=121.931189|Layer=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+21	comment	comment	ADV	_	PronType=Int	19	conj:coord	_	AlignBegin=121.931189|AlignEnd=122.261182|Layer=Last|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak|TypeInherited=AdInherited|TypePara=ParaCoord
+22	cela	cela	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	23	subj	_	AlignBegin=122.261182|AlignEnd=122.458061|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+23	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	comp:obj	_	AlignBegin=122.458061|AlignEnd=122.547849|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+24	se	soi	PRON	_	Person=3|PronType=Prs	25	comp@expl	_	AlignBegin=122.547849|AlignEnd=122.6207|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+25	passer	passer	VERB	_	VerbForm=Inf	23	comp:obj	_	AlignBegin=122.6207|AlignEnd=122.94393|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|Subject=SubjRaising
+26	avec	avec	ADP	_	_	16	mod	_	AlignBegin=123.233001|AlignEnd=123.518001|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+27	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	26	comp:obj	_	AlignBegin=123.518001|AlignEnd=123.620001|ANIMACY=HUM|HUM_SCORE=1|Layer=U|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	Jean	Jean	PROPN	_	_	27	conj:appos	_	AlignBegin=123.620001|AlignEnd=123.764537|ANIMACY=HUM|HUM_SCORE=2|Layer=Begin|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong|TypeInherited=DepInherited|TypePara=ParaDform
+30	François	François	PROPN	_	_	29	flat@dev	_	AlignBegin=123.764537|AlignEnd=124.079887|ANIMACY=HUM|HUM_SCORE=2|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+31	Achilli	Achilli	PROPN	_	_	29	flat@name	_	AlignBegin=124.079887|AlignEnd=124.389286|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+32	.	.	PUNCT	_	_	14	punct	_	_
+
+# macrosyntax = alors < passons maintenant { au détail des mesures discutées | ^et aux attentes { des syndicats | ^et du patronat } } //
+# sent_id = Rhap_M2006-23
+# text = alors, passons maintenant au détail des mesures discutées et aux attentes des syndicats et du patronat.
+1	alors	alors	ADV	_	_	3	mod	_	AlignBegin=186.155203|AlignEnd=186.30807|Prenucleus=U|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	passons	passer	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=186.30807|AlignEnd=186.632181|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+4	maintenant	maintenant	ADV	_	_	3	mod	_	AlignBegin=186.632181|AlignEnd=187.166952|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+5	au	au	ADP	_	_	3	comp:obl	_	AlignBegin=187.24141|AlignEnd=187.324606|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+6	détail	détail	NOUN	_	Gender=Masc|Number=Sing	5	comp:obj	_	AlignBegin=187.324606|AlignEnd=187.692514|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+7	des	de	ADP	_	_	6	udep	_	AlignBegin=187.692514|AlignEnd=187.795441|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	mesures	mesure	NOUN	_	Gender=Fem|Number=Plur	7	comp:obj	_	AlignBegin=187.795441|AlignEnd=188.106412|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+9	discutées	discuter	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	8	mod	_	AlignBegin=188.106412|AlignEnd=188.779995|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+10	et	et	CCONJ	_	_	11	cc	_	AlignBegin=188.836934|AlignEnd=188.989503|Layer=Begin|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+11	aux	au	ADP	_	_	5	conj:coord	_	AlignBegin=188.989503|AlignEnd=189.195624|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong|TypeInherited=OblInherited|TypePara=ParaCoord
+12	attentes	attente	NOUN	_	Gender=Fem|Number=Plur	11	comp:obj	_	AlignBegin=189.195624|AlignEnd=189.683979|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+13	des	de	ADP	_	_	12	udep	_	AlignBegin=189.683979|AlignEnd=189.791286|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+14	syndicats	syndicat	NOUN	_	Gender=Masc|Number=Plur	13	comp:obj	_	AlignBegin=189.791286|AlignEnd=190.356083|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+15	et	et	CCONJ	_	_	16	cc	_	AlignBegin=190.356083|AlignEnd=190.437111|Layer=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+16	du	du	ADP	_	_	13	conj:coord	_	AlignBegin=190.437111|AlignEnd=190.548798|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|TypeInherited=DepInherited|TypePara=ParaCoord
+17	patronat	patronat	NOUN	_	Gender=Masc|Number=Sing	16	comp:obj	_	AlignBegin=190.548798|AlignEnd=191.084849|ANIMACY=HUM|HUM_SCORE=1|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = le chef de l'État annonce des mesures de justice "je cite" pour les salariés touchés par la crise économique //
+# sent_id = Rhap_M2006-24
+# text = le chef de l'État annonce des mesures de justice, je cite, pour les salariés touchés par la crise économique.
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	AlignBegin=191.557875|AlignEnd=191.669347|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+2	chef	chef	NOUN	_	Gender=Masc|Number=Sing	6	subj	_	AlignBegin=191.669347|AlignEnd=191.903669|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+3	de	de	ADP	_	_	2	udep	_	AlignBegin=191.903669|AlignEnd=192.041635|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	AlignBegin=192.041635|AlignEnd=192.514661|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+5	État	État	PROPN	_	_	3	comp:obj	_	AlignBegin=192.041635|AlignEnd=192.514661|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+6	annonce	annoncer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=192.514661|AlignEnd=193.172875|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+7	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	8	det	_	AlignBegin=193.172875|AlignEnd=193.316072|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+8	mesures	mesure	NOUN	_	Gender=Fem|Number=Plur	6	comp:obj	_	AlignBegin=193.316072|AlignEnd=193.613903|ANIMACY=HUM|HUM_SCORE=4|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+9	de	de	ADP	_	_	8	udep	_	AlignBegin=193.613903|AlignEnd=193.762818|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+10	justice	justice	NOUN	_	Gender=Fem|Number=Sing	9	comp:obj	_	AlignBegin=193.762818|AlignEnd=194.345|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	13	subj	_	AlignBegin=194.345|AlignEnd=194.517095|ANIMACY=HUM|AssociatedNucleus=Begin|HUM_SCORE=1|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+13	cite	citer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	parataxis:insert	_	AlignBegin=194.517095|AlignEnd=194.826715|AssociatedNucleus=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	pour	pour	ADP	_	_	6	mod	_	AlignBegin=194.901172|AlignEnd=194.996501|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|Reported=Yes|RhythmGroup=Weak
+16	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	17	det	_	AlignBegin=194.996501|AlignEnd=195.145417|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+17	salariés	salarié	NOUN	_	Gender=Masc|Number=Plur	15	comp:obj	_	AlignBegin=195.145417|AlignEnd=195.561504|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+18	touchés	toucher	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	17	mod	_	AlignBegin=195.561504|AlignEnd=195.853911|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+19	par	par	ADP	_	_	18	comp:obl	_	AlignBegin=195.853911|AlignEnd=196.048815|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+20	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	AlignBegin=196.048815|AlignEnd=196.171451|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+21	crise	crise	NOUN	_	Gender=Fem|Number=Sing	19	comp:obj	_	AlignBegin=196.171451|AlignEnd=196.447383|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+22	économique	économique	ADJ	_	Number=Sing	21	mod	_	AlignBegin=196.447383|AlignEnd=197.208335|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+23	.	.	PUNCT	_	_	6	punct	_	_
+
+# macrosyntax = ^mais Sara Ghibaudo < il ne pourra pas contenter tout le monde //
+# sent_id = Rhap_M2006-25
+# text = mais Sara Ghibaudo, il ne pourra pas contenter tout le monde.
+1	mais	mais	CCONJ	_	_	7	cc	_	AlignBegin=197.208335|AlignEnd=197.572891|Intro_IU=U|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+2	Sara	Sara	PROPN	_	_	7	vocative	_	AlignBegin=197.651729|AlignEnd=197.988858|ANIMACY=HUM|HUM_SCORE=2|Prenucleus=Begin|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+3	Ghibaudo	Ghibaudo	PROPN	_	_	2	flat@name	_	AlignBegin=197.988858|AlignEnd=198.474934|Prenucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	subj	_	AlignBegin=198.829704|AlignEnd=199.000608|ANIMACY=HUM|HUM_SCORE=4|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+6	ne	ne	ADV	_	Polarity=Neg	7	mod	_	AlignBegin=199.000608|AlignEnd=199.167995|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+7	pourra	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	AlignBegin=199.167995|AlignEnd=199.464704|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak
+8	pas	pas	ADV	_	Polarity=Neg	7	mod	_	AlignBegin=199.464704|AlignEnd=199.595032|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+9	contenter	contenter	VERB	_	VerbForm=Inf	7	comp:obj	_	AlignBegin=199.595032|AlignEnd=200.054919|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong|Subject=SubjRaising
+10	tout	tout	ADJ	_	_	12	mod	_	AlignBegin=200.054919|AlignEnd=200.234704|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	AlignBegin=200.234704|AlignEnd=200.306761|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12	monde	monde	NOUN	_	Gender=Masc|Number=Sing	9	comp:obj	_	AlignBegin=200.306761|AlignEnd=200.494704|ANIMACY=HUM|HUM_SCORE=4|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+13	.	.	PUNCT	_	_	7	punct	_	_
+
+# macrosyntax = ^et dans un sondage réalisé avant le rendez-vous d'aujourd'hui <+ les Français se montrent très sévères à l'égard de la politique économique du gouvernement qu'ils jugent mauvaise à soixante pour cent //
+# sent_id = Rhap_M2006-26
+# text = et dans un sondage réalisé avant le rendez-vous d'aujourd'hui, les Français se montrent très sévères à l'égard de la politique économique du gouvernement qu'ils jugent mauvaise à soixante pour cent.
+1	et	et	CCONJ	_	_	15	cc	_	AlignBegin=283.5699|AlignEnd=283.7099|Intro_IU=U|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+2	dans	dans	ADP	_	_	15	mod	_	AlignBegin=283.7099|AlignEnd=283.871004|GovNucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	AlignBegin=283.871004|AlignEnd=283.9768|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+4	sondage	sondage	NOUN	_	Gender=Masc|Number=Sing	2	comp:obj	_	AlignBegin=283.9768|AlignEnd=284.346682|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+5	réalisé	réaliser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	mod	_	AlignBegin=284.346682|AlignEnd=284.988767|GovNucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+6	avant	avant	ADP	_	_	5	mod	_	AlignBegin=285.045705|AlignEnd=285.415075|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	AlignBegin=285.415075|AlignEnd=285.530705|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+8	rendez	rendez	NOUN	_	Gender=Masc|Number=Sing	6	comp:obj	_	AlignBegin=285.530705|AlignEnd=285.889146|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+9	vous	vous	NOUN	_	Gender=Masc|Number=Sing	8	flat@dev	_	AlignBegin=285.530705|AlignEnd=285.889146|ANIMACY=HUM|GovNucleus=In|HUM_SCORE=1|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+10	d'	de	ADP	_	_	8	udep	_	AlignBegin=285.889146|AlignEnd=286.490856|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+11	aujourd'hui	aujourd'hui	ADV	_	_	9	comp:obj	_	AlignBegin=285.889146|AlignEnd=286.490856|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+12	,	,	PUNCT	_	_	2	punct	_	_
+13	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	13	det	_	AlignBegin=286.823725|AlignEnd=286.936845|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+14	Français	Français	PROPN	_	_	15	subj	_	AlignBegin=286.936845|AlignEnd=287.263674|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+15	se	soi	PRON	_	Person=3|PronType=Prs	15	comp:obj	_	AlignBegin=287.263674|AlignEnd=287.447099|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+16	montrent	montrer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=287.447099|AlignEnd=287.782707|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+17	très	très	ADV	_	_	17	mod	_	AlignBegin=287.936003|AlignEnd=288.194703|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+18	sévères	sévère	ADJ	_	Number=Plur	15	comp:obj	_	AlignBegin=288.194703|AlignEnd=288.682332|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+19	à	à	ADP	_	_	15	comp:obl	_	AlignBegin=288.682332|AlignEnd=288.787332|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+20	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	20	det	_	AlignBegin=288.787332|AlignEnd=289.011548|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+21	égard	égard	NOUN	_	Gender=Masc|Number=Sing	18	comp:obj	_	AlignBegin=288.787332|AlignEnd=289.011548|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+22	de	de	ADP	_	_	20	udep	_	AlignBegin=289.011548|AlignEnd=289.081626|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+23	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	AlignBegin=289.081626|AlignEnd=289.231692|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+24	politique	politique	NOUN	_	Gender=Fem|Number=Sing	21	comp:obj	_	AlignBegin=289.231692|AlignEnd=289.677816|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+25	économique	économique	ADJ	_	Number=Sing	23	mod	_	AlignBegin=289.677816|AlignEnd=290.210998|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+26	du	du	ADP	_	_	23	udep	_	AlignBegin=290.210998|AlignEnd=290.358967|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+27	gouvernement	gouvernement	NOUN	_	Gender=Masc|Number=Sing	25	comp:obj	_	AlignBegin=290.358967|AlignEnd=290.926827|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+28	qu'	que	PRON	_	PronType=Rel	29	comp:obj	_	AlignBegin=290.926827|AlignEnd=291.108853|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+29	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	29	subj	_	AlignBegin=290.926827|AlignEnd=291.108853|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+30	jugent	juger	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	mod@relcl	_	AlignBegin=291.108853|AlignEnd=291.452672|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+31	mauvaise	mauvais	ADJ	_	Gender=Fem|Number=Sing	29	comp:pred	_	AlignBegin=291.452672|AlignEnd=292.000516|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+32	à	à	ADP	_	_	29	mod	_	AlignBegin=292.048694|AlignEnd=292.158694|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak
+33	soixante	soixante	NUM	_	Number=Plur	33	det	_	AlignBegin=292.158694|AlignEnd=292.572978|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+34	pour	pour	ADP	_	ExtPos=NOUN	31	comp:obj	_	AlignBegin=292.572978|AlignEnd=292.783211|Idiom=Yes|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+35	cent	cent	NUM	_	Number=Plur	33	comp:obj	_	AlignBegin=292.783211|AlignEnd=293.208529|InIdiom=Yes|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+36	.	.	PUNCT	_	_	15	punct	_	_
+
+# macrosyntax = la mesure qu'ils attendent le plus < c'est la répartition des bénéfices dans les entreprises entre { patrons | actionnaires | ^et salariés } //
+# sent_id = Rhap_M2006-27
+# text = la mesure qu'ils attendent le plus, c'est la répartition des bénéfices dans les entreprises entre patrons, actionnaires et salariés.
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	AlignBegin=293.523879|AlignEnd=293.643879|Prenucleus=Begin|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak
+2	mesure	mesure	NOUN	_	Gender=Fem|Number=Sing	10	dislocated	_	AlignBegin=293.643879|AlignEnd=294.013879|Prenucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+3	qu'	que	PRON	_	PronType=Rel	5	comp:obj	_	AlignBegin=294.013879|AlignEnd=294.380761|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+4	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	subj	_	AlignBegin=294.013879|AlignEnd=294.380761|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+5	attendent	attendre	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	mod@relcl	_	AlignBegin=294.380761|AlignEnd=294.73115|Prenucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Weak
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	AlignBegin=294.73115|AlignEnd=294.912914|Prenucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+7	plus	plus	ADV	_	_	5	mod	_	AlignBegin=294.912914|AlignEnd=295.442052|Prenucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+8	,	,	PUNCT	_	_	2	punct	_	_
+9	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	subj	_	AlignBegin=295.442052|AlignEnd=295.583641|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak|SpaceAfter=No
+10	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=295.442052|AlignEnd=295.583641|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+11	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	AlignBegin=295.583641|AlignEnd=295.747886|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+12	répartition	répartition	NOUN	_	Gender=Fem|Number=Sing	10	comp:pred	_	AlignBegin=295.747886|AlignEnd=296.450854|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+13	des	de	ADP	_	_	12	udep	_	AlignBegin=296.450854|AlignEnd=296.553681|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+14	bénéfices	bénéfice	NOUN	_	Gender=Masc|Number=Plur	13	comp:obj	_	AlignBegin=296.553681|AlignEnd=297.050116|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+15	dans	dans	ADP	_	_	12	udep	_	AlignBegin=297.050116|AlignEnd=297.212851|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+16	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	17	det	_	AlignBegin=297.212851|AlignEnd=297.339868|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+17	entreprises	entreprise	NOUN	_	Gender=Fem|Number=Plur	15	comp:obj	_	AlignBegin=297.339868|AlignEnd=298.025018|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+18	entre	entre	ADP	_	_	12	udep	_	AlignBegin=298.025018|AlignEnd=298.464782|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+19	patrons	patron	NOUN	_	Gender=Masc|Number=Plur	18	comp:obj	_	AlignBegin=298.534859|AlignEnd=299.072128|ANIMACY=HUM|HUM_SCORE=1|Layer=U|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	actionnaires	actionnaire	NOUN	_	Gender=Masc|Number=Plur	19	conj:coord	_	AlignBegin=299.146585|AlignEnd=299.864884|ANIMACY=HUM|HUM_SCORE=11|Layer=U|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|TypeInherited=DepInherited|TypePara=ParaCoord
+22	et	et	CCONJ	_	_	23	cc	_	AlignBegin=300.040078|AlignEnd=300.153313|Layer=Begin|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+23	salariés	salarié	NOUN	_	Gender=Masc|Number=Plur	21	conj:coord	_	AlignBegin=300.153313|AlignEnd=300.662019|ANIMACY=HUM|HUM_SCORE=11|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No|TypeInherited=DepInherited|TypePara=ParaCoord
+24	.	.	PUNCT	_	_	10	punct	_	_
+
+# macrosyntax = un sondage { BVA | Les Échos | France Info } réalisé les { treize | ^et quatorze } février derniers //
+# sent_id = Rhap_M2006-28
+# text = un sondage BVA, Les Échos, France Info réalisé les treize et quatorze février dernier.
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	AlignBegin=301.143805|AlignEnd=301.234276|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+2	sondage	sondage	NOUN	_	Gender=Masc|Number=Sing	0	root	_	AlignBegin=301.234276|AlignEnd=301.643794|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+3	BVA	BVA	PROPN	_	_	2	mod@appos	_	AlignBegin=301.643794|AlignEnd=302.215889|Layer=U|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	Les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	AlignBegin=302.215889|AlignEnd=302.500581|Layer=Begin|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Weak|TypeInherited=DepInherited|TypePara=ParaCoord
+6	Échos	Échos	PROPN	_	_	3	conj:coord	_	AlignBegin=302.500581|AlignEnd=302.785378|Layer=Last|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak|SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	France	France	PROPN	_	_	6	conj:coord	_	AlignBegin=302.785378|AlignEnd=303.065379|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak|TypeInherited=DepInherited|TypePara=ParaCoord
+9	Info	Info	PROPN	_	_	8	flat@name	_	AlignBegin=303.065379|AlignEnd=303.479799|Layer=Last|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+10	réalisé	réaliser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	mod	_	AlignBegin=303.479799|AlignEnd=304.178844|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art|Shared=Yes	12	det	_	AlignBegin=304.178844|AlignEnd=304.418476|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+12	treize	treize	NUM	_	Number=Plur	10	mod	_	AlignBegin=304.418476|AlignEnd=304.759794|Layer=U|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+13	et	et	CCONJ	_	_	14	cc	_	AlignBegin=304.759794|AlignEnd=304.823302|Layer=Begin|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+14	quatorze	quatorze	NUM	_	Number=Plur	12	conj:coord	_	AlignBegin=304.823302|AlignEnd=305.294138|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|TypeInherited=DepInherited|TypePara=ParaCoord
+15	février	février	NOUN	_	Gender=Masc|Number=Sing	14	mod	_	AlignBegin=305.294138|AlignEnd=305.766852|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+16	dernier	dernier	ADJ	_	Gender=Masc|Number=Sing	15	mod	_	AlignBegin=305.766852|AlignEnd=306.075117|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = au moins six blessés légers > des policiers //
+# sent_id = Rhap_M2006-29
+# text = au moins six blessés légers des policiers.
+1	au	au	ADP	_	_	3	mod	_	AlignBegin=313.200743|AlignEnd=313.299153|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+2	moins	moins	ADV	_	_	1	comp:obj	_	AlignBegin=313.299153|AlignEnd=313.564135|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+3	six	six	NUM	_	Number=Plur	4	det	_	AlignBegin=313.564135|AlignEnd=313.812225|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+4	blessés	blessé	NOUN	_	Gender=Masc|Number=Plur	0	root	_	AlignBegin=313.812225|AlignEnd=314.498197|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+5	légers	léger	ADJ	_	Gender=Masc|Number=Plur	4	mod	_	AlignBegin=314.498197|AlignEnd=315.069876|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+6	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	7	det	_	AlignBegin=315.069876|AlignEnd=315.166233|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+7	policiers	policier	NOUN	_	Gender=Masc|Number=Plur	4	mod@appos	_	AlignBegin=315.166233|AlignEnd=315.916051|ANIMACY=HUM|HUM_SCORE=1|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+# macrosyntax = des jeunes { cagoulés | ^et armés } ont { pillé des magasins | brûlé { des pneus | ^et des voitures } } //
+# sent_id = Rhap_M2006-30
+# text = des jeunes cagoulés et armés ont pillé des magasins, brûlé des pneus et des voitures.
+1	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	2	det	_	AlignBegin=315.916051|AlignEnd=316.031051|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+2	jeunes	jeune	NOUN	_	Gender=Masc|Number=Plur	6	subj	_	AlignBegin=316.031051|AlignEnd=316.461051|ANIMACY=HUM|HUM_SCORE=5|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+3	cagoulés	cagouler	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	mod	_	AlignBegin=316.461051|AlignEnd=317.078885|Layer=U|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+4	et	et	CCONJ	_	_	5	cc	_	AlignBegin=317.078885|AlignEnd=317.301751|Layer=Begin|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+5	armés	armer	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	conj:coord	_	AlignBegin=317.301751|AlignEnd=317.733885|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|TypeInherited=DepInherited|TypePara=ParaCoord
+6	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=317.733885|AlignEnd=317.82066|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+7	pillé	piller	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	comp:aux@tense	_	AlignBegin=317.82066|AlignEnd=318.086254|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	9	det	_	AlignBegin=318.086254|AlignEnd=318.236748|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+9	magasins	magasin	NOUN	_	Gender=Masc|Number=Plur	7	comp:obj	_	AlignBegin=318.236748|AlignEnd=318.732097|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	brûlé	brûler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	conj:coord	_	AlignBegin=318.732097|AlignEnd=319.129512|Layer=Begin|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|TypeInherited=PredInherited|TypePara=ParaCoord
+12	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art|Shared=No	13	det	_	AlignBegin=319.129512|AlignEnd=319.332097|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+13	pneus	pneu	NOUN	_	Gender=Masc|Number=Plur	11	comp:obj	_	AlignBegin=319.332097|AlignEnd=319.627968|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+14	et	et	CCONJ	_	_	16	cc	_	AlignBegin=319.627968|AlignEnd=319.823644|Layer=Begin|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+15	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	16	det	_	AlignBegin=319.823644|AlignEnd=319.97475|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+16	voitures	voiture	NOUN	_	Gender=Fem|Number=Plur	13	conj:coord	_	AlignBegin=319.97475|AlignEnd=320.584571|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No|TypeInherited= ObjInherited|TypePara=ParaCoord
+17	.	.	PUNCT	_	_	6	punct	_	_
+
+# macrosyntax = bonjour > Sébastien Paour //
+# sent_id = Rhap_M2006-31
+# text = bonjour Sébastien Paour.
+1	bonjour	bonjour	NOUN	_	ExtPos=INTJ	0	root	_	AlignBegin=320.584571|AlignEnd=320.930053|Nucleus=U|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+2	Sébastien	Sébastien	PROPN	_	_	1	vocative	_	AlignBegin=320.930053|AlignEnd=321.418408|ANIMACY=HUM|HUM_SCORE=2|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+3	Paour	Paour	PROPN	_	_	2	flat@name	_	AlignBegin=321.418408|AlignEnd=321.744906|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# macrosyntax = vous vous trouvez au Gosier //
+# sent_id = Rhap_M2006-32
+# text = vous vous trouvez au Gosier.
+1	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	3	subj	_	AlignBegin=321.744906|AlignEnd=321.85963|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+2	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	3	comp:obl	_	AlignBegin=321.85963|AlignEnd=321.960367|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+3	trouvez	trouver	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=321.960367|AlignEnd=322.238488|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+4	au	au	ADP	_	_	3	comp:obl	_	AlignBegin=322.238488|AlignEnd=322.352365|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	Gosier	Gosier	PROPN	_	_	4	comp:obj	_	AlignBegin=322.352365|AlignEnd=323.006308|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = où en est la situation //
+# sent_id = Rhap_M2006-33
+# text = où en est la situation ?
+1	où	où	PRON	_	PronType=Rel	3	mod	_	AlignBegin=323.006308|AlignEnd=323.18869|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+2	en	en	PRON	_	Person=3|PronType=Prs	3	comp:pred	_	AlignBegin=323.18869|AlignEnd=323.341985|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=323.341985|AlignEnd=323.398924|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	AlignBegin=323.398924|AlignEnd=323.50623|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+5	situation	situation	NOUN	_	Gender=Fem|Number=Sing	3	subj	_	AlignBegin=323.50623|AlignEnd=324.199215|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+6	?	?	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = merci > Sébastien Paour //
+# sent_id = Rhap_M2006-34
+# text = merci Sébastien Paour.
+1	merci	merci	INTJ	_	_	0	root	_	_
+2	Sébastien	Sébastien	PROPN	_	_	1	vocative	_	ANIMACY=HUM|HUM_SCORE=2
+3	Paour	Paour	PROPN	_	_	2	flat@name	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# macrosyntax = on vous retrouve pour un nouveau point dans le journal de huit heures //
+# sent_id = Rhap_M2006-35
+# text = on vous retrouve pour un nouveau point dans le journal de huit heures.
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	subj	_	AlignBegin=421.273368|AlignEnd=421.415714|ANIMACY=HUM|HUM_SCORE=5|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+2	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	3	comp:obj	_	AlignBegin=421.415714|AlignEnd=421.490172|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+3	retrouve	retrouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=421.490172|AlignEnd=421.889626|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+4	pour	pour	ADP	_	_	3	mod	_	AlignBegin=421.972844|AlignEnd=422.158313|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Weak
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	AlignBegin=422.158313|AlignEnd=422.217441|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+6	nouveau	nouveau	ADJ	_	Gender=Masc|Number=Sing	7	mod	_	AlignBegin=422.217441|AlignEnd=422.484613|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+7	point	point	NOUN	_	Gender=Masc|Number=Sing	4	comp:obj	_	AlignBegin=422.484613|AlignEnd=422.694847|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+8	dans	dans	ADP	_	_	3	mod	_	AlignBegin=422.694847|AlignEnd=422.789014|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	AlignBegin=422.789014|AlignEnd=422.837192|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+10	journal	journal	NOUN	_	Gender=Masc|Number=Sing	8	comp:obj	_	AlignBegin=422.837192|AlignEnd=423.355478|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+11	de	de	ADP	_	_	10	udep	_	AlignBegin=423.355478|AlignEnd=423.572282|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+12	huit	huit	NUM	_	Number=Plur	13	det	_	AlignBegin=423.572282|AlignEnd=423.714627|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+13	heures	heure	NOUN	_	Gender=Fem|Number=Plur	11	comp:obj	_	AlignBegin=423.714627|AlignEnd=424.004483|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = vous le savez //
+# sent_id = Rhap_M2006-36
+# text = vous le savez.
+1	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	3	subj	_	AlignBegin=427.034559|AlignEnd=427.098569|ANIMACY=HUM|HUM_SCORE=5|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=427.098569|AlignEnd=427.228427|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+3	savez	savoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=427.228427|AlignEnd=427.52951|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = vous y étiez il y a pas longtemps //
+# sent_id = Rhap_M2006-37
+# text = vous y étiez il y a pas longtemps.
+1	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	3	subj	_	AlignBegin=427.52951|AlignEnd=427.673397|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+2	y	y	PRON	_	Person=3|PronType=Prs	3	comp:pred	_	AlignBegin=427.673397|AlignEnd=427.767564|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+3	étiez	être	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=427.767564|AlignEnd=428.004077|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+4	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	subj	_	AlignBegin=428.004077|AlignEnd=428.025976|InIdiom=Yes|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+5	y	y	PRON	_	Person=3|PronType=Prs	6	comp	_	AlignBegin=428.025976|AlignEnd=428.074155|InIdiom=Yes|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+6	a	avoir	VERB	_	ExtPos=ADP|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	mod	_	AlignBegin=428.074155|AlignEnd=428.133283|Idiom=Yes|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+7	pas	pas	ADV	_	Polarity=Neg	6	mod	_	AlignBegin=428.133283|AlignEnd=428.27451|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+8	longtemps	longtemps	ADV	_	_	6	mod	_	AlignBegin=428.27451|AlignEnd=428.577274|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = tout le monde est maintenant ( en tout cas ) suspendu à ce que Nicolas Sarkozy annoncera demain lors de sa rencontre à l'Élysée avec les élus d'outre-mer //
+# sent_id = Rhap_M2006-38
+# text = tout le monde est maintenant, en tout cas, suspendu à ce que Nicolas Sarkozy annoncera demain lors de sa rencontre à l'Élysée avec les élus d'outre-mer.
+1	tout	tout	ADJ	_	_	3	mod	_	AlignBegin=429.067819|AlignEnd=429.142819|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	AlignBegin=429.142819|AlignEnd=429.202819|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+3	monde	monde	NOUN	_	Gender=Masc|Number=Sing	4	subj	_	AlignBegin=429.202819|AlignEnd=429.392819|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Strong
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=429.392819|AlignEnd=429.521917|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+5	maintenant	maintenant	ADV	_	_	4	mod	_	AlignBegin=429.521917|AlignEnd=429.902966|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	en	en	ADP	_	_	4	mod	_	AlignBegin=429.902966|AlignEnd=430.005893|Innucleus=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	tout	tout	ADJ	_	Gender=Masc|Number=Sing	9	mod	_	AlignBegin=430.005893|AlignEnd=430.128529|Innucleus=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+9	cas	cas	NOUN	_	Gender=Masc	7	comp:obj	_	AlignBegin=430.128529|AlignEnd=430.297177|Innucleus=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	suspendu	suspendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	comp:pred	_	AlignBegin=430.297177|AlignEnd=430.932177|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+12	à	à	ADP	_	_	11	comp:obl	_	AlignBegin=430.932177|AlignEnd=430.982177|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+13	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	comp:obj	_	AlignBegin=430.982177|AlignEnd=431.102545|ANIMACY=HUM|HUM_SCORE=70|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+14	que	que	PRON	_	PronType=Rel	17	comp:obj	_	AlignBegin=431.102545|AlignEnd=431.339576|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+15	Nicolas	Nicolas	PROPN	_	_	17	subj	_	AlignBegin=431.339576|AlignEnd=431.711337|ANIMACY=HUM|HUM_SCORE=2|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+16	Sarkozy	Sarkozy	PROPN	_	_	15	flat@name	_	AlignBegin=431.711337|AlignEnd=432.215|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+17	annoncera	annoncer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	mod@relcl	_	AlignBegin=432.215|AlignEnd=432.661074|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+18	demain	demain	ADV	_	_	17	mod	_	AlignBegin=432.661074|AlignEnd=432.942617|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+19	lors	lors	ADV	_	_	17	mod	_	AlignBegin=432.942617|AlignEnd=433.217617|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+20	de	de	ADP	_	_	19	comp:obl	_	AlignBegin=433.217617|AlignEnd=433.415633|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+21	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	22	det	_	AlignBegin=433.415633|AlignEnd=433.635595|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+22	rencontre	rencontre	NOUN	_	Gender=Fem|Number=Sing	20	comp:obj	_	AlignBegin=433.635595|AlignEnd=434.123645|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+23	à	à	ADP	_	_	22	udep	_	AlignBegin=434.198103|AlignEnd=434.288276|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+24	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	25	det	_	AlignBegin=434.288276|AlignEnd=434.830651|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+25	Élysée	Élysée	PROPN	_	Number=Sing	23	comp:obj	_	AlignBegin=434.288276|AlignEnd=434.830651|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+26	avec	avec	ADP	_	_	22	udep	_	AlignBegin=434.830651|AlignEnd=435.097823|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+27	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	28	det	_	AlignBegin=435.097823|AlignEnd=435.312437|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+28	élus	élus	NOUN	_	Gender=Masc|Number=Plur	26	comp:obj	_	AlignBegin=435.312437|AlignEnd=435.610268|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+29	d'	de	ADP	_	_	28	udep	_	AlignBegin=435.610268|AlignEnd=436.338399|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+30	outre	outre	NOUN	_	Gender=Fem|Number=Sing	29	comp:obj	_	AlignBegin=435.610268|AlignEnd=436.338399|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+31	mer	mer	NOUN	_	Gender=Fem|Number=Sing	30	flat@dev	_	AlignBegin=435.610268|AlignEnd=436.338399|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+32	.	.	PUNCT	_	_	4	punct	_	_
+
+# macrosyntax = pendant ce temps <+ en métropole <+ la contestation ne faiblit pas dans l'enseignement //
+# sent_id = Rhap_M2006-39
+# text = pendant ce temps, en métropole, la contestation ne faiblit pas dans l'enseignement.
+1	pendant	pendant	ADP	_	_	11	mod	_	AlignBegin=436.754486|AlignEnd=437.002023|GovNucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+2	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=437.002023|AlignEnd=437.11371|GovNucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+3	temps	temps	NOUN	_	Gender=Masc|Number=Sing	1	comp:obj	_	AlignBegin=437.11371|AlignEnd=437.337083|GovNucleus=Last|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	en	en	ADP	_	_	11	mod	_	AlignBegin=437.337083|AlignEnd=437.42249|GovNucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+6	métropole	métropole	NOUN	_	Gender=Fem|Number=Sing	5	comp:obj	_	AlignBegin=437.42249|AlignEnd=438.031604|GovNucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+7	,	,	PUNCT	_	_	5	punct	_	_
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	AlignBegin=438.031604|AlignEnd=438.196604|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+9	contestation	contestation	NOUN	_	Gender=Fem|Number=Sing	11	subj	_	AlignBegin=438.196604|AlignEnd=438.863769|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+10	ne	ne	ADV	_	Polarity=Neg	11	mod	_	AlignBegin=438.863769|AlignEnd=439.105114|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+11	faiblit	faiblir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=439.105114|AlignEnd=439.469999|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+12	pas	pas	ADV	_	Polarity=Neg	11	mod	_	AlignBegin=439.469999|AlignEnd=439.706308|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+13	dans	dans	ADP	_	_	11	mod	_	AlignBegin=439.706308|AlignEnd=439.872489|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+14	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	15	det	_	AlignBegin=439.872489|AlignEnd=440.779166|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+15	enseignement	enseignement	NOUN	_	Gender=Masc|Number=Sing	13	comp:obj	_	AlignBegin=439.872489|AlignEnd=440.779166|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+16	.	.	PUNCT	_	_	11	punct	_	_
+
+# macrosyntax = hier <+ tour de chauffe avant la grande mobilisation de demain //
+# sent_id = Rhap_M2006-40
+# text = hier, tour de chauffe avant la grande mobilisation de demain.
+1	hier	hier	ADV	_	_	3	mod	_	AlignBegin=440.853624|AlignEnd=441.315|GovNucleus=U|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	tour	tour	NOUN	_	Gender=Masc|Number=Sing	0	root	_	AlignBegin=441.387968|AlignEnd=441.536241|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+4	de	de	ADP	_	_	3	udep	_	AlignBegin=441.536241|AlignEnd=441.682968|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+5	chauffe	chauffe	NOUN	_	Gender=Fem|Number=Sing	4	comp:obj	_	AlignBegin=441.682968|AlignEnd=442.05067|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+6	avant	avant	ADP	_	_	3	udep	_	AlignBegin=442.05067|AlignEnd=442.276233|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	AlignBegin=442.276233|AlignEnd=442.453618|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	grande	grand	ADJ	_	Gender=Fem|Number=Sing	9	mod	_	AlignBegin=442.453618|AlignEnd=442.6967|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+9	mobilisation	mobilisation	NOUN	_	Gender=Fem|Number=Sing	6	comp:obj	_	AlignBegin=442.6967|AlignEnd=443.417586|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+10	de	de	ADP	_	_	9	udep	_	AlignBegin=443.417586|AlignEnd=443.463575|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+11	demain	demain	ADV	_	_	10	comp:obj	_	AlignBegin=443.463575|AlignEnd=443.840484|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = un millier de personnes était dans les rues à Poitiers //
+# sent_id = Rhap_M2006-41
+# text = un millier de personnes était dans les rues à Poitiers.
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	AlignBegin=444.204013|AlignEnd=444.332979|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+2	millier	millier	NOUN	_	Gender=Masc|Number=Sing	5	subj	_	AlignBegin=444.332979|AlignEnd=444.639012|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+3	de	de	ADP	_	_	2	udep	_	AlignBegin=444.639012|AlignEnd=444.674051|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+4	personnes	personne	NOUN	_	Gender=Fem|Number=Plur	3	comp:obj	_	AlignBegin=444.674051|AlignEnd=445.180448|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Weak
+5	était	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=445.180448|AlignEnd=445.45419|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+6	dans	dans	ADP	_	_	5	comp:obl	_	AlignBegin=445.45419|AlignEnd=445.585586|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	AlignBegin=445.585586|AlignEnd=445.714792|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+8	rues	rue	NOUN	_	Gender=Fem|Number=Plur	6	comp:obj	_	AlignBegin=445.714792|AlignEnd=445.936147|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+9	à	à	ADP	_	_	8	udep	_	AlignBegin=445.988705|AlignEnd=446.113705|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+10	Poitiers	Poitiers	PROPN	_	_	9	comp:obj	_	AlignBegin=446.113705|AlignEnd=446.851255|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+# macrosyntax = les cours étaient suspendus à Pau //
+# sent_id = Rhap_M2006-42
+# text = les cours étaient suspendus à Pau.
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	AlignBegin=446.851255|AlignEnd=446.941042|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+2	cours	cours	NOUN	_	Gender=Masc|Number=Plur	3	subj@pass	_	AlignBegin=446.941042|AlignEnd=447.144706|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+3	étaient	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=447.144706|AlignEnd=447.317506|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+4	suspendus	suspendre	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	comp:aux@pass	_	AlignBegin=447.317506|AlignEnd=447.862799|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+5	à	à	ADP	_	_	3	mod	_	AlignBegin=447.862799|AlignEnd=447.943827|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+6	Pau	Pau	PROPN	_	_	5	comp:obj	_	AlignBegin=447.943827|AlignEnd=448.423702|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = à Paris < un rassemblement devant le ministère de l'enseignement supérieur //
+# sent_id = Rhap_M2006-43
+# text = à Paris, un rassemblement devant le ministère de l'enseignement supérieur.
+1	à	à	ADP	_	_	5	udep	_	AlignBegin=448.528819|AlignEnd=448.648819|Prenucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+2	Paris	Paris	PROPN	_	_	1	comp:obj	_	AlignBegin=448.648819|AlignEnd=448.962189|Prenucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	AlignBegin=448.962189|AlignEnd=449.043216|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+5	rassemblement	rassemblement	NOUN	_	Gender=Masc|Number=Sing	0	root	_	AlignBegin=449.043216|AlignEnd=449.611126|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+6	devant	devant	ADP	_	_	5	udep	_	AlignBegin=449.611126|AlignEnd=449.836126|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	AlignBegin=449.836126|AlignEnd=449.886126|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	ministère	ministère	NOUN	_	Gender=Masc|Number=Sing	6	comp:obj	_	AlignBegin=449.886126|AlignEnd=450.391381|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+9	de	de	ADP	_	_	8	udep	_	AlignBegin=450.391381|AlignEnd=450.478349|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+10	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	11	det	_	AlignBegin=450.478349|AlignEnd=451.185559|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+11	enseignement	enseignement	NOUN	_	Gender=Masc|Number=Sing	9	comp:obj	_	AlignBegin=450.478349|AlignEnd=451.185559|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+12	supérieur	supérieur	ADJ	_	Gender=Masc|Number=Sing	11	mod	_	AlignBegin=451.185559|AlignEnd=451.925|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+# macrosyntax = { les syndicats de cet enseignement supérieur | ^et l'Unef } réclament toujours l'abandon des réformes en cours //
+# sent_id = Rhap_M2006-44
+# text = les syndicats de cet enseignement supérieur et l'Unef réclament toujours l'abandon des réformes en cours.
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art|Shared=No	2	det	_	AlignBegin=452.304055|AlignEnd=452.470063|Layer=Begin|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+2	syndicats	syndicat	NOUN	_	Gender=Masc|Number=Plur	10	subj	_	AlignBegin=452.470063|AlignEnd=453.21961|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+3	de	de	ADP	_	_	2	udep	_	AlignBegin=453.21961|AlignEnd=453.32461|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+4	cet	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	AlignBegin=453.32461|AlignEnd=453.50461|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+5	enseignement	enseignement	NOUN	_	Gender=Masc|Number=Sing	3	comp:obj	_	AlignBegin=453.50461|AlignEnd=453.946776|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+6	supérieur	supérieur	ADJ	_	Gender=Masc|Number=Sing	5	mod	_	AlignBegin=453.946776|AlignEnd=454.495738|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+7	et	et	CCONJ	_	_	9	cc	_	AlignBegin=454.495738|AlignEnd=454.70481|Layer=Begin|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+8	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	AlignBegin=454.70481|AlignEnd=455.177039|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+9	Unef	Unef	PROPN	_	_	2	conj:coord	_	AlignBegin=454.70481|AlignEnd=455.177039|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|TypeInherited=SubInherited|TypePara=ParaCoord
+10	réclament	réclamer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=455.216458|AlignEnd=455.801458|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+11	toujours	toujours	ADV	_	_	10	mod	_	AlignBegin=455.801458|AlignEnd=456.374617|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+12	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	13	det	_	AlignBegin=456.374617|AlignEnd=456.948069|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+13	abandon	abandon	NOUN	_	Gender=Masc|Number=Sing	10	comp:obj	_	AlignBegin=456.374617|AlignEnd=456.948069|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+14	des	de	ADP	_	_	13	udep	_	AlignBegin=456.948069|AlignEnd=457.167062|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+15	réformes	réforme	NOUN	_	Gender=Fem|Number=Plur	14	comp:obj	_	AlignBegin=457.167062|AlignEnd=457.547799|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+16	en	en	ADP	_	_	15	udep	_	AlignBegin=457.547799|AlignEnd=457.633206|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+17	cours	cours	NOUN	_	Gender=Masc	16	comp:obj	_	AlignBegin=457.633206|AlignEnd=457.993084|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+18	.	.	PUNCT	_	_	10	punct	_	_
+
+# macrosyntax = { le président de l'Unef | ( Jean-Baptiste Prévot ) } au micro de Sonia Bourane //
+# sent_id = Rhap_M2006-45
+# text = le président de l'Unef, Jean-Baptiste Prévot, au micro de Sonia Bourane.
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	AlignBegin=458.277776|AlignEnd=458.412776|Layer=Begin|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+2	président	président	NOUN	_	Gender=Masc|Number=Sing	0	root	_	AlignBegin=458.412776|AlignEnd=458.900491|ANIMACY=HUM|HUM_SCORE=1|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+3	de	de	ADP	_	_	2	udep	_	AlignBegin=458.900491|AlignEnd=458.974948|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	AlignBegin=458.974948|AlignEnd=459.39609|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+5	Unef	Unef	PROPN	_	_	3	comp:obj	_	AlignBegin=458.974948|AlignEnd=459.39609|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	Jean	Jean	PROPN	_	_	2	flat	_	AlignBegin=459.483688|AlignEnd=459.716265|ANIMACY=HUM|HUM_SCORE=2|Innucleus=Begin|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|TypeInherited=RootInherited|TypePara=ParaDform
+8	Baptiste	Baptiste	PROPN	_	_	7	flat@dev	_	AlignBegin=459.716265|AlignEnd=460.20243|ANIMACY=HUM|HUM_SCORE=2|Innucleus=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+9	Prévot	Prévot	PROPN	_	_	7	flat@name	_	AlignBegin=460.20243|AlignEnd=460.628688|Innucleus=Last|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+10	,	,	PUNCT	_	_	10	punct	_	_
+11	au	au	ADP	_	_	7	mod	_	AlignBegin=460.835409|AlignEnd=460.959808|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak|TypeInherited=DepInherited
+12	micro	micro	NOUN	_	Gender=Masc|Number=Sing	10	comp:obj	_	AlignBegin=460.959808|AlignEnd=461.280409|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+13	de	de	ADP	_	_	11	udep	_	AlignBegin=461.280409|AlignEnd=461.348225|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+14	Sonia	Sonia	PROPN	_	_	12	comp:obj	_	AlignBegin=461.348225|AlignEnd=461.683225|ANIMACY=HUM|HUM_SCORE=2|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+15	Bourane	Bourane	PROPN	_	_	13	flat@name	_	AlignBegin=461.683225|AlignEnd=462.017973|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = aux États-Unis <+ Barack Obama a promulgué son plan de relance adopté ce week-end par le congrès //
+# sent_id = Rhap_M2006-46
+# text = aux États-Unis, Barack Obama a promulgué son plan de relance adopté ce week-end par le congrès.
+1	aux	au	ADP	_	_	7	mod	_	AlignBegin=495.144988|AlignEnd=495.351616|GovNucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+2	États-Unis	États-Unis	PROPN	_	_	1	comp:obj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	Barack	Barack	PROPN	_	_	6	subj	_	AlignBegin=495.87282|AlignEnd=496.137905|ANIMACY=HUM|HUM_SCORE=6|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+5	Obama	Obama	PROPN	_	_	4	flat@name	_	AlignBegin=496.137905|AlignEnd=496.518228|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+6	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=496.518228|AlignEnd=496.629915|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	promulgué	promulguer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	comp:aux@tense	_	AlignBegin=496.629915|AlignEnd=497.319744|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+8	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	9	det	_	AlignBegin=497.319744|AlignEnd=497.521113|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak
+9	plan	plan	NOUN	_	Gender=Masc|Number=Sing	7	comp:obj	_	AlignBegin=497.521113|AlignEnd=497.742296|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+10	de	de	ADP	_	_	9	udep	_	AlignBegin=497.742296|AlignEnd=497.805804|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Strong
+11	relance	relance	NOUN	_	Gender=Fem|Number=Sing	10	comp:obj	_	AlignBegin=497.805804|AlignEnd=498.213132|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Weak
+12	adopté	adopter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	mod	_	AlignBegin=498.213132|AlignEnd=498.611966|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+13	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	14	det	_	AlignBegin=498.611966|AlignEnd=498.734403|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+14	week-end	week-end	NOUN	_	Gender=Masc|Number=Sing	12	mod	_	_
+15	par	par	ADP	_	_	12	comp:obl	_	AlignBegin=499.09391|AlignEnd=499.249395|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+16	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	AlignBegin=499.249395|AlignEnd=499.354446|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+17	congrès	congrès	NOUN	_	Gender=Masc|Number=Sing	15	comp:obj	_	AlignBegin=499.354446|AlignEnd=500.01436|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+18	.	.	PUNCT	_	_	6	punct	_	_
+
+# macrosyntax = sept cent quatre-vingt-sept milliards de dollars destinés à { sauver | ^ou créer } plus de trois millions et demi d'emplois //
+# sent_id = Rhap_M2006-47
+# text = sept cent quatre-vingt-sept milliards de dollars destinés à sauver ou créer plus de trois millions et demi d'emplois.
+1	sept	sept	NUM	_	Number=Plur	4	det	_	AlignBegin=500.01436|AlignEnd=500.31436|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+2	cent	cent	NUM	_	Number=Plur	1	flat	_	AlignBegin=500.31436|AlignEnd=500.545522|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+3	quatre	quatre	NUM	_	Number=Plur	2	flat	_	AlignBegin=500.545522|AlignEnd=500.880582|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+4	vingt	vingt	NUM	_	Number=Plur	3	flat@dev	_	AlignBegin=500.880582|AlignEnd=501.01436|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+5	sept	sept	NUM	_	Number=Plur	3	flat@dev	_	AlignBegin=501.01436|AlignEnd=501.342242|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+6	milliards	milliard	NOUN	_	Gender=Masc|Number=Plur	0	root	_	AlignBegin=501.342242|AlignEnd=501.904179|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+7	de	de	ADP	_	_	4	udep	_	AlignBegin=501.904179|AlignEnd=502.029005|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	dollars	dollar	NOUN	_	Gender=Masc|Number=Plur	5	comp:obj	_	AlignBegin=502.029005|AlignEnd=502.427242|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+9	destinés	destiner	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	mod	_	AlignBegin=502.427242|AlignEnd=502.91571|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+10	à	à	ADP	_	_	7	comp:obl	_	AlignBegin=503.230851|AlignEnd=503.315335|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+11	sauver	sauver	VERB	_	VerbForm=Inf	8	comp:obj	_	AlignBegin=503.315335|AlignEnd=503.877403|Layer=U|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|Subject=SubjRaising
+12	ou	ou	CCONJ	_	_	11	cc	_	AlignBegin=503.99566|AlignEnd=504.146917|Layer=Begin|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+13	créer	créer	VERB	_	VerbForm=Inf	9	conj:coord	_	AlignBegin=504.146917|AlignEnd=504.543295|Layer=Last|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak|Subject=SubjRaising|TypeInherited=DepInherited|TypePara=ParaCoord
+14	plus	plus	ADV	_	_	11	comp:obj	_	AlignBegin=504.543295|AlignEnd=504.733819|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|TypeInherited= ObjInherited
+15	de	de	ADP	_	_	12	comp:obl	_	AlignBegin=504.733819|AlignEnd=504.846135|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+16	trois	trois	NUM	_	Number=Plur|Shared=No	15	det	_	AlignBegin=504.846135|AlignEnd=505.079114|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Weak
+17	millions	million	NOUN	_	Gender=Masc|Number=Plur	13	comp:obj	_	AlignBegin=505.079114|AlignEnd=505.425124|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak
+18	et	et	CCONJ	_	_	17	cc	_	AlignBegin=505.425124|AlignEnd=505.468923|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+19	demi	demi	ADJ	_	Gender=Masc|Number=Sing	15	conj:dicto	_	AlignBegin=505.468923|AlignEnd=505.704698|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|TypeInherited=DepInherited|TypePara=ParaCoord
+20	d'	de	ADP	_	_	17	mod	_	AlignBegin=505.704698|AlignEnd=506.198733|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+21	emplois	emploi	NOUN	_	Gender=Masc|Number=Plur	18	comp:obj	_	AlignBegin=505.704698|AlignEnd=506.198733|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+22	.	.	PUNCT	_	_	4	punct	_	_
+
+# macrosyntax = un autre plan (+ destiné ( celui-là ) à ralentir les saisies immobilières ) devrait être annoncé aujourd'hui par le président américain //
+# sent_id = Rhap_M2006-48
+# text = un autre plan, destiné, celui-là, à ralentir les saisies immobilières, devrait être annoncé aujourd'hui par le président américain.
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	AlignBegin=506.562053|AlignEnd=506.72368|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+2	autre	autre	ADJ	_	Gender=Masc|Number=Sing	3	mod	_	AlignBegin=506.72368|AlignEnd=507.003992|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+3	plan	plan	NOUN	_	Gender=Masc|Number=Sing	16	subj@pass	_	AlignBegin=507.003992|AlignEnd=507.38504|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	destiné	destiner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	mod	_	AlignBegin=507.38504|AlignEnd=507.818175|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	celui	celui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	dislocated	_	AlignBegin=507.818175|AlignEnd=508.087053|Innucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+8	-là	là	ADV	_	_	7	mod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	à	à	ADP	_	_	5	comp:obl	_	AlignBegin=508.262943|AlignEnd=508.36806|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+11	ralentir	ralentir	VERB	_	VerbForm=Inf	10	comp:obj	_	AlignBegin=508.36806|AlignEnd=508.854225|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|Subject=NoRaising
+12	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	13	det	_	AlignBegin=508.854225|AlignEnd=508.924303|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+13	saisies	saisie	NOUN	_	Gender=Fem|Number=Plur	11	comp:obj	_	AlignBegin=508.924303|AlignEnd=509.166969|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Weak
+14	immobilières	immobilier	ADJ	_	Gender=Fem|Number=Plur	13	mod	_	AlignBegin=509.166969|AlignEnd=509.83|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak|SpaceAfter=No
+15	,	,	PUNCT	_	_	3	punct	_	_
+16	devrait	devoir	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=509.83|AlignEnd=510.215|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+17	être	être	AUX	_	VerbForm=Inf	16	comp:obj	_	AlignBegin=510.215|AlignEnd=510.434536|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak|Subject=SubjRaising
+18	annoncé	annoncer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	comp:aux@pass	_	AlignBegin=510.434536|AlignEnd=510.823717|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+19	aujourd'hui	aujourd'hui	ADV	_	_	16	mod	_	AlignBegin=510.823717|AlignEnd=511.228227|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+20	par	par	ADP	_	_	18	comp:obl	_	AlignBegin=511.228227|AlignEnd=511.372296|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+21	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	AlignBegin=511.372296|AlignEnd=511.479603|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+22	président	président	NOUN	_	Gender=Masc|Number=Sing	20	comp:obj	_	AlignBegin=511.479603|AlignEnd=511.983287|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+23	américain	américain	ADJ	_	Gender=Masc|Number=Sing	22	mod	_	AlignBegin=511.983287|AlignEnd=512.505532|Nucleus=Last|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak|SpaceAfter=No
+24	.	.	PUNCT	_	_	16	punct	_	_
+
+# macrosyntax = cela concerne plusieurs millions d'américains à la rue faute de pouvoir payer leur crédit //
+# sent_id = Rhap_M2006-49
+# text = cela concerne plusieurs millions d'américains à la rue faute de pouvoir payer leur crédit.
+1	cela	cela	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	subj	_	AlignBegin=512.847162|AlignEnd=513.032999|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+2	concerne	concerner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=513.032999|AlignEnd=513.45806|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+3	plusieurs	plusieurs	DET	_	Number=Plur|PronType=Ind	4	det	_	AlignBegin=513.45806|AlignEnd=513.987124|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+4	millions	million	NOUN	_	Gender=Masc|Number=Plur	2	comp:obj	_	AlignBegin=513.987124|AlignEnd=514.336224|ANIMACY=HUM|HUM_SCORE=4|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak
+5	d'	de	ADP	_	_	4	udep	_	AlignBegin=514.336224|AlignEnd=514.870567|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+6	américains	américain	NOUN	_	Gender=Masc|Number=Plur	5	comp:obj	_	AlignBegin=514.336224|AlignEnd=514.870567|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+7	à	à	ADP	_	_	6	udep	_	AlignBegin=514.870567|AlignEnd=514.905606|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	AlignBegin=514.905606|AlignEnd=515.006449|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+9	rue	rue	NOUN	_	Gender=Fem|Number=Sing	7	comp:obj	_	AlignBegin=515.006449|AlignEnd=515.163903|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+10	faute	faute	NOUN	_	Gender=Fem|Number=Sing	7	mod	_	AlignBegin=515.163903|AlignEnd=515.522128|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+11	de	de	ADP	_	_	10	comp:obl	_	AlignBegin=515.522128|AlignEnd=515.649144|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+12	pouvoir	pouvoir	VERB	_	VerbForm=Inf	11	comp:obj	_	AlignBegin=515.649144|AlignEnd=516.098258|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|Subject=ObjRaising
+13	payer	payer	VERB	_	VerbForm=Inf	12	comp:obj	_	AlignBegin=516.185855|AlignEnd=516.569653|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|Subject=ObjRaising
+14	leur	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=3|Poss=Yes|PronType=Prs	15	det	_	AlignBegin=516.569653|AlignEnd=516.880855|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+15	crédit	crédit	NOUN	_	Gender=Masc|Number=Sing	13	comp:obj	_	AlignBegin=516.880855|AlignEnd=517.444355|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = une rallonge à venir ( également ) dans le secteur automobile //
+# sent_id = Rhap_M2006-50
+# text = une rallonge à venir, également, dans le secteur automobile.
+1	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	AlignBegin=517.838543|AlignEnd=518.001759|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+2	rallonge	rallonge	NOUN	_	Gender=Fem|Number=Sing	0	root	_	AlignBegin=518.001759|AlignEnd=518.53661|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+3	à	à	ADP	_	_	2	udep	_	AlignBegin=518.584788|AlignEnd=518.719788|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	venir	venir	VERB	_	VerbForm=Inf	3	comp:obj	_	AlignBegin=518.719788|AlignEnd=519.049206|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No|Subject=NoRaising
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	également	également	ADV	_	_	4	mod	_	AlignBegin=519.049206|AlignEnd=519.371127|Innucleus=U|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	dans	dans	ADP	_	_	4	mod	_	AlignBegin=519.371127|AlignEnd=519.491573|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	AlignBegin=519.491573|AlignEnd=519.548511|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+10	secteur	secteur	NOUN	_	Gender=Masc|Number=Sing	8	comp:obj	_	AlignBegin=519.548511|AlignEnd=519.976699|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+11	automobile	automobile	NOUN	_	Gender=Fem|Number=Sing	10	compound	_	AlignBegin=519.976699|AlignEnd=520.779788|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = { General Motors | ^et Chrysler } ont présenté hier leur plan de restructuration à l'administration Obama //
+# sent_id = Rhap_M2006-51
+# text = General Motors et Chrysler ont présenté hier leur plan de restructuration à l'administration Obama.
+1	General	General	PROPN	_	_	5	subj	_	AlignBegin=520.779788|AlignEnd=521.179788|ANIMACY=HUM|HUM_SCORE=4|Layer=Begin|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+2	Motors	Motors	PROPN	_	_	1	flat@name	_	AlignBegin=521.179788|AlignEnd=521.665713|Layer=Last|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+3	et	et	CCONJ	_	_	4	cc	_	AlignBegin=521.76645|AlignEnd=521.8781|Layer=Begin|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+4	Chrysler	Chrysler	PROPN	_	_	1	conj:coord	_	AlignBegin=521.8781|AlignEnd=522.653528|ANIMACY=HUM|HUM_SCORE=10|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Weak|TypeInherited=SubInherited|TypePara=ParaCoord
+5	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=522.653528|AlignEnd=522.747715|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+6	présenté	présenter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	comp:aux@tense	_	AlignBegin=522.747715|AlignEnd=523.198528|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+7	hier	hier	ADV	_	_	5	mod	_	AlignBegin=523.198528|AlignEnd=523.389365|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+8	leur	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=3|Poss=Yes|PronType=Prs	9	det	_	AlignBegin=523.389365|AlignEnd=523.578615|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+9	plan	plan	NOUN	_	Gender=Masc|Number=Sing	6	comp:obj	_	AlignBegin=523.578615|AlignEnd=523.983615|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+10	de	de	ADP	_	_	9	udep	_	AlignBegin=523.983615|AlignEnd=524.124744|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+11	restructuration	restructuration	NOUN	_	Gender=Fem|Number=Sing	10	comp:obj	_	AlignBegin=524.124744|AlignEnd=524.976474|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+12	à	à	ADP	_	_	6	comp:obl	_	AlignBegin=524.976474|AlignEnd=525.031474|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+13	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	14	det	_	AlignBegin=525.031474|AlignEnd=525.724331|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+14	administration	administration	NOUN	_	Gender=Fem|Number=Sing	12	comp:obj	_	AlignBegin=525.031474|AlignEnd=525.724331|ANIMACY=HUM|HUM_SCORE=4|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+15	Obama	Obama	PROPN	_	_	14	mod@appos	_	AlignBegin=525.724331|AlignEnd=526.251015|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+16	.	.	PUNCT	_	_	5	punct	_	_
+
+# macrosyntax = ils demandent vingt-deux milliards de dollars { en contrepartie de suppressions d'emplois | ^mais pas seulement } //
+# sent_id = Rhap_M2006-52
+# text = ils demandent vingt-deux milliards de dollars en contrepartie de suppressions d'emplois, mais pas seulement.
+1	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	subj	_	AlignBegin=526.710901|AlignEnd=526.805901|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+2	demandent	demander	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=526.805901|AlignEnd=527.296951|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+3	vingt	vingt	NUM	_	Number=Plur	4	det	_	AlignBegin=527.35389|AlignEnd=527.670576|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+4	deux	deux	NUM	_	Number=Plur	3	flat@dev	_	AlignBegin=527.670576|AlignEnd=527.959141|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+5	milliards	milliard	NOUN	_	Gender=Masc|Number=Plur	2	comp:obj	_	AlignBegin=527.959141|AlignEnd=528.29858|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+6	de	de	ADP	_	_	4	udep	_	AlignBegin=528.29858|AlignEnd=528.469395|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	dollars	dollar	NOUN	_	Gender=Masc|Number=Plur	5	comp:obj	_	AlignBegin=528.469395|AlignEnd=528.966324|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+8	en	en	ADP	_	_	2	mod	_	AlignBegin=529.049541|AlignEnd=529.164413|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+9	contrepartie	contrepartie	NOUN	_	Gender=Fem|Number=Sing	7	comp:obj	_	AlignBegin=529.164413|AlignEnd=529.803874|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+10	de	de	ADP	_	_	8	udep	_	AlignBegin=529.803874|AlignEnd=529.942468|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+11	suppressions	suppression	NOUN	_	Gender=Fem|Number=Plur	9	comp:obj	_	AlignBegin=529.942468|AlignEnd=530.678286|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+12	d'	de	ADP	_	_	10	udep	_	AlignBegin=530.678286|AlignEnd=531.230506|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+13	emplois	emploi	NOUN	_	Gender=Masc|Number=Plur	11	comp:obj	_	AlignBegin=530.678286|AlignEnd=531.230506|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	mais	mais	CCONJ	_	_	16	cc	_	AlignBegin=531.291824|AlignEnd=531.489828|Layer=Begin|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+16	pas	pas	ADV	_	Polarity=Neg	16	mod	_	AlignBegin=531.489828|AlignEnd=531.658453|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+17	seulement	seulement	ADV	_	_	2	mod	_	AlignBegin=531.658453|AlignEnd=532.224736|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No|TypeInherited=AdInherited|TypePara=ParaCoord
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = tout est bon "vous le verrez" > avec Bertrand Vanier //
+# sent_id = Rhap_M2006-53
+# text = tout est bon, vous le verrez, avec Bertrand Vanier.
+1	tout	tout	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	subj	_	AlignBegin=532.286054|AlignEnd=532.456305|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=532.456305|AlignEnd=532.570181|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+3	bon	bon	ADJ	_	Gender=Masc|Number=Sing	2	comp:pred	_	AlignBegin=532.570181|AlignEnd=532.705957|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	7	subj	_	AlignBegin=532.705957|AlignEnd=532.822024|ANIMACY=HUM|AssociatedNucleus=Begin|HUM_SCORE=5|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+6	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	comp:obj	_	AlignBegin=532.822024|AlignEnd=532.863632|AssociatedNucleus=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	verrez	voir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	2	discourse	_	AlignBegin=532.863632|AlignEnd=533.146385|AssociatedNucleus=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	avec	avec	ADP	_	_	2	mod	_	AlignBegin=533.264642|AlignEnd=533.489659|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+10	Bertrand	Bertrand	PROPN	_	_	9	comp:obj	_	AlignBegin=533.489659|AlignEnd=533.78749|ANIMACY=HUM|HUM_SCORE=2|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+11	Vanier	Vanier	PROPN	_	_	10	flat@name	_	AlignBegin=533.78749|AlignEnd=534.035498|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = l'affaire des évadés de la prison de Moulins arrêtés hier matin "vous le savez" après trente-six heures de cavale //
+# sent_id = Rhap_M2006-54
+# text = l'affaire des évadés de la prison de Moulins arrêtés hier matin, vous le savez, après trente-six heures de cavale.
+1	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	2	det	_	AlignBegin=596.536192|AlignEnd=596.962364|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+2	affaire	affaire	NOUN	_	Gender=Fem|Number=Sing	0	root	_	AlignBegin=596.536192|AlignEnd=596.962364|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+3	des	de	ADP	_	_	2	udep	_	AlignBegin=596.962364|AlignEnd=597.11128|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+4	évadés	évadé	NOUN	_	Gender=Masc|Number=Plur	3	comp:obj	_	AlignBegin=597.11128|AlignEnd=597.43101|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+5	de	de	ADP	_	_	4	udep	_	AlignBegin=597.43101|AlignEnd=597.474809|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	AlignBegin=597.474809|AlignEnd=597.573356|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+7	prison	prison	NOUN	_	Gender=Fem|Number=Sing	5	comp:obj	_	AlignBegin=597.573356|AlignEnd=597.934695|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+8	de	de	ADP	_	_	7	udep	_	AlignBegin=597.934695|AlignEnd=598.050761|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+9	Moulins	Moulins	PROPN	_	_	8	comp:obj	_	AlignBegin=598.050761|AlignEnd=598.556499|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+10	arrêtés	arrêter	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	mod	_	AlignBegin=598.556499|AlignEnd=599.081472|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+11	hier	hier	ADV	_	_	12	mod	_	AlignBegin=599.081472|AlignEnd=599.239147|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+12	matin	matin	NOUN	_	Gender=Masc|Number=Sing	10	mod	_	AlignBegin=599.239147|AlignEnd=599.609246|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	16	subj	_	AlignBegin=599.609246|AlignEnd=599.714363|ANIMACY=HUM|AssociatedNucleus=Begin|HUM_SCORE=5|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+15	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	comp:obj	_	AlignBegin=599.714363|AlignEnd=599.745022|AssociatedNucleus=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+16	savez	savoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	12	discourse	_	AlignBegin=599.745022|AlignEnd=600.06|AssociatedNucleus=Last|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	après	après	ADP	_	_	10	mod	_	AlignBegin=600.06|AlignEnd=600.388777|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+19	trente	trente	NUM	_	Number=Plur	20	det	_	AlignBegin=600.388777|AlignEnd=600.723837|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+20	six	six	NUM	_	Number=Plur	19	flat@dev	_	AlignBegin=600.723837|AlignEnd=600.907858|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+21	heures	heure	NOUN	_	Gender=Fem|Number=Plur	18	comp:obj	_	AlignBegin=600.907858|AlignEnd=601.098838|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+22	de	de	ADP	_	_	20	udep	_	AlignBegin=601.098838|AlignEnd=601.254323|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+23	cavale	cavale	NOUN	_	Gender=Fem|Number=Sing	21	comp:obj	_	AlignBegin=601.254323|AlignEnd=601.935604|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+24	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = la compagne de l'un des détenus est toujours en garde à vue //
+# sent_id = Rhap_M2006-55
+# text = la compagne de l'un des détenus est toujours en garde à vue.
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	AlignBegin=601.935604|AlignEnd=602.132698|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+2	compagne	compagne	NOUN	_	Gender=Fem|Number=Sing	8	subj	_	AlignBegin=602.132698|AlignEnd=602.668087|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+3	de	de	ADP	_	_	2	udep	_	AlignBegin=602.668087|AlignEnd=602.803863|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	AlignBegin=602.803863|AlignEnd=602.987817|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+5	un	un	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	comp:obj	_	AlignBegin=602.803863|AlignEnd=602.987817|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+6	des	de	ADP	_	_	5	comp:obl	_	AlignBegin=602.987817|AlignEnd=603.095124|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak
+7	détenus	détenu	NOUN	_	Gender=Masc|Number=Plur	6	comp:obj	_	AlignBegin=603.095124|AlignEnd=603.425|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+8	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=603.425|AlignEnd=603.512012|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+9	toujours	toujours	ADV	_	_	10	mod	_	AlignBegin=603.512012|AlignEnd=603.956569|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+10	en	en	ADP	_	_	8	comp:obl	_	AlignBegin=603.956569|AlignEnd=604.077015|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+11	garde	garde	NOUN	_	Gender=Fem|Number=Sing	10	comp:obj	_	AlignBegin=604.077015|AlignEnd=604.313528|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12	à	à	ADP	_	_	11	udep	_	AlignBegin=604.313528|AlignEnd=604.381416|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+13	vue	vue	NOUN	_	Gender=Fem|Number=Sing	12	comp:obj	_	AlignBegin=604.381416|AlignEnd=604.633108|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+14	.	.	PUNCT	_	_	8	punct	_	_
+
+# macrosyntax = les enquêteurs cherchent maintenant à savoir si elle a été complice dans cette évasion //
+# sent_id = Rhap_M2006-56
+# text = les enquêteurs cherchent maintenant à savoir si elle a été complice dans cette évasion.
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	AlignBegin=605.044815|AlignEnd=605.204771|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Strong
+2	enquêteurs	enquêteur	NOUN	_	Gender=Masc|Number=Plur	3	subj	_	AlignBegin=605.204771|AlignEnd=605.686561|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+3	cherchent	chercher	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=605.686561|AlignEnd=606.01255|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+4	maintenant	maintenant	ADV	_	_	3	mod	_	AlignBegin=606.01255|AlignEnd=606.362939|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+5	à	à	ADP	_	_	3	comp:obl	_	AlignBegin=606.362939|AlignEnd=606.439587|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+6	savoir	savoir	VERB	_	VerbForm=Inf	5	comp:obj	_	AlignBegin=606.439587|AlignEnd=606.864843|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|Subject=SubjRaising
+7	si	si	SCONJ	_	_	6	comp:obj	_	AlignBegin=606.864843|AlignEnd=607.013758|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	subj	_	AlignBegin=607.013758|AlignEnd=607.105735|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+9	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	comp:obj	_	AlignBegin=607.105735|AlignEnd=607.164864|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+10	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	comp:aux@tense	_	AlignBegin=607.164864|AlignEnd=607.346628|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+11	complice	complice	ADJ	_	Gender=Fem|Number=Sing	10	comp:pred	_	AlignBegin=607.346628|AlignEnd=607.941201|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+12	dans	dans	ADP	_	_	9	mod	_	AlignBegin=607.941201|AlignEnd=608.074314|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+13	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	14	det	_	AlignBegin=608.074314|AlignEnd=608.21447|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+14	évasion	évasion	NOUN	_	Gender=Fem|Number=Sing	12	comp:obj	_	AlignBegin=608.21447|AlignEnd=608.793773|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = elle se trouvait dans le parloir de la prison au moment où les deux détenus se sont fait la belle //
+# sent_id = Rhap_M2006-57
+# text = elle se trouvait dans le parloir de la prison au moment où les deux détenus se sont fait la belle.
+1	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	subj	_	AlignBegin=609.113503|AlignEnd=609.188503|ANIMACY=HUM|HUM_SCORE=4|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+2	se	soi	PRON	_	Person=3|PronType=Prs	3	comp@expl	_	AlignBegin=609.188503|AlignEnd=609.355557|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+3	trouvait	trouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=609.355557|AlignEnd=609.678503|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+4	dans	dans	ADP	_	_	3	comp:obl	_	AlignBegin=609.678503|AlignEnd=609.768503|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	AlignBegin=609.768503|AlignEnd=609.988503|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+6	parloir	parloir	NOUN	_	Gender=Masc|Number=Sing	4	comp:obj	_	AlignBegin=609.988503|AlignEnd=610.328503|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak
+7	de	de	ADP	_	_	6	udep	_	AlignBegin=610.328503|AlignEnd=610.404937|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	AlignBegin=610.404937|AlignEnd=610.578503|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+9	prison	prison	NOUN	_	Gender=Fem|Number=Sing	7	comp:obj	_	AlignBegin=610.578503|AlignEnd=610.915647|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+10	au	au	ADP	_	_	3	mod	_	AlignBegin=610.915647|AlignEnd=610.989242|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+11	moment	moment	NOUN	_	Gender=Masc|Number=Sing	10	comp:obj	_	AlignBegin=610.989242|AlignEnd=611.386402|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+12	où	où	PRON	_	PronType=Rel	17	mod	_	AlignBegin=611.386402|AlignEnd=611.485647|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+13	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	15	det	_	AlignBegin=611.485647|AlignEnd=611.592255|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+14	deux	deux	NUM	_	Number=Plur	15	mod	_	AlignBegin=611.592255|AlignEnd=611.741171|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+15	détenus	détenu	NOUN	_	Gender=Masc|Number=Plur	17	subj@pass	_	AlignBegin=611.741171|AlignEnd=612.103961|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+16	se	soi	PRON	_	Person=3|PronType=Prs	18	comp@expl	_	AlignBegin=612.103961|AlignEnd=612.255647|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+17	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	mod@relcl	_	AlignBegin=612.255647|AlignEnd=612.476459|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+18	fait	faire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	comp:aux@pass	_	AlignBegin=612.476459|AlignEnd=612.655647|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+19	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	AlignBegin=612.655647|AlignEnd=612.793999|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+20	belle	beau	NOUN	_	Gender=Fem|Number=Sing	18	comp:obj	_	AlignBegin=612.793999|AlignEnd=613.062265|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+21	.	.	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = le procès d'Yvan Colonna tourne à la foire d'empoigne //
+# sent_id = Rhap_M2006-58
+# text = le procès d'Yvan Colonna tourne à la foire d'empoigne.
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	AlignBegin=613.889851|AlignEnd=614.084851|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+2	procès	procès	NOUN	_	Gender=Masc|Number=Sing	6	subj	_	AlignBegin=614.084851|AlignEnd=614.539231|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+3	d'	de	ADP	_	_	2	udep	_	AlignBegin=614.539231|AlignEnd=614.89181|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak|SpaceAfter=No
+4	Yvan	Yvan	PROPN	_	_	3	comp:obj	_	AlignBegin=614.539231|AlignEnd=614.89181|ANIMACY=HUM|HUM_SCORE=2|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+5	Colonna	Colonna	PROPN	_	_	4	flat@name	_	AlignBegin=614.89181|AlignEnd=615.296948|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+6	tourne	tourner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=615.296948|AlignEnd=615.54222|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+7	à	à	ADP	_	_	6	comp:obl	_	AlignBegin=615.54222|AlignEnd=615.594851|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	AlignBegin=615.594851|AlignEnd=615.762782|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+9	foire	foire	NOUN	_	Gender=Fem|Number=Sing	7	comp:obj	_	AlignBegin=615.762782|AlignEnd=616.012434|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+10	d'	de	ADP	_	_	9	udep	_	AlignBegin=616.012434|AlignEnd=616.730092|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+11	empoigne	empoigne	NOUN	_	Gender=Fem|Number=Sing	10	comp:obj	_	AlignBegin=616.012434|AlignEnd=616.730092|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+12	.	.	PUNCT	_	_	6	punct	_	_
+
+# macrosyntax = la tension est encore montée d'un cran hier //
+# sent_id = Rhap_M2006-59
+# text = la tension est encore montée d'un cran hier.
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	AlignBegin=616.730092|AlignEnd=616.915275|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+2	tension	tension	NOUN	_	Gender=Fem|Number=Sing	3	subj	_	AlignBegin=616.915275|AlignEnd=617.465092|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=617.465092|AlignEnd=617.649742|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+4	encore	encore	ADV	_	_	3	mod	_	AlignBegin=617.649742|AlignEnd=617.910344|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	montée	monter	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	comp:aux@tense	_	AlignBegin=617.910344|AlignEnd=618.221315|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+6	d'	de	ADP	_	_	5	comp:obl	_	AlignBegin=618.221315|AlignEnd=618.429358|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	AlignBegin=618.221315|AlignEnd=618.429358|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+8	cran	cran	NOUN	_	Gender=Masc|Number=Sing	6	comp:obj	_	AlignBegin=618.429358|AlignEnd=618.687771|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+9	hier	hier	ADV	_	_	3	mod	_	AlignBegin=618.687771|AlignEnd=619.13005|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = les avocats du berger corse ont quitté le procès en attendant que la cour d'assise se prononce sur leur demande de supplément d'information //
+# sent_id = Rhap_M2006-60
+# text = les avocats du berger corse ont quitté le procès en attendant que la cour d'assise se prononce sur leur demande de supplément d'information.
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	AlignBegin=619.13005|AlignEnd=619.363388|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+2	avocats	avocat	NOUN	_	Gender=Masc|Number=Plur	6	subj	_	AlignBegin=619.363388|AlignEnd=619.687499|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+3	du	du	ADP	_	_	2	udep	_	AlignBegin=619.687499|AlignEnd=619.748486|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+4	berger	berger	NOUN	_	Gender=Masc|Number=Sing	3	comp:obj	_	AlignBegin=619.748486|AlignEnd=620.115849|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+5	corse	corse	ADJ	_	Gender=Masc|Number=Sing	4	mod	_	AlignBegin=620.115849|AlignEnd=620.404939|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+6	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=620.404939|AlignEnd=620.490327|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+7	quitté	quitter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	comp:aux@tense	_	AlignBegin=620.490327|AlignEnd=620.891608|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	AlignBegin=620.891608|AlignEnd=620.922267|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+9	procès	procès	NOUN	_	Gender=Masc|Number=Sing	7	comp:obj	_	AlignBegin=620.922267|AlignEnd=621.433651|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+10	en	en	ADP	_	_	6	mod	_	AlignBegin=621.722722|AlignEnd=621.911291|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+11	attendant	attendre	VERB	_	Tense=Pres|VerbForm=Part	10	comp:obj	_	AlignBegin=621.911291|AlignEnd=622.420892|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+12	que	que	SCONJ	_	_	11	comp:obj	_	AlignBegin=622.420892|AlignEnd=622.4764|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Weak
+13	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	AlignBegin=622.4764|AlignEnd=622.609226|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+14	cour	cour	NOUN	_	Gender=Fem|Number=Sing	18	subj	_	AlignBegin=622.609226|AlignEnd=622.80632|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+15	d'	de	ADP	_	_	14	udep	_	AlignBegin=622.80632|AlignEnd=623.14138|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+16	assise	assise	NOUN	_	Gender=Fem|Number=Sing	15	comp:obj	_	AlignBegin=622.80632|AlignEnd=623.14138|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+17	se	soi	PRON	_	Person=3|PronType=Prs	18	comp@expl	_	AlignBegin=623.14138|AlignEnd=623.338474|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+18	prononce	prononcer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	comp:obj	_	AlignBegin=623.338474|AlignEnd=623.707359|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+19	sur	sur	ADP	_	_	18	comp:obl	_	AlignBegin=623.707359|AlignEnd=623.932535|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+20	leur	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=3|Poss=Yes|PronType=Prs	21	det	_	AlignBegin=623.932535|AlignEnd=624.162359|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+21	demande	demande	NOUN	_	Gender=Fem|Number=Sing	19	comp:obj	_	AlignBegin=624.162359|AlignEnd=624.494726|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+22	de	de	ADP	_	_	21	udep	_	AlignBegin=624.494726|AlignEnd=624.591083|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+23	supplément	supplément	NOUN	_	Gender=Masc|Number=Sing	22	comp:obj	_	AlignBegin=624.591083|AlignEnd=625.169225|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+24	d'	de	ADP	_	_	23	udep	_	AlignBegin=625.169225|AlignEnd=625.979744|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+25	information	information	NOUN	_	Gender=Fem|Number=Sing	24	comp:obj	_	AlignBegin=625.169225|AlignEnd=625.979744|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+26	.	.	PUNCT	_	_	6	punct	_	_
+
+# macrosyntax = lundi <+ le président avait annoncé qu'il rendrait sa décision { dans un délai raisonnable | après avoir entendu notamment l'ancien préfet Bonnet } //
+# sent_id = Rhap_M2006-61
+# text = lundi, le président avait annoncé qu'il rendrait sa décision dans un délai raisonnable, après avoir entendu notamment l'ancien préfet Bonnet.
+1	lundi	lundi	NOUN	_	Gender=Masc|Number=Sing	5	mod	_	AlignBegin=626.404591|AlignEnd=626.823066|GovNucleus=U|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	AlignBegin=626.823066|AlignEnd=626.943512|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+4	président	président	NOUN	_	Gender=Masc|Number=Sing	5	subj	_	AlignBegin=626.943512|AlignEnd=627.33989|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+5	avait	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=627.33989|AlignEnd=627.575375|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+6	annoncé	annoncer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	comp:aux@tense	_	AlignBegin=627.575375|AlignEnd=627.929591|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+7	qu'	que	SCONJ	_	_	6	comp:obj	_	AlignBegin=627.929591|AlignEnd=628.104327|ANIMACY=HUM|HUM_SCORE=4|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+8	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	subj	_	AlignBegin=627.929591|AlignEnd=628.104327|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+9	rendrait	rendre	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	comp:obj	_	AlignBegin=628.104327|AlignEnd=628.546149|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+10	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	11	det	_	AlignBegin=628.546149|AlignEnd=628.758572|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+11	décision	décision	NOUN	_	Gender=Fem|Number=Sing	9	comp:obj	_	AlignBegin=628.758572|AlignEnd=629.218147|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+12	dans	dans	ADP	_	_	9	mod	_	AlignBegin=629.218147|AlignEnd=629.415241|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+13	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	AlignBegin=629.415241|AlignEnd=629.513788|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+14	délai	délai	NOUN	_	Gender=Masc|Number=Sing	12	comp:obj	_	AlignBegin=629.513788|AlignEnd=630.075754|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+15	raisonnable	raisonnable	ADJ	_	Gender=Masc|Number=Sing	14	mod	_	AlignBegin=630.185251|AlignEnd=631.021806|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	après	après	ADP	_	_	12	conj:appos	_	AlignBegin=631.109403|AlignEnd=631.459304|Layer=Begin|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak|TypeInherited=AdInherited|TypePara=ParaDform
+18	avoir	avoir	AUX	_	VerbForm=Inf	17	comp:obj	_	AlignBegin=631.459304|AlignEnd=631.706767|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Strong|Subject=SubjRaising
+19	entendu	entendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	comp:aux@tense	_	AlignBegin=631.706767|AlignEnd=632.065082|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+20	notamment	notamment	ADV	_	_	23	mod	_	AlignBegin=632.065082|AlignEnd=632.620286|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+21	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	23	det	_	AlignBegin=632.620286|AlignEnd=633.17872|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+22	ancien	ancien	ADJ	_	Gender=Masc|Number=Sing	23	mod	_	AlignBegin=632.620286|AlignEnd=633.17872|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+23	préfet	préfet	NOUN	_	Gender=Masc|Number=Sing	19	comp:obj	_	AlignBegin=633.17872|AlignEnd=633.579477|ANIMACY=HUM|HUM_SCORE=1|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+24	Bonnet	Bonnet	PROPN	_	_	23	mod@appos	_	AlignBegin=633.579477|AlignEnd=633.965077|ANIMACY=HUM|HUM_SCORE=2|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+25	.	.	PUNCT	_	_	5	punct	_	_
+
+# macrosyntax = depuis vendredi soir <+ la défense fait le forcing pour prendre le contrôle des débats //
+# sent_id = Rhap_M2006-62
+# text = depuis vendredi soir, la défense fait le forcing pour prendre le contrôle des débats.
+1	depuis	depuis	ADP	_	_	7	mod	_	AlignBegin=634.446653|AlignEnd=634.70139|GovNucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+2	vendredi	vendredi	NOUN	_	Gender=Masc|Number=Sing	1	comp:obj	_	AlignBegin=634.70139|AlignEnd=635.108718|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+3	soir	soir	NOUN	_	Gender=Masc|Number=Sing	2	compound	_	AlignBegin=635.108718|AlignEnd=635.500716|GovNucleus=Last|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	AlignBegin=635.500716|AlignEnd=635.667151|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+6	défense	défense	NOUN	_	Gender=Fem|Number=Sing	7	subj	_	AlignBegin=635.667151|AlignEnd=636.206662|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+7	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=636.206662|AlignEnd=636.321662|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	AlignBegin=636.321662|AlignEnd=636.399485|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+9	forcing	forcing	NOUN	_	Gender=Masc|Number=Sing	7	comp:obj	_	AlignBegin=636.399485|AlignEnd=636.934627|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+10	pour	pour	ADP	_	_	7	mod	_	AlignBegin=636.934627|AlignEnd=637.119627|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+11	prendre	prendre	VERB	_	VerbForm=Inf	10	comp:obj	_	AlignBegin=637.119627|AlignEnd=637.506977|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|Subject=NoRaising
+12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	AlignBegin=637.506977|AlignEnd=637.669627|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+13	contrôle	contrôle	NOUN	_	Gender=Masc|Number=Sing	11	comp:obj@lvc	_	AlignBegin=637.669627|AlignEnd=638.098873|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+14	des	de	ADP	_	_	13	comp:obj	_	AlignBegin=638.098873|AlignEnd=638.213873|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+15	débats	débat	NOUN	_	Gender=Masc|Number=Plur	14	comp:obj	_	AlignBegin=638.213873|AlignEnd=638.660085|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+16	.	.	PUNCT	_	_	7	punct	_	_
+
+# macrosyntax = on écoute maître Sollacaro ( il est { l'avocat | l'un des avocats } d'Yvan Colonna ) au micro de Christian Binner //
+# sent_id = Rhap_M2006-63
+# text = on écoute maître Sollacaro , il est l'avocat, l'un des avocats d'Yvan Colonna, au micro de Christian Binner.
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	subj	_	AlignBegin=638.979816|AlignEnd=639.126481|ANIMACY=HUM|HUM_SCORE=5|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+2	écoute	écouter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=639.126481|AlignEnd=639.527239|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+3	maître	maître	NOUN	_	Gender=Masc|Number=Sing	2	comp:obj	_	AlignBegin=639.527239|AlignEnd=639.927685|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	Sollacaro	Sollacaro	PROPN	_	_	3	mod@appos	_	AlignBegin=639.927685|AlignEnd=640.621894|ANIMACY=HUM|HUM_SCORE=2|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+5	,	,	PUNCT	_	_	3	mod@appos	_	_
+6	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	subj	_	AlignBegin=640.621894|AlignEnd=640.707302|ANIMACY=HUM|HUM_SCORE=40|IU_parenthesis=Begin|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis:parenth	_	AlignBegin=640.707302|AlignEnd=640.827748|IU_parenthesis=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+8	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	AlignBegin=640.827748|AlignEnd=641.334816|IU_parenthesis=In|Layer=Begin|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+9	avocat	avocat	NOUN	_	Gender=Masc|Number=Sing	7	comp:pred	_	AlignBegin=640.827748|AlignEnd=641.334816|ANIMACY=HUM|HUM_SCORE=1|IU_parenthesis=In|Layer=Last|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+10	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	11	det	_	AlignBegin=641.334816|AlignEnd=641.479693|IU_parenthesis=In|Layer=Begin|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No|TypeInherited=PredInherited|TypePara=ParaReform
+11	un	un	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	9	conj:dicto	_	AlignBegin=641.334816|AlignEnd=641.479693|IU_parenthesis=In|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+12	des	de	ADP	_	_	11	comp:obl	_	AlignBegin=641.479693|AlignEnd=641.703066|IU_parenthesis=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+13	avocats	avocat	NOUN	_	Gender=Masc|Number=Plur	12	comp:obj	_	AlignBegin=641.703066|AlignEnd=642.044696|ANIMACY=HUM|HUM_SCORE=1|IU_parenthesis=In|Layer=Last|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+14	d'	de	ADP	_	_	13	udep	_	AlignBegin=642.044696|AlignEnd=642.303108|IU_parenthesis=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No|TypeInherited=DepInherited
+15	Yvan	Yvan	PROPN	_	_	14	comp:obj	_	AlignBegin=642.044696|AlignEnd=642.303108|ANIMACY=HUM|HUM_SCORE=2|IU_parenthesis=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+16	Colonna	Colonna	PROPN	_	_	15	flat@name	_	AlignBegin=642.303108|AlignEnd=642.703122|IU_parenthesis=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+17	,	,	PUNCT	_	_	7	punct	_	_
+18	au	au	ADP	_	_	2	mod	_	AlignBegin=643.119209|AlignEnd=643.214209|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+19	micro	micro	NOUN	_	Gender=Masc|Number=Sing	18	comp:obj	_	AlignBegin=643.214209|AlignEnd=643.514209|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+20	de	de	ADP	_	_	19	udep	_	AlignBegin=643.514209|AlignEnd=643.629947|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+21	Christian	Christian	PROPN	_	_	20	comp:obj	_	AlignBegin=643.629947|AlignEnd=643.986906|ANIMACY=HUM|HUM_SCORE=2|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+22	Binner	Binner	PROPN	_	_	21	flat@name	_	AlignBegin=643.986906|AlignEnd=644.345363|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = pour { Philippe Lemaire | (+ l'avocat des parties civiles ) } <+ { c'est d~ | ce sont des } procédés terroristes //
+# sent_id = Rhap_M2006-64
+# text = pour Philippe Lemaire, l'avocat des parties civiles, c'est d~, ce sont des procédés terroristes.
+1	pour	pour	ADP	_	_	12	mod	_	AlignBegin=683.700131|AlignEnd=683.785033|GovNucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|TypeInherited=AdInherited
+2	Philippe	Philippe	PROPN	_	_	1	comp:obj	_	AlignBegin=683.785033|AlignEnd=684.045635|ANIMACY=HUM|GovNucleus=In|HUM_SCORE=2|Layer=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+3	Lemaire	Lemaire	PROPN	_	_	2	flat@name	_	AlignBegin=684.045635|AlignEnd=684.417924|GovNucleus=In|Layer=Last|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	6	det	_	AlignBegin=684.417924|AlignEnd=684.457343|GovNucleus=In|Innucleus=Begin|Layer=Begin|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+6	avocat	avocat	NOUN	_	Gender=Masc|Number=Sing	2	conj:appos	_	AlignBegin=684.457343|AlignEnd=685.100151|ANIMACY=HUM|GovNucleus=In|HUM_SCORE=1|Innucleus=In|Layer=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|TypeInherited=DepInherited|TypePara=ParaDform
+7	des	de	ADP	_	_	6	udep	_	AlignBegin=685.100151|AlignEnd=685.212352|GovNucleus=In|Innucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+8	parties	partie	NOUN	_	Gender=Fem|Number=Plur	7	comp:obj	_	AlignBegin=685.212352|AlignEnd=685.556172|GovNucleus=In|Innucleus=In|Layer=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+9	civiles	civil	ADJ	_	Gender=Fem|Number=Plur	8	mod	_	AlignBegin=685.556172|AlignEnd=686.275078|GovNucleus=Last|Innucleus=Last|Layer=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+10	,	,	PUNCT	_	_	1	punct	_	_
+11	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	subj	_	AlignBegin=686.275078|AlignEnd=686.440389|Hesitation=Yes|Layer=Begin|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+12	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=686.275078|AlignEnd=686.440389|Hesitation=Yes|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+13	d~	d~	X	_	_	12	comp:pred	_	AlignBegin=686.440389|AlignEnd=686.690041|Hesitation=Yes|Layer=Last|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	ce	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	16	subj	_	AlignBegin=686.690041|AlignEnd=686.849906|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+16	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	conj:dicto	_	AlignBegin=686.849906|AlignEnd=687.095179|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|TypeInherited=RootInherited|TypePara=ParaReform
+17	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	18	det	_	AlignBegin=687.095179|AlignEnd=687.303223|Layer=Last|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+18	procédés	procédé	NOUN	_	Gender=Masc|Number=Plur	16	comp:pred	_	AlignBegin=687.303223|AlignEnd=687.922974|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|TypeInherited=PredInherited
+19	terroristes	terroriste	ADJ	_	Number=Plur	18	mod	_	AlignBegin=687.922974|AlignEnd=688.701315|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+20	.	.	PUNCT	_	_	12	punct	_	_
+
+# macrosyntax = il le dit à Laurent Doulsant //
+# sent_id = Rhap_M2006-65
+# text = il le dit à Laurent Doulsant.
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	subj	_	AlignBegin=688.775772|AlignEnd=688.906371|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak
+2	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=688.906371|AlignEnd=689.099085|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+3	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=689.099085|AlignEnd=689.348737|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+4	à	à	ADP	_	_	3	comp:obl	_	AlignBegin=689.348737|AlignEnd=689.438525|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+5	Laurent	Laurent	PROPN	_	_	4	comp:obj	_	AlignBegin=689.438525|AlignEnd=689.661898|ANIMACY=HUM|HUM_SCORE=2|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+6	Doulsant	Doulsant	PROPN	_	_	5	flat@name	_	AlignBegin=689.661898|AlignEnd=690.080973|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = direction maintenant Barcelone pour un congrès consacré au téléphone mobile >+ en crise lui aussi //
+# sent_id = Rhap_M2006-66
+# text = direction maintenant Barcelone pour un congrès consacré au téléphone mobile en crise lui aussi.
+1	direction	direction	ADP	_	_	0	root	_	AlignBegin=741.133321|AlignEnd=741.564037|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+2	maintenant	maintenant	ADV	_	_	1	mod	_	AlignBegin=741.564037|AlignEnd=742.142179|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+3	Barcelone	Barcelone	PROPN	_	_	1	comp:obj	_	AlignBegin=742.142179|AlignEnd=742.8502|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+4	pour	pour	ADP	_	_	1	mod	_	AlignBegin=742.924658|AlignEnd=743.064353|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Strong
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	AlignBegin=743.064353|AlignEnd=743.16071|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+6	congrès	congrès	NOUN	_	Gender=Masc|Number=Sing	4	comp:obj	_	AlignBegin=743.16071|AlignEnd=743.750188|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+7	consacré	consacrer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	mod	_	AlignBegin=743.824646|AlignEnd=744.37231|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+8	au	au	ADP	_	_	7	comp:obl	_	AlignBegin=744.37231|AlignEnd=744.479617|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+9	téléphone	téléphone	NOUN	_	Gender=Masc|Number=Sing	8	comp:obj	_	AlignBegin=744.479617|AlignEnd=744.919793|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+10	mobile	mobile	ADJ	_	Number=Sing	9	mod	_	AlignBegin=744.919793|AlignEnd=745.494419|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+11	en	en	ADP	_	_	9	udep	_	AlignBegin=745.638954|AlignEnd=745.791282|GovPostnucleus=Begin|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+12	crise	crise	NOUN	_	Gender=Fem|Number=Sing	11	comp:obj	_	AlignBegin=745.791282|AlignEnd=746.240219|GovPostnucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+13	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	mod	_	AlignBegin=746.240219|AlignEnd=746.380374|GovPostnucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+14	aussi	aussi	ADV	_	_	13	mod	_	AlignBegin=746.380374|AlignEnd=746.908907|GovPostnucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+# macrosyntax = pour la première fois dans l'histoire du portable <+ les ventes devraient baisser en deux mille neuf //
+# sent_id = Rhap_M2006-67
+# text = pour la première fois dans l'histoire du portable, les ventes devraient baisser en deux mille neuf.
+1	pour	pour	ADP	_	_	14	mod	_	AlignBegin=747.342514|AlignEnd=747.411563|GovNucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+2	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	AlignBegin=747.411563|AlignEnd=747.507514|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+3	première	premier	ADJ	_	Gender=Fem|Number=Sing	4	mod	_	AlignBegin=747.507514|AlignEnd=747.852368|GovNucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+4	fois	fois	NOUN	_	Gender=Fem|Number=Sing	1	comp:obj	_	AlignBegin=747.852368|AlignEnd=748.172098|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+5	dans	dans	ADP	_	_	4	udep	_	AlignBegin=748.172098|AlignEnd=748.364812|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+6	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	AlignBegin=748.364812|AlignEnd=748.95401|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+7	histoire	histoire	NOUN	_	Gender=Fem|Number=Sing	5	comp:obj	_	AlignBegin=748.364812|AlignEnd=748.95401|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+8	du	du	ADP	_	_	7	udep	_	AlignBegin=748.95401|AlignEnd=749.041402|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+9	portable	portable	NOUN	_	Gender=Masc|Number=Sing	8	comp:obj	_	AlignBegin=749.041402|AlignEnd=749.674293|GovNucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+10	,	,	PUNCT	_	_	1	punct	_	_
+11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	AlignBegin=749.674293|AlignEnd=749.96401|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12	ventes	vente	NOUN	_	Gender=Fem|Number=Plur	13	subj	_	AlignBegin=749.96401|AlignEnd=750.298509|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+13	devraient	devoir	VERB	_	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=750.298509|AlignEnd=750.773957|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+14	baisser	baisser	VERB	_	VerbForm=Inf	13	comp:obj	_	AlignBegin=750.773957|AlignEnd=751.126536|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong|Subject=SubjRaising
+15	en	en	ADP	_	_	14	mod	_	AlignBegin=751.126536|AlignEnd=751.236033|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+16	deux	deux	NUM	_	Number=Plur	15	comp:obj	_	AlignBegin=751.236033|AlignEnd=751.33458|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+17	mille	mille	NUM	_	Number=Plur	16	flat	_	AlignBegin=751.33458|AlignEnd=751.533864|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+18	neuf	neuf	NUM	_	Number=Plur	17	flat	_	AlignBegin=751.533864|AlignEnd=752.002068|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+19	.	.	PUNCT	_	_	13	punct	_	_
+
+# macrosyntax = ^et derrière un sourire de façade <+ les constructeurs ne réagissent pas tous de la même façon > Hélène Chevalier //
+# sent_id = Rhap_M2006-68
+# text = et derrière un sourire de façade, les constructeurs ne réagissent pas tous de la même façon, Hélène Chevalier.
+1	et	et	CCONJ	_	_	11	cc	_	AlignBegin=752.050246|AlignEnd=752.145589|Intro_IU=U|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak
+2	derrière	derrière	ADP	_	_	11	mod	_	AlignBegin=752.145589|AlignEnd=752.465319|GovNucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Strong
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	AlignBegin=752.465319|AlignEnd=752.539777|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	sourire	sourire	NOUN	_	Gender=Masc|Number=Sing	2	comp:obj	_	AlignBegin=752.539777|AlignEnd=752.96107|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+5	de	de	ADP	_	_	4	udep	_	AlignBegin=752.96107|AlignEnd=753.041272|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+6	façade	façade	NOUN	_	Gender=Fem|Number=Sing	5	comp:obj	_	AlignBegin=753.041272|AlignEnd=753.727646|GovNucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+7	,	,	PUNCT	_	_	2	punct	_	_
+8	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	AlignBegin=753.727646|AlignEnd=753.870428|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+9	constructeurs	constructeur	NOUN	_	Gender=Masc|Number=Plur	11	subj	_	AlignBegin=753.870428|AlignEnd=754.755162|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+10	ne	ne	ADV	_	Polarity=Neg	11	mod	_	AlignBegin=754.755162|AlignEnd=754.910647|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+11	réagissent	réagir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=754.910647|AlignEnd=755.289264|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12	pas	pas	ADV	_	Polarity=Neg	11	mod	_	AlignBegin=755.289264|AlignEnd=755.449687|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+13	tous	tout	ADJ	_	Gender=Masc|Number=Plur	11	mod	_	AlignBegin=755.449687|AlignEnd=755.795697|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+14	de	de	ADP	_	_	11	mod	_	AlignBegin=755.795697|AlignEnd=756.01688|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+15	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	AlignBegin=756.01688|AlignEnd=756.114264|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+16	même	même	ADJ	_	Number=Sing	17	mod	_	AlignBegin=756.114264|AlignEnd=756.274264|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+17	façon	façon	NOUN	_	Gender=Fem|Number=Sing	14	comp:obj	_	AlignBegin=756.274264|AlignEnd=756.670917|Nucleus=Last|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak|SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	Hélène	Hélène	PROPN	_	_	11	vocative	_	AlignBegin=756.670917|AlignEnd=756.907038|ANIMACY=HUM|HUM_SCORE=2|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+20	Chevalier	Chevalier	PROPN	_	_	19	flat@name	_	AlignBegin=756.907038|AlignEnd=757.351973|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+21	.	.	PUNCT	_	_	11	punct	_	_
+
+# macrosyntax = un mot de foot //
+# sent_id = Rhap_M2006-69
+# text = un mot de foot.
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	AlignBegin=850.041|AlignEnd=850.130669|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+2	mot	mot	NOUN	_	Gender=Masc|Number=Sing	0	root	_	AlignBegin=850.130669|AlignEnd=850.277394|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+3	de	de	ADP	_	_	2	udep	_	AlignBegin=850.277394|AlignEnd=850.310243|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+4	foot	foot	NOUN	_	Gender=Masc|Number=Sing	3	comp:obj	_	AlignBegin=850.310243|AlignEnd=850.662822|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Weak|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = on jouait trois matchs en retard dans la vingtième journée de ligue un hier //
+# sent_id = Rhap_M2006-70
+# text = on jouait trois matchs en retard dans la vingtième journée de ligue un hier.
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	subj	_	AlignBegin=850.662822|AlignEnd=850.794218|ANIMACY=HUM|HUM_SCORE=5|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak
+2	jouait	jouer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=850.794218|AlignEnd=851.0592|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+3	trois	trois	NUM	_	Number=Plur	4	det	_	AlignBegin=851.0592|AlignEnd=851.271624|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+4	matchs	match	NOUN	_	Gender=Masc|Number=Plur	2	comp:obj	_	AlignBegin=851.271624|AlignEnd=851.540903|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+5	en	en	ADP	_	_	4	udep	_	AlignBegin=851.540903|AlignEnd=851.585903|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+6	retard	retard	NOUN	_	Gender=Masc|Number=Sing	5	comp:obj	_	AlignBegin=851.585903|AlignEnd=851.86364|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+7	dans	dans	ADP	_	_	4	udep	_	AlignBegin=851.86364|AlignEnd=852.010366|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	AlignBegin=852.010366|AlignEnd=852.152711|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+9	vingtième	vingtième	ADJ	_	Gender=Fem|Number=Sing	10	mod	_	AlignBegin=852.152711|AlignEnd=852.59843|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+10	journée	journée	NOUN	_	Gender=Fem|Number=Sing	7	comp:obj	_	AlignBegin=852.59843|AlignEnd=852.902097|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+11	de	de	ADP	_	_	10	udep	_	AlignBegin=852.902097|AlignEnd=853.053422|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+12	ligue	ligue	NOUN	_	Gender=Fem|Number=Sing	11	comp:obj	_	AlignBegin=853.053422|AlignEnd=853.373344|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+13	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	mod@appos	_	AlignBegin=853.373344|AlignEnd=853.579198|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+14	hier	hier	ADV	_	_	2	mod	_	AlignBegin=853.579198|AlignEnd=854.060983|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = { match nul | zéro partout } pour Lille au Mans //
+# sent_id = Rhap_M2006-71
+# text = match nul, zéro partout pour Lille au Mans.
+1	match	match	NOUN	_	Gender=Masc|Number=Sing	0	root	_	AlignBegin=854.060983|AlignEnd=854.552051|Layer=Begin|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+2	nul	nul	ADJ	_	Gender=Masc|Number=Sing	1	mod	_	AlignBegin=854.552051|AlignEnd=854.923195|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	zéro	zéro	NOUN	_	Gender=Masc|Number=Sing	1	conj:appos	_	AlignBegin=854.923195|AlignEnd=855.256065|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak|TypeInherited=RootInherited|TypePara=ParaDform
+5	partout	partout	ADV	_	_	4	mod	_	AlignBegin=855.256065|AlignEnd=855.737712|Layer=Last|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+6	pour	pour	ADP	_	_	4	udep	_	AlignBegin=855.737712|AlignEnd=855.931664|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|TypeInherited=DepInherited
+7	Lille	Lille	PROPN	_	_	6	comp:obj	_	AlignBegin=855.931664|AlignEnd=856.285195|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+8	au	au	ADP	_	_	4	udep	_	AlignBegin=856.355273|AlignEnd=856.529516|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong|TypeInherited=DepInherited
+9	Mans	Mans	PROPN	_	_	8	comp:obj	_	AlignBegin=856.529516|AlignEnd=856.846277|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# macrosyntax = Valenciennes sort de la zone de relégation après sa victoire sur Caen >+ deux zéro //
+# sent_id = Rhap_M2006-72
+# text = Valenciennes sort de la zone de relégation après sa victoire sur Caen deux zéro.
+1	Valenciennes	Valenciennes	PROPN	_	_	2	subj	_	AlignBegin=857.167675|AlignEnd=857.81448|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+2	sort	sortir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=857.81448|AlignEnd=858.032434|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+3	de	de	ADP	_	_	2	comp:obl	_	AlignBegin=858.032434|AlignEnd=858.14412|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	AlignBegin=858.14412|AlignEnd=858.299606|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+5	zone	zone	NOUN	_	Gender=Fem|Number=Sing	3	comp:obj	_	AlignBegin=858.299606|AlignEnd=858.531739|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+6	de	de	ADP	_	_	5	udep	_	AlignBegin=858.531739|AlignEnd=858.669704|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+7	relégation	relégation	NOUN	_	Gender=Fem|Number=Sing	6	comp:obj	_	AlignBegin=858.669704|AlignEnd=859.264638|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+8	après	après	ADP	_	_	2	mod	_	AlignBegin=859.264638|AlignEnd=859.518671|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+9	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	10	det	_	AlignBegin=859.518671|AlignEnd=859.669988|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+10	victoire	victoire	NOUN	_	Gender=Fem|Number=Sing	8	comp:obj	_	AlignBegin=859.669988|AlignEnd=860.092645|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+11	sur	sur	ADP	_	_	10	udep	_	AlignBegin=860.092645|AlignEnd=860.307258|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+12	Caen	Caen	PROPN	_	_	11	comp:obj	_	AlignBegin=860.307258|AlignEnd=860.830497|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+13	deux	deux	NUM	_	Number=Plur	10	mod	_	AlignBegin=860.900575|AlignEnd=861.159196|GovPostnucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+14	zéro	zéro	NUM	_	Number=Sing	13	conj:coord	_	AlignBegin=861.159196|AlignEnd=861.567729|GovPostnucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = Nice s'impose à Nancy >+ deux à un //
+# sent_id = Rhap_M2006-73
+# text = Nice s'impose à Nancy deux à un.
+1	Nice	Nice	PROPN	_	_	3	subj	_	AlignBegin=861.86556|AlignEnd=862.363454|ANIMACY=HUM|HUM_SCORE=4|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+2	s'	soi	PRON	_	Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=862.363454|AlignEnd=862.82115|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+3	impose	imposer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=862.363454|AlignEnd=862.82115|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+4	à	à	ADP	_	_	3	comp:obl	_	AlignBegin=862.82115|AlignEnd=862.88056|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+5	Nancy	Nancy	PROPN	_	_	4	comp:obj	_	AlignBegin=862.88056|AlignEnd=863.345955|ANIMACY=HUM|HUM_SCORE=4|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+6	deux	deux	NUM	_	Number=Plur	3	mod	_	AlignBegin=863.455452|AlignEnd=863.761156|GovPostnucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+7	à	à	ADP	_	_	8	cc	_	AlignBegin=863.761156|AlignEnd=863.905692|GovPostnucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+8	un	un	NUM	_	Number=Sing	6	conj:coord	_	AlignBegin=863.905692|AlignEnd=864.055494|GovPostnucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
+

@@ -1,0 +1,3696 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="00-lsschema.rnc" type="application/relax-ng-compact-syntax"?>
+<model>
+<group>
+<family id="ls:fr:lffam:1" name="1-I">
+<lexicalfunction id="ls:fr:lf:888" name="$1=‘sportifs’ " status="0" linktype="syntagmatic" standardness="valency controlled" semantics="1">
+<![CDATA[
+ <span class="FLb">$1=‘sportifs’ </span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:889" name="$1=‘paysans’ " status="0" linktype="syntagmatic" standardness="valency controlled" semantics="1">
+<![CDATA[
+ <span class="FLb">$1=‘paysans’ </span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:894" name="$1=‘chanteurs’ " status="0" linktype="syntagmatic" standardness="valency controlled" semantics="1">
+<![CDATA[
+ <span class="FLb">$1=‘chanteurs’ </span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:895" name="$1=‘instrumentistes’ " status="0" linktype="syntagmatic" standardness="valency controlled" semantics="1">
+<![CDATA[
+ <span class="FLb">$1=‘instrumentistes’ </span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:926" name="$1=‘cyclistes’ " status="0" linktype="syntagmatic" standardness="valency controlled" semantics="1">
+<![CDATA[
+ <span class="FLb">$1=‘cyclistes’ </span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:2" name="2-II">
+<lexicalfunction id="ls:fr:lf:991" name="$2=‘négatif’ " status="0" linktype="syntagmatic" standardness="valency controlled" semantics="0">
+<![CDATA[
+ <span class="FLb">$2=‘négatif’ </span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:644" name="$2=‘médicaments et autres’ " status="0" linktype="syntagmatic" standardness="valency controlled" semantics="0">
+<![CDATA[
+ <span class="FLb">$2=‘médicaments et autres’ </span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:652" name="$2=‘affaires de toilette’ " status="1" linktype="syntagmatic" standardness="valency controlled" semantics="0">
+<![CDATA[
+ <span class="FLb">$2=‘affaires de toilette’ </span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:752" name="$2=‘muscle’ " status="0" linktype="syntagmatic" standardness="valency controlled" semantics="0">
+<![CDATA[
+ <span class="FLb">$2=‘muscle’ </span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:830" name="$2=‘s’arrêter’ " status="1" linktype="syntagmatic" standardness="valency controlled" semantics="0">
+<![CDATA[
+ <span class="FLb">$2=‘s’arrêter’ </span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:831" name="$2=‘continuer à rouler’ " status="1" linktype="syntagmatic" standardness="valency controlled" semantics="0">
+<![CDATA[
+ <span class="FLb">$2=‘continuer à rouler’ </span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:832" name="$2=‘se préparer à s’arrêter’ " status="1" linktype="syntagmatic" standardness="valency controlled" semantics="0">
+<![CDATA[
+ <span class="FLb">$2=‘se préparer à s’arrêter’ </span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:849" name="$2=‘vaisselle’ " status="1" linktype="syntagmatic" standardness="valency controlled" semantics="0">
+<![CDATA[
+ <span class="FLb">$2=‘vaisselle’ </span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:850" name="$2=‘mains’ " status="1" linktype="syntagmatic" standardness="valency controlled" semantics="0">
+<![CDATA[
+ <span class="FLb">$2=‘mains’ </span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:851" name="$2=‘verres’ " status="1" linktype="syntagmatic" standardness="valency controlled" semantics="0">
+<![CDATA[
+ <span class="FLb">$2=‘verres’ </span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:859" name="$2=‘linge’ " status="1" linktype="syntagmatic" standardness="valency controlled" semantics="0">
+<![CDATA[
+ <span class="FLb">$2=‘linge’ </span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:860" name="$2=‘corps’ " status="1" linktype="syntagmatic" standardness="valency controlled" semantics="0">
+<![CDATA[
+ <span class="FLb">$2=‘corps’ </span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:877" name="$2=‘autoroute’ " status="0" linktype="syntagmatic" standardness="valency controlled" semantics="0">
+<![CDATA[
+ <span class="FLb">$2=‘autoroute’ </span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:101" name="3-III">
+<lexicalfunction id="ls:fr:lf:908" name="$3=‘peur’ " status="0" linktype="syntagmatic" standardness="valency controlled" semantics="0">
+<![CDATA[
+ <span class="FLb">$3=‘peur’ </span>
+]]>
+</lexicalfunction>
+</family>
+</group>
+<group>
+<family id="ls:fr:lffam:3" name="Syn">
+<lexicalfunction id="ls:fr:lf:2" name="Syn" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Syn</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:4" name="Syn_⊂" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Syn</span> <span class ="sub">⊂</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:5" name="Syn_⊃" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Syn</span> <span class ="sub">⊃</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:3" name="Syn_∩" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Syn</span> <span class ="sub">∩</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:6" name="Hypo" status="0" linktype="paradigmatic" standardness="proposed simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Hypo</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:8" name="Cf" status="0" linktype="paradigmatic" standardness="non-standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Cf</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1055" name="Syn^sex" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Syn</span> <span class ="sup">sex</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:683" name="Syn_⊂^sex" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Syn</span> <span class ="sub">⊂</span> <span class ="sup">sex</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:387" name="Syn_⊃^sex" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Syn</span> <span class ="sub">⊃</span> <span class ="sup">sex</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:560" name="CapMult" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Cap</span> <span class ="FLb">Mult</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:862" name="De_nouveau" status="0" linktype="paradigmatic" standardness="locally standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">De_nouveau</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:915" name="Anc" status="0" linktype="paradigmatic" standardness="proposed simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Anc</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:4" name="Conv-ij">
+<lexicalfunction id="ls:fr:lf:912" name="Conv_2" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Conv</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:9" name="Conv_21" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Conv</span> <span class ="sub">21</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:459" name="Conv_21⊂" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Conv</span> <span class ="sub">21⊂</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:369" name="Conv_21⊃" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Conv</span> <span class ="sub">21⊃</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:460" name="Conv_21∩" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Conv</span> <span class ="sub">21∩</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:872" name="S_2 &amp; Conv_21" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">2</span> <span class ="combination">&</span> <span class ="FLb">Conv</span> <span class ="sub">21</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:357" name="Conv_213" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Conv</span> <span class ="sub">213</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:417" name="Conv_23" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Conv</span> <span class ="sub">23</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1011" name="Conv_231" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Conv</span> <span class ="sub">231</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:428" name="Conv_312" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Conv</span> <span class ="sub">312</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:733" name="Conv_32" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Conv</span> <span class ="sub">32</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:375" name="Conv_321" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Conv</span> <span class ="sub">321</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1005" name="Conv_3214" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Conv</span> <span class ="sub">3214</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:631" name="Conv_423" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Conv</span> <span class ="sub">423</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:5" name="Anti">
+<lexicalfunction id="ls:fr:lf:10" name="Anti" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Anti</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:11" name="Anti_⊃" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Anti</span> <span class ="sub">⊃</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:12" name="Anti_⊂" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Anti</span> <span class ="sub">⊂</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:13" name="Anti_∩" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Anti</span> <span class ="sub">∩</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:962" name="V_0Anti" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">V</span> <span class ="sub">0</span> <span class ="FLb">Anti</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:963" name="S_0Anti" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Anti</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:6" name="Non">
+<lexicalfunction id="ls:fr:lf:15" name="A_1Non" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1</span> <span class ="FLb">Non</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:7" name="Contr">
+<lexicalfunction id="ls:fr:lf:16" name="Contr" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Contr</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:17" name="Fem" status="0" linktype="paradigmatic" standardness="proposed simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Fem</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:18" name="Masc" status="0" linktype="paradigmatic" standardness="proposed simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Masc</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:8" name="Epit">
+<lexicalfunction id="ls:fr:lf:19" name="Epit" status="0" linktype="paradigmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Epit</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:447" name="Redun" status="0" linktype="paradigmatic" standardness="proposed simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Redun</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:563" name="Redun_⊃" status="0" linktype="paradigmatic" standardness="proposed simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Redun</span> <span class ="sub">⊃</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:9" name="Gener">
+<lexicalfunction id="ls:fr:lf:20" name="Gener" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Gener</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:10" name="Figur">
+<lexicalfunction id="ls:fr:lf:610" name="Figur" status="0" linktype="paradigmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Figur</span>
+]]>
+</lexicalfunction>
+</family>
+</group>
+<group>
+<family id="ls:fr:lffam:11" name="S0">
+<lexicalfunction id="ls:fr:lf:21" name="S_0" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:399" name="S_0⊂" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0⊂</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:348" name="S_0⊃" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0⊃</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:371" name="S_0∩" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0∩</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:900" name="S_1 v S_0" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1</span> <span class ="combination">v</span> <span class ="FLb">S</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:452" name="S_2 v S_0" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">2</span> <span class ="combination">v</span> <span class ="FLb">S</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:871" name="S_3 v S_0" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">3</span> <span class ="combination">v</span> <span class ="FLb">S</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:906" name="S_4 v S_0" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">4</span> <span class ="combination">v</span> <span class ="FLb">S</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:354" name="S_0Conv_21" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Conv</span> <span class ="sub">21</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:366" name="S_0Pred" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Pred</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:386" name="S_0Pred_⊂" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Pred</span> <span class ="sub">⊂</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:453" name="S_0Pred_∩" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Pred</span> <span class ="sub">∩</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:457" name="SingS_0" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Sing</span> <span class ="FLb">S</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:609" name="S_0^usual" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="sup">usual</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:836" name="S_0Conv_213" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Conv</span> <span class ="sub">213</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:890" name="S_res v S_0" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">res</span> <span class ="combination">v</span> <span class ="FLb">S</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:897" name="S_res &amp; S_0" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">res</span> <span class ="combination">&</span> <span class ="FLb">S</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:898" name="Magn_1^quant + S_0" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sub">1</span> <span class ="sup">quant</span> <span class ="combination">+</span> <span class ="FLb">S</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:12" name="V0">
+<lexicalfunction id="ls:fr:lf:23" name="V_0" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">V</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:24" name="V_0⊃" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">V</span> <span class ="sub">0⊃</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:25" name="V_0⊂" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">V</span> <span class ="sub">0⊂</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:26" name="V_0∩" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">V</span> <span class ="sub">0∩</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:346" name="V_0Conv_21" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">V</span> <span class ="sub">0</span> <span class ="FLb">Conv</span> <span class ="sub">21</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:835" name="V_0Conv_213" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">V</span> <span class ="sub">0</span> <span class ="FLb">Conv</span> <span class ="sub">213</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:904" name="V_0Conv_413" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">V</span> <span class ="sub">0</span> <span class ="FLb">Conv</span> <span class ="sub">413</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:955" name="Magn + V_0" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="combination">+</span> <span class ="FLb">V</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:13" name="A0">
+<lexicalfunction id="ls:fr:lf:28" name="A_0" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:342" name="A_0⊃" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">0⊃</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:351" name="A_1 v A_0" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1</span> <span class ="combination">v</span> <span class ="FLb">A</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:378" name="A_0Mult" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">0</span> <span class ="FLb">Mult</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:394" name="A_0⊂" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">0⊂</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:403" name="A_0∩" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">0∩</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:657" name="A_0Real_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">0</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:914" name="Adv_0 v A_0" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Adv</span> <span class ="sub">0</span> <span class ="combination">v</span> <span class ="FLb">A</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:14" name="Adv0">
+<lexicalfunction id="ls:fr:lf:29" name="Adv_0" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Adv</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:356" name="Adv_0∩" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Adv</span> <span class ="sub">0∩</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:415" name="Adv_0⊃" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Adv</span> <span class ="sub">0⊃</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:113" name="Claus">
+<lexicalfunction id="ls:fr:lf:1038" name="Claus" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Claus</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1046" name="Claus_⊃" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Claus</span> <span class ="sub">⊃</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:845" name="ClausCaus_1Pred" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Claus</span> <span class ="FLb">Caus</span> <span class ="sub">1</span> <span class ="FLb">Pred</span>
+]]>
+</lexicalfunction>
+</family>
+</group>
+<group>
+<family id="ls:fr:lffam:15" name="S1">
+<lexicalfunction id="ls:fr:lf:31" name="S_1" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:578" name="S_1⊂" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1⊂</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:341" name="S_1⊃" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1⊃</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:505" name="S_1∩" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1∩</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:30" name="S_1^usual" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1</span> <span class ="sup">usual</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:376" name="S_1⊃^usual" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1⊃</span> <span class ="sup">usual</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:509" name="S_1∩^usual" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1∩</span> <span class ="sup">usual</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:32" name="S_1/2^usual" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1/2</span> <span class ="sup">usual</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:34" name="S_1/2" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1/2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:35" name="individu S_1" status="0" linktype="paradigmatic" standardness="simple semi-standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:36" name="qui est en train de ~ S_1" status="0" linktype="paradigmatic" standardness="simple semi-standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:37" name="S_1^prototyp" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1</span> <span class ="sup">prototyp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1054" name="S_loc &amp; S_1^prototyp" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">loc</span> <span class ="combination">&</span> <span class ="FLb">S</span> <span class ="sub">1</span> <span class ="sup">prototyp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:38" name="S_1.2^prototyp" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1.2</span> <span class ="sup">prototyp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:39" name="MultS_1^prototyp" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Mult</span> <span class ="FLb">S</span> <span class ="sub">1</span> <span class ="sup">prototyp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:347" name="S_3 v S_1" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">3</span> <span class ="combination">v</span> <span class ="FLb">S</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:359" name="S_1/2Perf" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1/2</span> <span class ="FLb">Perf</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:361" name="S_1+2" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1+2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:362" name="SingS_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Sing</span> <span class ="FLb">S</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:373" name="MultS_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Mult</span> <span class ="FLb">S</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:423" name="S_1Perf" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1</span> <span class ="FLb">Perf</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:499" name="MultS_1/2" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Mult</span> <span class ="FLb">S</span> <span class ="sub">1/2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:529" name="S_1CausOper_1" status="1" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1</span> <span class ="FLb">Caus</span> <span class ="FLb">Oper</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:589" name="Magn + S_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="combination">+</span> <span class ="FLb">S</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:987" name="S_1[1]" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1[1]</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:593" name="S_1/2Pred" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1/2</span> <span class ="FLb">Pred</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:594" name="S_1Pred" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1</span> <span class ="FLb">Pred</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:599" name="S_1^usualPred" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1</span> <span class ="sup">usual</span> <span class ="FLb">Pred</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:600" name="S_1.1^prototyp" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1.1</span> <span class ="sup">prototyp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:601" name="Sing &amp; S_1/2" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Sing</span> <span class ="combination">&</span> <span class ="FLb">S</span> <span class ="sub">1/2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:602" name="S_1+2⊃Pred" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1+2⊃</span> <span class ="FLb">Pred</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:612" name="S_1^prototypPred" status="1" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1</span> <span class ="sup">prototyp</span> <span class ="FLb">Pred</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:749" name="S_1.1" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1.1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:758" name="AntiMagn + S_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">AntiMagn</span> <span class ="combination">+</span> <span class ="FLb">S</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:816" name="S_1.2⊃" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1.2⊃</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:893" name="S_1/2^prototyp" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1/2</span> <span class ="sup">prototyp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:896" name="SingS_1⊃" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Sing</span> <span class ="FLb">S</span> <span class ="sub">1⊃</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:907" name="Sing &amp; S_1" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Sing</span> <span class ="combination">&</span> <span class ="FLb">S</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:910" name="MultS_1⊃" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Mult</span> <span class ="FLb">S</span> <span class ="sub">1⊃</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:938" name="S_1⊂^usual" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1⊂</span> <span class ="sup">usual</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:954" name="SingS_1^prototyp" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Sing</span> <span class ="FLb">S</span> <span class ="sub">1</span> <span class ="sup">prototyp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:977" name="S_1∩Pred" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1∩</span> <span class ="FLb">Pred</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:16" name="S2">
+<lexicalfunction id="ls:fr:lf:40" name="S_2" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:41" name="S_loc &amp; S_2" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">loc</span> <span class ="combination">&</span> <span class ="FLb">S</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:42" name="S_instr &amp; S_2" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">instr</span> <span class ="combination">&</span> <span class ="FLb">S</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:43" name="S_res &amp; S_2" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">res</span> <span class ="combination">&</span> <span class ="FLb">S</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:44" name="S_2/3" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">2/3</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:48" name="individu S_2" status="0" linktype="paradigmatic" standardness="simple semi-standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:50" name="S_2.1" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">2.1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1019" name="S_2.1^prototyp" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">2.1</span> <span class ="sup">prototyp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:52" name="S_2^prototyp" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">2</span> <span class ="sup">prototyp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:54" name="S_2.2^prototyp" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">2.2</span> <span class ="sup">prototyp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:55" name="SingS_2" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Sing</span> <span class ="FLb">S</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:56" name="MultS_2" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Mult</span> <span class ="FLb">S</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:57" name="AntiBonS_2" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="FLb">S</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:332" name="S_2^usual" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">2</span> <span class ="sup">usual</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:338" name="S_2⊃" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">2⊃</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:406" name="S_2∩" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">2∩</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1043" name="S_2[1]" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">2[1]</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1044" name="S_2[1]^prototyp" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">2[1]</span> <span class ="sup">prototyp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:407" name="S_2Perf" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">2</span> <span class ="FLb">Perf</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:416" name="S_loc &amp; S_2^prototyp" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">loc</span> <span class ="combination">&</span> <span class ="FLb">S</span> <span class ="sub">2</span> <span class ="sup">prototyp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:456" name="S_med &amp; S_2" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">med</span> <span class ="combination">&</span> <span class ="FLb">S</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:494" name="S_2/3Perf" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">2/3</span> <span class ="FLb">Perf</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:528" name="Cap &amp; S_2" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Cap</span> <span class ="combination">&</span> <span class ="FLb">S</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:685" name="S_2.2" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">2.2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:771" name="AntiMagn^quantS_2" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">AntiMagn</span> <span class ="sup">quant</span> <span class ="FLb">S</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:792" name="S_2.2⊃" status="0" linktype="syntagmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">2.2⊃</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:924" name="S_2/4^prototyp" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">2/4</span> <span class ="sup">prototyp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:951" name="S_2⊂" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">2⊂</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:976" name="S_2/3^prototyp" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">2/3</span> <span class ="sup">prototyp</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:17" name="S3">
+<lexicalfunction id="ls:fr:lf:59" name="S_3" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">3</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:60" name="S_3^prototyp" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">3</span> <span class ="sup">prototyp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:952" name="S_3⊂" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">3⊂</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:512" name="S_3⊃" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">3⊃</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:870" name="S_3∩" status="1" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">3∩</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:923" name="S_3/5" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">3/5</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:334" name="S_instr &amp; S_3^prototyp" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">instr</span> <span class ="combination">&</span> <span class ="FLb">S</span> <span class ="sub">3</span> <span class ="sup">prototyp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1056" name="S_med &amp; S_3" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">med</span> <span class ="combination">&</span> <span class ="FLb">S</span> <span class ="sub">3</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:566" name="S_med &amp; S_3^prototyp" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">med</span> <span class ="combination">&</span> <span class ="FLb">S</span> <span class ="sub">3</span> <span class ="sup">prototyp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:377" name="S_loc &amp; S_3" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">loc</span> <span class ="combination">&</span> <span class ="FLb">S</span> <span class ="sub">3</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:948" name="S_mod &amp; S_3" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">mod</span> <span class ="combination">&</span> <span class ="FLb">S</span> <span class ="sub">3</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:996" name="S_res &amp; S_3" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">res</span> <span class ="combination">&</span> <span class ="FLb">S</span> <span class ="sub">3</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:395" name="S_3^usual" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">3</span> <span class ="sup">usual</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:411" name="S_instr &amp; S_3" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">instr</span> <span class ="combination">&</span> <span class ="FLb">S</span> <span class ="sub">3</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:573" name="MultS_3" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Mult</span> <span class ="FLb">S</span> <span class ="sub">3</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:18" name="S4">
+<lexicalfunction id="ls:fr:lf:61" name="S_4" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">4</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:380" name="S_4^prototyp" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">4</span> <span class ="sup">prototyp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:333" name="S_4Perf" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">4</span> <span class ="FLb">Perf</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:404" name="S_instr &amp; S_4^prototyp" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">instr</span> <span class ="combination">&</span> <span class ="FLb">S</span> <span class ="sub">4</span> <span class ="sup">prototyp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:405" name="S_loc &amp; S_4" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">loc</span> <span class ="combination">&</span> <span class ="FLb">S</span> <span class ="sub">4</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:435" name="S_med &amp; S_4^prototyp" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">med</span> <span class ="combination">&</span> <span class ="FLb">S</span> <span class ="sub">4</span> <span class ="sup">prototyp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:878" name="S_instr &amp; S_4" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">instr</span> <span class ="combination">&</span> <span class ="FLb">S</span> <span class ="sub">4</span>
+]]>
+</lexicalfunction>
+</family>
+</group>
+<group>
+<family id="ls:fr:lffam:19" name="Sinstr">
+<lexicalfunction id="ls:fr:lf:62" name="S_instr" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">instr</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:205" name="S_instrCausFunc_0" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">instr</span> <span class ="FLb">Caus</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:997" name="S_instrFact_0" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">instr</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:20" name="Sloc">
+<lexicalfunction id="ls:fr:lf:63" name="S_loc" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">loc</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:984" name="S_loc^prototyp" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">loc</span> <span class ="sup">prototyp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:64" name="S_locIncepFunc_0" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">loc</span> <span class ="FLb">Incep</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:65" name="S_locNonFact_0" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">loc</span> <span class ="FLb">Non</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:66" name="S_locFact_0" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">loc</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:458" name="S_locCausFunc_0" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">loc</span> <span class ="FLb">Caus</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:928" name="S_loc^temp" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">loc</span> <span class ="sup">temp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:930" name="S_loc^tempFact_0" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">loc</span> <span class ="sup">temp</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:971" name="S_locPred" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">loc</span> <span class ="FLb">Pred</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:732" name="S_locReal_1^usual" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">loc</span> <span class ="FLb">Real</span> <span class ="sub">1</span> <span class ="sup">usual</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:968" name="S_loc^tempReal_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">loc</span> <span class ="sup">temp</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:21" name="Smed">
+<lexicalfunction id="ls:fr:lf:68" name="S_med" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">med</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1032" name="S_medReal_3" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">med</span> <span class ="FLb">Real</span> <span class ="sub">3</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1007" name="S_medFact_0" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">med</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:22" name="Smod">
+<lexicalfunction id="ls:fr:lf:372" name="S_mod" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">mod</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:23" name="Sres">
+<lexicalfunction id="ls:fr:lf:69" name="S_res" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">res</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:956" name="S_locS_res" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">loc</span> <span class ="FLb">S</span> <span class ="sub">res</span>
+]]>
+</lexicalfunction>
+</family>
+</group>
+<group>
+<family id="ls:fr:lffam:24" name="Sing">
+<lexicalfunction id="ls:fr:lf:74" name="Sing" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Sing</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:680" name="Sing_⊂" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Sing</span> <span class ="sub">⊂</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:370" name="Sing_⊃" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Sing</span> <span class ="sub">⊃</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:503" name="Sing_∩" status="1" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Sing</span> <span class ="sub">∩</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:986" name="Sing^prototyp" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Sing</span> <span class ="sup">prototyp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:78" name="Mero" status="0" linktype="paradigmatic" standardness="proposed simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Mero</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:737" name="MeroSing" status="0" linktype="syntagmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Mero</span> <span class ="FLb">Sing</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:25" name="Mult">
+<lexicalfunction id="ls:fr:lf:100" name="Mult" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Mult</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:102" name="Mult_⊃" status="0" linktype="paradigmatic" standardness="semi-standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Mult</span> <span class ="sub">⊃</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:368" name="Mult_⊂" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Mult</span> <span class ="sub">⊂</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:397" name="Mult_∩" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Mult</span> <span class ="sub">∩</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:682" name="Holo" status="0" linktype="paradigmatic" standardness="proposed simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Holo</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:875" name="IncepPredMult" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Incep</span> <span class ="FLb">Pred</span> <span class ="FLb">Mult</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:26" name="Cap">
+<lexicalfunction id="ls:fr:lf:103" name="Cap" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Cap</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:975" name="PredCap" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Pred</span> <span class ="FLb">Cap</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:27" name="Equip">
+<lexicalfunction id="ls:fr:lf:396" name="Equip" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Equip</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:658" name="SingEquip" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Sing</span> <span class ="FLb">Equip</span>
+]]>
+</lexicalfunction>
+</family>
+</group>
+<group>
+<family id="ls:fr:lffam:31" name="A1">
+<lexicalfunction id="ls:fr:lf:104" name="A_1" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:496" name="A_1’" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1’</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:421" name="A_1⊂" status="1" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1⊂</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:105" name="A_1⊃" status="0" linktype="paradigmatic" standardness="simple semi-standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1⊃</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:422" name="A_1∩" status="1" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1∩</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:339" name="A_1/2" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1/2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:604" name="A_1/2⊂" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1/2⊂</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:932" name="A_1/3" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1/3</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:358" name="A_1Perf" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1</span> <span class ="FLb">Perf</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:360" name="A_1/2Perf" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1/2</span> <span class ="FLb">Perf</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1034" name="A_1^usual" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1</span> <span class ="sup">usual</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:408" name="Able_1 v A_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Able</span> <span class ="sub">1</span> <span class ="combination">v</span> <span class ="FLb">A</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:649" name="Adv_1 v A_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Adv</span> <span class ="sub">1</span> <span class ="combination">v</span> <span class ="FLb">A</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:106" name="Magn + A_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="combination">+</span> <span class ="FLb">A</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:583" name="Magn^quant + A_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sup">quant</span> <span class ="combination">+</span> <span class ="FLb">A</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:765" name="AntiMagn + A_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">AntiMagn</span> <span class ="combination">+</span> <span class ="FLb">A</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:418" name="Bon + A_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Bon</span> <span class ="combination">+</span> <span class ="FLb">A</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:520" name="A_1Pred" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1</span> <span class ="FLb">Pred</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:343" name="S_0A_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">A</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1004" name="A_1Oper_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1</span> <span class ="FLb">Oper</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1006" name="A_1/2Oper_1/2" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1/2</span> <span class ="FLb">Oper</span> <span class ="sub">1/2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:981" name="A_1Caus" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1</span> <span class ="FLb">Caus</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:936" name="A_2Fact_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">2</span> <span class ="FLb">Fact</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:647" name="A_1NonFact_2" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1</span> <span class ="FLb">Non</span> <span class ="FLb">Fact</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:648" name="Magn_2^quant + A_1Fact_2" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sub">2</span> <span class ="sup">quant</span> <span class ="combination">+</span> <span class ="FLb">A</span> <span class ="sub">1</span> <span class ="FLb">Fact</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:32" name="A2">
+<lexicalfunction id="ls:fr:lf:107" name="A_2" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:848" name="A_2∩" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">2∩</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1036" name="A_2.1" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">2.1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:762" name="A_2/3" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">2/3</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:259" name="A_1Real_2" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1</span> <span class ="FLb">Real</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:330" name="A_2Perf" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">2</span> <span class ="FLb">Perf</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:495" name="A_2/3Perf" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">2/3</span> <span class ="FLb">Perf</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:611" name="A_2Manif" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">2</span> <span class ="FLb">Manif</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:650" name="Adv_2 v A_2" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Adv</span> <span class ="sub">2</span> <span class ="combination">v</span> <span class ="FLb">A</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:451" name="Magn^quant + A_2Fact_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sup">quant</span> <span class ="combination">+</span> <span class ="FLb">A</span> <span class ="sub">2</span> <span class ="FLb">Fact</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:842" name="A_2Fact_2" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">2</span> <span class ="FLb">Fact</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:787" name="A_2Involv" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">2</span> <span class ="FLb">Involv</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:33" name="A3">
+<lexicalfunction id="ls:fr:lf:108" name="A_3" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">3</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:777" name="A_3Perf" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">3</span> <span class ="FLb">Perf</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:34" name="A4">
+<lexicalfunction id="ls:fr:lf:627" name="A_4" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">4</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:35" name="Able1">
+<lexicalfunction id="ls:fr:lf:109" name="Able_1" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Able</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1028" name="Able_1∩" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Able</span> <span class ="sub">1∩</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:110" name="Able_2 v Able_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Able</span> <span class ="sub">2</span> <span class ="combination">v</span> <span class ="FLb">Able</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:353" name="Able_3 v Able_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Able</span> <span class ="sub">3</span> <span class ="combination">v</span> <span class ="FLb">Able</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:410" name="Able_4 v Able_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Able</span> <span class ="sub">4</span> <span class ="combination">v</span> <span class ="FLb">Able</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:857" name="AntiAble_2 v AntiAble_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Anti</span> <span class ="FLb">Able</span> <span class ="sub">2</span> <span class ="combination">v</span> <span class ="FLb">Anti</span> <span class ="FLb">Able</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:950" name="Able_1/2" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Able</span> <span class ="sub">1/2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:953" name="Able_1[1]" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Able</span> <span class ="sub">1[1]</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:36" name="Able2">
+<lexicalfunction id="ls:fr:lf:111" name="Able_2" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Able</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:112" name="Able_3 v Able_2" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Able</span> <span class ="sub">3</span> <span class ="combination">v</span> <span class ="FLb">Able</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1058" name="AntiBonAble_2" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="FLb">Able</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:345" name="AntiAble_2" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Anti</span> <span class ="FLb">Able</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1029" name="PredAble_2" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Pred</span> <span class ="FLb">Able</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:37" name="Able3">
+<lexicalfunction id="ls:fr:lf:412" name="Able_3" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Able</span> <span class ="sub">3</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:38" name="Able4">
+<lexicalfunction id="ls:fr:lf:409" name="Able_4" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Able</span> <span class ="sub">4</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:39" name="Qual1">
+<lexicalfunction id="ls:fr:lf:113" name="Qual_1" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Qual</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:979" name="Qual_1[1]" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Qual</span> <span class ="sub">1[1]</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:40" name="Qual2">
+<lexicalfunction id="ls:fr:lf:344" name="Qual_2" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Qual</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:41" name="Qual3">
+<lexicalfunction id="ls:fr:lf:929" name="Qual_3" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Qual</span> <span class ="sub">3</span>
+]]>
+</lexicalfunction>
+</family>
+</group>
+<group>
+<family id="ls:fr:lffam:28" name="Germ">
+<lexicalfunction id="ls:fr:lf:940" name="Germ" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Germ</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:30" name="Culm">
+<lexicalfunction id="ls:fr:lf:776" name="Culm" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Culm</span>
+]]>
+</lexicalfunction>
+</family>
+</group>
+<group>
+<family id="ls:fr:lffam:43" name="Magn">
+<lexicalfunction id="ls:fr:lf:126" name="Magn" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:764" name="Magn^quant" status="1" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sup">quant</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:114" name="Magn_1^quant" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sub">1</span> <span class ="sup">quant</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:116" name="Magn_2" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:115" name="Magn_2^quant" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sub">2</span> <span class ="sup">quant</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1048" name="Magn_3^quant" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sub">3</span> <span class ="sup">quant</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:119" name="Magn_effet" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sub">effet</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:120" name="Magn_hauteur" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sub">hauteur</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:123" name="Magn_taille" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sub">taille</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:124" name="Magn_vitesse" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sub">vitesse</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:125" name="Magn^temp" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sup">temp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:427" name="Magn_comportement" status="1" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sub">comportement</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:439" name="Magn_épaisseur" status="1" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sub">épaisseur</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:440" name="Magn_largeur" status="1" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sub">largeur</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:441" name="Magn_longueur" status="1" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sub">longueur</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:507" name="Magn_puissance" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sub">puissance</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:466" name="Bon + Magn" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Bon</span> <span class ="combination">+</span> <span class ="FLb">Magn</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:802" name="Bon + Magn^quant" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Bon</span> <span class ="combination">+</span> <span class ="FLb">Magn</span> <span class ="sup">quant</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:128" name="AntiBon + Magn" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="combination">+</span> <span class ="FLb">Magn</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:464" name="AntiBon + Magn^temp" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="combination">+</span> <span class ="FLb">Magn</span> <span class ="sup">temp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:643" name="AntiBon + Magn^quant" status="1" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="combination">+</span> <span class ="FLb">Magn</span> <span class ="sup">quant</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:770" name="AntiMagn^quant + Magn_vitesse" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiMagn</span> <span class ="sup">quant</span> <span class ="combination">+</span> <span class ="FLb">Magn</span> <span class ="sub">vitesse</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:772" name="Magn_vitesse + Magn^quant" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sub">vitesse</span> <span class ="combination">+</span> <span class ="FLb">Magn</span> <span class ="sup">quant</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:44" name="Plus">
+<lexicalfunction id="ls:fr:lf:132" name="IncepPredPlus" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Incep</span> <span class ="FLb">Pred</span> <span class ="FLb">Plus</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:133" name="CausPredPlus" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">Pred</span> <span class ="FLb">Plus</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:691" name="IncepPredPlus_taille" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Incep</span> <span class ="FLb">Pred</span> <span class ="FLb">Plus</span> <span class ="sub">taille</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:45" name="AntiMagn">
+<lexicalfunction id="ls:fr:lf:137" name="AntiMagn^temp" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiMagn</span> <span class ="sup">temp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:138" name="AntiMagn" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiMagn</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:426" name="Bon + AntiMagn" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Bon</span> <span class ="combination">+</span> <span class ="FLb">AntiMagn</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:442" name="AntiMagn_épaisseur" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiMagn</span> <span class ="sub">épaisseur</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:443" name="AntiMagn_largeur" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiMagn</span> <span class ="sub">largeur</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:444" name="AntiMagn_longueur" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiMagn</span> <span class ="sub">longueur</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:445" name="AntiBon + AntiMagn_largeur" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="combination">+</span> <span class ="FLb">AntiMagn</span> <span class ="sub">largeur</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:521" name="AntiMagn_1^quant" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiMagn</span> <span class ="sub">1</span> <span class ="sup">quant</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:522" name="AntiMagn_2^quant" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiMagn</span> <span class ="sub">2</span> <span class ="sup">quant</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:533" name="AntiMagn_vitesse" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiMagn</span> <span class ="sub">vitesse</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:534" name="AntiBon + AntiMagn_vitesse" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="combination">+</span> <span class ="FLb">AntiMagn</span> <span class ="sub">vitesse</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:564" name="AntiMagn_hauteur" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiMagn</span> <span class ="sub">hauteur</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:653" name="AntiBon + AntiMagn_taille" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="combination">+</span> <span class ="FLb">AntiMagn</span> <span class ="sub">taille</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:763" name="AntiMagn_puissance" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiMagn</span> <span class ="sub">puissance</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:769" name="AntiMagn^quant" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiMagn</span> <span class ="sup">quant</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:797" name="AntiBon + AntiMagn" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="combination">+</span> <span class ="FLb">AntiMagn</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:837" name="AntiMagn_taille" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiMagn</span> <span class ="sub">taille</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:46" name="Minus">
+<lexicalfunction id="ls:fr:lf:139" name="IncepPredMinus" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Incep</span> <span class ="FLb">Pred</span> <span class ="FLb">Minus</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:140" name="CausPredMinus" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">Pred</span> <span class ="FLb">Minus</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:47" name="Ver">
+<lexicalfunction id="ls:fr:lf:143" name="Ver_finalité" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Ver</span> <span class ="sub">finalité</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:145" name="Ver" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Ver</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:146" name="Bon + Ver" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Bon</span> <span class ="combination">+</span> <span class ="FLb">Ver</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:148" name="CausPredVer" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">Pred</span> <span class ="FLb">Ver</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:638" name="ContPredVer" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Cont</span> <span class ="FLb">Pred</span> <span class ="FLb">Ver</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:665" name="AntiBon + Ver" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="combination">+</span> <span class ="FLb">Ver</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:865" name="S_instrCausPredVer" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">instr</span> <span class ="FLb">Caus</span> <span class ="FLb">Pred</span> <span class ="FLb">Ver</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:48" name="AntiVer">
+<lexicalfunction id="ls:fr:lf:152" name="AntiVer_finalité" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiVer</span> <span class ="sub">finalité</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:155" name="AntiVer" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiVer</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:159" name="AntiBon + AntiVer" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="combination">+</span> <span class ="FLb">AntiVer</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:712" name="AntiVer_utilisation" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiVer</span> <span class ="sub">utilisation</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:757" name="CausPredAntiVer" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">Pred</span> <span class ="FLb">AntiVer</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:49" name="Bon">
+<lexicalfunction id="ls:fr:lf:158" name="Bon" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Bon</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1047" name="Bon_⊃" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Bon</span> <span class ="sub">⊃</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:880" name="Bon_∩" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Bon</span> <span class ="sub">∩</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:970" name="Bon_2" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Bon</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:706" name="CausPredBon" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">Pred</span> <span class ="FLb">Bon</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:998" name="ClausPredBon" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Claus</span> <span class ="FLb">Pred</span> <span class ="FLb">Bon</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:50" name="AntiBon">
+<lexicalfunction id="ls:fr:lf:160" name="AntiBon" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiBon</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:999" name="AntiBon_∩" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="sub">∩</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:448" name="AntiBon_1" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:925" name="AntiBon_2" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+</family>
+</group>
+<group>
+</group>
+<group>
+<family id="ls:fr:lffam:53" name="Adv1">
+<lexicalfunction id="ls:fr:lf:161" name="Adv_1" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Adv</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:54" name="Adv2">
+<lexicalfunction id="ls:fr:lf:162" name="Adv_2" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Adv</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+</family>
+</group>
+<group>
+<family id="ls:fr:lffam:56" name="Instr">
+<lexicalfunction id="ls:fr:lf:163" name="Instr" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Instr</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:57" name="Loc">
+<lexicalfunction id="ls:fr:lf:164" name="Loc_in^temp" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Loc</span> <span class ="sub">in</span> <span class ="sup">temp</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:165" name="Loc_in" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Loc</span> <span class ="sub">in</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:552" name="Loc_ad" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Loc</span> <span class ="sub">ad</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:553" name="Loc_ab" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Loc</span> <span class ="sub">ab</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:58" name="Propt">
+<lexicalfunction id="ls:fr:lf:166" name="Propt" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Propt</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:59" name="Pred">
+<lexicalfunction id="ls:fr:lf:400" name="Pred" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Pred</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:980" name="Magn + Pred" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="combination">+</span> <span class ="FLb">Pred</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:419" name="IncepPred" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Incep</span> <span class ="FLb">Pred</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:167" name="CausPred" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">Pred</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:491" name="Caus_1/2Pred" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">1/2</span> <span class ="FLb">Pred</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:511" name="Caus_2Pred" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">2</span> <span class ="FLb">Pred</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:565" name="LiquPred" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Liqu</span> <span class ="FLb">Pred</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:710" name="Caus_1Pred" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">1</span> <span class ="FLb">Pred</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:844" name="ContPred" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Cont</span> <span class ="FLb">Pred</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:852" name="Caus_1De_nouveauPred" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">1</span> <span class ="FLb">De_nouveau</span> <span class ="FLb">Pred</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:853" name="CausDe_nouveauPred" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">De_nouveau</span> <span class ="FLb">Pred</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:855" name="Liqu_1Pred" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Liqu</span> <span class ="sub">1</span> <span class ="FLb">Pred</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:931" name="Conv_21Pred" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Conv</span> <span class ="sub">21</span> <span class ="FLb">Pred</span>
+]]>
+</lexicalfunction>
+</family>
+</group>
+<group>
+<family id="ls:fr:lffam:60" name="Oper1">
+<lexicalfunction id="ls:fr:lf:168" name="Oper_1" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Oper</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:738" name="Oper_1^usual" status="1" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Oper</span> <span class ="sub">1</span> <span class ="sup">usual</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:183" name="Magn + Oper_1" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="combination">+</span> <span class ="FLb">Oper</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:637" name="Magn^quant + Oper_1" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sup">quant</span> <span class ="combination">+</span> <span class ="FLb">Oper</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1012" name="AntiMagn + Oper_1" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiMagn</span> <span class ="combination">+</span> <span class ="FLb">Oper</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:174" name="NonOper_1" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Non</span> <span class ="FLb">Oper</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:175" name="IncepOper_1" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Incep</span> <span class ="FLb">Oper</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:176" name="ContOper_1" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Cont</span> <span class ="FLb">Oper</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:177" name="FinOper_1" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Fin</span> <span class ="FLb">Oper</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:178" name="Caus_1Oper_1" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">1</span> <span class ="FLb">Oper</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:179" name="CausOper_1" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">Oper</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:180" name="Liqu_1Oper_1" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Liqu</span> <span class ="sub">1</span> <span class ="FLb">Oper</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:181" name="LiquOper_1" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Liqu</span> <span class ="FLb">Oper</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:189" name="De_nouveauOper_1" status="0" linktype="syntagmatic" standardness="locally standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">De_nouveau</span> <span class ="FLb">Oper</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:398" name="Caus_2Oper_1" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">2</span> <span class ="FLb">Oper</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:497" name="Oper_1’" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Oper</span> <span class ="sub">1’</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:501" name="Oper_1/2" status="1" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Oper</span> <span class ="sub">1/2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:525" name="Oper_{1}" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Oper</span> <span class ="sub">{1}</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:542" name="S_1’Oper_1" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1’</span> <span class ="FLb">Oper</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:821" name="Caus_1NonOper_1" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">1</span> <span class ="FLb">Non</span> <span class ="FLb">Oper</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:864" name="Oper_1[1]" status="1" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Oper</span> <span class ="sub">1[1]</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:869" name="Caus_3Oper_1" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">3</span> <span class ="FLb">Oper</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:879" name="Prepar_ΩOper_1" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Prepar</span> <span class ="sub">Ω</span> <span class ="FLb">Oper</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:916" name="ClausCausOper_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Claus</span> <span class ="FLb">Caus</span> <span class ="FLb">Oper</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:933" name="Oper_1/3" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Oper</span> <span class ="sub">1/3</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:965" name="IncepExcessOper_1" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Incep</span> <span class ="FLb">Excess</span> <span class ="FLb">Oper</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:61" name="Oper2">
+<lexicalfunction id="ls:fr:lf:190" name="Oper_2" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Oper</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:436" name="IncepOper_2" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Incep</span> <span class ="FLb">Oper</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:438" name="FinOper_2" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Fin</span> <span class ="FLb">Oper</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:449" name="Caus_2Oper_2" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">2</span> <span class ="FLb">Oper</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:729" name="ContOper_2" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Cont</span> <span class ="FLb">Oper</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:761" name="Oper_2/3" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Oper</span> <span class ="sub">2/3</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:833" name="CausOper_2" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">Oper</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:834" name="Caus_1Oper_2" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">1</span> <span class ="FLb">Oper</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:62" name="Oper3">
+<lexicalfunction id="ls:fr:lf:193" name="Oper_3" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Oper</span> <span class ="sub">3</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1042" name="IncepOper_3" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Incep</span> <span class ="FLb">Oper</span> <span class ="sub">3</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:109" name="Oper4">
+<lexicalfunction id="ls:fr:lf:902" name="Oper_4" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Oper</span> <span class ="sub">4</span>
+]]>
+</lexicalfunction>
+</family>
+</group>
+<group>
+<family id="ls:fr:lffam:63" name="Func0">
+<lexicalfunction id="ls:fr:lf:195" name="Func_0" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:212" name="De_nouveauFunc_0" status="0" linktype="syntagmatic" standardness="locally standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">De_nouveau</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:196" name="IncepFunc_0" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Incep</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:202" name="FinFunc_0" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Fin</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:199" name="CausContFunc_0" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">Cont</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:200" name="ContFunc_0" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Cont</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:201" name="S_0FinFunc_0" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Fin</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:203" name="Caus_1Func_0" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">1</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:206" name="CausFunc_0" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:211" name="CausDe_nouveauFunc_0" status="0" linktype="syntagmatic" standardness="locally standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">De_nouveau</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:455" name="S_1CausFunc_0" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1</span> <span class ="FLb">Caus</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:532" name="S_1^usualCausFunc_0" status="0" linktype="syntagmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1</span> <span class ="sup">usual</span> <span class ="FLb">Caus</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1018" name="S_medCausFunc_0" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">med</span> <span class ="FLb">Caus</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:478" name="Perm_2Func_0" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Perm</span> <span class ="sub">2</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:479" name="NonPerm_2Func_1" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Non</span> <span class ="FLb">Perm</span> <span class ="sub">2</span> <span class ="FLb">Func</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1013" name="Magn + Func_0" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="combination">+</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:722" name="VerCausFunc_0" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Ver</span> <span class ="FLb">Caus</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:723" name="AntiVerCausFunc_0" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiVer</span> <span class ="FLb">Caus</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:746" name="S_locFinFunc_0" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">loc</span> <span class ="FLb">Fin</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:754" name="Caus_2Func_0" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">2</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:755" name="S_0Caus_2Func_0" status="1" linktype="paradigmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Caus</span> <span class ="sub">2</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:783" name="ProxFunc_0" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Prox</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:784" name="Magn + CausFunc_0" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="combination">+</span> <span class ="FLb">Caus</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:874" name="ClausIncepFunc_0" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Claus</span> <span class ="FLb">Incep</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:909" name="ClausNonPermFunc_0" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Claus</span> <span class ="FLb">Non</span> <span class ="FLb">Perm</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:911" name="NonPerm_1Func_0" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Non</span> <span class ="FLb">Perm</span> <span class ="sub">1</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:966" name="A_1NonPermFunc_0" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1</span> <span class ="FLb">Non</span> <span class ="FLb">Perm</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:64" name="Func1">
+<lexicalfunction id="ls:fr:lf:213" name="Func_1" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Func</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:214" name="Func_1+2" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Func</span> <span class ="sub">1+2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:216" name="IncepFunc_1" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Incep</span> <span class ="FLb">Func</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:218" name="Magn + Func_1" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="combination">+</span> <span class ="FLb">Func</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:988" name="Magn^quant • Func_1" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sup">quant</span> <span class ="combination">•</span> <span class ="FLb">Func</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:217" name="CausFunc_1" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">Func</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:799" name="Caus_2Func_1" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">2</span> <span class ="FLb">Func</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:822" name="LiquFunc_1" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Liqu</span> <span class ="FLb">Func</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:823" name="Liqu_2Func_1" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Liqu</span> <span class ="sub">2</span> <span class ="FLb">Func</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:65" name="Func2">
+<lexicalfunction id="ls:fr:lf:219" name="Func_2" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Func</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1037" name="Func_2.1" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Func</span> <span class ="sub">2.1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:220" name="Caus_1Func_2" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">1</span> <span class ="FLb">Func</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:221" name="CausFunc_2" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">Func</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:389" name="Caus_2Func_2" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">2</span> <span class ="FLb">Func</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:614" name="Func_23" status="1" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Func</span> <span class ="sub">23</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:759" name="Magn + Func_2" status="1" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="combination">+</span> <span class ="FLb">Func</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:992" name="IncepFunc_2 v Func_2" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Incep</span> <span class ="FLb">Func</span> <span class ="sub">2</span> <span class ="combination">v</span> <span class ="FLb">Func</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:824" name="IncepFunc_2" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Incep</span> <span class ="FLb">Func</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:826" name="LiquFunc_2" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Liqu</span> <span class ="FLb">Func</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:66" name="Func3">
+<lexicalfunction id="ls:fr:lf:222" name="Func_3" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Func</span> <span class ="sub">3</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:960" name="PermFunc_3" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Perm</span> <span class ="FLb">Func</span> <span class ="sub">3</span>
+]]>
+</lexicalfunction>
+</family>
+</group>
+<group>
+<family id="ls:fr:lffam:67" name="Labor12">
+<lexicalfunction id="ls:fr:lf:224" name="Labor_12" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Labor</span> <span class ="sub">12</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1020" name="Magn^quant + Labor_12" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sup">quant</span> <span class ="combination">+</span> <span class ="FLb">Labor</span> <span class ="sub">12</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:112" name="Labor13">
+<lexicalfunction id="ls:fr:lf:961" name="Labor_13" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Labor</span> <span class ="sub">13</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:68" name="Labor21">
+<lexicalfunction id="ls:fr:lf:225" name="Labor_21" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Labor</span> <span class ="sub">21</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:437" name="Caus_2Labor_21" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">2</span> <span class ="FLb">Labor</span> <span class ="sub">21</span>
+]]>
+</lexicalfunction>
+</family>
+</group>
+<group>
+<family id="ls:fr:lffam:69" name="Real1">
+<lexicalfunction id="ls:fr:lf:228" name="Real_1" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:226" name="Real_1^I" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">1</span> <span class ="sup">I</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:227" name="Real_1^II" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">1</span> <span class ="sup">II</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:476" name="Real_1^III" status="1" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">1</span> <span class ="sup">III</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:477" name="Real_1/2" status="1" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">1/2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:515" name="Real_1^usual" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">1</span> <span class ="sup">usual</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:232" name="Real_1[1]" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">1[1]</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:793" name="Real_1[1]^I" status="1" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">1[1]</span> <span class ="sup">I</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:794" name="Real_1[1]^II" status="1" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">1[1]</span> <span class ="sup">II</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:236" name="AntiReal_1" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Anti</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:241" name="A_1Real_1" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:237" name="A_1AntiReal_1" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1</span> <span class ="FLb">Anti</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:238" name="A_2AntiReal_1" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">2</span> <span class ="FLb">Anti</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:239" name="S_0Real_1" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1022" name="S_0Real_1+2" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Real</span> <span class ="sub">1+2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:575" name="S_0Real_1^usual" status="1" linktype="paradigmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Real</span> <span class ="sub">1</span> <span class ="sup">usual</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1021" name="S_0Real_1^I" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Real</span> <span class ="sub">1</span> <span class ="sup">I</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:700" name="S_0Real_1^II" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Real</span> <span class ="sub">1</span> <span class ="sup">II</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:243" name="S_0SingReal_1" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Sing</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1041" name="S_1^usualReal_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1</span> <span class ="sup">usual</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:240" name="S_resReal_1" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">res</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:244" name="AntiBonReal_1" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:245" name="IncepReal_1" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Incep</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:247" name="Caus_1Real_1" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">1</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:248" name="CausReal_1" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:249" name="Liqu_1Real_1" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Liqu</span> <span class ="sub">1</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1033" name="LiquReal_1" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Liqu</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:446" name="PreparReal_1" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Prepar</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1000" name="Perm_1Real_1" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Perm</span> <span class ="sub">1</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:463" name="Claus_1Real_1" status="0" linktype="paradigmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Claus</span> <span class ="sub">1</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:487" name="S_resCaus_1Real_1" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">res</span> <span class ="FLb">Caus</span> <span class ="sub">1</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:493" name="S_medReal_1" status="0" linktype="paradigmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">med</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:506" name="Caus_1PlusReal_1" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">1</span> <span class ="FLb">Plus</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:557" name="Prepar_1Real_1" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Prepar</span> <span class ="sub">1</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:569" name="FinReal_1" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Fin</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:576" name="BonReal_1" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Bon</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:581" name="AntiVerReal_1" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">AntiVer</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:586" name="A_2Real_1" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">2</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:592" name="S_instrPreparReal_1" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">instr</span> <span class ="FLb">Prepar</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:623" name="PreparLiqu_1Real_1" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Prepar</span> <span class ="FLb">Liqu</span> <span class ="sub">1</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:639" name="A_1AntiBonReal_1" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1</span> <span class ="FLb">AntiBon</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:659" name="ContReal_1" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Cont</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:661" name="Magn + Real_1" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="combination">+</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:672" name="AntiBonReal_1^usual" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="FLb">Real</span> <span class ="sub">1</span> <span class ="sup">usual</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:686" name="PreparReal_1^I" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Prepar</span> <span class ="FLb">Real</span> <span class ="sub">1</span> <span class ="sup">I</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:690" name="Magn_2^quant + Real_1" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sub">2</span> <span class ="sup">quant</span> <span class ="combination">+</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:705" name="PreparReal_1^II" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Prepar</span> <span class ="FLb">Real</span> <span class ="sub">1</span> <span class ="sup">II</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:715" name="PerfReal_1" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Perf</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:524" name="S_instrReal_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">instr</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:579" name="S_instrReal_1^I" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">instr</span> <span class ="FLb">Real</span> <span class ="sub">1</span> <span class ="sup">I</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:580" name="S_instrReal_1^II" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">instr</span> <span class ="FLb">Real</span> <span class ="sub">1</span> <span class ="sup">II</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:820" name="S_instrReal_1[1]" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">instr</span> <span class ="FLb">Real</span> <span class ="sub">1[1]</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1025" name="S_locReal_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">loc</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:559" name="S_locReal_1^III" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">loc</span> <span class ="FLb">Real</span> <span class ="sub">1</span> <span class ="sup">III</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1024" name="S_loc^prototypReal_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">loc</span> <span class ="sup">prototyp</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1023" name="S_loc^temp prototypReal_1" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">loc</span> <span class ="sup">temp prototyp</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:819" name="Liqu_1Real_1[1]" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Liqu</span> <span class ="sub">1</span> <span class ="FLb">Real</span> <span class ="sub">1[1]</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:891" name="A_1Magn^tempReal_1" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1</span> <span class ="FLb">Magn</span> <span class ="sup">temp</span> <span class ="FLb">Real</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:70" name="Real2">
+<lexicalfunction id="ls:fr:lf:255" name="Real_2" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1017" name="Real_2.1" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">2.1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1016" name="Real_2.2" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">2.2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:801" name="Real_2^usual" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">2</span> <span class ="sup">usual</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:927" name="BonReal_2" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Bon</span> <span class ="FLb">Real</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:251" name="Real_2^I" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">2</span> <span class ="sup">I</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:252" name="Real_2^II" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">2</span> <span class ="sup">II</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:254" name="Real_2^III" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">2</span> <span class ="sup">III</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:253" name="Adv_1Real_2^III" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Adv</span> <span class ="sub">1</span> <span class ="FLb">Real</span> <span class ="sub">2</span> <span class ="sup">III</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:258" name="AntiReal_2" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Anti</span> <span class ="FLb">Real</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:303" name="S_0Real_2" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Real</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:391" name="AntiReal_2^I" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Anti</span> <span class ="FLb">Real</span> <span class ="sub">2</span> <span class ="sup">I</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:561" name="Caus_1Real_2" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">1</span> <span class ="FLb">Real</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:630" name="FinReal_2" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Fin</span> <span class ="FLb">Real</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:632" name="IncepReal_2" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Incep</span> <span class ="FLb">Real</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:718" name="Liqu_1Real_2" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Liqu</span> <span class ="sub">1</span> <span class ="FLb">Real</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:796" name="Prepar_1Real_2" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Prepar</span> <span class ="sub">1</span> <span class ="FLb">Real</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:71" name="Real3">
+<lexicalfunction id="ls:fr:lf:266" name="Real_3" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">3</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1008" name="Real_3^I" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">3</span> <span class ="sup">I</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1009" name="Real_3^II" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">3</span> <span class ="sup">II</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1010" name="Real_3^III" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">3</span> <span class ="sup">III</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:641" name="LiquReal_3" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Liqu</span> <span class ="FLb">Real</span> <span class ="sub">3</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:983" name="A_1Real_3" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1</span> <span class ="FLb">Real</span> <span class ="sub">3</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:72" name="Real4">
+<lexicalfunction id="ls:fr:lf:273" name="Real_4" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">4</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:73" name="RealΩ">
+<lexicalfunction id="ls:fr:lf:279" name="Real_Ω" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">Ω</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:276" name="Real_Ω^I" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">Ω</span> <span class ="sup">I</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:277" name="Real_Ω^II" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">Ω</span> <span class ="sup">II</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:278" name="Real_Ω^III" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">Ω</span> <span class ="sup">III</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1052" name="Real_ΩS_0" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Real</span> <span class ="sub">Ω</span> <span class ="FLb">S</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:283" name="AntiReal_Ω" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Anti</span> <span class ="FLb">Real</span> <span class ="sub">Ω</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:543" name="AntiReal_Ω^III" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Anti</span> <span class ="FLb">Real</span> <span class ="sub">Ω</span> <span class ="sup">III</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:645" name="AntiBonReal_Ω" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="FLb">Real</span> <span class ="sub">Ω</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:789" name="Caus_1Real_Ω" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">1</span> <span class ="FLb">Real</span> <span class ="sub">Ω</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:284" name="S_0Real_Ω" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Real</span> <span class ="sub">Ω</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:285" name="S_1Real_Ω" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1</span> <span class ="FLb">Real</span> <span class ="sub">Ω</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1059" name="S_1^usualReal_Ω" status="0" linktype="paradigmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1</span> <span class ="sup">usual</span> <span class ="FLb">Real</span> <span class ="sub">Ω</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:281" name="S_1Real_Ω^I/II" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1</span> <span class ="FLb">Real</span> <span class ="sub">Ω</span> <span class ="sup">I/II</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:286" name="S_resReal_Ω" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">res</span> <span class ="FLb">Real</span> <span class ="sub">Ω</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1051" name="S_locReal_Ω" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">loc</span> <span class ="FLb">Real</span> <span class ="sub">Ω</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:664" name="PreparReal_Ω" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Prepar</span> <span class ="FLb">Real</span> <span class ="sub">Ω</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:730" name="A_1Real_Ω" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1</span> <span class ="FLb">Real</span> <span class ="sub">Ω</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:696" name="Able_2Real_Ω" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Able</span> <span class ="sub">2</span> <span class ="FLb">Real</span> <span class ="sub">Ω</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:526" name="AntiAble_2Real_Ω^II" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Anti</span> <span class ="FLb">Able</span> <span class ="sub">2</span> <span class ="FLb">Real</span> <span class ="sub">Ω</span> <span class ="sup">II</span>
+]]>
+</lexicalfunction>
+</family>
+</group>
+<group>
+<family id="ls:fr:lffam:74" name="Fact0">
+<lexicalfunction id="ls:fr:lf:635" name="Magn^quant + AntiVerFact_0" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sup">quant</span> <span class ="combination">+</span> <span class ="FLb">AntiVer</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:288" name="Fact_0" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:619" name="Fact_0^I" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Fact</span> <span class ="sub">0</span> <span class ="sup">I</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:287" name="Fact_0^II" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Fact</span> <span class ="sub">0</span> <span class ="sup">II</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:292" name="S_resFact_0" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">res</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:294" name="AntiBonFact_0" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:295" name="IncepFact_0" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Incep</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:296" name="FinFact_0" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Fin</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:297" name="Liqu_1Fact_0" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Liqu</span> <span class ="sub">1</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:298" name="LiquFact_0" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Liqu</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:551" name="S_0Fact_0" status="1" linktype="paradigmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:892" name="S_0AntiBonFact_0" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">AntiBon</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:768" name="S_0IncepFact_0" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Incep</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:299" name="S_resPerfFact_0" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">res</span> <span class ="FLb">Perf</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:679" name="CausFact_0" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:401" name="Caus_1Fact_0" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">1</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:829" name="CausContFact_0" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">Cont</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:402" name="Liqu_3Fact_0" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Liqu</span> <span class ="sub">3</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:484" name="BonFact_0" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Bon</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:490" name="Caus_1MinusFact_0" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">1</span> <span class ="FLb">Minus</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:540" name="Caus_1De_nouveauFact_0" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">1</span> <span class ="FLb">De_nouveau</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:541" name="S_1’Fact_0" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1’</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:562" name="S_1CausFact_0" status="0" linktype="paradigmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1</span> <span class ="FLb">Caus</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1049" name="Perm_1Fact_0" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Perm</span> <span class ="sub">1</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:567" name="PermFact_0" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Perm</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1050" name="AntiPerm_1Fact_0" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Anti</span> <span class ="FLb">Perm</span> <span class ="sub">1</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:942" name="AntiPermFact_0" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Anti</span> <span class ="FLb">Perm</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:616" name="Mult + Fact_0" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Mult</span> <span class ="combination">+</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:634" name="AntiBonA_1Fact_0" status="1" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="FLb">A</span> <span class ="sub">1</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:982" name="CausAble_1Fact_0" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">Able</span> <span class ="sub">1</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:689" name="MagnFact_0" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:713" name="S_0SingFact_0" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Sing</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:721" name="AntiFact_0" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Anti</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:788" name="ProxFact_0" status="1" linktype="paradigmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Prox</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:935" name="Caus_1PlusFact_0" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">1</span> <span class ="FLb">Plus</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:941" name="S_resFact_0^III" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">res</span> <span class ="FLb">Fact</span> <span class ="sub">0</span> <span class ="sup">III</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:585" name="A_1Fact_0" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:633" name="A_1NonFact_0" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">1</span> <span class ="FLb">Non</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:943" name="Able_1Fact_0" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Able</span> <span class ="sub">1</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:944" name="AntiAble_1Fact_0" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Anti</span> <span class ="FLb">Able</span> <span class ="sub">1</span> <span class ="FLb">Fact</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:75" name="Fact1">
+<lexicalfunction id="ls:fr:lf:304" name="Fact_1" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Fact</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:550" name="AntiMagnFact_1" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">AntiMagn</span> <span class ="FLb">Fact</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:489" name="AntiBonFact_1" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="FLb">Fact</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:974" name="IncepFact_1" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Incep</span> <span class ="FLb">Fact</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:544" name="CausFact_1" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">Fact</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:603" name="LiquFact_1" status="1" linktype="paradigmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Liqu</span> <span class ="FLb">Fact</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:843" name="Liqu_3Fact_1" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Liqu</span> <span class ="sub">3</span> <span class ="FLb">Fact</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:795" name="PreparFact_1" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Prepar</span> <span class ="FLb">Fact</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:76" name="Fact2">
+<lexicalfunction id="ls:fr:lf:306" name="Fact_2" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Fact</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:472" name="Fact_2^I" status="1" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Fact</span> <span class ="sub">2</span> <span class ="sup">I</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:305" name="Fact_2^II" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Fact</span> <span class ="sub">2</span> <span class ="sup">II</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:687" name="Fact_2^usual" status="1" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Fact</span> <span class ="sub">2</span> <span class ="sup">usual</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1015" name="Magn_2^quant + Fact_2" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sub">2</span> <span class ="sup">quant</span> <span class ="combination">+</span> <span class ="FLb">Fact</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:433" name="AntiBonFact_2" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="FLb">Fact</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:556" name="AntiBonLiqu_1Fact_2" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="FLb">Liqu</span> <span class ="sub">1</span> <span class ="FLb">Fact</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:613" name="Fact_2/3" status="1" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Fact</span> <span class ="sub">2/3</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:676" name="Fact_23" status="1" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Fact</span> <span class ="sub">23</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:684" name="S_0Fact_2" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Fact</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:990" name="Magn^quant + S_0Fact_2" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Magn</span> <span class ="sup">quant</span> <span class ="combination">+</span> <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Fact</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:699" name="S_resFact_2" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">res</span> <span class ="FLb">Fact</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:993" name="IncepFact_2 v Fact_2" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Incep</span> <span class ="FLb">Fact</span> <span class ="sub">2</span> <span class ="combination">v</span> <span class ="FLb">Fact</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:994" name="IncepFact_2" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Incep</span> <span class ="FLb">Fact</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1003" name="CausFact_2" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">Fact</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:724" name="Prepar_1Fact_2" status="0" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Prepar</span> <span class ="sub">1</span> <span class ="FLb">Fact</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:77" name="Fact3">
+<lexicalfunction id="ls:fr:lf:307" name="Fact_3" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Fact</span> <span class ="sub">3</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:78" name="FactΩ">
+<lexicalfunction id="ls:fr:lf:308" name="Fact_Ω" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Fact</span> <span class ="sub">Ω</span>
+]]>
+</lexicalfunction>
+</family>
+</group>
+<group>
+<family id="ls:fr:lffam:79" name="Labreal12">
+<lexicalfunction id="ls:fr:lf:309" name="Labreal_12^II" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Labreal</span> <span class ="sub">12</span> <span class ="sup">II</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:310" name="Labreal_12" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Labreal</span> <span class ="sub">12</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:624" name="AntiLabreal_12" status="1" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Anti</span> <span class ="FLb">Labreal</span> <span class ="sub">12</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:714" name="Labreal_12^I" status="1" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Labreal</span> <span class ="sub">12</span> <span class ="sup">I</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:740" name="Labreal_123" status="1" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Labreal</span> <span class ="sub">123</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:741" name="S_0Labreal_12" status="1" linktype="syntagmatic" standardness="standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Labreal</span> <span class ="sub">12</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:104" name="Labreal13">
+<lexicalfunction id="ls:fr:lf:510" name="Labreal_13" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Labreal</span> <span class ="sub">13</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:106" name="Labreal1Ω">
+<lexicalfunction id="ls:fr:lf:854" name="Labreal_1Ω" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Labreal</span> <span class ="sub">1Ω</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:80" name="Labreal21">
+<lexicalfunction id="ls:fr:lf:312" name="Labreal_21" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Labreal</span> <span class ="sub">21</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:107" name="Labreal23">
+<lexicalfunction id="ls:fr:lf:858" name="Labreal_23" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Labreal</span> <span class ="sub">23</span>
+]]>
+</lexicalfunction>
+</family>
+</group>
+<group>
+<family id="ls:fr:lffam:97" name="Incep">
+<lexicalfunction id="ls:fr:lf:381" name="Incep" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Incep</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:98" name="Cont">
+<lexicalfunction id="ls:fr:lf:382" name="Cont" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Cont</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:99" name="Fin">
+<lexicalfunction id="ls:fr:lf:383" name="Fin" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Fin</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:81" name="Caus">
+<lexicalfunction id="ls:fr:lf:367" name="Caus" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1026" name="Caus_⊃" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">⊃</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1030" name="Caus_∩" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">∩</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1031" name="Caus_1" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:363" name="Caus_1/2" status="1" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">1/2</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:352" name="CausConv_21" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">Conv</span> <span class ="sub">21</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:873" name="CausConv_231" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">Conv</span> <span class ="sub">231</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:413" name="S_0Caus" status="0" linktype="paradigmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Caus</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:917" name="ClausCaus" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Claus</span> <span class ="FLb">Caus</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:82" name="Liqu">
+<lexicalfunction id="ls:fr:lf:207" name="Liqu_1Func_0" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Liqu</span> <span class ="sub">1</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:208" name="LiquFunc_0" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Liqu</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:546" name="Liqu" status="1" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Liqu</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:607" name="S_instrLiquFunc_0" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">instr</span> <span class ="FLb">Liqu</span> <span class ="FLb">Func</span> <span class ="sub">0</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:84" name="Involv">
+<lexicalfunction id="ls:fr:lf:313" name="Involv" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Involv</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:314" name="Conv_21Involv" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Conv</span> <span class ="sub">21</span> <span class ="FLb">Involv</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:315" name="S_resAntiBonInvolv" status="0" linktype="paradigmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">res</span> <span class ="FLb">AntiBon</span> <span class ="FLb">Involv</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:316" name="AntiBonInvolv" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="FLb">Involv</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:608" name="S_instrAntiBonInvolv" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">instr</span> <span class ="FLb">AntiBon</span> <span class ="FLb">Involv</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:654" name="Caus_1AntiBonInvolv" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">1</span> <span class ="FLb">AntiBon</span> <span class ="FLb">Involv</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:719" name="Caus_1Involv" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="sub">1</span> <span class ="FLb">Involv</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:782" name="NonConv_21Involv" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Non</span> <span class ="FLb">Conv</span> <span class ="sub">21</span> <span class ="FLb">Involv</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:785" name="Adv_1AntiAble_2Involv" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Adv</span> <span class ="sub">1</span> <span class ="FLb">Anti</span> <span class ="FLb">Able</span> <span class ="sub">2</span> <span class ="FLb">Involv</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:786" name="AntiBon + A_1Involv" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">AntiBon</span> <span class ="combination">+</span> <span class ="FLb">A</span> <span class ="sub">1</span> <span class ="FLb">Involv</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:85" name="Manif">
+<lexicalfunction id="ls:fr:lf:905" name="Manif" status="0" linktype="syntagmatic" standardness="simple standard" semantics="1">
+<![CDATA[
+ <span class ="FLb">Manif</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:973" name="IncepManif" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Incep</span> <span class ="FLb">Manif</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:964" name="S_2Manif" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">2</span> <span class ="FLb">Manif</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1060" name="S_2^prototypManif" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">2</span> <span class ="sup">prototyp</span> <span class ="FLb">Manif</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:86" name="Prepar">
+<lexicalfunction id="ls:fr:lf:325" name="Prepar_1" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Prepar</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:527" name="A_2PerfPrepar_1" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">A</span> <span class ="sub">2</span> <span class ="FLb">Perf</span> <span class ="FLb">Prepar</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:545" name="Prepar" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Prepar</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:708" name="Prepar^I" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Prepar</span> <span class ="sup">I</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:709" name="Prepar^II" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Prepar</span> <span class ="sup">II</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:946" name="AntiPrepar" status="0" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Anti</span> <span class ="FLb">Prepar</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:88" name="Degrad">
+<lexicalfunction id="ls:fr:lf:326" name="Degrad" status="0" linktype="syntagmatic" standardness="simple standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Degrad</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:876" name="CausDegrad" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">Degrad</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:1014" name="S_1CausDegrad" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">1</span> <span class ="FLb">Caus</span> <span class ="FLb">Degrad</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:89" name="Son">
+<lexicalfunction id="ls:fr:lf:327" name="Son" status="0" linktype="syntagmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Son</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:328" name="S_0Son" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">S</span> <span class ="sub">0</span> <span class ="FLb">Son</span>
+]]>
+</lexicalfunction>
+<lexicalfunction id="ls:fr:lf:615" name="ClausSon" status="0" linktype="paradigmatic" standardness="standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Claus</span> <span class ="FLb">Son</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:91" name="Result1">
+<lexicalfunction id="ls:fr:lf:384" name="Result_1" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Result</span> <span class ="sub">1</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:92" name="Result2">
+<lexicalfunction id="ls:fr:lf:385" name="Result_2" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Result</span> <span class ="sub">2</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:105" name="Result3">
+<lexicalfunction id="ls:fr:lf:734" name="Result_3" status="0" linktype="paradigmatic" standardness="simple standard" semantics="2">
+<![CDATA[
+ <span class ="FLb">Result</span> <span class ="sub">3</span>
+]]>
+</lexicalfunction>
+</family>
+<family id="ls:fr:lffam:93" name="Obstr">
+<lexicalfunction id="ls:fr:lf:677" name="CausObstr" status="1" linktype="syntagmatic" standardness="standard" semantics="0">
+<![CDATA[
+ <span class ="FLb">Caus</span> <span class ="FLb">Obstr</span>
+]]>
+</lexicalfunction>
+</family>
+</group>
+<group>
+</group>
+</model>

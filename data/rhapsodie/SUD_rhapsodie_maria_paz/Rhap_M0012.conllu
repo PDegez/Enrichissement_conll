@@ -1,0 +1,98 @@
+# macrosyntax = donc < "euh" j'irais à pied "euh" en longeant { là | donc "euh" jusqu'au cinéma Nef Chavant } //
+# sent_id = Rhap_M0012-1
+# text = donc, euh, j'irais à pied, euh, en longeant là, donc, euh, jusqu'au cinéma Nef Chavant.
+1	donc	donc	ADV	_	_	6	mod	_	AlignBegin=0.707022|AlignEnd=0.992944|Prenucleus=U|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	euh	euh	INTJ	_	_	1	discourse	_	AlignBegin=0.992944|AlignEnd=1.112944|AssociatedNucleus=U|Hesitation=Yes|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	subj	_	AlignBegin=1.112944|AlignEnd=1.212944|Hesitation=Yes|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+6	irais	aller	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=1.212944|AlignEnd=1.449165|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+7	à	à	ADP	_	_	6	mod	_	AlignBegin=1.449165|AlignEnd=1.532944|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	pied	pied	NOUN	_	Gender=Masc|Number=Sing	7	comp:obj	_	AlignBegin=1.532944|AlignEnd=1.996552|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	euh	euh	INTJ	_	_	8	discourse	_	AlignBegin=1.996552|AlignEnd=2.344044|AssociatedNucleus=U|Hesitation=Yes|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	en	en	ADP	_	_	6	mod	_	AlignBegin=2.344044|AlignEnd=2.514044|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+13	longeant	longer	VERB	_	Tense=Pres|VerbForm=Part	12	comp:obj	_	AlignBegin=2.514044|AlignEnd=2.994044|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+14	là	là	ADV	_	_	13	mod	_	AlignBegin=2.994044|AlignEnd=3.260279|Layer=U|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	donc	donc	ADV	_	_	14	discourse	_	AlignBegin=3.260279|AlignEnd=3.488552|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	euh	euh	INTJ	_	_	14	discourse	_	AlignBegin=3.488552|AlignEnd=3.628997|AssociatedNucleus=U|Hesitation=Yes|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	jusqu'	jusque	ADP	_	_	14	conj:dicto	_	AlignBegin=3.628997|AlignEnd=3.908997|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No|TypeInherited=AdInherited|TypePara=ParaReform
+21	au	au	ADP	_	_	20	comp:obj	_	AlignBegin=3.908997|AlignEnd=4.228997|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+22	cinéma	cinéma	NOUN	_	Gender=Masc|Number=Sing	21	comp:obj	_	AlignBegin=4.228997|AlignEnd=4.678997|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+23	Nef	Nef	PROPN	_	Gender=Fem|Number=Sing	22	mod@appos	_	AlignBegin=4.678997|AlignEnd=4.848997|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+24	Chavant	Chavant	PROPN	_	_	23	flat@name	_	AlignBegin=4.848997|AlignEnd=5.262627|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+25	.	.	PUNCT	_	_	6	punct	_	_
+
+# macrosyntax = ensuite <+ je continuerais jusqu'à la Préfecture //
+# sent_id = Rhap_M0012-2
+# text = ensuite, je continuerais jusqu'à la Préfecture.
+1	ensuite	ensuite	ADV	_	_	4	mod	_	AlignBegin=6.017011|AlignEnd=6.72609|GovNucleus=U|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	subj	_	AlignBegin=6.72609|AlignEnd=7.08609|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+4	continuerais	continuer	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=7.08609|AlignEnd=7.66609|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+5	jusqu'	jusque	ADP	_	_	4	mod	_	AlignBegin=7.66609|AlignEnd=7.87609|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+6	à	à	ADP	_	_	5	comp:obj	_	AlignBegin=7.87609|AlignEnd=7.97609|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	AlignBegin=7.97609|AlignEnd=8.04609|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+8	Préfecture	Préfecture	PROPN	_	_	6	comp:obj	_	AlignBegin=8.04609|AlignEnd=8.951822|Nucleus=Last|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|SpaceAfter=No
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+# macrosyntax = je couperais par la place Grenette //
+# sent_id = Rhap_M0012-3
+# text = je couperais par la place Grenette.
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	subj	_	AlignBegin=9.5063|AlignEnd=9.6763|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	couperais	couper	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=9.6763|AlignEnd=10.1063|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+3	par	par	ADP	_	_	2	comp:obl	_	AlignBegin=10.1063|AlignEnd=10.2763|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	AlignBegin=10.2763|AlignEnd=10.4063|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	place	place	NOUN	_	Gender=Fem|Number=Sing	3	comp:obj	_	AlignBegin=10.4063|AlignEnd=10.7063|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+6	Grenette	Grenette	PROPN	_	_	5	mod@appos	_	AlignBegin=10.7063|AlignEnd=11.352239|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = donc < après <+ je longerais le boulevard "euh" Gambetta //
+# sent_id = Rhap_M0012-4
+# text = donc, après, je longerais le boulevard, euh, Gambetta.
+1	donc	donc	ADV	_	_	6	mod	_	AlignBegin=11.981678|AlignEnd=12.111678|Prenucleus=U|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	après	après	ADP	_	_	6	mod	_	AlignBegin=12.111678|AlignEnd=12.42135|GovNucleus=U|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	subj	_	AlignBegin=12.42135|AlignEnd=12.529493|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+6	longerais	longer	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=12.529493|AlignEnd=12.799407|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	AlignBegin=12.799407|AlignEnd=12.84135|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	boulevard	boulevard	NOUN	_	Gender=Masc|Number=Sing	6	comp:obj	_	AlignBegin=12.84135|AlignEnd=13.210941|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	euh	euh	INTJ	_	_	8	discourse	_	AlignBegin=13.210941|AlignEnd=13.374726|AssociatedNucleus=U|Hesitation=Yes|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	Gambetta	Gambetta	PROPN	_	_	8	mod@appos	_	AlignBegin=13.374726|AlignEnd=13.995189|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+13	.	.	PUNCT	_	_	6	punct	_	_
+
+# macrosyntax = je traverse ( donc ) le cours Jean Jaurès //
+# sent_id = Rhap_M0012-5
+# text = je traverse, donc, le cours Jean Jaurès.
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	subj	_	AlignBegin=13.995189|AlignEnd=14.055189|Nucleus=Begin|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+2	traverse	traverser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=14.055189|AlignEnd=14.525189|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	donc	donc	ADV	_	_	2	discourse	_	AlignBegin=14.525189|AlignEnd=14.735189|Innucleus=U|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	AlignBegin=14.735189|AlignEnd=14.835189|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	cours	cours	NOUN	_	Gender=Masc|Number=Sing	2	comp:obj	_	AlignBegin=14.835189|AlignEnd=15.015189|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+8	Jean	Jean	PROPN	_	_	7	mod@appos	_	AlignBegin=15.015189|AlignEnd=15.195189|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+9	Jaurès	Jaurès	PROPN	_	_	8	flat@name	_	AlignBegin=15.195189|AlignEnd=15.750156|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = ^et j'arrive "euh" à Alsace-Lorraine //
+# sent_id = Rhap_M0012-6
+# text = et j'arrive, euh, à Alsace-Lorraine.
+1	et	et	CCONJ	_	_	3	cc	_	AlignBegin=16.112694|AlignEnd=16.202694|Intro_IU=U|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=dis-weak
+2	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	subj	_	AlignBegin=16.202694|AlignEnd=16.252694|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=dis-weak|SpaceAfter=No
+3	arrive	arriver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=16.252694|AlignEnd=16.542731|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=dis-weak|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	euh	euh	INTJ	_	_	3	discourse	_	AlignBegin=16.542731|AlignEnd=16.982902|AssociatedNucleus=U|Hesitation=Yes|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=dis-weak|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	à	à	ADP	_	_	3	comp:obl	_	AlignBegin=16.982902|AlignEnd=17.036592|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	Alsace	Alsace	PROPN	_	_	7	comp:obj	_	AlignBegin=17.036592|AlignEnd=17.396592|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+9	Lorraine	Lorraine	PROPN	_	_	8	flat@dev	_	AlignBegin=17.396592|AlignEnd=17.722985|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
+

@@ -1,0 +1,54 @@
+id_sentence_conll,index_phrase,index_token,form,lemma,score,annotation,phrase
+Rhap_M1001-1,0,5,je,moi,1,y,"alors, euh, je m'appelle Clara."
+Rhap_M1001-1,0,6,m',moi,1,y,"alors, euh, je m'appelle Clara."
+Rhap_M1001-1,0,8,Clara,Clara,6,y,"alors, euh, je m'appelle Clara."
+Rhap_M1001-2,1,1,j',moi,1,y,j'ai dix-neuf ans.
+Rhap_M1001-3,2,1,j',moi,1,y,"j'ai eu l'obtention de mon bac, euh, donc, l'année dernière."
+Rhap_M1001-7,6,8,j',moi,5,y,"parce qu'en fait, euh, j'aime la biologie."
+Rhap_M1001-8,7,2,je,moi,1,y,"et je suis plus, euh, vers la biologie et, euh, le social, donc, euh, XXX sciences médico-sociales."
+Rhap_M1001-9,8,9,j',moi,5,y,"et donc, en fait, euh, j'ai choisi italien en deuxième choix."
+Rhap_M1001-11,10,7,j',moi,1,y,"et en fait, euh, j'ai pas été acceptée parce qu'il y avait un entretien oral."
+Rhap_M1001-12,11,2,je,moi,5,y,et je le savais pas.
+Rhap_M1001-15,14,3,j',moi,1,y,"donc, j'ai pris italien en deuxième choix parce que aussi, euh, j'ai des facilités en italien."
+Rhap_M1001-15,14,16,j',moi,1,y,"donc, j'ai pris italien en deuxième choix parce que aussi, euh, j'ai des facilités en italien."
+Rhap_M1001-16,15,1,je,moi,1,y,je suis bilingue.
+Rhap_M1001-17,16,1,je,moi,5,y,je parle l'italien.
+Rhap_M1001-18,17,1,je,moi,1,y,je le comprends.
+Rhap_M1001-19,18,13,j',moi,5,y,"et donc, euh, en fait, euh, ben, j'aime beaucoup l'italien là, euh."
+Rhap_M1001-20,19,2,j',moi,5,y,et j'apprécie vraiment ce que je fais.
+Rhap_M1001-20,19,7,je,moi,1,y,et j'apprécie vraiment ce que je fais.
+Rhap_M1001-21,20,7,je,moi,5,y,"mais en fait, euh, je pense que je vais peut-être me réorienter, euh, si à la fin de l'année, si, euh…"
+Rhap_M1001-21,20,10,je,moi,1,y,"mais en fait, euh, je pense que je vais peut-être me réorienter, euh, si à la fin de l'année, si, euh…"
+Rhap_M1001-21,20,14,me,moi,1,y,"mais en fait, euh, je pense que je vais peut-être me réorienter, euh, si à la fin de l'année, si, euh…"
+Rhap_M1001-22,21,3,je,moi,1,y,"enfin, je vais finir l'année, là, euh, en un an."
+Rhap_M1001-23,22,9,je,moi,5,y,"et, euh, si, euh, je réussis pas, ben, je pense que je vais en psychologie parce que c'est plus, euh, ce que je veux faire la psycho."
+Rhap_M1001-23,22,15,je,moi,5,y,"et, euh, si, euh, je réussis pas, ben, je pense que je vais en psychologie parce que c'est plus, euh, ce que je veux faire la psycho."
+Rhap_M1001-23,22,18,je,moi,1,y,"et, euh, si, euh, je réussis pas, ben, je pense que je vais en psychologie parce que c'est plus, euh, ce que je veux faire la psycho."
+Rhap_M1001-23,22,32,je,moi,5,y,"et, euh, si, euh, je réussis pas, ben, je pense que je vais en psychologie parce que c'est plus, euh, ce que je veux faire la psycho."
+Rhap_M1001-24,23,6,je,moi,1,y,"et, euh, si je, si je passe l'année, par contre, je pense que je vais finir ma licence."
+Rhap_M1001-24,23,9,je,moi,1,y,"et, euh, si je, si je passe l'année, par contre, je pense que je vais finir ma licence."
+Rhap_M1001-24,23,17,je,moi,5,y,"et, euh, si je, si je passe l'année, par contre, je pense que je vais finir ma licence."
+Rhap_M1001-24,23,20,je,moi,1,y,"et, euh, si je, si je passe l'année, par contre, je pense que je vais finir ma licence."
+Rhap_M1001-25,24,4,je,moi,1,y,"s~, si je passe, je passerai en deuxième année, en troisième année."
+Rhap_M1001-25,24,7,je,moi,1,y,"s~, si je passe, je passerai en deuxième année, en troisième année."
+Rhap_M1001-26,25,1,je,moi,1,y,"je fini~, je finirai ma licence pour avoir ma licence."
+Rhap_M1001-26,25,4,je,moi,5,y,"je fini~, je finirai ma licence pour avoir ma licence."
+Rhap_M1001-27,26,3,je,moi,1,y,"mais si je la passe pas, enfin, je, c'est, j'ai beau~, j'ai appris beaucoup de choses."
+Rhap_M1001-27,26,10,je,moi,1,y,"mais si je la passe pas, enfin, je, c'est, j'ai beau~, j'ai appris beaucoup de choses."
+Rhap_M1001-27,26,15,j',moi,1,y,"mais si je la passe pas, enfin, je, c'est, j'ai beau~, j'ai appris beaucoup de choses."
+Rhap_M1001-27,26,19,j',moi,5,y,"mais si je la passe pas, enfin, je, c'est, j'ai beau~, j'ai appris beaucoup de choses."
+Rhap_M1001-29,28,2,je,moi,5,y,mais je pense que je me réorienterai en psychologie parce que ça m'intéresse plus.
+Rhap_M1001-29,28,5,je,moi,1,y,mais je pense que je me réorienterai en psychologie parce que ça m'intéresse plus.
+Rhap_M1001-29,28,6,me,moi,1,y,mais je pense que je me réorienterai en psychologie parce que ça m'intéresse plus.
+Rhap_M1001-29,28,13,m',moi,5,y,mais je pense que je me réorienterai en psychologie parce que ça m'intéresse plus.
+Rhap_M1001-30,29,1,je,moi,1,y,"je suis plus, euh…"
+Rhap_M1001-31,30,3,on,on,1,y,"enfin, on dit que je suis à l'écoute des personnes, je suis compréhensive, et que…"
+Rhap_M1001-31,30,6,je,moi,1,y,"enfin, on dit que je suis à l'écoute des personnes, je suis compréhensive, et que…"
+Rhap_M1001-31,30,12,personnes,personne,1,y,"enfin, on dit que je suis à l'écoute des personnes, je suis compréhensive, et que…"
+Rhap_M1001-31,30,14,je,moi,1,y,"enfin, on dit que je suis à l'écoute des personnes, je suis compréhensive, et que…"
+Rhap_M1001-32,31,6,me,moi,1,y,"enfin, tout le monde me dit que je suis plus, euh, faite pour, euh, pour, euh, ces métiers-là et ces études-là que pour l'italien."
+Rhap_M1001-32,31,9,je,moi,1,y,"enfin, tout le monde me dit que je suis plus, euh, faite pour, euh, pour, euh, ces métiers-là et ces études-là que pour l'italien."
+Rhap_M1001-33,32,5,je,moi,5,y,"donc, euh, je pense que je vais, euh, je vais sûrement me réorienter, en psychologie."
+Rhap_M1001-33,32,8,je,moi,1,y,"donc, euh, je pense que je vais, euh, je vais sûrement me réorienter, en psychologie."
+Rhap_M1001-33,32,13,je,moi,1,y,"donc, euh, je pense que je vais, euh, je vais sûrement me réorienter, en psychologie."
+Rhap_M1001-33,32,16,me,moi,1,y,"donc, euh, je pense que je vais, euh, je vais sûrement me réorienter, en psychologie."

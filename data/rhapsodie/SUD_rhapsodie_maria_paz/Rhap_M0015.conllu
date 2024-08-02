@@ -1,0 +1,121 @@
+# macrosyntax = "euh" { je |} { d'ici | du CCJ } <+ {| je } remonte l'avenue Alsace-Lorraine jusqu'à la place Victor Hugo //
+# sent_id = Rhap_M0015-1
+# text = euh, je, d'ici, du CCJ, je remonte l'avenue Alsace-Lorraine jusqu'à la place Victor Hugo.
+1	euh	euh	INTJ	_	_	12	discourse	_	AlignBegin=0.12|AlignEnd=0.55|AssociatedNucleus=U|GovNucleus=Begin|Hesitation=Yes|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=filled-pause|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	1	conj:dicto	_	AlignBegin=0.91623|AlignEnd=1.39623|GovNucleus=In|Hesitation=Yes|Layer=U|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=tail|SpaceAfter=No|TypeInherited=SubInherited|TypePara=ParaDisfl
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	d'	de	ADP	_	_	12	mod	_	AlignBegin=1.492065|AlignEnd=1.532065|GovNucleus=In|Hesitation=Pause|Layer=Begin|ProminenceFinal=Pause|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+6	ici	ici	ADV	_	_	5	comp:obj	_	AlignBegin=1.532065|AlignEnd=2.140781|GovNucleus=In|Layer=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	du	du	ADP	_	_	5	conj:dicto	_	AlignBegin=2.270781|AlignEnd=2.410781|GovNucleus=In|Layer=Begin|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|TypeInherited=AdInherited|TypePara=ParaReform
+9	CCJ	CCJ	PROPN	_	_	8	comp:obj	_	AlignBegin=2.410781|AlignEnd=3.130781|GovNucleus=Last|Layer=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+10	,	,	PUNCT	_	_	5	punct	_	_
+11	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	12	subj	_	AlignBegin=3.130781|AlignEnd=4.113954|Hesitation=Yes|Layer=U|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12	remonte	remonter	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=4.113954|AlignEnd=4.470781|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+13	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	14	det	_	AlignBegin=4.470781|AlignEnd=4.500781|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+14	avenue	avenue	NOUN	_	Gender=Fem|Number=Sing	12	comp:obj	_	AlignBegin=4.500781|AlignEnd=4.663521|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+15	Alsace	Alsace	PROPN	_	_	14	mod@appos	_	AlignBegin=4.663521|AlignEnd=4.920781|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+16	Lorraine	Lorraine	PROPN	_	_	15	flat@dev	_	AlignBegin=4.920781|AlignEnd=5.180781|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+17	jusqu'	jusque	ADP	_	_	12	mod	_	AlignBegin=5.180781|AlignEnd=5.410781|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+18	à	à	ADP	_	_	16	comp:obj	_	AlignBegin=5.410781|AlignEnd=5.440781|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+19	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	AlignBegin=5.440781|AlignEnd=5.520781|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+20	place	place	NOUN	_	Gender=Fem|Number=Sing	17	comp:obj	_	AlignBegin=5.520781|AlignEnd=5.750781|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+21	Victor	Victor	PROPN	_	_	19	mod@appos	_	AlignBegin=5.750781|AlignEnd=6.060781|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+22	Hugo	Hugo	PROPN	_	_	20	flat@name	_	AlignBegin=6.060781|AlignEnd=6.310781|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+23	.	.	PUNCT	_	_	12	punct	_	_
+
+# macrosyntax = je traverse { l'avenue Vict~ | "euh" la place Victor Hugo } en diagonale //+ jusqu'à arriver { au | "mh" au } boulevard Agutte Sembat //
+# sent_id = Rhap_M0015-2
+# text = je traverse l'avenue Vict~, euh, la place Victor Hugo en diagonale, jusqu'à arriver au, mh, au boulevard Agutte Sembat.
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	subj	_	AlignBegin=6.833549|AlignEnd=6.947069|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=dis-weak
+2	traverse	traverser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=6.947069|AlignEnd=7.387069|Hesitation=Yes|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=dis-weak
+3	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art|Shared=No	4	det	_	AlignBegin=7.387069|AlignEnd=7.417069|Hesitation=Yes|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=dis-weak|SpaceAfter=No
+4	avenue	avenue	NOUN	_	Gender=Fem|Number=Sing	2	comp:obj	_	AlignBegin=7.417069|AlignEnd=7.907069|Hesitation=Yes|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=dis-weak
+5	Vict~	Vict~	X	_	ExtPos=PROPN	4	mod@appos	_	AlignBegin=7.907069|AlignEnd=8.377397|Hesitation=Yes|Layer=Last|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	euh	euh	INTJ	_	_	5	discourse	_	AlignBegin=8.377397|AlignEnd=8.630005|AssociatedNucleus=U|Hesitation=Yes|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	AlignBegin=8.630005|AlignEnd=8.707069|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+10	place	place	NOUN	_	Gender=Fem|Number=Sing	4	conj:dicto	_	AlignBegin=8.707069|AlignEnd=8.927069|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|TypeInherited= ObjInherited|TypePara=ParaReform
+11	Victor	Victor	PROPN	_	_	10	mod@appos	_	AlignBegin=8.927069|AlignEnd=9.194896|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12	Hugo	Hugo	PROPN	_	_	11	flat@name	_	AlignBegin=9.194896|AlignEnd=9.503075|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+13	en	en	ADP	_	_	2	mod	_	AlignBegin=9.503075|AlignEnd=9.697069|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+14	diagonale	diagonale	NOUN	_	Gender=Fem|Number=Sing	13	comp:obj	_	AlignBegin=9.697069|AlignEnd=10.459142|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	jusqu'	jusque	ADP	_	_	2	mod	_	AlignBegin=10.909417|AlignEnd=11.184682|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak|SpaceAfter=No
+17	à	à	ADP	_	_	16	comp:obj	_	AlignBegin=11.184682|AlignEnd=11.234682|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+18	arriver	arriver	VERB	_	VerbForm=Inf	17	comp:obj	_	AlignBegin=11.234682|AlignEnd=11.634682|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|Subject=SubjRaising
+19	au	au	ADP	_	_	18	comp:obl	_	AlignBegin=11.634682|AlignEnd=12.242753|Hesitation=Yes|Layer=U|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=dis-strong
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	mh	mh	INTJ	_	_	23	discourse	_	AlignBegin=12.242753|AlignEnd=12.564309|AssociatedNucleus=U|Hesitation=Yes|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	au	au	ADP	_	_	19	conj:dicto	_	AlignBegin=12.9219|AlignEnd=12.981278|Layer=Last|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong|TypeInherited=OblInherited|TypePara=ParaDisfl
+24	boulevard	boulevard	NOUN	_	Gender=Masc|Number=Sing	23	comp:obj	_	AlignBegin=12.981278|AlignEnd=13.2419|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|TypeInherited=DepInherited
+25	Agutte	Agutte	PROPN	_	_	24	mod@appos	_	AlignBegin=13.2419|AlignEnd=13.439451|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+26	Sembat	Sembat	PROPN	_	_	25	flat@name	_	AlignBegin=13.439451|AlignEnd=13.880506|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+27	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = je remonte le boulevard Agutte Sembat //+ donc < vers le sud "on va dire" //
+# sent_id = Rhap_M0015-3
+# text = je remonte le boulevard Agutte Sembat, donc, vers le sud, on va dire.
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	subj	_	AlignBegin=14.500492|AlignEnd=14.652515|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	remonte	remonter	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=14.652515|AlignEnd=15.019787|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	AlignBegin=15.019787|AlignEnd=15.079787|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+4	boulevard	boulevard	NOUN	_	Gender=Masc|Number=Sing	2	comp:obj	_	AlignBegin=15.079787|AlignEnd=15.399787|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5	Agutte	Agutte	PROPN	_	_	4	mod@appos	_	AlignBegin=15.399787|AlignEnd=15.592068|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+6	Sembat	Sembat	PROPN	_	_	5	flat@name	_	AlignBegin=15.592068|AlignEnd=16.149787|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	donc	donc	ADV	_	_	6	discourse	_	AlignBegin=16.329787|AlignEnd=16.586602|Prenucleus=U|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	vers	vers	ADP	_	_	2	mod	_	AlignBegin=16.586602|AlignEnd=16.764114|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	AlignBegin=16.764114|AlignEnd=17.281858|Hesitation=Yes|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12	sud	sud	NOUN	_	Gender=Masc|Number=Sing	10	comp:obj	_	AlignBegin=17.281858|AlignEnd=17.739787|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	15	subj	_	AlignBegin=17.739787|AlignEnd=17.799787|AssociatedNucleus=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+15	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	discourse	_	AlignBegin=17.799787|AlignEnd=17.929787|AssociatedNucleus=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+16	dire	dire	VERB	_	VerbForm=Inf	15	comp:obj	_	AlignBegin=17.969787|AlignEnd=18.199787|AssociatedNucleus=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No|Subject=SubjRaising
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = ^et { j'arri~ | je passe } devant la grande poste //
+# sent_id = Rhap_M0015-4
+# text = et j'arri~, je passe devant la grande poste.
+1	et	et	CCONJ	_	_	3	cc	_	AlignBegin=18.815135|AlignEnd=20.045135|Hesitation=Yes|Intro_IU=U|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=dis-weak
+2	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	subj	_	AlignBegin=20.045135|AlignEnd=20.225135|Hesitation=Yes|Layer=Begin|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+3	arri~	arri~	X	_	ExtPos=VERB	0	root	_	AlignBegin=20.225135|AlignEnd=20.615135|Hesitation=Yes|Layer=Last|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	subj	_	AlignBegin=20.615135|AlignEnd=20.745135|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+6	passe	passer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj:dicto	_	AlignBegin=20.745135|AlignEnd=20.955135|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|TypeInherited=DepInherited|TypePara=ParaReform
+7	devant	devant	ADP	_	_	6	mod	_	AlignBegin=20.955135|AlignEnd=21.165135|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	AlignBegin=21.165135|AlignEnd=21.275135|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+9	grande	grand	ADJ	_	Gender=Fem|Number=Sing	10	mod	_	AlignBegin=21.275135|AlignEnd=21.495135|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+10	poste	poste	NOUN	_	Gender=Fem|Number=Sing	7	comp:obj	_	AlignBegin=21.495135|AlignEnd=22.015409|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = ^et après être passé devant la grande poste <+ "eh bien" j'arrive "euh" au cinéma La Nef Chavant //
+# sent_id = Rhap_M0015-5
+# text = et après être passé devant la grande poste, eh bien, j'arrive, euh, au cinéma La Nef Chavant.
+1	et	et	CCONJ	_	_	14	cc	_	AlignBegin=22.747529|AlignEnd=22.777529|Intro_IU=U|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+2	après	après	ADP	_	_	14	mod	_	AlignBegin=22.777529|AlignEnd=22.967529|GovNucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+3	être	être	AUX	_	VerbForm=Inf	2	comp:obj	_	AlignBegin=22.967529|AlignEnd=23.067529|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|Subject=SubjRaising
+4	passé	passer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	comp:aux@tense	_	AlignBegin=23.067529|AlignEnd=23.267529|GovNucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+5	devant	devant	ADP	_	_	3	mod	_	AlignBegin=23.267529|AlignEnd=23.437529|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	AlignBegin=23.437529|AlignEnd=23.547529|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+7	grande	grand	ADJ	_	Gender=Fem|Number=Sing	8	mod	_	AlignBegin=23.547529|AlignEnd=23.747529|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8	poste	poste	NOUN	_	Gender=Fem|Number=Sing	5	comp:obj	_	AlignBegin=23.747529|AlignEnd=24.057529|GovNucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	eh	eh	INTJ	_	_	8	discourse	_	AlignBegin=24.057529|AlignEnd=24.107529|AssociatedNucleus=Begin|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+11	bien	bien	INTJ	_	_	8	discourse	_	AlignBegin=24.147529|AlignEnd=24.247529|AssociatedNucleus=Last|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+12	,	,	PUNCT	_	_	2	punct	_	_
+13	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	subj	_	AlignBegin=24.247529|AlignEnd=24.357529|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+14	arrive	arriver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=24.357529|AlignEnd=24.707529|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	euh	euh	INTJ	_	_	14	discourse	_	AlignBegin=24.707529|AlignEnd=24.867529|AssociatedNucleus=U|Hesitation=Yes|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	au	au	ADP	_	_	14	comp:obl	_	AlignBegin=24.867529|AlignEnd=25.025272|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+19	cinéma	cinéma	NOUN	_	Gender=Masc|Number=Sing	18	comp:obj	_	AlignBegin=25.025272|AlignEnd=25.377102|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+20	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	AlignBegin=25.377102|AlignEnd=25.458919|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+21	Nef	Nef	PROPN	_	Gender=Fem|Number=Sing	19	mod@appos	_	AlignBegin=25.458919|AlignEnd=25.617529|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Strong
+22	Chavant	Chavant	PROPN	_	_	21	flat@name	_	AlignBegin=25.617529|AlignEnd=25.937529|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+23	.	.	PUNCT	_	_	14	punct	_	_
+

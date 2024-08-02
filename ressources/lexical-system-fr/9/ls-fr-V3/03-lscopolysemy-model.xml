@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="00-lsschema.rnc" type="application/relax-ng-compact-syntax"?>
+<model>
+<type id="ls:fr:cptype:3" name="Causation" order="1" semantics="2" derivation="1"/>
+<type id="ls:fr:cptype:6" name="Résultat" order="2" semantics="2" derivation="1"/>
+<type id="ls:fr:cptype:7" name="Conversion" order="3" semantics="2" derivation="1"/>
+<type id="ls:fr:cptype:4" name="Spécialisation" order="4" semantics="2" derivation="1">
+<subtype id="ls:fr:cpstype:10" name="Sous-sens"/>
+</type>
+<type id="ls:fr:cptype:12" name="Généralisation" order="5" semantics="2" derivation="1"/>
+<type id="ls:fr:cptype:5" name="Extension" order="6" semantics="1" derivation="1"/>
+<type id="ls:fr:cptype:9" name="Intersection" order="7" semantics="1" derivation="0"/>
+<type id="ls:fr:cptype:10" name="Antiphrase" order="8" semantics="1" derivation="1"/>
+<type id="ls:fr:cptype:2" name="Métonymie" order="9" semantics="2" derivation="1">
+<subtype id="ls:fr:cpstype:5" name="Ensemble de"/>
+<subtype id="ls:fr:cpstype:8" name="Partie de"/>
+</type>
+<type id="ls:fr:cptype:1" name="Métaphore" order="10" semantics="0" derivation="1">
+<subtype id="ls:fr:cpstype:1" name="Fonction"/>
+<subtype id="ls:fr:cpstype:2" name="Forme"/>
+<subtype id="ls:fr:cpstype:3" name="Utilisation"/>
+<subtype id="ls:fr:cpstype:4" name="Comme si"/>
+<subtype id="ls:fr:cpstype:6" name="Fonctionnement"/>
+<subtype id="ls:fr:cpstype:7" name="Comportement"/>
+<subtype id="ls:fr:cpstype:12" name="Position"/>
+<subtype id="ls:fr:cpstype:13" name="Comme si méton"/>
+<subtype id="ls:fr:cpstype:14" name="Couleur"/>
+<subtype id="ls:fr:cpstype:15" name="Structure"/>
+<subtype id="ls:fr:cpstype:16" name="Mouvement"/>
+</type>
+<type id="ls:fr:cptype:11" name="Grammaticalisation" order="11" semantics="0" derivation="0"/>
+<type id="ls:fr:cptype:8" name="Codérivation" order="12" semantics="0" derivation="0"/>
+</model>

@@ -1,0 +1,13 @@
+id_sentence_conll,index_phrase,index_token,form,lemma,score,annotation,phrase
+Rhap_M0008-1,0,1,vous,vous,1,y,vous allez à Hermillon.
+Rhap_M0008-2,1,7,vous,vous,1,y,"et, euh, ensuite, vous prenez la direction de Saint-Jean."
+Rhap_M0008-2,1,12,Saint,Saint,2,y,"et, euh, ensuite, vous prenez la direction de Saint-Jean."
+Rhap_M0008-2,1,13,Jean,Jean,2,n,"et, euh, ensuite, vous prenez la direction de Saint-Jean."
+Rhap_M0008-3,2,1,vous,vous,1,y,"vous passe~, euh."
+Rhap_M0008-4,3,1,vous,vous,1,y,vous prenez la grande ligne droite.
+Rhap_M0008-5,4,2,vous,vous,1,y,"et vous tournez à, à gauche."
+Rhap_M0008-6,5,3,vous,vous,1,y,"euh, vous passez devant les pompiers."
+Rhap_M0008-6,5,7,pompiers,pompier,1,y,"euh, vous passez devant les pompiers."
+Rhap_M0008-8,7,1,vous,vous,1,y,vous allez à droite.
+Rhap_M0008-9,8,5,vous,vous,1,y,"et, euh, vous continuez."
+Rhap_M0008-10,9,2,vous,vous,1,y,et vous tombez sur la gare.

@@ -1,0 +1,341 @@
+# macrosyntax = "mh" donc < "euh" on voit Chaplin "euh" s'habiller pour sortir de son usine //
+# sent_id = Rhap_M0022-1
+# text = mh, donc, euh, on voit Chaplin, euh, s'habiller pour sortir de son usine.
+1	mh	mh	INTJ	_	_	8	discourse	_	AlignBegin=0.573166|AlignEnd=1.315|AssociatedNucleus=U|Hesitation=Yes|Prenucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=dis-weak|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	donc	donc	ADV	_	_	8	mod	_	AlignBegin=1.315|AlignEnd=2.065|Prenucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=filled-dis|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	euh	euh	INTJ	_	_	3	discourse	_	AlignBegin=2.065|AlignEnd=2.555|AssociatedNucleus=U|Hesitation=Yes|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=filled-pause|SpaceAfter=No
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	8	subj	_	AlignBegin=3.645|AlignEnd=3.765|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+8	voit	voir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=3.765|AlignEnd=3.915|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+9	Chaplin	Chaplin	PROPN	_	_	8	comp:obj	_	AlignBegin=3.915|AlignEnd=4.605636|ANIMACY=HUM|HUM_SCORE=2|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=dis-strong|SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	euh	euh	INTJ	_	_	9	discourse	_	AlignBegin=4.605636|AlignEnd=5.265|AssociatedNucleus=U|Hesitation=Yes|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=dis-strong|SpaceAfter=No
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	s'	soi	PRON	_	Person=3|PronType=Prs	14	comp:obj	_	AlignBegin=5.265|AlignEnd=5.855|ANIMACY=HUM|HUM_SCORE=4|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+14	habiller	habiller	VERB	_	VerbForm=Inf	8	comp:obj	_	AlignBegin=5.265|AlignEnd=5.855|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|Subject=ObjRaising
+15	pour	pour	ADP	_	_	14	mod	_	AlignBegin=5.855|AlignEnd=6.043916|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+16	sortir	sortir	VERB	_	VerbForm=Inf	15	comp:obj	_	AlignBegin=6.043916|AlignEnd=6.465|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|Subject=NoRaising
+17	de	de	ADP	_	_	16	comp:obl	_	AlignBegin=6.465|AlignEnd=6.504988|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=tail
+18	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	19	det	_	AlignBegin=6.504988|AlignEnd=6.745|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+19	usine	usine	NOUN	_	Gender=Fem|Number=Sing	17	comp:obj	_	AlignBegin=6.745|AlignEnd=7.695|Nucleus=Last|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+20	.	.	PUNCT	_	_	8	punct	_	_
+
+# macrosyntax = ensuite <+ "euh" on voit une jeune fille habillée en noir { qui regarde une devanture de magasin | qui profite d'un aller retour du boulanger "on va dire" pour piquer une baguette } "euh" //
+# sent_id = Rhap_M0022-2
+# text = ensuite, euh, on voit une jeune fille habillée en noir qui regarde une devanture de magasin, qui profite d'un aller retour du boulanger, on va dire, pour piquer une baguette, euh.
+1	ensuite	ensuite	ADV	_	_	6	mod	_	AlignBegin=8.033104|AlignEnd=8.743104|GovNucleus=U|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	euh	euh	INTJ	_	_	1	discourse	_	AlignBegin=8.743104|AlignEnd=9.225969|AssociatedNucleus=U|Hesitation=Yes|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=dis-weak|SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	6	subj	_	AlignBegin=9.225969|AlignEnd=9.413104|ANIMACY=HUM|HUM_SCORE=5|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+6	voit	voir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=9.413104|AlignEnd=9.583825|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+7	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	AlignBegin=9.583825|AlignEnd=10.325231|Hesitation=Yes|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=dis-strong
+8	jeune	jeune	ADJ	_	Number=Sing	9	mod	_	AlignBegin=10.325231|AlignEnd=10.633104|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+9	fille	fille	NOUN	_	Gender=Fem|Number=Sing	6	comp:obj	_	AlignBegin=10.633104|AlignEnd=11.013104|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+10	habillée	habiller	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	mod	_	AlignBegin=11.013104|AlignEnd=11.493343|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+11	en	en	ADP	_	_	10	mod	_	AlignBegin=11.493343|AlignEnd=11.626544|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12	noir	noir	NOUN	_	Gender=Masc|Number=Sing	11	comp:obj	_	AlignBegin=11.626544|AlignEnd=12.203104|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+13	qui	qui	PRON	_	PronType=Rel	14	subj	_	AlignBegin=12.857326|AlignEnd=12.977104|Layer=Begin|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+14	regarde	regarder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	mod@relcl	_	AlignBegin=12.977104|AlignEnd=13.457104|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+15	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	AlignBegin=13.457104|AlignEnd=13.597104|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+16	devanture	devanture	NOUN	_	Gender=Fem|Number=Sing	14	comp:obj	_	AlignBegin=13.597104|AlignEnd=14.127104|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+17	de	de	ADP	_	_	16	udep	_	AlignBegin=14.127104|AlignEnd=14.257104|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=dis-strong
+18	magasin	magasin	NOUN	_	Gender=Masc|Number=Sing	17	comp:obj	_	AlignBegin=14.257104|AlignEnd=15.207104|Hesitation=Yes|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=dis-strong|SpaceAfter=No
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	qui	qui	PRON	_	PronType=Rel	21	subj	_	AlignBegin=15.267104|AlignEnd=15.417104|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+21	profite	profiter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	conj:coord	_	AlignBegin=15.507104|AlignEnd=16.317104|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|TypeInherited=DepInherited|TypePara=ParaCoord
+22	d'	de	ADP	_	_	21	comp:obl	_	AlignBegin=16.841104|AlignEnd=16.961104|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak|SpaceAfter=No
+23	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	24	det	_	AlignBegin=16.841104|AlignEnd=16.961104|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+24	aller	aller	NOUN	_	Gender=Masc|Number=Sing	22	comp:obj	_	AlignBegin=16.961104|AlignEnd=17.261104|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+25	retour	retour	NOUN	_	Gender=Masc|Number=Sing	24	compound	_	AlignBegin=17.261104|AlignEnd=17.881104|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+26	du	du	ADP	_	_	24	udep	_	AlignBegin=17.881104|AlignEnd=18.041104|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+27	boulanger	boulanger	NOUN	_	Gender=Masc|Number=Sing	26	comp:obj	_	AlignBegin=18.041104|AlignEnd=18.691104|ANIMACY=HUM|HUM_SCORE=1|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+28	,	,	PUNCT	_	_	30	punct	_	_
+29	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	30	subj	_	AlignBegin=18.691104|AlignEnd=18.771104|ANIMACY=HUM|AssociatedNucleus=Begin|HUM_SCORE=1|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+30	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	discourse	_	AlignBegin=18.771104|AlignEnd=18.861104|AssociatedNucleus=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+31	dire	dire	VERB	_	VerbForm=Inf	30	comp:obj	_	AlignBegin=18.861104|AlignEnd=19.061104|AssociatedNucleus=Last|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No|Subject=SubjRaising
+32	,	,	PUNCT	_	_	33	punct	_	_
+33	pour	pour	ADP	_	_	21	mod	_	AlignBegin=19.912893|AlignEnd=20.072893|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+34	piquer	piquer	VERB	_	VerbForm=Inf	33	comp:obj	_	AlignBegin=20.125434|AlignEnd=20.502893|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|Subject=NoRaising
+35	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	36	det	_	AlignBegin=20.502893|AlignEnd=20.652893|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+36	baguette	baguette	NOUN	_	Gender=Fem|Number=Sing	34	comp:obj	_	AlignBegin=20.652893|AlignEnd=22.150038|Layer=Last|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=filled-dis|SpaceAfter=No
+37	,	,	PUNCT	_	_	38	punct	_	_
+38	euh	euh	INTJ	_	_	36	discourse	_	AlignBegin=22.150038|AlignEnd=23.30868|AssociatedNucleus=U|Hesitation=Yes|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=filled-pause|SpaceAfter=No
+39	.	.	PUNCT	_	_	6	punct	_	_
+
+# macrosyntax = sur ce <+ une vieille femme "euh" { voit le vol | prévient le boulanger } //
+# sent_id = Rhap_M0022-3
+# text = sur ce, une vieille femme, euh, voit le vol, prévient le boulanger.
+1	sur	sur	ADP	_	ExtPos=ADV	10	mod	_	AlignBegin=24.014146|AlignEnd=24.335312|GovNucleus=Begin|Idiom=Yes|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+2	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	1	unk	_	AlignBegin=24.335312|AlignEnd=24.817314|GovNucleus=Last|InIdiom=Yes|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	AlignBegin=24.817314|AlignEnd=25.077899|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+5	vieille	vieux	ADJ	_	Gender=Fem|Number=Sing	6	mod	_	AlignBegin=25.077899|AlignEnd=25.662363|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+6	femme	femme	NOUN	_	Gender=Fem|Number=Sing|Shared=Yes	10	subj	_	AlignBegin=25.662363|AlignEnd=26.326868|ANIMACY=HUM|HUM_SCORE=5|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=tail|SpaceAfter=No|TypeInherited=SubInherited
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	euh	euh	INTJ	_	_	6	discourse	_	AlignBegin=27.047104|AlignEnd=27.979156|AssociatedNucleus=U|Hesitation=Yes|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=filled-pause|SpaceAfter=No
+9	,	,	PUNCT	_	_	6	punct	_	_
+10	voit	voir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=27.979156|AlignEnd=28.257104|Layer=Begin|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	AlignBegin=28.257104|AlignEnd=28.417104|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12	vol	vol	NOUN	_	Gender=Masc|Number=Sing	10	comp:obj	_	AlignBegin=28.417104|AlignEnd=29.037755|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	prévient	prévenir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj:coord	_	AlignBegin=29.107104|AlignEnd=29.697104|Layer=Begin|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|TypeInherited=RootInherited|TypePara=ParaCoord
+15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	AlignBegin=29.697104|AlignEnd=29.757104|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+16	boulanger	boulanger	NOUN	_	Gender=Masc|Number=Sing	14	comp:obj	_	AlignBegin=29.757104|AlignEnd=30.697104|ANIMACY=HUM|HUM_SCORE=1|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+17	.	.	PUNCT	_	_	10	punct	_	_
+
+# macrosyntax = la jeune fille "euh" se retrouve par terre avec Chaplin "euh" au sol //
+# sent_id = Rhap_M0022-4
+# text = la jeune fille, euh, se retrouve par terre avec Chaplin, euh, au sol.
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	AlignBegin=31.402714|AlignEnd=31.862714|Hesitation=Yes|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=dis-weak
+2	jeune	jeune	ADJ	_	Number=Sing	3	mod	_	AlignBegin=31.862714|AlignEnd=32.212714|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+3	fille	fille	NOUN	_	Gender=Fem|Number=Sing	8	subj	_	AlignBegin=32.212714|AlignEnd=33.134993|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=tail|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	euh	euh	INTJ	_	_	3	discourse	_	AlignBegin=33.343245|AlignEnd=34.222714|AssociatedNucleus=U|Hesitation=Yes|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=filled-pause|SpaceAfter=No
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	se	soi	PRON	_	Person=3|PronType=Prs	8	comp:obj	_	AlignBegin=35.586968|AlignEnd=35.736968|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+8	retrouve	retrouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=35.736968|AlignEnd=36.103099|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+9	par	par	ADP	_	_	8	comp:obl	_	AlignBegin=36.103099|AlignEnd=36.316968|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+10	terre	terre	NOUN	_	Gender=Fem|Number=Sing	9	comp:obj	_	AlignBegin=36.316968|AlignEnd=36.546968|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+11	avec	avec	ADP	_	_	8	mod	_	AlignBegin=36.546968|AlignEnd=36.755415|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+12	Chaplin	Chaplin	PROPN	_	_	11	comp:obj	_	AlignBegin=36.755415|AlignEnd=37.396968|ANIMACY=HUM|HUM_SCORE=2|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	euh	euh	INTJ	_	_	12	discourse	_	AlignBegin=38.001222|AlignEnd=39.191222|AssociatedNucleus=U|Hesitation=Yes|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=filled-pause|SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	au	au	ADP	_	_	9	conj:dicto	_	AlignBegin=39.251222|AlignEnd=39.391222|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+17	sol	sol	NOUN	_	Gender=Masc|Number=Sing	16	comp:obj	_	AlignBegin=39.391222|AlignEnd=40.267034|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+18	.	.	PUNCT	_	_	8	punct	_	_
+
+# macrosyntax = le boulanger arrive à la rattraper "euh" //
+# sent_id = Rhap_M0022-5
+# text = le boulanger arrive à la rattraper, euh.
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	AlignBegin=40.682034|AlignEnd=40.812034|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	boulanger	boulanger	NOUN	_	Gender=Masc|Number=Sing	3	subj	_	AlignBegin=40.812034|AlignEnd=41.932034|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
+3	arrive	arriver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=41.932034|AlignEnd=42.355215|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=filled-dis
+4	à	à	ADP	_	_	3	comp:obl	_	AlignBegin=42.355215|AlignEnd=42.416089|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=filled-dis
+5	la	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	comp:obj	_	AlignBegin=42.416089|AlignEnd=42.569966|ANIMACY=HUM|HUM_SCORE=4|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=filled-dis
+6	rattraper	rattraper	VERB	_	VerbForm=Inf	4	comp:obj	_	AlignBegin=42.569966|AlignEnd=43.902034|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=filled-dis|SpaceAfter=No|Subject=SubjRaising
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	euh	euh	INTJ	_	_	6	discourse	_	AlignBegin=46.485517|AlignEnd=48.11652|AssociatedNucleus=U|Hesitation=Yes|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=filled-pause|SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = à travers la foule <+ le policier { arrive | demande des explications "mh" de ce "euh" "mh" brouhaha } "euh" //
+# sent_id = Rhap_M0022-6
+# text = à travers la foule, le policier arrive, demande des explications, mh, de ce, euh, mh, brouhaha, euh.
+1	à	à	ADP	_	ExtPos=ADP	8	mod	_	AlignBegin=48.11652|AlignEnd=48.19652|GovNucleus=Begin|Idiom=Yes|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+2	travers	travers	NOUN	_	Gender=Masc	1	comp:obj	_	AlignBegin=48.19652|AlignEnd=48.55652|GovNucleus=In|InIdiom=Yes|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	AlignBegin=48.55652|AlignEnd=48.65652|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+4	foule	foule	NOUN	_	Gender=Fem|Number=Sing	1	comp:obj	_	AlignBegin=48.65652|AlignEnd=48.96652|ANIMACY=HUM|GovNucleus=Last|HUM_SCORE=1|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	AlignBegin=48.96652|AlignEnd=49.07652|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=dis-strong
+7	policier	policier	NOUN	_	Gender=Masc|Number=Sing|Shared=Yes	8	subj	_	AlignBegin=49.10652|AlignEnd=50.252682|ANIMACY=HUM|Hesitation=Yes|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=dis-strong|TypeInherited=SubInherited
+8	arrive	arriver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=50.567682|AlignEnd=51.167682|Layer=U|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	demande	demander	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj:coord	_	AlignBegin=51.167682|AlignEnd=51.507682|Layer=Begin|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|TypeInherited=RootInherited|TypePara=ParaCoord
+11	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	12	det	_	AlignBegin=51.507682|AlignEnd=51.607682|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12	explications	explication	NOUN	_	Gender=Fem|Number=Plur	10	comp:obj	_	AlignBegin=51.607682|AlignEnd=52.707682|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	mh	mh	INTJ	_	_	12	discourse	_	AlignBegin=52.948413|AlignEnd=53.208413|AssociatedNucleus=U|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=filled-dis|SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	de	de	ADP	_	_	12	udep	_	AlignBegin=53.208413|AlignEnd=53.378413|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=filled-dis
+17	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	23	det	_	AlignBegin=53.378413|AlignEnd=53.638413|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=filled-dis|SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	euh	euh	INTJ	_	_	17	discourse	_	AlignBegin=53.638413|AlignEnd=54.088413|AssociatedNucleus=U|Hesitation=Yes|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=filled-dis|SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	mh	mh	INTJ	_	_	17	discourse	_	AlignBegin=54.088413|AlignEnd=54.488413|AssociatedNucleus=U|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=filled-dis|SpaceAfter=No
+22	,	,	PUNCT	_	_	17	punct	_	_
+23	brouhaha	brouhaha	NOUN	_	Gender=Masc|Number=Sing	16	comp:obj	_	AlignBegin=54.488413|AlignEnd=55.287233|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=filled-dis|SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	euh	euh	INTJ	_	_	23	discourse	_	AlignBegin=56.347816|AlignEnd=57.375853|AssociatedNucleus=U|Hesitation=Yes|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=filled-pause|SpaceAfter=No
+26	.	.	PUNCT	_	_	8	punct	_	_
+
+# macrosyntax = le boulanger { est { très éner~ | XXX très énervé } contre la fille "euh" | explique le vol } //
+# sent_id = Rhap_M0022-7
+# text = le boulanger est très éner~, XXX très énervé contre la fille, euh, explique le vol.
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	AlignBegin=57.375853|AlignEnd=57.525853|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+2	boulanger	boulanger	NOUN	_	Gender=Masc|Number=Sing|Shared=Yes	3	subj	_	AlignBegin=57.525853|AlignEnd=57.965853|ANIMACY=HUM|HUM_SCORE=1|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|TypeInherited=SubInherited
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=57.965853|AlignEnd=58.005853|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+4	très	très	ADV	_	_	5	mod	_	AlignBegin=58.005853|AlignEnd=58.185853|Hesitation=Yes|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+5	éner~	éner~	X	_	ExtPos=ADJ	3	comp:pred	_	AlignBegin=58.215853|AlignEnd=58.451246|Hesitation=Yes|Layer=Last|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	XXX	XXX	X	_	_	9	unk@scrap	_	AlignBegin=58.451246|AlignEnd=58.666808|Hesitation=Overlap|Layer=Begin|Nucleus=In|ProminenceFinal=Overlap|ProminenceInitial=Overlap|RhythmGroup=tail
+8	très	très	ADV	_	_	9	mod	_	AlignBegin=58.9633|AlignEnd=59.1733|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+9	énervé	énervé	ADJ	_	Gender=Masc|Number=Sing	5	conj:dicto	_	AlignBegin=59.1733|AlignEnd=59.5833|Layer=Last|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|TypeInherited=PredInherited|TypePara=ParaDisfl
+10	contre	contre	ADP	_	_	9	mod	_	AlignBegin=59.5833|AlignEnd=59.8833|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+11	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	AlignBegin=59.8833|AlignEnd=60.0033|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+12	fille	fille	NOUN	_	Gender=Fem|Number=Sing	10	comp:obj	_	AlignBegin=60.0033|AlignEnd=60.558857|ANIMACY=HUM|HUM_SCORE=1|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=tail|SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	euh	euh	INTJ	_	_	12	discourse	_	AlignBegin=61.263857|AlignEnd=61.893857|AssociatedNucleus=U|Hesitation=Yes|Layer=Last|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=filled-pause|SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	explique	expliquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj:coord	_	AlignBegin=62.003857|AlignEnd=62.747452|Layer=Begin|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak|TypeInherited=RootInherited|TypePara=ParaCoord
+17	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	AlignBegin=62.887801|AlignEnd=63.077187|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+18	vol	vol	NOUN	_	Gender=Masc|Number=Sing	16	comp:obj	_	AlignBegin=63.077187|AlignEnd=63.911483|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = Chaplin ( grand seigneur ) explique { que "euh" c'est lui qui a la baguette | ^et que [ donc < il y a pas de vol "euh" ] } //
+# sent_id = Rhap_M0022-8
+# text = Chaplin, grand seigneur, explique que, euh, c'est lui qui a la baguette et que donc il y a pas de vol, euh.
+1	Chaplin	Chaplin	PROPN	_	_	6	subj	_	AlignBegin=63.911483|AlignEnd=64.531483|ANIMACY=HUM|HUM_SCORE=2|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	grand	grand	ADJ	_	Gender=Masc|Number=Sing	4	mod	_	AlignBegin=64.531483|AlignEnd=64.771483|Innucleus=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+4	seigneur	seigneur	NOUN	_	Gender=Masc|Number=Sing	1	conj:appos	_	AlignBegin=64.771483|AlignEnd=65.661483|ANIMACY=HUM|HUM_SCORE=1|Innucleus=Last|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	explique	expliquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=65.661483|AlignEnd=66.16367|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+7	que	que	SCONJ	_	_	6	comp:obj	_	AlignBegin=66.16367|AlignEnd=66.642167|Layer=Begin|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=filled-dis|SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	euh	euh	INTJ	_	_	12	discourse	_	AlignBegin=67.104352|AlignEnd=67.292167|AssociatedNucleus=U|Hesitation=Yes|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=filled-pause|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	subj@expl	_	AlignBegin=67.292167|AlignEnd=67.502167|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+12	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	comp:obj	_	AlignBegin=67.292167|AlignEnd=67.502167|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+13	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	comp:pred	_	AlignBegin=67.502167|AlignEnd=67.662167|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+14	qui	qui	PRON	_	PronType=Rel	15	subj	_	AlignBegin=67.662167|AlignEnd=67.712167|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+15	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	comp:cleft	_	AlignBegin=67.712167|AlignEnd=67.782167|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+16	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	AlignBegin=67.782167|AlignEnd=67.872167|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+17	baguette	baguette	NOUN	_	Gender=Fem|Number=Sing	15	comp:obj	_	AlignBegin=67.872167|AlignEnd=68.482167|Layer=Last|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+18	et	et	CCONJ	_	_	19	cc	_	AlignBegin=68.482167|AlignEnd=68.552167|Layer=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+19	que	que	SCONJ	_	_	7	conj:coord	_	AlignBegin=68.552167|AlignEnd=68.662167|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|TypeInherited= ObjInherited|TypePara=ParaCoord
+20	donc	donc	ADV	_	_	23	mod	_	AlignBegin=68.662167|AlignEnd=68.862167|IU_embedded=Begin|Layer=In|Nucleus=In|Prenucleus=U|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+21	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	subj@expl	_	AlignBegin=68.862167|AlignEnd=68.892167|IU_embedded=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+22	y	y	PRON	_	Person=3|PronType=Prs	23	comp@expl	_	AlignBegin=68.892167|AlignEnd=68.952167|IU_embedded=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+23	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	comp:obj	_	AlignBegin=68.892167|AlignEnd=68.952167|IU_embedded=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak
+24	pas	pas	ADV	_	Polarity=Neg	23	mod	_	AlignBegin=68.952167|AlignEnd=69.112167|IU_embedded=In|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+25	de	de	ADP	_	_	23	comp:obj	_	AlignBegin=69.112167|AlignEnd=69.212167|IU_embedded=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=filled-dis
+26	vol	vol	NOUN	_	Gender=Masc|Number=Sing	25	comp:obj	_	AlignBegin=69.212167|AlignEnd=69.702167|IU_embedded=In|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=filled-dis|SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	euh	euh	INTJ	_	_	26	discourse	_	AlignBegin=70.449863|AlignEnd=71.019863|AssociatedNucleus=U|Hesitation=Yes|IU_embedded=Last|Layer=Last|Nucleus=Last|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=filled-pause|SpaceAfter=No
+29	.	.	PUNCT	_	_	6	punct	_	_
+
+# macrosyntax = ^sauf ^que pour le policier <+ c'est quand même du vol //
+# sent_id = Rhap_M0022-9
+# text = sauf que pour le policier, c'est quand même du vol.
+1	sauf	sauf	CCONJ	_	ExtPos=SCONJ	0	root	_	AlignBegin=71.019863|AlignEnd=71.259863|Idiom=Yes|Intro_IU=Begin|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+2	que	que	SCONJ	_	_	1	unk	_	AlignBegin=71.259863|AlignEnd=71.379863|InIdiom=Yes|Intro_IU=Last|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+3	pour	pour	ADP	_	_	8	mod	_	AlignBegin=71.379863|AlignEnd=71.529863|GovNucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	AlignBegin=71.529863|AlignEnd=71.589863|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+5	policier	policier	NOUN	_	Gender=Masc|Number=Sing	3	comp:obj	_	AlignBegin=71.589863|AlignEnd=72.079863|ANIMACY=HUM|GovNucleus=Last|HUM_SCORE=1|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	subj	_	AlignBegin=72.079863|AlignEnd=72.239863|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+8	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	comp:obj	_	AlignBegin=72.079863|AlignEnd=72.239863|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+9	quand	quand	SCONJ	_	ExtPos=ADV	8	mod	_	AlignBegin=72.239863|AlignEnd=72.379863|Idiom=Yes|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+10	même	même	ADV	_	_	9	unk	_	AlignBegin=72.379863|AlignEnd=72.469863|InIdiom=Yes|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+11	du	du	ADP	_	_	8	comp:obl	_	AlignBegin=72.469863|AlignEnd=72.579738|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12	vol	vol	NOUN	_	Gender=Masc|Number=Sing	11	comp:obj	_	AlignBegin=72.579738|AlignEnd=73.009863|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+# macrosyntax = donc < il embarque "euh" "mh" le Chaplin pour ensuite ESPERLUETTE //
+# sent_id = Rhap_M0022-10
+# text = donc, il embarque, euh, mh, le Chaplin pour ensuite…
+1	donc	donc	ADV	_	_	4	mod	_	AlignBegin=73.009863|AlignEnd=73.292537|Prenucleus=U|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	subj	_	AlignBegin=73.292537|AlignEnd=73.525704|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=filled-dis
+4	embarque	embarquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=73.525704|AlignEnd=74.089104|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=filled-dis|SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	euh	euh	INTJ	_	_	4	discourse	_	AlignBegin=74.204868|AlignEnd=74.65557|AssociatedNucleus=U|Hesitation=Yes|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=filled-pause|SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	mh	mh	INTJ	_	_	4	discourse	_	AlignBegin=74.65557|AlignEnd=75.115785|AssociatedNucleus=U|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail|SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	AlignBegin=77.009104|AlignEnd=77.216135|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=tail
+11	Chaplin	Chaplin	PROPN	_	_	4	comp:obj	_	AlignBegin=77.216135|AlignEnd=78.267179|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=tail
+12	pour	pour	ADP	_	_	4	mod	_	AlignBegin=78.932179|AlignEnd=79.272179|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak
+13	ensuite	ensuite	ADV	_	_	12	comp:obj@scrap	_	AlignBegin=79.272179|AlignEnd=81.217437|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+14	…	…	PUNCT	_	_	4	punct	_	_
+
+# macrosyntax = on se retrouve ESPERLUETTE //
+# sent_id = Rhap_M0022-11
+# text = on se retrouve…
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	subj	_	AlignBegin=81.217437|AlignEnd=81.597326|ANIMACY=HUM|Hesitation=Yes|HUM_SCORE=5|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=dis-strong
+2	se	soi	PRON	_	Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=81.597326|AlignEnd=82.113767|Hesitation=Yes|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=dis-strong
+3	retrouve	retrouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root@scrap	_	AlignBegin=82.113767|AlignEnd=82.589758|Hesitation=Yes|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=dis-strong|SpaceAfter=No
+4	…	…	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = donc < { tout le monde |} s'en va {| ^y ^compris la foule } > ^puisque la foule est intéressée par les flics "euh" //
+# sent_id = Rhap_M0022-12
+# text = donc, tout le monde s'en va, y compris la foule puisque la foule est intéressée par les flics, euh.
+1	donc	donc	ADV	_	_	8	mod	_	AlignBegin=82.589758|AlignEnd=82.799758|Prenucleus=U|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	tout	tout	ADJ	_	Gender=Masc|Number=Sing	5	mod	_	AlignBegin=82.799758|AlignEnd=82.899758|Layer=Begin|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art|Shared=No	5	det	_	AlignBegin=82.899758|AlignEnd=82.940706|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+5	monde	monde	NOUN	_	Gender=Masc|Number=Sing	8	subj	_	AlignBegin=82.940706|AlignEnd=83.059758|Layer=Last|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+6	s'	soi	PRON	_	Person=3|PronType=Prs	8	comp@expl	_	AlignBegin=83.059758|AlignEnd=83.239758|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+7	en	en	PRON	_	Person=3|PronType=Prs	8	comp:obj	_	AlignBegin=83.059758|AlignEnd=83.239758|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+8	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=83.239758|AlignEnd=83.539758|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|SpaceAfter=No
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	y	y	PRON	_	Person=3|PronType=Prs	11	comp	_	AlignBegin=83.539758|AlignEnd=83.589758|InIdiom=Yes|Layer=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+11	compris	comprendre	VERB	_	ExtPos=ADP|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	mod	_	AlignBegin=83.589758|AlignEnd=83.889758|Idiom=Yes|Layer=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+12	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	AlignBegin=83.889758|AlignEnd=84.039758|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+13	foule	foule	NOUN	_	Gender=Fem|Number=Sing	5	conj:coord	_	AlignBegin=84.039758|AlignEnd=84.412148|ANIMACY=HUM|HUM_SCORE=1|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|TypeInherited=SubInherited|TypePara=ParaDform
+14	puisque	puisque	SCONJ	_	_	13	mod	_	AlignBegin=84.412148|AlignEnd=84.767148|Intro_IU=U|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+15	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	AlignBegin=84.767148|AlignEnd=84.877148|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+16	foule	foule	NOUN	_	Gender=Fem|Number=Sing	17	subj@pass	_	AlignBegin=84.877148|AlignEnd=85.107148|ANIMACY=HUM|HUM_SCORE=1|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+17	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	comp:obj	_	AlignBegin=85.107148|AlignEnd=85.157148|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+18	intéressée	intéresser	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	17	comp:aux@pass	_	AlignBegin=85.157148|AlignEnd=85.657148|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+19	par	par	ADP	_	_	18	comp:obl@agent	_	AlignBegin=85.657148|AlignEnd=85.847148|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+20	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	21	det	_	AlignBegin=85.847148|AlignEnd=85.933096|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+21	flics	flic	NOUN	_	Gender=Masc|Number=Plur	19	comp:obj	_	AlignBegin=85.933096|AlignEnd=86.495338|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=dis-weak|SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	euh	euh	INTJ	_	_	21	discourse	_	AlignBegin=86.495338|AlignEnd=87.641083|AssociatedNucleus=U|Hesitation=Yes|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=dis-weak|SpaceAfter=No
+24	.	.	PUNCT	_	_	8	punct	_	_
+
+# macrosyntax = on se retrouve ( donc ) avec { le boulanger | la jeune fille au sol | ^et la vieille dame qui revient vers le boulanger pour lui dire [ non // ce n'est pas le monsieur // ^mais c'est la jeune fille > effectivement // ] } //
+# sent_id = Rhap_M0022-13
+# text = on se retrouve, donc, avec le boulanger, la jeune fille au sol et la vieille dame qui revient vers le boulanger pour lui dire non, ce n'est pas le monsieur, mais c'est la jeune fille effectivement.
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	subj	_	AlignBegin=87.641083|AlignEnd=87.807763|ANIMACY=HUM|HUM_SCORE=5|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+2	se	soi	PRON	_	Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=87.807763|AlignEnd=87.927763|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+3	retrouve	retrouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=87.927763|AlignEnd=88.317763|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	donc	donc	ADV	_	_	3	discourse	_	AlignBegin=88.317763|AlignEnd=88.607763|Innucleus=U|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	avec	avec	ADP	_	_	3	mod	_	AlignBegin=88.607763|AlignEnd=88.927763|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art|Shared=No	9	det	_	AlignBegin=88.927763|AlignEnd=89.007763|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+9	boulanger	boulanger	NOUN	_	Gender=Masc|Number=Sing	7	comp:obj	_	AlignBegin=89.007763|AlignEnd=89.687763|ANIMACY=HUM|HUM_SCORE=1|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	AlignBegin=90.927104|AlignEnd=91.067104|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+12	jeune	jeune	ADJ	_	Number=Sing	13	mod	_	AlignBegin=91.067104|AlignEnd=91.317104|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+13	fille	fille	NOUN	_	Gender=Fem|Number=Sing	9	conj:coord	_	AlignBegin=91.317104|AlignEnd=91.457104|ANIMACY=HUM|HUM_SCORE=11|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|TypeInherited=DepInherited|TypePara=ParaCoord
+14	au	au	ADP	_	_	13	udep	_	AlignBegin=91.457104|AlignEnd=91.627104|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+15	sol	sol	NOUN	_	Gender=Masc|Number=Sing	14	comp:obj	_	AlignBegin=91.627104|AlignEnd=92.040391|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=tail
+16	et	et	CCONJ	_	_	19	cc	_	AlignBegin=92.040391|AlignEnd=92.729104|Layer=Begin|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+17	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	AlignBegin=92.729104|AlignEnd=92.989104|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+18	vieille	vieux	ADJ	_	Gender=Fem|Number=Sing	19	mod	_	AlignBegin=92.989104|AlignEnd=93.189104|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+19	dame	dame	NOUN	_	Gender=Fem|Number=Sing	13	conj:coord	_	AlignBegin=93.189104|AlignEnd=93.449104|ANIMACY=HUM|HUM_SCORE=11|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|TypeInherited=DepInherited|TypePara=ParaCoord
+20	qui	qui	PRON	_	PronType=Rel	21	subj	_	AlignBegin=93.449104|AlignEnd=93.596726|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+21	revient	revenir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	mod@relcl	_	AlignBegin=93.596726|AlignEnd=93.929104|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+22	vers	vers	ADP	_	_	21	comp:obl	_	AlignBegin=93.929104|AlignEnd=94.089104|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+23	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	AlignBegin=94.089104|AlignEnd=94.149104|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+24	boulanger	boulanger	NOUN	_	Gender=Masc|Number=Sing	22	comp:obj	_	AlignBegin=94.149104|AlignEnd=94.649104|ANIMACY=HUM|HUM_SCORE=1|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+25	pour	pour	ADP	_	_	21	mod	_	AlignBegin=94.749104|AlignEnd=94.939104|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+26	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	comp:obl	_	AlignBegin=94.939104|AlignEnd=95.049104|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+27	dire	dire	VERB	_	VerbForm=Inf	25	comp:obj	_	AlignBegin=95.049104|AlignEnd=95.309104|Layer=In|Nucleus=Last|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|Subject=NoRaising
+28	non	non	ADV	_	Polarity=Neg	32	discourse	_	AlignBegin=95.309104|AlignEnd=95.578072|IU_graft=Begin|Layer=In|Nucleus=U|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|SpaceAfter=No
+29	,	,	PUNCT	_	_	28	punct	_	_
+30	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	32	subj	_	AlignBegin=95.578072|AlignEnd=95.783072|IU_graft=In|Layer=In|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+31	n'	ne	ADV	_	Polarity=Neg	32	mod	_	SpaceAfter=No
+32	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	comp:obj	_	AlignBegin=95.783072|AlignEnd=95.933072|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|Reported=Yes|RhythmGroup=Weak
+33	pas	pas	ADV	_	Polarity=Neg	32	mod	_	AlignBegin=95.933072|AlignEnd=96.103072|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+34	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	AlignBegin=96.103072|AlignEnd=96.163072|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+35	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	32	comp:pred	_	AlignBegin=96.163072|AlignEnd=96.673072|ANIMACY=HUM|HUM_SCORE=1|IU_graft=In|Layer=In|Nucleus=Last|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+36	,	,	PUNCT	_	_	39	punct	_	_
+37	mais	mais	CCONJ	_	_	39	cc	_	AlignBegin=96.673072|AlignEnd=96.783072|IU_graft=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+38	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	39	subj	_	AlignBegin=96.783072|AlignEnd=96.933072|IU_graft=In|Layer=In|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+39	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	conj:coord	_	AlignBegin=96.783072|AlignEnd=96.933072|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+40	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	42	det	_	AlignBegin=96.933072|AlignEnd=97.023072|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+41	jeune	jeune	ADJ	_	Number=Sing	42	mod	_	AlignBegin=97.023072|AlignEnd=97.243072|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+42	fille	fille	NOUN	_	Gender=Fem|Number=Sing	39	comp:pred	_	AlignBegin=97.243072|AlignEnd=97.513072|ANIMACY=HUM|HUM_SCORE=1|IU_graft=In|Layer=In|Nucleus=Last|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+43	effectivement	effectivement	ADV	_	_	39	mod	_	AlignBegin=97.513072|AlignEnd=98.063072|IU_graft=Last|Layer=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+44	.	.	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = ^et là < tu es revenue "euh" //
+# sent_id = Rhap_M0022-14
+# text = et là, tu es revenue, euh.
+1	et	et	CCONJ	_	_	5	cc	_	AlignBegin=99.256073|AlignEnd=99.769221|Hesitation=Yes|Intro_IU=U|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+2	là	là	ADV	_	_	5	mod	_	AlignBegin=99.769221|AlignEnd=99.926073|Prenucleus=U|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	5	subj@pass	_	AlignBegin=99.926073|AlignEnd=99.996073|ANIMACY=HUM|HUM_SCORE=1|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+5	es	être	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=99.996073|AlignEnd=100.046073|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+6	revenue	revenir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	comp:aux@pass	_	AlignBegin=100.046073|AlignEnd=100.623117|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	euh	euh	INTJ	_	_	6	discourse	_	AlignBegin=100.623117|AlignEnd=100.846073|AssociatedNucleus=U|Hesitation=Yes|Nucleus=Last|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+9	.	.	PUNCT	_	_	5	punct	_	_
+

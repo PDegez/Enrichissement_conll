@@ -1,0 +1,14 @@
+id_sentence_conll,index_phrase,index_token,form,lemma,score,annotation,phrase
+Rhap_M0002-1,0,10,fille,fille,71,y,"donc, euh, il y a une jeune fille, euh, habillée tout en noir qui, euh, en se baladant dans la rue, a vu une, euh, vitrine de pâtissier-boulanger."
+Rhap_M0002-1,0,37,pâtissier,pâtissier,1,y,"donc, euh, il y a une jeune fille, euh, habillée tout en noir qui, euh, en se baladant dans la rue, a vu une, euh, vitrine de pâtissier-boulanger."
+Rhap_M0002-1,0,38,boulanger,boulanger,1,y,"donc, euh, il y a une jeune fille, euh, habillée tout en noir qui, euh, en se baladant dans la rue, a vu une, euh, vitrine de pâtissier-boulanger."
+Rhap_M0002-4,3,13,baguette,baguette,4,y,"euh, elle en a profité pour, euh, voler une baguette de pain et s'enfuir."
+Rhap_M0002-5,4,11,dame,dame,71,y,"mais à ce moment-là, il y a une dame un peu plus âgée, avec un chapeau, qui l'a vue."
+Rhap_M0002-6,5,1,elle,lui,4,y,elle s'est mise à courir.
+Rhap_M0002-7,6,8,Charlie,Charlie,2,y,"elle est rentrée, euh, dans Charlie Chaplin."
+Rhap_M0002-9,8,2,dame,dame,5,y,"la dame plus âgée avec le chapeau l'a dénoncée, d'abord, au boulanger."
+Rhap_M0002-9,8,16,boulanger,boulanger,5,y,"la dame plus âgée avec le chapeau l'a dénoncée, d'abord, au boulanger."
+Rhap_M0002-10,9,15,boulanger,boulanger,1,y,"puis, euh, comme ils étaient tous les deux par terre, le boulanger est arrivé avec la police."
+Rhap_M0002-12,11,14,on,on,1,y,"et visiblement, même si c'est un film muet, euh, on comprend que, euh, Charlie Chaplin s'accuse à la place de la jeune fille, qui, donc, euh, reste, euh, toute seule, fort étonnée."
+Rhap_M0002-12,11,20,Charlie,Charlie,2,y,"et visiblement, même si c'est un film muet, euh, on comprend que, euh, Charlie Chaplin s'accuse à la place de la jeune fille, qui, donc, euh, reste, euh, toute seule, fort étonnée."
+Rhap_M0002-12,11,30,fille,fille,1,y,"et visiblement, même si c'est un film muet, euh, on comprend que, euh, Charlie Chaplin s'accuse à la place de la jeune fille, qui, donc, euh, reste, euh, toute seule, fort étonnée."

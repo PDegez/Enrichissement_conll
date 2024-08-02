@@ -1,0 +1,13 @@
+id_sentence_conll,index_phrase,index_token,form,lemma,score,annotation,phrase
+Rhap_M0015-1,0,3,je,moi,1,y,"euh, je, d'ici, du CCJ, je remonte l'avenue Alsace-Lorraine jusqu'à la place Victor Hugo."
+Rhap_M0015-1,0,11,je,moi,1,y,"euh, je, d'ici, du CCJ, je remonte l'avenue Alsace-Lorraine jusqu'à la place Victor Hugo."
+Rhap_M0015-1,0,21,Victor,Victor,2,y,"euh, je, d'ici, du CCJ, je remonte l'avenue Alsace-Lorraine jusqu'à la place Victor Hugo."
+Rhap_M0015-2,1,1,je,moi,1,y,"je traverse l'avenue Vict~, euh, la place Victor Hugo en diagonale, jusqu'à arriver au, mh, au boulevard Agutte Sembat."
+Rhap_M0015-2,1,11,Victor,Victor,2,y,"je traverse l'avenue Vict~, euh, la place Victor Hugo en diagonale, jusqu'à arriver au, mh, au boulevard Agutte Sembat."
+Rhap_M0015-2,1,25,Agutte,Agutte,2,y,"je traverse l'avenue Vict~, euh, la place Victor Hugo en diagonale, jusqu'à arriver au, mh, au boulevard Agutte Sembat."
+Rhap_M0015-3,2,1,je,moi,1,y,"je remonte le boulevard Agutte Sembat, donc, vers le sud, on va dire."
+Rhap_M0015-3,2,5,Agutte,Agutte,2,y,"je remonte le boulevard Agutte Sembat, donc, vers le sud, on va dire."
+Rhap_M0015-3,2,14,on,on,1,y,"je remonte le boulevard Agutte Sembat, donc, vers le sud, on va dire."
+Rhap_M0015-4,3,2,j',moi,1,y,"et j'arri~, je passe devant la grande poste."
+Rhap_M0015-4,3,5,je,moi,1,y,"et j'arri~, je passe devant la grande poste."
+Rhap_M0015-5,4,13,j',moi,1,y,"et après être passé devant la grande poste, eh bien, j'arrive, euh, au cinéma La Nef Chavant."

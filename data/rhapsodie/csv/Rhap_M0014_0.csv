@@ -1,0 +1,14 @@
+id_sentence_conll,index_phrase,index_token,form,lemma,score,annotation,phrase
+Rhap_M0014-1,0,7,Paul,Paul,2,y,"alors en partant de la place Paul Vallier pour aller à la place Notre-Dame, alors j'emprunte la rue de Strasbourg."
+Rhap_M0014-1,0,14,Notre,Notre,2,y,"alors en partant de la place Paul Vallier pour aller à la place Notre-Dame, alors j'emprunte la rue de Strasbourg."
+Rhap_M0014-1,0,15,Dame,Dame,2,y,"alors en partant de la place Paul Vallier pour aller à la place Notre-Dame, alors j'emprunte la rue de Strasbourg."
+Rhap_M0014-1,0,18,j',moi,1,y,"alors en partant de la place Paul Vallier pour aller à la place Notre-Dame, alors j'emprunte la rue de Strasbourg."
+Rhap_M0014-2,1,1,je,moi,1,y,je passe par la place Vaucanson.
+Rhap_M0014-3,2,1,je,moi,1,y,je prends direction Maison du tourisme.
+Rhap_M0014-4,3,9,je,moi,1,y,"euh, à la Maison du tourisme, je contourne, enfin je prends la rue de la République en remontant la rue de la République."
+Rhap_M0014-4,3,13,je,moi,1,y,"euh, à la Maison du tourisme, je contourne, enfin je prends la rue de la République en remontant la rue de la République."
+Rhap_M0014-5,4,1,je,moi,1,y,"je tombe sur la place Sainte-Claire, on va dire, là où il y a la halle."
+Rhap_M0014-5,4,9,on,on,1,y,"je tombe sur la place Sainte-Claire, on va dire, là où il y a la halle."
+Rhap_M0014-6,5,2,j',moi,1,y,et j'arrive à la place Notre-Dame.
+Rhap_M0014-6,5,7,Notre,Notre,2,y,et j'arrive à la place Notre-Dame.
+Rhap_M0014-6,5,8,Dame,Dame,2,y,et j'arrive à la place Notre-Dame.
