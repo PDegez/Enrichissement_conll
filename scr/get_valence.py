@@ -3,6 +3,21 @@
 """
 Created on Tue Jun 18 14:24:22 2024
 
+Récupérer un dictionnaire de valence de verbe depuis dicovalence.
+Exemple du format : {
+    "aimer":
+        {"100":"200"},
+    "embrasser":
+        {"110":"220"}
+        }
+
+Chaque verbe est la clé de son dictionnaire de configuration. 
+Chaque configuration syntaxique est la clé de sa configuration sémantique.
+
+Par exemple, "
+100" est la configuration syntaxiqure d'un verbe qui ne prend qu'un sujet
+"200" est la configuration sémantique d'un verbe dont le sujet est humain
+
 @author: pauline
 """
 
@@ -22,12 +37,8 @@ def get_val(frame:list):
     
     syn = 0
     sem = 0
-    prep = "NULL"
     for argument in frame:
-        # if argument == "pseudo_se":
-        #     # récupérer le semantisme du sujet
-        #     frame_sud.append(Argument("comp:se", frame[1].split(":")[-1]))
-        #     val.append("comp:se")
+
         if re.search("subj:", argument):
             syn+=100
             if argument.split(":")[-1].strip() == "[hum]":
@@ -46,13 +57,7 @@ def get_val(frame:list):
                 sem+=2
             else:
                 sem+=1
-        # elif re.search("objp", argument):
-        #     prep = re.search("<(.*?)>", argument).group(1)
-        #     syn+=1
-        #     if argument.split(":")[-1].strip() == "[hum]":
-        #         sem+=2
-        #     else:
-        #         sem+=1
+
 
     syn_s = str(syn)
     sem_s = str(sem)
@@ -61,7 +66,6 @@ def get_val(frame:list):
         syn_s = "0"*dif +syn_s
         sem_s = "0"*dif +sem_s
     
-    # frame_full = (syn_s, sem_s, prep)
     frame_full = (syn_s, sem_s)
     
     return frame_full
@@ -72,6 +76,7 @@ def compare_frame(origin, contender):
     constructions syntaxiques similaires. Cette fonction renvoie la combinaison
     sémantique la plus sure, en privilégiant le non humain afin d'éviter les
     erreur de tag"""
+    
     retour = ""
     for index in range(len(origin)):
         if origin[index] =="0":
@@ -108,12 +113,10 @@ def main():
             frame_sud = get_val(frame)
             cle = frame_sud[0]
             sem = frame_sud[1]
-            # prep = frame_sud[2]
-            # cle = (syn, prep)
-            #print(lemma,frame, syn,sem,prep)
-            
-            
-            # si le verbe n'existe pas, je créé la clef lemma et j'ajoute sa 1ere config
+
+
+            # si le verbe n'existe pas, je créé la clef lemma et
+            # j'ajoute sa 1ere config
             if verbs.get(lemma,0) == 0:    
                 verbs[lemma] = {}
                 verbs[lemma][cle] = sem

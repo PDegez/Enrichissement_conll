@@ -3,6 +3,10 @@
 """
 Created on Tue Jul 30 18:34:01 2024
 
+Creation d'un fichier csv pour récupérer les vrai positifs et faux positifs
+de tous les différents HUM_SCORE à partir d'un csv de correction. Permet
+de calculer le nombres de tokens vrais positifs/faux positifs du documents'
+
 @author: pauline
 """
 

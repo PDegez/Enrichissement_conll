@@ -3,6 +3,12 @@
 """
 Created on Tue Jul 30 19:26:27 2024
 
+Creation d'un fichier csv pour récupérer les vrai positifs et faux positifs
+annotés par chaque méthodes afin de comparer la précision de chaque méthode.
+ATTENTION : un token pouvant être annoté par 4 méthodes différentes, la some
+des annotations de ce fichier n'est pas le nombre de tokens annotés, mais le
+nombre d'annotations.
+
 @author: pauline
 """
 

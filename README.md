@@ -420,6 +420,8 @@ Afin de fonctionner convenablement, ce script utilise les bibliothèques suivant
 
 - pickle pour ouvrir les ressources extraites de spiderlex et dicovalence, enregistrées au format pickle.
 
+- pandas pour manipuler les csv
+
 <br>
 
 ### FONCTIONNEMENT GLOBAL, LANCER LES SCRIPTS

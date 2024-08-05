@@ -3,6 +3,10 @@
 """
 Created on Mon Jul 29 13:50:49 2024
 
+Correction d'un fichier conllu annoté brut à l'aide d'un csv corrigé.
+L'ouput est un fichier conllu dont les HUM_SCORE et le trait ANIMACY=HUM ont
+été retiré des tokens faux positifs
+
 @author: pauline
 """
 import argparse
@@ -13,13 +17,14 @@ import conllup.conllup as cup
 
 
 def grab_corrections(input_csv):
+    """récupération de la liste des tuples (index phrase, index token) 
+    pour les token indiqués comme faux positif ("n") dans le csv de 
+    correction"""
     
     df = pd.read_csv(input_csv)
     rows = ["index_phrase", "index_token", "annotation"]
     df_adapte = df[rows]
-    # print(df_adapte)
     df_filtre = df_adapte[df_adapte['annotation'] == "n"]
-    # print(df_filtre)
     correction = list(df_filtre[['index_phrase', 'index_token']].itertuples(index=False, name=None))
     
     return correction
@@ -27,6 +32,7 @@ def grab_corrections(input_csv):
 
 
 def main(input_conll, input_csv, output_conll = None ):
+    """correction d'un fichier conllu annoté brut à l'aide d'un csv corrigé"""
     
     data = cup.readConlluFile(input_conll)
     correction = grab_corrections(input_csv)

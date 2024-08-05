@@ -9,6 +9,13 @@ Created on Fri Jul 12 15:21:28 2024
 import re
 
 def grab_arg_hum(cles_dict, arguments, sentence_nodes):
+    """comparaison de la configuration syntaxique observée avec les valences
+    possible pour ce verbe dans le dictionnaire extrait de dicovalence.
+    Renvoie la liste des index des arguments étant humain lorsque la 
+    configuration syntaxique observée correspond à une configuration sémantique
+    comportant un argument humain dans dicovalence"""
+    
+    
     arg_hum = []
     if arguments["passif"] == 0:
         if arguments.get("syn"):
@@ -16,18 +23,15 @@ def grab_arg_hum(cles_dict, arguments, sentence_nodes):
                 if re.search("2", cles_dict[arguments["syn"]]) is not None :
                     if cles_dict[str(arguments["syn"])][0] == "2":
                         if arguments.get("subj"):
-                        # arg_hum.append("subj")
                             arg_hum.append(arguments.get("subj"))
                     if cles_dict[str(arguments["syn"])][1] == "2":
                         if arguments.get("comp_obj"):
-                        # arg_hum.append("comp_obj")
                             arg_hum.append(arguments.get("comp_obj"))
                     if cles_dict[str(arguments["syn"])][2] == "2":
                         if arguments.get("comp_obl"):
-                        # arg_hum.append("comp_obl")
                             arg_hum.append(arguments.get("comp_obl"))
     else:
-        # print("passif")
+        # prise en compte de la configuration passive si arguments["passif"]==1
         syn_pass = "110"
         if cles_dict.get(syn_pass):
             if re.search("2", cles_dict[syn_pass]) is not None :
@@ -43,6 +47,8 @@ def grab_arg_hum(cles_dict, arguments, sentence_nodes):
 
 
 def get_noun_obl(sentence_nodes, id_adp):
+    """ récupère l'index du nom d'un complément oblique à partir de sa
+    préposition tête"""
     for id_argument in sentence_nodes.keys():
         if str(sentence_nodes[id_argument]["HEAD"]) == id_adp:
             if str(sentence_nodes[id_argument]["UPOS"]) in ["NOUN", "PROPN"]:
@@ -50,13 +56,35 @@ def get_noun_obl(sentence_nodes, id_adp):
 
 
 def get_argument_structure(sentence_nodes, id_verb):
+    """récupère les arguments du verbe ainsi que sa voix. Les renvoies sous 
+    un format dictionnaire.
+    
+    Ex : 
+        arguments = {
+            "syn" : 100,
+            "subj" : "4"
+            "passif: "0"
+            }
+        
+        "syn" est la configuration syntaxique observée (ici un verbe qui ne
+                                                        prend qu'un sujet')
+        "subj" est l'index du sujet dans la phrase
+        "passif" indique si la configuration est passive ou non
+        """
+        
     arguments = {}
+    
+    # ajout du sujet dans la configuration syntaxique
     syn = 100
     
+    # indication de la voix de la construction
     arguments["passif"] = 0
     if sentence_nodes[id_verb]["FEATS"].get("Voice"):
         if str(sentence_nodes[id_verb]["FEATS"]["Voice"]) == "Pass":
             arguments["passif"] = 1
+    
+    # prise en compte de la présence d'auxiliaire afin de récupérer les 
+    # arguments dans un conllu format SUD
     if re.search("comp:aux", sentence_nodes[id_verb]["DEPREL"]) is not None:
         id_aux = str(sentence_nodes[id_verb]["HEAD"])
         if sentence_nodes[id_verb]["DEPREL"] == "comp:aux@pass":
@@ -72,9 +100,11 @@ def get_argument_structure(sentence_nodes, id_verb):
                             if sentence_nodes[id_subj2]["DEPREL"] == "subj":
                                 arguments["subj"] = id_subj2
     
+    # récupération des index des arguments, et modification de la configuration
+    # syntaxique observée en fonction des arguments identifiés.
     for id_argument in sentence_nodes.keys():
         if str(sentence_nodes[id_argument]["HEAD"]) == id_verb:
-            # prep = "NULL"
+
             if sentence_nodes[id_argument]["DEPREL"] == "subj":
                 # syn += 100
                 arguments["subj"] = id_argument
@@ -104,6 +134,9 @@ def get_argument_structure(sentence_nodes, id_verb):
 
 
 def add_valence(sentence_nodes, dicoval):
+    """Enrichi une liste de token (sentence_nodes) en ajoutant un HUM_SCORE
+    lorsque ces tokens sont les arguments nécessairement humain d'un verbe
+    par sa valence"""
 
     for id_token in sentence_nodes:
         if sentence_nodes[id_token]["UPOS"] == "VERB":
