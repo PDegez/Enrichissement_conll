@@ -382,28 +382,29 @@ Ces chiffres se rapprochent des résultats obtenus sur les textes non médicaux 
 
 | Methode | Vrai positifs | Faux positifs | précision (arrondi au centieme)|
 | --- | --- | --- | --- |
-|lexique|1216|112|0,92|
-|nent|617|78|0,89|
-|valence|604|187|0,76|
-|coor_nom|154|31|0,83|
-|comp_pred|86|6|0,93|
-|antecedent|29|28|0,51|
+|lexique|4426|309|0.93|
+|nent|1570|442|0.78|
+|valence|1716|460|0.79|
+|coor_nom|375|71|0.84|
+|comp_pred|133|16|0.89|
+|antecedent|95|79|0.55|
+
 
 <br>
 
 La précision finale du script est de 0.84 sur l'ensemble des fichiers annotés et corrigés.
 
-- la méthode d'identification par projection du caractère humain sur le sujet par sont attribut du sujet est la plus performante, avec une précision de 0.93. Cette méthode s'appuyant indirectement sur l'identification des noms communs, elle bénéfie des scores élevés de la méthode lexicale.
+- La méthode d'identification par le lexique, via spiderlex, est la plus performante avec une précision de 0.93. L'annotation des pronoms du discours, et la décision d'exclures les sens second des noms commun afin d'éviter les erreurs jouant une part non négligeable dans ce score.
 
-- La méthode d'identification par le lexique, via spiderlex, est la seconde plus performante avec une précision de 0.92. L'annotation des pronoms du discours, et la décision d'exclures les sens second des noms commun afin d'éviter les erreurs jouant une part non négligeable dans ce score.
+- la méthode d'identification par projection du caractère humain sur le sujet par sont attribut du sujet est la seconde plus performante, avec une précision de 0.89. Cette méthode s'appuyant indirectement sur l'identification des noms communs, elle bénéfie des scores élevés de la méthode lexicale.
 
-- l'identification par entité nommée est la troisième (0.89). Son score serait cependant plus haut sans la présence de deux fichiers contenant du texte médical, qui s'est avéré être une grande difficilté pour l'identification d'entité nommées de Spacy. De même, une grande partie des "faux positifs" sont en réalité des redoublement d'annotation, qui ne sont pas techniquement faux.
+- la méthode d'identification par projection par coordination nominale arrive en troisième (0.84) Cette méthode s'appuyant indirectement sur l'identification des noms communs et des entités nommées, elle bénéfie des scores élevés de la méthode lexicale.
 
-- la méthode d'identification par projection par coordination nominale arrive en quatrième (0.83) Cette méthode s'appuyant indirectement sur l'identification des noms communs et des entités nommées, elle bénéfie des scores élevés de la méthode lexicale.
+- la méthode d'identification par valence arrive en quatrième (0.79). Elle souffre sans doute d'une simplification trop grande de la ressource de base, et gagnerait à être retouchée afin de gagner en précision (et probablement en rappel).
 
-- la méthode d'identification par valence arrive en cinquième (0.76). Elle souffre sans doute d'une simplification trop grande de la ressource de base, et gagnerait à être retouchée afin de gagner en précision (et probablement en rappel).
+- l'identification par entité nommée est la cinquième (0.78). Son score serait cependant plus haut sans la présence de deux fichiers contenant du texte médical, qui s'est avéré être une grande difficilté pour l'identification d'entité nommées de Spacy. De même, une grande partie des "faux positifs" sont en réalité des redoublement d'annotation, qui ne sont pas techniquement faux.
 
-- enfin, la méthode d'identification par récupération de l'antécédent (0.51) arrive en bonne dernière. Il s'agit probablement d'une conséquence du score d'identification par valence : les pronoms relatifs ayant été identifiés comme humains l'ayant majoritairement été par valence.
+- enfin, la méthode d'identification par récupération de l'antécédent (0.55) arrive en bonne dernière. Il s'agit probablement d'une conséquence du score d'identification par valence : les pronoms relatifs ayant été identifiés comme humains l'ayant majoritairement été par valence.
 
 
 
