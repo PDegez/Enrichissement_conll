@@ -1,6 +1,7 @@
 <h1 style="text-align: center;">ANNOTATION DU CARACTERE HUMAIN DANS UN CONLLU DU FRANCAIS</h1>
 
 <br>
+
 ## INTRODUCTION :
 
 Ce projet a pour but l'annotation du caractère humain (anymacy=hum) d'un maximum de noms et de pronoms dans un fichier conllu du français au format SUD.
@@ -59,6 +60,7 @@ Le dépot contient 3 sous-dossiers :
 - le dossier scr contient les scripts pythons. On y trouve le script principal [add_human_layer](./scr/add_human_layer.py), ainsi que les bibliothèques de fonctions correspondants aux différentes approches utilisées : [lib_lex](./scr/lib_lex.py), [lib_nent](./scr/lib_nent.py), [lib_val](./scr/lib_val.py), et [lib_projection](./scr/lib_projection.py). On y trouve également les scripts qui ont été utilisés pour extraire la liste des lexemes humains [get_human_lexicon](./scr/get_human_lexicon.py) et la liste des différentes valences des verbes [get_valence](./scr/get_valence.py).
 
 <br>
+
 ## RETOUR SUR LES RESSOURCES : EXPLICATION DE LA FACON DONT ELLES ONT ETE EXPLOITEES :
 
 ### SPIDERLEX
@@ -74,6 +76,7 @@ La liste de mot a été enregistrée au format pickle et est disponible dans le 
 
 
 <br>
+
 ### SPACY
 
 Spacy est une bibliothèque python du NLP des plus classiques qui permet entre autre la reconnaissance des entités nommés. Dans notre cas, nous nous intéressons en priorité à l'annotation des des "personnes".
@@ -81,6 +84,7 @@ Spacy est une bibliothèque python du NLP des plus classiques qui permet entre a
 Afin d'éviter des conflits de parsing de phrase, nous avons imposé à spacy le parsing du fichier conllu. Chaque token reconnu comme une entité nommée se voyait attribuer un type d'entité nommée (PER, LOC, ORG, etc...). Les tokens annotés comme "PERS" se voyaient ensuite attribué l'annotation humain. Afin d'éviter qu'un nom propre composé de plusieurs token ne soit annoté plusieurs fois comme "humain", nous avons choisi ce faire en sorte que seul le premier soit annoté. Cela inclu autant que faire se peut les titres et les honorifiques. Par exemple, l'entité nommée "Monsieur Pierre Durand" ne sera annotée comme humain qu'une seule fois, sur le token "Monsieur".
 
 <br>
+
 ### DICOVALENCE
 
 Dicovalence est un dictionnaire de valence au format txt qui liste pour un ensemble de verbes les configurations argumentales qui lui sont connues.
@@ -99,6 +103,7 @@ Le script [get_valence](./scr/get_valence.py) a été utilisé pour extraire de 
 (NB : Les structures passives ont également été prises en compte dans le script général. Un verbe dont la valence indique un sujet humain verra au passif son complément d'agent annoté comme humain).
 
 <br>
+
 ### PROJECTIONS D'ANNOTATIONS
 
 Certaines annotations ont été extrapolées à partir des annotations déjà obtenue par les 3 méthodes précédentes. 4 règles de projections ont été ajoutées :
@@ -112,6 +117,7 @@ Certaines annotations ont été extrapolées à partir des annotations déjà ob
 - projection à partir du pronom relatif : lorsqu'un pronom relatif est annoté comme humain, son antécédent sera annoté comme humain à sa place. Ex : "Je vous souhaite bonne chance ainsi qu'à toutes les autorités slovènes qui participent aux négociations." "autorités" est annoté comme humain, car il est l'antécédent d'un pronom relatif reconnu précédemment comme humain.
 
 <br>
+
 ## TABLEAU DES SCORES
 
 Chaque méthode d'annotation attribue un score (HUM_SCORE) au token qu'il a reconnu comme humain.
@@ -131,6 +137,7 @@ Chaque méthode d'annotation attribue un score (HUM_SCORE) au token qu'il a reco
 Ce score est cumulatif : un token qui a été reconnu comme humain par deux méthodes différentes aura comme score la somme des deux scores correspondants. Par exemple, un token reconnu comme humain par valence et par entité nommée aura pour score 6 (4 +2).
 
 <br>
+
 ## PHRASE DE RELECTURE : ILLUSTRATIONS DES GUIDELINES
 
 Deux corpus entiers ont été annotés et corrigé : sequoia et rhapsodie. Le corpus GSD, très volumineux, n'a été que partiellement relu et corrigé.
@@ -145,6 +152,7 @@ De façon générale, deux règles ont primé :
 Afin de détailler les guidelines de correction suivie, nous allons procéder par catégories particulières rencontrés.
 
 <br>
+
 ### catégorie 1 : polysémie et homonymie.
 
 Certains lexemes ont pu être source d'erreur pour des raisons de polysémie et d'homonymie. L'arbitrage était alors en général assez simple, puisque le token annoté par erreur ne faisait pas référence à un humain ou à un groupe d'humain. Voici quelques exemples récurrents ont été repérés :
@@ -160,7 +168,9 @@ Certains lexemes ont pu être source d'erreur pour des raisons de polysémie et 
 | commission | groupe d'humain : "Je suis contraint de vous redemander d'intervenir, à vous et à la Commission,[...]"| une somme d'argent : "Il fut l'objet de plus de 500 millions de dollars de commissions [...]"|
 
 <br>
+
 ### catégorie 2 : les noms de groupes
+
 <br>
 
 | catégorie | exemple ambigu | humain | non humain |
@@ -172,6 +182,7 @@ Certains lexemes ont pu être source d'erreur pour des raisons de polysémie et 
 
 
 <br>
+
 ### catégorie 3 : les noms propres longs et les titres honorifiques
 
 Il ne s'agit pas ici tant de vouloir corriger une erreur d'identification plus que d'éviter les annotations surnuméraires. Il existe deux cas de figure pour lesquel le script a tendance à annoter deux fois la même personnes comme humaine, faussant les résultats :
@@ -194,6 +205,7 @@ L'identification se basant sur le fait de se comporter comme un être humain (ag
 Les tableaux reproduits et discutés ici sont retrouvables au format csv dans les dossiers respectifs des corpus.
 
 <br>
+
 ### SEQUOIA
 
 Le corpus sequoia a été annoté et corrigé en son entier.
@@ -231,6 +243,7 @@ Les méthodes de projections, qui s'appuient sur les 3 méthodes à ressources (
 <br>
 
 #### TEXTES MEDICAUX
+
 <br>
 
 <b> PRECISION GLOBALE POUR SEQUOIA MEDICAL </b>
@@ -253,7 +266,9 @@ Les méthodes de projections, qui s'appuient sur les 3 méthodes à ressources (
 
 
 <br>
+
 #### TEXTES NON MEDICAUX
+
 <br>
 
 <b> PRECISION GLOBALE POUR SEQUOIA NON MEDICAL</b>
@@ -281,6 +296,7 @@ Ces différences considérables indiquent que le script est sensible au type de 
 Malgré ces difficultés, le script obtient une précision de 0.82 sur l'ensemble des textes du corpus sequoia.
 
 <br>
+
 ### RHAPSODIE
 
 Le corpus rhapsodie a été annoté et corrigé en son entier.
@@ -320,7 +336,9 @@ On constate que le script a plutôt de bonnes performances (0,90 de précision g
 Le corpus étant relativement "petit", il conviendrait de vérifier ces observations en applicant le script à un autre corpus de langue orale.
 
 <br>
+
 ### GSD
+
 <br>
 Le corpus GSD étant massif, il n'a pas été corrigé dans son entier. Seul deux fichiers ont été complètement relus et corrigés.
 
@@ -408,6 +426,7 @@ La précision finale du script est de 0.84 sur l'ensemble des fichiers annotés 
 
 
 <br>
+
 ## POINT TECHNIQUE
 
 ### REQUIREMENTS :
@@ -430,6 +449,7 @@ Afin de fonctionner convenablement, ce script utilise les bibliothèques suivant
 Tous les scripts se trouvent dans le dossier scr du dépot.
 
 <br>
+
 #### Le script principal est le script add_human_layer.py :
 
 ATTENTION : ce script s'appuie sur des données conservées dans le dossier ressources du dépot. Il ne fonctionnera donc que si vous conservez la même arborescence en local.
@@ -454,6 +474,7 @@ Ce script s'appuie sur 4 bibliothèques de fonctions locales, correspondant aux 
 - lib_projection pour les fonctions d'annotation par projection
 
 <br>
+
 #### Si une relecture a été faite via le fichier csv, le script de correction du conllu annoté brut est add_correction.py
 
 
@@ -467,6 +488,7 @@ usage: add_correction.py [-o OUTPUT_FILE] input_file input_csv
 - le fichier output (optionnel) est le conllu corrigé, conservant SCORE_HUM et ANIMACY=HUM pour les tokens correctements annotés.
 
 <br>
+
 #### Si vous souhaitez une évaluation à partir des fichiers csv corrigés, utiliser evaluation_glob.py :
 
 
